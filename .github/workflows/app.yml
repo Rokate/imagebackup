@@ -8,8 +8,7 @@ on:
   repository_dispatch:
     types: [webhook]
 
-permissions:
-  contents: read
+
 
 jobs:
   build:
