@@ -25,12 +25,14 @@ jobs:
       run: |
         python -m pip install --upgrade requests
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Timezone
+      run: sudo timedatectl set-timezone 'Asia/Shanghai'
     
-    - name: Download and update
+    - name: Download 
       run: |
         python ./Script/Download.py
         
-    - name: Push
+    - name: Update
       run: |
         git pull origin main
         git config --global user.name "GitHub Actions"
