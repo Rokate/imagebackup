@@ -1,5 +1,5 @@
 from pathlib import Path
-print(Path(__file__))
+
 all_file = []
 files = Path('./aomen').rglob('*.*')
 
