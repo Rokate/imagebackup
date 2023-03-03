@@ -68,7 +68,7 @@ async def main(a, b, c):
     async with aiohttp.ClientSession() as session:
         tasks = []
         for i, url in enumerate(urls):
-            filename = '/Src/' + url[1]
+            filename = '/home/runner/work/imagebackup/imagebackup/Script/Src/' + url[1]
             task = asyncio.create_task(
                 download_image(session, url[0], filename))
             tasks.append(task)
