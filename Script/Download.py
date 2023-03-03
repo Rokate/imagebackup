@@ -68,7 +68,7 @@ async def main(a, b, c):
     async with aiohttp.ClientSession() as session:
         tasks = []
         for i, url in enumerate(urls):
-            filename = 'Src/' + url[1]
+            filename = '/Src/' + url[1]
             task = asyncio.create_task(
                 download_image(session, url[0], filename))
             tasks.append(task)
@@ -107,7 +107,7 @@ async def downloadamimg():
                         "https://amtutu.003123.club/yjjy/InterPhoto.image.php"
                         + m2[0],
                         headers=headers)
-                    async with aiofiles.open(f'Src/ampic{pic}.jpg', 'wb') as f:
+                    async with aiofiles.open(f'/Src/ampic{pic}.jpg', 'wb') as f:
                         while True:
                             chunk = await picfile.content.read(1024)
                             if not chunk:
@@ -154,7 +154,7 @@ async def downloadxgimg():
                         "https://xgtutu.003123.club/yjjy/InterPhoto.image.php"
                         + m2[0],
                         headers=headers)
-                    async with aiofiles.open(f'Src/xgpic{pic}.jpg', 'wb') as f:
+                    async with aiofiles.open(f'/Src/xgpic{pic}.jpg', 'wb') as f:
                         while True:
                             chunk = await picfile.content.read(1024)
                             if not chunk:
