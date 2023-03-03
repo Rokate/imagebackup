@@ -19,7 +19,7 @@ async def download_image(session, url, filepath):
             else:
                 print(filepath + '下载出错了')
     except Exception as e:
-        print('repr(e):\t', repr(e))
+        print('下载出错:\t', url,repr(e))
 
 
 async def main(a, b, c):
@@ -107,7 +107,7 @@ async def downloadamimg():
                         "https://amtutu.003123.club/yjjy/InterPhoto.image.php"
                         + m2[0],
                         headers=headers)
-                    async with aiofiles.open(f'/Src/ampic{pic}.jpg', 'wb') as f:
+                    async with aiofiles.open(f'/home/runner/work/imagebackup/imagebackup/Script/Src/ampic{pic}.jpg', 'wb') as f:
                         while True:
                             chunk = await picfile.content.read(1024)
                             if not chunk:
@@ -115,7 +115,7 @@ async def downloadamimg():
                             await f.write(chunk)
 
         except Exception as e:
-            print(url + "==>下载失败")
+            print('下载出错:\t', url,repr(e))
 
 
 async def downloadxgimg():
@@ -154,7 +154,7 @@ async def downloadxgimg():
                         "https://xgtutu.003123.club/yjjy/InterPhoto.image.php"
                         + m2[0],
                         headers=headers)
-                    async with aiofiles.open(f'/Src/xgpic{pic}.jpg', 'wb') as f:
+                    async with aiofiles.open(f'/home/runner/work/imagebackup/imagebackup/Script/Src/xgpic{pic}.jpg', 'wb') as f:
                         while True:
                             chunk = await picfile.content.read(1024)
                             if not chunk:
@@ -162,7 +162,7 @@ async def downloadxgimg():
                             await f.write(chunk)
 
         except Exception as e:
-            print(url[0] + "==>下载失败")
+            print('下载出错:\t', url[0],repr(e))
 
 
 if __name__ == '__main__':
