@@ -196,6 +196,9 @@ if __name__ == '__main__':
     except Exception as e:
         print('日期更新出错了', traceback.format_exc())
     else:
+        print('图片列表下载。。。')
         asyncio.run(main(qishu, qish, qs))
+        print('am图片下载。。。')
         asyncio.run(downloadamimg())
+        print('xg图片下载。。。')
         asyncio.run(downloadxgimg())
