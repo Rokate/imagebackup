@@ -30,14 +30,13 @@ jobs:
     
     - name: Download 
       run: |
-        python ./Script/Update.py
+        python ./Script/Download.py
         
     - name: Update
       run: |
         git pull origin main
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add ./aomen
-
+        git add ./Script/Src
         git commit -m "Update:  $(date '+%Y.%m.%d %H:%M:%S')" || true
         git push origin main || true
