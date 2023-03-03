@@ -19,7 +19,7 @@ async def download_image(session, url, filepath):
             else:
                 print(filepath + '下载出错了')
     except Exception as e:
-        print(url + '下载出错了')
+        print('repr(e):\t', repr(e))
 
 
 async def main(a, b, c):
