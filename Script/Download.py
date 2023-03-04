@@ -153,7 +153,7 @@ async def downloadxgimg():
                         "https://xgtutu.003123.club/yjjy/InterPhoto.image.php"
                         + m2[0],
                         headers=headers)
-                    async with aiofiles.open(f'./Src/xgpic{pic}.jpg', 'wb') as f:
+                    async with aiofiles.open(f'./Script/Src/xgpic{pic}.jpg', 'wb') as f:
                         while True:
                             chunk = await picfile.content.read(1024)
                             if not chunk:
