@@ -31,6 +31,7 @@ jobs:
     - name: Download 
       run: |
         python ./Script/Download.py
+        python ./Script/DJS.py
         
     - name: Push
       run: |
