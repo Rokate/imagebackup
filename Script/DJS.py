@@ -1,7 +1,7 @@
 import aiohttp
 import asyncio
 import aiofiles
-import time
+
 
 async def download(session,url,sem):
     async with sem:
@@ -72,8 +72,8 @@ async def main():
         await asyncio.gather(*tasks)
 
 if __name__ == '__main__':
-    start = time.time()
+    print('mhcz文件下载。。')
     asyncio.run(main())
-    end = time.time()
-    print(f'一共耗时：{end - start}')
+    
+    
 
