@@ -15,7 +15,7 @@ document.writeln("<table id=\'table52\' border=\'1\' width=\'100%\'>");
 document.writeln("");
 document.writeln("		<tr>");
 document.writeln("		<td><p align=center><strong>");
-document.writeln("		<span style=\'font-family: 微软雅黑; font-size: large\'>067</span><span style=font-family:微软雅黑;font-size:large>期<span style=color:red>【八码复式三中三】650倍</span><br>");
+document.writeln("		<span style=\'font-family: 微软雅黑; font-size: large\'>068</span><span style=font-family:微软雅黑;font-size:large>期<span style=color:red>【八码复式三中三】650倍</span><br>");
 document.writeln("		「09.11.06.45.16.39.26.27」<br>");
 document.writeln("		开奖：00-00-00-00-00-00特00<br><span style=color:#FF6600>澳门马会传真</span><span style=color:#00f>67</span><font color=\'#FF00FF\'>292</font><span style=color:green>b.com</span></span></strong>");
 document.writeln("         </tr>");

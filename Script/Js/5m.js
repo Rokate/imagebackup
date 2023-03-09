@@ -18,7 +18,7 @@ document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'157\'><tbody>");
 document.writeln("	");
-document.writeln("<tr><td width=100% height=40><p align=left><b><font face=\'黑体\' size=\'4\'>067期</font></b><font face=\'黑体\'><b><font color=\'#FFFFFF\' size=\'4\'><span style=\'background-color: #0000FF\'>【双波20码】</span></font><font color=\'#FF0000\' size=\'4\'>（开？00）</font></b></font></td></tr>");
+document.writeln("<tr><td width=100% height=40><p align=left><b><font face=\'黑体\' size=\'4\'>068期</font></b><font face=\'黑体\'><b><font color=\'#FFFFFF\' size=\'4\'><span style=\'background-color: #0000FF\'>【双波20码】</span></font><font color=\'#FF0000\' size=\'4\'>（开？00）</font></b></font></td></tr>");
 document.writeln("");
 document.writeln("<tr><td width=100% height=38><p align=left><font face=\'黑体\'><b>");
 document.writeln("		<font size=\'3\' color=\'#0000FF\'>【蓝波】03.15.14.26.25.37.36.48.10.09</font></b></td></tr>");
