@@ -1,22 +1,18 @@
 import aiohttp
 import asyncio
-import aiofiles
 
-
-async def download(session, url, sem):
+async def download(session, url, sem, i, contentlist):
     async with sem:
         try:
             async with session.get(url) as response:
-                data = await response.read()
-                filename = "./Script/Js/" + url.split("/")[-1]
-                async with aiofiles.open(filename, "wb") as f:
-                    await f.write(data)
+                data = await response.text()
+                contentlist[i] = data
         except Exception as e:
-            print(f"Failed to download {filename}: {e}")
-
-
-async def main():
-    mhczurl = "https://578866a.com"
+            print(f"Failed to download {url}: {e}")
+            
+async def MHCZ():
+    jscontent = '<!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"><meta name="applicable-device" content="mobile"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta http-equiv="X-UA-Compatible" content="ie=edge"><title>澳门图片</title></head><body><style type="text/css">.box{margin:5px 0;border-radius: 5px;overflow: hidden;background: #FFF;filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#99000000, endcolorstr=#99000000);}</style><h1 align="center" style="color:red ; font-size:50px">澳门马会传真</h1>'
+    mhczurl = "https://67292c.com"
     mhcz = [
         f"{mhczurl}/bbs/1x1m.js",
         f"{mhczurl}/bbs/czjx.js",
@@ -64,16 +60,71 @@ async def main():
         f"{mhczurl}/bbs/yuan.js",
         f"{mhczurl}/bbs/sha.js",
     ]
-
+    contentlist = [
+        "1x1m.js",
+        "czjx.js",
+        "1ax.js",
+        "sqi.js",
+        "ase.js",
+        "daxiba.js",
+        "qisha.js",
+        "lanw.js",
+        "12m.js",
+        "lczjx.js",
+        "cypt.js",
+        "1x.js",
+        "alg.js",
+        "sb.js",
+        "1anv.js",
+        "jy4x.js",
+        "dszt.js",
+        "tian.js",
+        "gjh.js",
+        "3qbc.js",
+        "jy1x.js",
+        "jy2x.js",
+        "5m.js",
+        "liuao.js",
+        "gs.js",
+        "hong.js",
+        "xx1.js",
+        "xx2.js",
+        "2x.js",
+        "no.js",
+        "dshuang.js",
+        "xiang.js",
+        "ng.js",
+        "bawei.js",
+        "sanhang.js",
+        "shy.js",
+        "10x.js",
+        "hct.js",
+        "2xzt.js",
+        "gjpjm.js",
+        "4x.js",
+        "sob.js",
+        "sofb.js",
+        "yuan.js",
+        "sha.js",
+    ]
     async with aiohttp.ClientSession() as session:
         tasks = []
         sem = asyncio.Semaphore(6)
-        for url in mhcz:
-            task = asyncio.create_task(download(session, url, sem))
+        for i in range(len(mhcz)):
+            task = asyncio.create_task(download(session, mhcz[i], sem, i, contentlist))
             tasks.append(task)
         await asyncio.gather(*tasks)
+    for content in contentlist:
+        jscontent = (
+            jscontent
+            + f'<div class="box"><script type="text/javascript">{content}</script>'
+        )
+    with open("./Script/Src/mhcz.txt", "w") as f:
+        f.write(jscontent + "</body></html>")
 
 
 if __name__ == "__main__":
-    print("mhcz文件下载。。")
-    asyncio.run(main())
+    print("jsfile下载。。")
+    asyncio.run(MHCZ())
+    
+    
