@@ -63,61 +63,14 @@ async def MHCZ():
         f"{mhczurl}/bbs/yuan.js",
         f"{mhczurl}/bbs/sha.js",
     ]
-    contentlist = [
-        "1x1m.js",
-        "czjx.js",
-        "1ax.js",
-        "sqi.js",
-        "ase.js",
-        "daxiba.js",
-        "qisha.js",
-        "lanw.js",
-        "12m.js",
-        "lczjx.js",
-        "cypt.js",
-        "1x.js",
-        "alg.js",
-        "sb.js",
-        "1anv.js",
-        "jy4x.js",
-        "dszt.js",
-        "tian.js",
-        "gjh.js",
-        "3qbc.js",
-        "jy1x.js",
-        "jy2x.js",
-        "5m.js",
-        "liuao.js",
-        "gs.js",
-        "hong.js",
-        "xx1.js",
-        "xx2.js",
-        "2x.js",
-        "no.js",
-        "dshuang.js",
-        "xiang.js",
-        "ng.js",
-        "bawei.js",
-        "sanhang.js",
-        "shy.js",
-        "10x.js",
-        "hct.js",
-        "2xzt.js",
-        "gjpjm.js",
-        "4x.js",
-        "sob.js",
-        "sofb.js",
-        "yuan.js",
-        "sha.js",
-    ]
     async with aiohttp.ClientSession() as session:
         tasks = []
         sem = asyncio.Semaphore(10)
         for i in range(len(mhcz)):
-            task = asyncio.create_task(download(session, mhcz[i], sem, i, contentlist))
+            task = asyncio.create_task(download(session, mhcz[i], sem, i, mhcz))
             tasks.append(task)
         await asyncio.gather(*tasks)
-    for content in contentlist:
+    for content in mhcz:
         jscontent = (
             jscontent
             + f'<div class="box"><script type="text/javascript">{content}</script>'
@@ -162,46 +115,14 @@ async def XJW():
         f"{xjwurl}/chajian/%E7%8C%9C%E7%89%B9%E8%BE%93%E5%B0%BD%E5%85%89.js",
         f"{xjwurl}/chajian/36%E7%A0%81.js",
     ]
-    contentlist = [
-        "%E9%A1%B6%E9%83%A8%E5%85%AD%E8%82%96.js",
-        "%E5%B9%B3%E7%89%B9%E4%B8%80%E8%82%96.js",
-        "%E5%9B%9B%E8%82%96%E4%B8%AD%E7%89%B9.js",
-        "%E6%9D%80%E4%B8%A4%E8%82%96%E5%9B%BE.js",
-        "%E7%BB%BC%E5%90%88%E7%89%B9%E7%A0%81.js",
-        "%E5%9B%9B%E7%BB%84%E4%BA%94%E4%B8%8D%E4%B8%AD.js",
-        "%E5%8D%95%E5%8F%8C%E4%B8%AD%E7%89%B9.js",
-        "%E9%98%B4%E9%98%B312%E7%A0%81.js",
-        "%E4%BA%94%E5%AD%97%E7%9C%9F%E8%A8%80.js",
-        "%E6%AC%B2%E9%92%B1%E6%96%99.js",
-        "%E4%B8%80%E6%B3%A2%E5%8D%8A%E6%B3%A2.js",
-        "%E7%A5%9E%E5%A5%87%E5%9B%9B%E5%AD%97.js",
-        "%E4%B8%80%E5%AD%97%E8%A7%A3%E7%89%B9%E7%A0%81.js",
-        "%E5%85%AD%E8%82%96.js",
-        "%E4%BA%8C%E5%AD%97%E7%BB%8F.js",
-        "%E7%90%B4%E6%A3%8B%E4%B9%A6%E7%94%BB.js",
-        "%E6%B3%A2%E8%89%B2.js",
-        "%E4%B8%80%E7%82%B9%E9%80%9A%E7%8E%84%E6%9C%BA.js",
-        "%E4%B8%89%E8%82%96%E4%B8%89%E7%A0%81.js",
-        "%E4%B8%89%E5%A4%B4%E4%B8%AD%E7%89%B9.js",
-        "%E5%B9%B3%E7%89%B9%E8%BF%9E%E5%B0%BE.js",
-        "%E5%AE%B6%E9%87%8E.js",
-        "%E4%BC%A0%E7%9C%9F%E4%B9%9D%E8%82%96.js",
-        "%E6%98%A5%E5%A4%8F%E7%A7%8B%E5%86%AC.js",
-        "%E7%AE%A1%E5%AE%B6%E5%A9%86%E8%A7%A3%E6%9E%90.js",
-        "%E4%B8%83%E5%B0%BE.js",
-        "%E6%9D%80%E4%B8%89%E8%82%96.js",
-        "%E5%B9%B3%E5%B0%BE.js",
-        "%E7%8C%9C%E7%89%B9%E8%BE%93%E5%B0%BD%E5%85%89.js",
-        "36%E7%A0%81.js",
-    ]
     async with aiohttp.ClientSession() as session:
         tasks = []
         sem = asyncio.Semaphore(10)
         for i in range(len(xjw)):
-            task = asyncio.create_task(download(session, xjw[i], sem, i, contentlist))
+            task = asyncio.create_task(download(session, xjw[i], sem, i, xjw))
             tasks.append(task)
         await asyncio.gather(*tasks)
-    for content in contentlist:
+    for content in xjw:
         jscontent = (
             jscontent
             + f'<div class="box"><h1 align="center" style="color:red ; font-size:25px">---------分割线---------</h1><script type="text/javascript" charset="gb2312">{content}</script>'
@@ -237,37 +158,14 @@ async def MRY():
         f"{mryurl}/cj23.js",
         f"{mryurl}/cj24.js",
     ]
-    contentlist = [
-        "/dbu.js",
-        "/cj13.js",
-        "/cj10.js",
-        "/cj07.js",
-        "/cj06.js",
-        "/cj20.js",
-        "/cj08.js",
-        "/ptxj.js",
-        "/cj09.js",
-        "/cj05.js",
-        "/mhcz.js",
-        "/cj02.js",
-        "/cj03.js",
-        "/ampm.js",
-        "/cj16.js",
-        "/cj18.js",
-        "/cj01.js",
-        "/cj21.js",
-        "/cj17.js",
-        "/cj23.js",
-        "/cj24.js",
-    ]
     async with aiohttp.ClientSession() as session:
         tasks = []
         sem = asyncio.Semaphore(10)
         for i in range(len(mry)):
-            task = asyncio.create_task(download(session, mry[i], sem, i, contentlist))
+            task = asyncio.create_task(download(session, mry[i], sem, i, mry))
             tasks.append(task)
         await asyncio.gather(*tasks)
-    for content in contentlist:
+    for content in mry:
         jscontent = (
             jscontent
             + f'<div class="box"><h1 align="center" style="color:red ; font-size:25px">---------分割线---------</h1><script type="text/javascript" charset="utf-8">{content}</script>'
