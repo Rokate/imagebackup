@@ -187,7 +187,7 @@ async def MRY():
 
 
 async def ZLW():
-    print("zly下载。。。")
+    print("zlw下载。。。")
     zlwurl = "https://49629.com"
     jscontent = (
         '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"><meta name="applicable-device" content="mobile"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta http-equiv="X-UA-Compatible" content="ie=edge"><title>澳门图片</title></head><body><style type="text/css">.white-box { margin-top: 10px; padding: 5px; border: solid 1px #ddd; border-radius: 5px; background: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.1);}</style><h1 align="center" style="color:red ; font-size:50px">'
@@ -216,8 +216,71 @@ async def ZLW():
         f.write(jscontent + "</body></html>")
 
 
+async def LFW():
+    print("lfw下载。。。")
+    lfwurl = "https://29761b.com"
+    jscontent = (
+        '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"><meta name="applicable-device" content="mobile"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta http-equiv="X-UA-Compatible" content="ie=edge"><meta content="telephone=no" name="format-detection" /><title>澳门图片</title></head><body><style type="text/css">.white-box { margin-top: 10px; padding: 5px; border: solid 1px #ddd; border-radius: 5px; background: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.1);}</style><h1 align="center" style="color:red ; font-size:50px">'
+        + f'<a href="{lfwurl}">雷锋老牌论坛</a></h1>'
+    )
+    lfw = [
+        f"{lfwurl}/bbs/db5x.js",
+        f"{lfwurl}/bbs/lf4.js",
+        f"{lfwurl}/bbs/mmxj.js",
+        f"{lfwurl}/bbs/hz6x.js",
+        f"{lfwurl}/bbs/4x4m.js",
+        f"{lfwurl}/bbs/gjpjm.js",
+        f"{lfwurl}/bbs/jx3xx.js",
+        f"{lfwurl}/bbs/ptpt.js",
+        f"{lfwurl}/bbs/cbtj.js",
+        f"{lfwurl}/bbs/16m.js",
+        f"{lfwurl}/bbs/sx.js",
+        f"{lfwurl}/bbs/dx.js",
+        f"{lfwurl}/bbs/ds.js",
+        f"{lfwurl}/bbs/dwxjj.js",
+        f"{lfwurl}/bbs/ptrlx.js",
+        f"{lfwurl}/bbs/sb12m.js",
+        f"{lfwurl}/bbs/sdtj.js",
+        f"{lfwurl}/bbs/7z4x.js",
+        f"{lfwurl}/bbs/4w8m.js",
+        f"{lfwurl}/bbs/ptyx.js",
+        f"{lfwurl}/bbs/yjxj.js",
+        f"{lfwurl}/bbs/jyjex.js",
+        f"{lfwurl}/bbs/ptywsew.js",
+        f"{lfwurl}/bbs/jrxqj.js",
+        f"{lfwurl}/bbs/stzt.js",
+        f"{lfwurl}/bbs/bc9x.js",
+        f"{lfwurl}/bbs/td1x.js",
+        f"{lfwurl}/bbs/yql.js",
+        f"{lfwurl}/bbs/jssw.js",
+        f"{lfwurl}/bbs/jxzt.js",
+        f"{lfwurl}/bbs/cxqd.js",
+        f"{lfwurl}/bbs/qw.js",
+        f"{lfwurl}/bbs/shzt.js",
+        f"{lfwurl}/bbs/jgsx.js",
+        f"{lfwurl}/bbs/ssx.js",
+        f"{lfwurl}/bbs/set.js",
+        f"{lfwurl}/bbs/sbb.js",
+    ]
+    async with aiohttp.ClientSession() as session:
+        tasks = []
+        sem = asyncio.Semaphore(10)
+        for i in range(len(lfw)):
+            task = asyncio.create_task(download(session, lfw[i], sem, i, lfw))
+            tasks.append(task)
+        await asyncio.gather(*tasks)
+    for content in lfw:
+        jscontent = (
+            jscontent
+            + f'<div><script type="text/javascript" charset="gb2312">{content}</script></div>'
+        )
+    with open("./Script/Src/lfw.txt", "w") as f:
+        f.write(jscontent + "</body></html>")
+
+
 if __name__ == "__main__":
     asyncio.run(MHCZ())
     asyncio.run(XJW())
     asyncio.run(MRY())
     asyncio.run(ZLW())
+    asyncio.run(LFW())
