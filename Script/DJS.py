@@ -15,7 +15,10 @@ async def download(session, url, sem, i, contentlist):
 async def MHCZ():
     print("mhcz下载。。。")
     mhczurl = "https://67292c.com"
-    jscontent = '<!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"><meta name="applicable-device" content="mobile"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta http-equiv="X-UA-Compatible" content="ie=edge"><title>澳门图片</title></head><body><style type="text/css">.box{margin:5px 0;border-radius: 5px;overflow: hidden;background: #FFF;filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#99000000, endcolorstr=#99000000);}</style><h1 align="center" style="color:red ; font-size:50px">'+f'<a href="{mhczurl}">澳门马会传真</a></h1>'
+    jscontent = (
+        '<!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"><meta name="applicable-device" content="mobile"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta http-equiv="X-UA-Compatible" content="ie=edge"><title>澳门图片</title></head><body><style type="text/css">.box{margin:5px 0;border-radius: 5px;overflow: hidden;background: #FFF;filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#99000000, endcolorstr=#99000000);}</style><h1 align="center" style="color:red ; font-size:50px">'
+        + f'<a href="{mhczurl}">澳门马会传真</a></h1>'
+    )
     mhcz = [
         f"{mhczurl}/bbs/1x1m.js",
         f"{mhczurl}/bbs/czjx.js",
@@ -28,13 +31,13 @@ async def MHCZ():
         f"{mhczurl}/bbs/12m.js",
         f"{mhczurl}/bbs/lczjx.js",
         f"{mhczurl}/bbs/cypt.js",
-	f"{mhczurl}/bbs/xiao.js",
+        f"{mhczurl}/bbs/xiao.js",
         f"{mhczurl}/bbs/1x.js",
-	f"{mhczurl}/bbs/3x.js",
+        f"{mhczurl}/bbs/3x.js",
         f"{mhczurl}/bbs/alg.js",
         f"{mhczurl}/bbs/sb.js",
         f"{mhczurl}/bbs/1anv.js",
-	f"{mhczurl}/bbs/jy3x.js",
+        f"{mhczurl}/bbs/jy3x.js",
         f"{mhczurl}/bbs/jy4x.js",
         f"{mhczurl}/bbs/dszt.js",
         f"{mhczurl}/bbs/tian.js",
@@ -76,7 +79,7 @@ async def MHCZ():
     for content in mhcz:
         jscontent = (
             jscontent
-            + f'<div class="box"><script type="text/javascript">{content}</script>'
+            + f'<div class="box"><script type="text/javascript">{content}</script></div>'
         )
     with open("./Script/Src/mhcz.txt", "w") as f:
         f.write(jscontent + "</body></html>")
@@ -85,7 +88,10 @@ async def MHCZ():
 async def XJW():
     print("xjw下载。。。")
     xjwurl = "https://868680.com"
-    jscontent = '<!DOCTYPE html><html><head><META NAME="ROBOTS" CONTENT="INDEX,NOFOLLOW"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" /><meta name="applicable-device" content="mobile" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="apple-mobile-web-app-status-bar-style" content="black" /><meta content="telephone=no" name="format-detection" /><title>澳门图片</title></head><body><style type="text/css">.box{margin-top:0px;padding: 0px;border: solid 0px #949494;border-radius: 1px;background: #fff;box-shadow: 0 2px 5px rgba(0,0,0,0.1);}</style><h1 align="center" style="color:red ; font-size:50px">'+f'<a href="{xjwurl}">澳门玄机网</a></h1>'
+    jscontent = (
+        '<!DOCTYPE html><html><head><META NAME="ROBOTS" CONTENT="INDEX,NOFOLLOW"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" /><meta name="applicable-device" content="mobile" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="apple-mobile-web-app-status-bar-style" content="black" /><meta content="telephone=no" name="format-detection" /><title>澳门图片</title></head><body><style type="text/css">.box{margin-top:0px;padding: 0px;border: solid 0px #949494;border-radius: 1px;background: #fff;box-shadow: 0 2px 5px rgba(0,0,0,0.1);}</style><h1 align="center" style="color:red ; font-size:50px">'
+        + f'<a href="{xjwurl}">澳门玄机网</a></h1>'
+    )
     xjw = [
         f"{xjwurl}/chajian/%E9%A1%B6%E9%83%A8%E5%85%AD%E8%82%96.js",
         f"{xjwurl}/chajian/%E5%B9%B3%E7%89%B9%E4%B8%80%E8%82%96.js",
@@ -128,7 +134,7 @@ async def XJW():
     for content in xjw:
         jscontent = (
             jscontent
-            + f'<div class="box"><h1 align="center" style="color:red ; font-size:25px">---------分割线---------</h1><script type="text/javascript" charset="gb2312">{content}</script>'
+            + f'<div class="box"><h1 align="center" style="color:red ; font-size:25px">---------分割线---------</h1><script type="text/javascript" charset="gb2312">{content}</script></div>'
         )
     with open("./Script/Src/xjw.txt", "w") as f:
         f.write(jscontent + "</body></html>")
@@ -137,7 +143,10 @@ async def XJW():
 async def MRY():
     print("mry下载。。。")
     mryurl = "https://138383.com"
-    jscontent = '<!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="applicable-device" content="mobile"><meta name="apple-itunes-app" content="app-id=529696004"><meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><title>澳门图片</title></head><body><style type="text/css">.white-box { margin-top: 10px; padding: 5px; border: solid 1px #ddd; border-radius: 5px; background: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.1);}</style><h1 align="center" style="color:red ; font-size:50px">'+f'<a href="{mryurl}">澳门美人鱼论坛</a></h1>'
+    jscontent = (
+        '<!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="applicable-device" content="mobile"><meta name="apple-itunes-app" content="app-id=529696004"><meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><title>澳门图片</title></head><body><style type="text/css">.white-box { margin-top: 10px; padding: 5px; border: solid 1px #ddd; border-radius: 5px; background: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.1);}</style><h1 align="center" style="color:red ; font-size:50px">'
+        + f'<a href="{mryurl}">澳门美人鱼论坛</a></h1>'
+    )
     mry = [
         f"{mryurl}/dbu.js",
         f"{mryurl}/cj13.js",
@@ -171,9 +180,39 @@ async def MRY():
     for content in mry:
         jscontent = (
             jscontent
-            + f'<div class="box"><h1 align="center" style="color:red ; font-size:25px">---------分割线---------</h1><script type="text/javascript" charset="utf-8">{content}</script>'
+            + f'<div class="box"><h1 align="center" style="color:red ; font-size:25px">---------分割线---------</h1><script type="text/javascript" charset="utf-8">{content}</script></div>'
         )
     with open("./Script/Src/mry.txt", "w") as f:
+        f.write(jscontent + "</body></html>")
+
+
+async def ZLW():
+    print("zly下载。。。")
+    zlwurl = "https://49629.com"
+    jscontent = (
+        '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"><meta name="applicable-device" content="mobile"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta http-equiv="X-UA-Compatible" content="ie=edge"><title>澳门图片</title></head><body><style type="text/css">.white-box { margin-top: 10px; padding: 5px; border: solid 1px #ddd; border-radius: 5px; background: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.1);}</style><h1 align="center" style="color:red ; font-size:50px">'
+        + f'<a href="{zlwurl}">最全资料网</a></h1>'
+    )
+    zlw = [
+        f"{zlwurl}/bbs/yy4wzt.js",
+        f"{zlwurl}/bbs/yydx1t.js",
+        f"{zlwurl}/bbs/yyjy2x.js",
+        f"{zlwurl}/bbs/1w1mz.js",
+        f"{zlwurl}/bbs/yyds2x.js",
+    ]
+    async with aiohttp.ClientSession() as session:
+        tasks = []
+        sem = asyncio.Semaphore(2)
+        for i in range(len(zlw)):
+            task = asyncio.create_task(download(session, zlw[i], sem, i, zlw))
+            tasks.append(task)
+        await asyncio.gather(*tasks)
+    for content in zlw:
+        jscontent = (
+            jscontent
+            + f'<div style="margin:0px;"><script type="text/javascript" charset="utf-8">{content}</script></div>'
+        )
+    with open("./Script/Src/zlw.txt", "w") as f:
         f.write(jscontent + "</body></html>")
 
 
@@ -181,3 +220,4 @@ if __name__ == "__main__":
     asyncio.run(MHCZ())
     asyncio.run(XJW())
     asyncio.run(MRY())
+    asyncio.run(ZLW())
