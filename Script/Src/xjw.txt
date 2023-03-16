@@ -380,17 +380,15 @@ document.writeln("		");
 document.writeln("");
 
 
-document.writeln("				<tr>");
+
+document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>075期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开猪26</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【湖光秋月三四和，狗虎猴兔是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：蛇马羊猪</span></tr>	");
+document.writeln("		<span><font size=\'4\'>076期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#6600CC\'>【一来二去有祥意，龙鼠兔猴是特码】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>龙鼠兔猴</font></tr>");
 document.writeln("");
 
- 
  
 
  
@@ -859,24 +857,8 @@ document.writeln("		<span>");
 document.writeln("	");
 document.writeln("		<b>");
 document.writeln("	");
-document.writeln("		<font size=\'4\'>076期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
-document.writeln("\' style=\'font-size: 14pt\'>单</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开猫00</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("<!--结束-->");
-
-document.writeln("<!--开始-->	");
-document.writeln("	");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span>");
-document.writeln("	");
-document.writeln("		<b>");
-document.writeln("	");
 document.writeln("		<font size=\'4\'>075期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
-document.writeln("\' style=\'font-size: 14pt\'>双</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开狗18</font></font></b></td></tr>");
+document.writeln("\' style=\'font-size: 14pt\'>双</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开猫00</font></font></b></td></tr>");
 document.writeln("");
 document.writeln("<!--结束-->");
 document.writeln("");
@@ -1332,16 +1314,17 @@ document.writeln("		");
 document.writeln("		");
 
 
+
+
 document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>076期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【双喜临门】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>双数</span></font></font></td></tr>");
+document.writeln("		<span><font size=\'4\'>075期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【天上人间】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>天肖</span></font></font></td></tr>");
 document.writeln("	");
 
- 
 document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
@@ -2478,19 +2461,13 @@ document.writeln("		</tr>");
 document.writeln("		");
 document.writeln("		");
 
-document.writeln("                              <tr style=\'box-sizing: border-box;\'>");
-document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			076期<font color=\'#008000\'>春夏秋冬</font>『<font color=\'#FF0000\'>夏春冬</font>』<font color=\'#0000FF\'>开000准</font></font></td>");
-document.writeln("		</tr>");
-document.writeln("		");
+
 
 document.writeln("		<tr style=\'box-sizing: border-box;\'>");
 document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			075期<font color=\'#008000\'>春夏秋冬</font>『<font color=\'#FF0000\'>夏<span style=\'background-color: #FFFF00\'>秋</span>春</font>』<font color=\'#0000FF\'>开狗18准</font></font></td>");
+document.writeln("			075期<font color=\'#008000\'>春夏秋冬</font>『<font color=\'#FF0000\'>夏秋春</font>』<font color=\'#0000FF\'>开000准</font></font></td>");
 document.writeln("		</tr>");
 document.writeln("");
 
@@ -2835,15 +2812,22 @@ document.writeln("		");
 document.writeln("		");
 
 
-
 document.writeln("			<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>076期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>四大皆空</font>】</span><font color=\'#FF0000\'>开？00</font></font></b></td>");
+document.writeln("		<span>075期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>三人成虎</font>】</span><font color=\'#FF0000\'>开？00</font></font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("		");
-
+ 
+document.writeln("			<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<b>");
+document.writeln("		<font size=\'4\'>");
+document.writeln("		<span>072期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>九天揽月</font>】</span><font color=\'#FF0000\'>开？00</font></font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("		");
+ 
  
 
 
