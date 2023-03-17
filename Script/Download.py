@@ -78,8 +78,8 @@ async def main(a, b, c):
 
 async def downloadamimg():
     amimg = [
-        "https://amtutu.003123.club/yjjy/index.php?c=5",
-        "https://amtutu.003123.club/yjjy/index.php?c=2",
+        "https://amtutu.003123.info/yjjy/index.php?c=5",
+        "https://amtutu.003123.info/yjjy/index.php?c=2",
     ]
     y = 0
     for url in amimg:
@@ -118,9 +118,12 @@ async def downloadamimg():
 
 async def downloadxgimg():
     xgimg = [
-        ["https://xgtutu.003123.club/yjjy/index.php?c=16", 'Title: <a href="(.*?)">马经'],
         [
-            "https://xgtutu.003123.club/yjjy/index.php?c=17",
+            "https://xgtutu.003123.info/yjjy/index.php?c=119",
+            'Title: <a href="(.*?)">马经',
+        ],
+        [
+            "https://xgtutu.003123.info/yjjy/index.php?c=17",
             'Title: <a href="(.*?)">守护幸福',
         ],
     ]
