@@ -134,7 +134,7 @@ async def downloadxgimg():
         y = y + 1
         try:
             async with aiohttp.ClientSession() as session:
-                async with session.get(url[0]) as resp:
+                async with session.post(url[0],data=data) as resp:
                     page = await resp.text()
                     pattern = re.compile(url[1])
                     m = re.findall(pattern, page)
