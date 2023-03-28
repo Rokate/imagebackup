@@ -1868,8 +1868,13 @@ document.writeln("<td style=\'border:10px double #800000; height: 47px;\' bgcolo
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 19pt\'><font color=\'#FFFF00\'>澳门马会传真</font><font color=\'#FFFFFF\'>『绝杀半波』</font></font></b></table>");
 document.writeln("");
 document.writeln("   <tr>");
-document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>086期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖红单〗</font><font color=\'#008000\'>开00准</font></font></b></td>");
+document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>087期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖蓝单〗</font><font color=\'#008000\'>开00准</font></font></b></td>");
 document.writeln("		</tr>");
+document.writeln("		");
+document.writeln("		   <tr>");
+document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>086期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖红单〗</font><font color=\'#008000\'>开30准</font></font></b></td>");
+document.writeln("		</tr>");
+document.writeln("");
 document.writeln("		   <tr>");
 document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>085期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖红双〗</font><font color=\'#008000\'>开37准</font></font></b></td>");
 document.writeln("		</tr>");
@@ -2181,7 +2186,7 @@ document.writeln("<td style=\'border:10px double #800000; height: 47px;\' bgcolo
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 19pt\'><font color=\'#FFFF00\'>澳门马会传真</font><font color=\'#FFFFFF\'>『绝杀一行』</font></font></b></table>");
 document.writeln("");
 document.writeln("			<tr>");
-document.writeln("			<td align=\'center\' height=40><span style=\'font-size: 14pt\'>086期<font color=\'#008800\'>必杀</font><font color=\'#FF0000\'>『火行』</font>开<font color=\'#0000FF\'>？00中</font></font></b></td>");
+document.writeln("			<td align=\'center\' height=40><span style=\'font-size: 14pt\'>087期<font color=\'#008800\'>必杀</font><font color=\'#FF0000\'>『火行』</font>开<font color=\'#0000FF\'>？00中</font></font></b></td>");
 document.writeln("		</tr>");
 document.writeln("		");
 document.writeln("		");
