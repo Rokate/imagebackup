@@ -34,7 +34,7 @@ async def main(a, b, c):
         [f"https://www.353583.com/tutu/lhwt{qishu}.jpg", "a-lhwt.jpg"],
         [f"https://www.353583.com/tutu/ugyf{qishu}.jpg", "a-ugyf.jpg"],
         [f"https://49629a.com/img/amhg{qishu}.jpg", "a-amhg.jpg"],
-        [f"https://tk2.sycccf.com:4949/col/{qish}/zbxyb.jpg", "a-zbxyb.jpg"],       
+        [f"https://tk2.sycccf.com:4949/col/{qish}/zbxyb.jpg", "a-zbxyb.jpg"],
         [f"https://49629a.com/img/nm4x8m{qishu}.jpg", "a-nm4x8m.jpg"],
         [f"https://123186a.com/gsbtu/baoma{qishu}.jpg", "a-baoma.jpg"],
         [f"https://123186a.com/gsbtu/hdjr{qishu}.jpg", "a-hdjr.jpg"],
@@ -77,16 +77,17 @@ async def main(a, b, c):
 
 async def downloadamimg():
     amimg = [
-        "https://amtutu.003123.info/yjjy/index.php?c=5",
-        "https://amtutu.003123.info/yjjy/index.php?c=2",
+        "https://amtutu.003123.club/index.php?c=5",
+        "https://amtutu.003123.club/index.php?c=2",
     ]
     y = 0
+    data = {"password": "003123"}
     for url in amimg:
         pic = str(y)
         y = y + 1
         try:
             async with aiohttp.ClientSession() as session:
-                async with session.get(url) as resp:
+                async with session.post(url, data=data) as resp:
                     page = await resp.text()
                     pattern = re.compile('Title: <a href="(.*?)">No Title')
                     m = re.findall(pattern, page)
@@ -102,7 +103,7 @@ async def downloadamimg():
                         "sec-ch-ua-platform": '"Windows"',
                     }
                     picfile = await session.get(
-                        "https://amtutu.003123.info/yjjy/InterPhoto.image.php" + m2[0],
+                        "https://amtutu.003123.club/InterPhoto.image.php" + m2[0],
                         headers=headers,
                     )
                     async with aiofiles.open(f"./Script/Src/ampic{pic}.jpg", "wb") as f:
@@ -118,15 +119,16 @@ async def downloadamimg():
 async def downloadxgimg():
     xgimg = [
         [
-            "https://xgtutu.003123.info/yjjy/index.php?c=119",
+            "https://xgtutu.003123.club/index.php?c=3",
             'Title: <a href="(.*?)">马经',
         ],
         [
-            "https://xgtutu.003123.info/yjjy/index.php?c=17",
+            "https://xgtutu.003123.club/index.php?c=17",
             'Title: <a href="(.*?)">守护幸福',
         ],
     ]
     y = 0
+    data = {"password": "003123"}
     for url in xgimg:
         pic = str(y)
         y = y + 1
@@ -148,7 +150,7 @@ async def downloadxgimg():
                         "sec-ch-ua-platform": '"Windows"',
                     }
                     picfile = await session.get(
-                        "https://xgtutu.003123.info/yjjy/InterPhoto.image.php" + m2[0],
+                        "https://xgtutu.003123.club/InterPhoto.image.php" + m2[0],
                         headers=headers,
                     )
                     async with aiofiles.open(f"./Script/Src/xgpic{pic}.jpg", "wb") as f:
@@ -177,7 +179,7 @@ if __name__ == "__main__":
         "referer": "https://macau-jc.com/",
         "accept-language": "zh-CN,zh;q=0.9",
     }
-
+    #a6.003123.club
     try:
         qishu = requests.post(
             "https://his.whboligj.com/api/CurrentInfo",
