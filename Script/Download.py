@@ -81,7 +81,7 @@ async def downloadamimg():
         "https://amtutu.003123.club/index.php?c=2",
     ]
     y = 0
-    data = {"password": "003123"}
+    data = {"password": "003123.com"}
     for url in amimg:
         pic = str(y)
         y = y + 1
@@ -128,7 +128,7 @@ async def downloadxgimg():
         ],
     ]
     y = 0
-    data = {"password": "003123"}
+    data = {"password": "003123.com"}
     for url in xgimg:
         pic = str(y)
         y = y + 1
