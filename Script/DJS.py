@@ -9,9 +9,9 @@ async def download(session, url, sem, i, contentlist):
             async with session.get(url) as response:
                 data = await response.read()
                 try:
-                    text = data.decode('gb2312')
+                    text = data.decode('utf-8')
                 except UnicodeDecodeError as e:
-                    text = codecs.decode(data, 'gb2312', 'ignore')
+                    text = codecs.decode(data, 'utf-8', 'ignore')
                 contentlist[i] = text
         except Exception as e:
             print(f"Failed to download {url}: {e}")
@@ -86,7 +86,7 @@ async def MHCZ():
             jscontent
             + f'<div class="box"><script type="text/javascript">{content}</script></div>'
         )
-    with open("./Script/Src/mhcz.txt", "w", encoding='gb2312') as f:
+    with open("./Script/Src/mhcz.txt", "w") as f:
         f.write(jscontent + "</body></html>")
 
 
