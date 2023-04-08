@@ -86,7 +86,7 @@ async def MHCZ():
             jscontent
             + f'<div class="box"><script type="text/javascript">{content}</script></div>'
         )
-    with open("./Script/Src/mhcz.txt", "w") as f:
+    with open("./Script/Src/mhcz.txt", "w", encoding='gb2312') as f:
         f.write(jscontent + "</body></html>")
 
 
