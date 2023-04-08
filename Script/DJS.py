@@ -1,13 +1,18 @@
 import aiohttp
 import asyncio
+import codecs
 
 
 async def download(session, url, sem, i, contentlist):
     async with sem:
         try:
             async with session.get(url) as response:
-                data = await response.text()
-                contentlist[i] = data
+                data = await response.read()
+                try:
+                    text = data.decode('gb2312')
+                except UnicodeDecodeError as e:
+                    text = codecs.decode(data, 'gb2312', 'ignore')
+                contentlist[i] = text
         except Exception as e:
             print(f"Failed to download {url}: {e}")
 
