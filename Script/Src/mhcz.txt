@@ -2332,9 +2332,12 @@ document.writeln("<td style=\'border:10px double #800000; height: 47px;\' bgcolo
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 19pt\'><font color=\'#FFFF00\'>澳门马会传真</font><font color=\'#FFFFFF\'>『绝杀半波』</font></font></b></table>");
 document.writeln("");
 document.writeln("   <tr>");
-document.writeln("			<td align=\'center\' height=40><font size=\'4\'>108</font><b><font size=\'4\'>期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖红双〗</font><font color=\'#008000\'>开00准</font></font></b></td>");
+document.writeln("			<td align=\'center\' height=40><font size=\'4\'>10</font><b><font size=\'4\'>9期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖绿双〗</font><font color=\'#008000\'>开00准</font></font></b></td>");
 document.writeln("		</tr>");
 document.writeln("	");
+document.writeln("   <tr>");
+document.writeln("			<td align=\'center\' height=40><font size=\'4\'>108</font><b><font size=\'4\'>期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖红双〗</font><font color=\'#008000\'>开20准</font></font></b></td>");
+document.writeln("		</tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -2591,7 +2594,7 @@ document.writeln("		");
 document.writeln("		   <tr>");
 document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>053期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖绿双〗</font><font color=\'#008000\'>开21准</font></font></b></td>");
 document.writeln("		</tr>");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
