@@ -164,28 +164,10 @@ async def downloadxgimg():
 
 
 if __name__ == "__main__":
-    headers = {
-        "authority": "his.whboligj.com",
-        "sec-ch-ua": '" Not A;Brand";v="99", "Chromium";v="98"',
-        "accept": "application/json, text/plain, */*",
-        "content-type": "application/json",
-        "sec-ch-ua-mobile": "?0",
-        "user-agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.139 Safari/537.36",
-        "sec-ch-ua-platform": '"Windows"',
-        "origin": "https://macau-jc.com",
-        "sec-fetch-site": "cross-site",
-        "sec-fetch-mode": "cors",
-        "sec-fetch-dest": "empty",
-        "referer": "https://macau-jc.com/",
-        "accept-language": "zh-CN,zh;q=0.9",
-    }
     #a6.003123.club
     try:
-        qishu = requests.post(
-            "https://his.whboligj.com/api/CurrentInfo",
-            headers=headers,
-            data='{"lotteryId":2032}',
-        ).json()["data"]["issue"][-3:]
+        qishu = requests.get(
+            "https://his.tzxpsm.com/api/CurrentInfo/2032").json()["data"]["issue"][-3:]
         qish = str(int(qishu))
         qs = requests.get(
             "https://49152c.com/unite49/h5/picture/detail/latest?pictureTypeId=10870"
