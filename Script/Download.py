@@ -166,17 +166,17 @@ async def downloadxgimg():
 if __name__ == "__main__":
     #a6.003123.club
     try:
-        qish = requests.get(
-            "https://49152c.com/unite49/h5/picture/detail/latest?pictureTypeId=28854"
-        ).json()["data"]["period"]
-        qs = requests.get(
-            "https://49152c.com/unite49/h5/picture/detail/latest?pictureTypeId=10870"
-        ).json()["data"]["period"]
+        amcode = {"code": "71"}
+        qishu = requests.post('https://am49.app/open/latest', params=amcode).json()['data']['nextIssueNo'][-3:]
+        qish = qishu.lstrip('0')
+        
+        xgcode = {"code": "28"}
+        qs = requests.post('https://am49.app/open/latest', params=xgcode).json()['data']['nextIssueNo'][-3:].lstrip('0')
     except Exception as e:
         print("日期更新出错了", traceback.format_exc())
     else:
         print("图片列表下载。。。")
-        asyncio.run(main(qish, qish, qs))
+        asyncio.run(main(qishu, qish, qs))
         print("am图片下载。。。")
         asyncio.run(downloadamimg())
         print("xg图片下载。。。")
