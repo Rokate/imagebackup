@@ -166,9 +166,10 @@ async def downloadxgimg():
 if __name__ == "__main__":
     #a6.003123.club
     try:
-        qishu = requests.get(
-            "https://his.tzxpsm.com/api/CurrentInfo/2032").json()["data"]["issue"][-3:]
-        qish = str(int(qishu))
+        qish = requests.get(
+            "https://49152c.com/unite49/h5/picture/detail/latest?pictureTypeId=28854"
+            ).json()["data"]["period"]
+        
         qs = requests.get(
             "https://49152c.com/unite49/h5/picture/detail/latest?pictureTypeId=10870"
         ).json()["data"]["period"]
