@@ -168,8 +168,7 @@ if __name__ == "__main__":
     try:
         qish = requests.get(
             "https://49152c.com/unite49/h5/picture/detail/latest?pictureTypeId=28854"
-            ).json()["data"]["period"]
-        qishu == qish
+        ).json()["data"]["period"]
         qs = requests.get(
             "https://49152c.com/unite49/h5/picture/detail/latest?pictureTypeId=10870"
         ).json()["data"]["period"]
@@ -177,7 +176,7 @@ if __name__ == "__main__":
         print("日期更新出错了", traceback.format_exc())
     else:
         print("图片列表下载。。。")
-        asyncio.run(main(qishu, qish, qs))
+        asyncio.run(main(qish, qish, qs))
         print("am图片下载。。。")
         asyncio.run(downloadamimg())
         print("xg图片下载。。。")
