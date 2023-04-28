@@ -169,7 +169,7 @@ if __name__ == "__main__":
         qish = requests.get(
             "https://49152c.com/unite49/h5/picture/detail/latest?pictureTypeId=28854"
             ).json()["data"]["period"]
-        
+        qishu == qish
         qs = requests.get(
             "https://49152c.com/unite49/h5/picture/detail/latest?pictureTypeId=10870"
         ).json()["data"]["period"]
