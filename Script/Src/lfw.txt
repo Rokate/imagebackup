@@ -55,8 +55,7 @@ document.writeln("MARGIN: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; WORD-BREAK
 document.writeln("");
 document.writeln("(229,229,229) 1px solid; PADDING-TOP: 3px\'  align=\'left\' height=\'34\'>");
 document.writeln("		<span style=\'FONT-SIZE: 11pt\'><b><font face=\'微软雅黑\' color=\'#003366\'>");
-document.writeln("		123期稳中⑤肖</font></b></span><b><span style=\'FONT-SIZE: 11pt\'><font face=\'微软雅黑\' color=\'#003366\'>:</font></span><font face=\'微软雅黑\' style=\'font-size: 11pt\' color=\'#FF0000\'>猴鸡猪马");
-document.writeln("		鼠</font></b></td>");
+document.writeln("		123期稳中⑤肖</font></b></span><b><span style=\'FONT-SIZE: 11pt\'><font face=\'微软雅黑\' color=\'#003366\'>:</font></span><font face=\'微软雅黑\' style=\'font-size: 11pt\' color=\'#FF0000\'>猴鸡猪马鼠</font></b></td>");
 document.writeln("	  </tr></span>");
 document.writeln("			<tr>");
 document.writeln("		<td style=\'BORDER-BOTTOM: rgb(229,229,229) 1px solid; BORDER-LEFT: rgb(229,229,229) 1px solid; PADDING-BOTTOM: 3px; ");
