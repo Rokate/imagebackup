@@ -100,10 +100,10 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 document.writeln("	   		");
 
 
-document.writeln("			    <tr>");
+document.writeln("	    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>126期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>？00</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【老牛上了鼻绳—跑不了】</td>");
+document.writeln("		<span><font size=\'4\'>127期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>？00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【马槽里伸个驴头—多了一张嘴】</td>");
 document.writeln("		</tr>");
  
 
@@ -265,8 +265,8 @@ document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
 document.writeln("			127期玄机网禁两肖<font color=\'#FF0000\'>【羊鼠】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
-document.writeln("			127期澳门杀两肖图<font color=\'#FF0000\'>【更新】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
-document.writeln("			127期澳门图库禁肖<font color=\'#FF0000\'>【更新】</font>特开<font color=\'#0000FF\'>？00</font>准</font></font></p></td>");
+document.writeln("			127期澳门杀两肖图<font color=\'#FF0000\'>【鼠马】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
+document.writeln("			127期澳门图库禁肖<font color=\'#FF0000\'>【羊龙】</font>特开<font color=\'#0000FF\'>？00</font>准</font></font></p></td>");
 document.writeln("		</tr>");
 document.writeln("<!--推广-->");
 document.writeln("				<tr style=\'box-sizing: border-box;\'>");
