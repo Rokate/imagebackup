@@ -166,12 +166,12 @@ async def downloadxgimg():
 if __name__ == "__main__":
     #a6.003123.club
     try:
-        amcode = {"code": "71"}
-        qishu = requests.post('https://am49.app/open/latest', params=amcode).json()['data']['nextIssueNo'][-3:]
+        #amcode = {"code": "71"}
+        qishu = requests.post('https://am49.app/open/latest?code=71').json()['data']['nextIssueNo'][-3:]
         qish = qishu.lstrip('0')
         
-        xgcode = {"code": "28"}
-        qs = requests.post('https://am49.app/open/latest', params=xgcode).json()['data']['nextIssueNo'][-3:].lstrip('0')
+        #xgcode = {"code": "28"}
+        qs = requests.post('https://am49.app/open/latest?code=28').json()['data']['nextIssueNo'][-3:].lstrip('0')
     except Exception as e:
         print("日期更新出错了", traceback.format_exc())
     else:
