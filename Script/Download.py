@@ -169,7 +169,7 @@ if __name__ == "__main__":
         #amcode = {"code": "71"}
         qishu = requests.post('https://am49.app/open/latest?code=71').json()['data']['nextIssueNo'][-3:]
         qish = qishu.lstrip('0')
-        
+        print(qishu,qish)
         #xgcode = {"code": "28"}
         qs = requests.post('https://am49.app/open/latest?code=28').json()['data']['nextIssueNo'][-3:].lstrip('0')
     except Exception as e:
