@@ -9,7 +9,7 @@ import re
 async def download_image(session, url, filepath):
     try:
         async with session.get(url) as response:
-           if response.headers["Content-Type"] == "image/jpeg":
+            if response.headers["Content-Type"] == "image/jpeg":
                 async with aiofiles.open(filepath, "wb") as f:
                     while True:
                         chunk = await response.content.read(1024)
