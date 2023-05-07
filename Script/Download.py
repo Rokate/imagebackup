@@ -46,31 +46,6 @@ async def main(a, b, c):
         ["https://67292b.com/tu/f011.jpg", "a-f011.jpg"],
 
     ]
-"""
-        [f"https://tk2.shuangshuangjieyanw.com:4949/col/{qish}/zbxyb.jpg", "a-zbxyb.jpg"],
-        [f"https://tk2.shuangshuangjieyanw.com:4949/col/{qish}/n1.jpg", "a-n1.jpg"],
-        [f"https://tk2.shuangshuangjieyanw.com:4949/col/{qish}/dcxj.jpg", "a-dcxj.jpg"],
-        [f"https://tk2.shuangshuangjieyanw.com:4949/col/{qish}/sszm.jpg", "a-sszm.jpg"],
-        [f"https://tk2.shuangshuangjieyanw.com:4949/col/{qish}/ktzsx.jpg", "a-ktzsx.jpg"],
-        [f"https://tk2.shuangshuangjieyanw.com:4949/col/{qish}/rv.jpg", "a-rv.jpg"],
-        [f"https://tk2.shuangshuangjieyanw.com:4949/col/{qish}/tt38.jpg", "a-tt38.jpg"],
-        [f"https://tk2.shuangshuangjieyanw.com:4949/col/{qish}/amffh.jpg", "a-amffh.jpg"],
-        [f"https://tk2.shuangshuangjieyanw.com:4949/col/{qish}/amfql.jpg", "a-amfql.jpg"],
-        [f"https://tk2.shuangshuangjieyanw.com:4949/col/{qish}/twqp.jpg", "a-twqp.jpg"],
-        [f"https://tk2.shuangshuangjieyanw.com:4949/col/{qish}/mfpy.jpg", "a-mfpy.jpg"],
-        [f"https://tk2.shuangshuangjieyanw.com:4949/col/{qish}/lhlxsm.jpg", "a-lhlxsm.jpg"],
-        [f"https://tk2.shuangshuangjieyanw.com:4949/col/{qish}/b8.jpg", "a-b8.jpg"],
-        [f"https://tk2.shuangshuangjieyanw.com:4949/col/{qish}/tjn.jpg", "a-tjn.jpg"],
-        [f"https://tk2.shuangshuangjieyanw.com:4949/col/{qish}/ampt.jpg", "a-ampt.jpg"],
-        
-        [f"https://tk.shuangshuangjieyanw.com:4949/col/{qs}/n1.jpg", "x-n1.jpg"],
-        [f"https://tk.shuangshuangjieyanw.com:4949/col/{qs}/b002.jpg", "x-b002.jpg"],
-        [f"https://tk.shuangshuangjieyanw.com:4949/col/{qs}/b004.jpg", "x-b004.jpg"],
-        [f"https://tk.shuangshuangjieyanw.com:4949/col/{qs}/b006.jpg", "x-b006.jpg"],
-        [f"https://tk.shuangshuangjieyanw.com:4949/col/{qs}/b008.jpg", "x-b008.jpg"],
-        [f"https://tk.shuangshuangjieyanw.com:4949/col/{qs}/j11.jpg", "x-j11.jpg"],
-        [f"https://tk.shuangshuangjieyanw.com:4949/col/{qs}/qlb.jpg", "x-qlb.jpg"],
-"""
     async with aiohttp.ClientSession() as session:
         tasks = []
         for i, url in enumerate(urls):
@@ -198,5 +173,5 @@ if __name__ == "__main__":
 """
         tempp='<!DOCTYPE html><html><head><meta charset="utf-8"><title>澳门图片</title></head><body><style type="text/css">.imgblock img{width:50%;height:500px;flost:left;}</style>'
         text=temp.format(qish=qish,qs=qs)
-        with open("./Script/Src/html.txt") as f:
+        with open("./Script/Src/html.txt", "w") as f:
             f.write(tempp+text)
