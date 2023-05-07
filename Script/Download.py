@@ -10,13 +10,13 @@ async def download_image(session, url, filepath):
     try:
         async with session.get(url) as response:
             
-                async with aiofiles.open(filepath, "wb") as f:
+             async with aiofiles.open(filepath, "wb") as f:
                     while True:
                         chunk = await response.content.read(1024)
                         if not chunk:
                             break
                         await f.write(chunk)
-            else:
+            
                 
     except Exception as e:
         print("下载出错:\t", url, repr(e))
