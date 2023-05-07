@@ -9,7 +9,7 @@ import re
 async def download_image(session, url, filepath):
     try:
         async with session.get(url) as response:
-            if response.headers["Content-Type"] == "image/jpeg":
+            
                 async with aiofiles.open(filepath, "wb") as f:
                     while True:
                         chunk = await response.content.read(1024)
@@ -17,7 +17,7 @@ async def download_image(session, url, filepath):
                             break
                         await f.write(chunk)
             else:
-                print(filepath + "下载出错了")
+                
     except Exception as e:
         print("下载出错:\t", url, repr(e))
 
