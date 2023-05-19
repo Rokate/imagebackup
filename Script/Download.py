@@ -7,8 +7,9 @@ import re
 
 
 async def download_image(session, url, filepath):
+    conn=aiohttp.TCPConnector(verify_ssl=False)
     try:
-        async with session.get(url) as response:
+        async with session.get(url,connector=conn) as response:
             if response.headers["Content-Type"] == "image/jpeg":
                 async with aiofiles.open(filepath, "wb") as f:
                     while True:
