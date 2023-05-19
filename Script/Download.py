@@ -47,7 +47,7 @@ async def main(a, b, c):
         ["https://67292b.com/tu/f011.jpg", "a-f011.jpg"],
 
     ]
-    conn=aiohttp.TCPConnector(verify_ssl=False)
+    conn=aiohttp.TCPConnector(ssl=False)
     async with aiohttp.ClientSession(connector=conn) as session:
         tasks = []
         for i, url in enumerate(urls):
