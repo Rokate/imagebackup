@@ -205,7 +205,8 @@ async def ZLW():
         f"{zlwurl}/bbs/1w1mz.js",
         f"{zlwurl}/bbs/yyds2x.js",
     ]
-    async with aiohttp.ClientSession() as session:
+    conn=aiohttp.TCPConnector(ssl=False)
+    async with aiohttp.ClientSession(connector=conn) as session:
         tasks = []
         sem = asyncio.Semaphore(2)
         for i in range(len(zlw)):
@@ -267,7 +268,8 @@ async def LFW():
         f"{lfwurl}/bbs/set.js",
         f"{lfwurl}/bbs/sbb.js",
     ]
-    async with aiohttp.ClientSession() as session:
+    conn=aiohttp.TCPConnector(ssl=False)
+    async with aiohttp.ClientSession(connector=conn) as session:
         tasks = []
         sem = asyncio.Semaphore(10)
         for i in range(len(lfw)):
