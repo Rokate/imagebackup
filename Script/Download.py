@@ -7,9 +7,9 @@ import re
 
 
 async def download_image(session, url, filepath):
-    conn=aiohttp.TCPConnector(verify_ssl=False)
+    
     try:
-        async with session.get(url,connector=conn) as response:
+        async with session.get(url) as response:
             if response.headers["Content-Type"] == "image/jpeg":
                 async with aiofiles.open(filepath, "wb") as f:
                     while True:
@@ -47,7 +47,8 @@ async def main(a, b, c):
         ["https://67292b.com/tu/f011.jpg", "a-f011.jpg"],
 
     ]
-    async with aiohttp.ClientSession() as session:
+    conn=aiohttp.TCPConnector(verify_ssl=False)
+    async with aiohttp.ClientSession(connector=conn) as session:
         tasks = []
         for i, url in enumerate(urls):
             filename = "./Script/Src/" + url[1]
