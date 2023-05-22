@@ -34,15 +34,15 @@ async def main(a, b, c):
         [f"https://www.353583.com/tutu/gd{qishu}.jpg", "a-gd.jpg"],
         [f"https://www.353583.com/tutu/lhwt{qishu}.jpg", "a-lhwt.jpg"],
         [f"https://www.353583.com/tutu/ugyf{qishu}.jpg", "a-ugyf.jpg"],
-        [f"https://49629a.com/img/amhg{qishu}.jpg", "a-amhg.jpg"],
+        [f"https://69760b.com/img/amhg{qishu}.jpg", "a-amhg.jpg"],
 
-        [f"https://49629a.com/img/nm4x8m{qishu}.jpg", "a-nm4x8m.jpg"],
+        [f"https://69760b.com/img/nm4x8m{qishu}.jpg", "a-nm4x8m.jpg"],
         [f"http://123186a.com/gsbtu/baoma{qishu}.jpg", "a-baoma.jpg"],
         [f"http://123186a.com/gsbtu/hdjr{qishu}.jpg", "a-hdjr.jpg"],
-        [f"https://49629a.com/img/jl3x{qishu}.jpg", "a-jl3x.jpg"],
+        [f"https://69760b.com/img/jl3x{qishu}.jpg", "a-jl3x.jpg"],
         [f"https://www.353583.com/tutu/ujcc{qishu}.jpg", "a-ujcc.jpg"],
         [f"https://www.29761b.com/img/djpt{qishu}.jpg", "a-djpt.jpg"],
-        [f"https://49629a.com/img/1xzt{qishu}.jpg", "a-1xzt.jpg"],
+        [f"https://69760b.com/img/1xzt{qishu}.jpg", "a-1xzt.jpg"],
 
         ["https://67292b.com/tu/f011.jpg", "a-f011.jpg"],
 
