@@ -518,7 +518,7 @@ document.writeln("						<span style=\'box-sizing: border-box; font-family:Tahoma
 document.writeln("						<font color=\'#FF0000\'>");
 document.writeln("						&#9772;</font><font color=\'#000000\'>家:马羊狗</font><font color=\'#FF0000\'>&#9772;</font><font color=\'#000000\'>野:龙虎猴</font><font color=\'#FF0000\'>&#9772;</font><font color=\'#008000\'><br>");
 document.writeln("						</font><font color=\'#0099FF\'>");
-document.writeln("												143期</font><font color=\'#000000\'>开:</font></span><font color=\'#FFFFFF\'><span style=\'box-sizing: border-box; font-family:Tahoma; font-size:14pt; background-color:#0099FF\'>发88</span></font><font color=\'#000000\'><span style=\'box-sizing: border-box; font-family:Tahoma; font-size:14pt; background-color:rgb(255, 255, 255)\'>赢!</font></strong></td>");
+document.writeln("												144期</font><font color=\'#000000\'>开:</font></span><font color=\'#FFFFFF\'><span style=\'box-sizing: border-box; font-family:Tahoma; font-size:14pt; background-color:#0099FF\'>发88</span></font><font color=\'#000000\'><span style=\'box-sizing: border-box; font-family:Tahoma; font-size:14pt; background-color:rgb(255, 255, 255)\'>赢!</font></strong></td>");
 document.writeln("</table>");
 
 document.writeln("");
