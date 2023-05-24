@@ -36,7 +36,7 @@ async def main(a, b, c):
         [f"https://www.353583.com/tutu/ugyf{qishu}.jpg", "a-ugyf.jpg"],
         [f"https://69760b.com/img/amhg{qishu}.jpg", "a-amhg.jpg"],
         ["https://xam666.003123.work/js8/tu/4.jpg","a-mj.jpg"],
-        ["https://xam666.003123.work/js8/tu/lxx.png","a-shxg.png"],
+        ["https://xam666.003123.work/js8/tu/lxx.png","a-shxg.jpg"],
         [f"https://69760b.com/img/nm4x8m{qishu}.jpg", "a-nm4x8m.jpg"],
         [f"http://123186a.com/gsbtu/baoma{qishu}.jpg", "a-baoma.jpg"],
         [f"http://123186a.com/gsbtu/hdjr{qishu}.jpg", "a-hdjr.jpg"],
@@ -102,11 +102,11 @@ async def downloadamimg():
 async def downloadxgimg():
     xgimg = [
         [
-            "https://xgtutu.003123.club/index.php?c=3",
+            "https://xgtk.003123.work/index.php?c=119",
             'Title: <a href="(.*?)">马经',
         ],
         [
-            "https://xgtutu.003123.club/index.php?c=17",
+            "https://xgtk.003123.work/index.php?c=17",
             'Title: <a href="(.*?)">守护幸福',
         ],
     ]
