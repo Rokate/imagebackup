@@ -133,7 +133,7 @@ async def downloadxgimg():
                         "sec-ch-ua-platform": '"Windows"',
                     }
                     picfile = await session.get(
-                        "https://xgtutu.003123.club/InterPhoto.image.php" + m2[0],
+                        "https://xgtk.003123.work/InterPhoto.image.php" + m2[0],
                         headers=headers,
                     )
                     async with aiofiles.open(f"./Script/Src/xgpic{pic}.jpg", "wb") as f:
