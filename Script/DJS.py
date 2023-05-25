@@ -1,6 +1,8 @@
 import aiohttp
 import asyncio
+import aiofiles
 import codecs
+import os
 
 
 async def download(session, url, sem, i, contentlist):
@@ -15,7 +17,16 @@ async def download(session, url, sem, i, contentlist):
                 contentlist[i] = text
         except Exception as e:
             print(f"Failed to download {url}: {e}")
-
+            
+async def dlxjw(session, url, sem, filepath):
+    async with sem:
+        try:
+            async with session.get(url) as response:        
+              async with aiofiles.open(filepath, "wb") as f:
+                data = await response.read()
+                await f.write(data)
+        except Exception as e:
+            print(f"Failed to download {url}: {e}")          
 
 async def MHCZ():
     print("mhcz下载。。。")
@@ -93,10 +104,6 @@ async def MHCZ():
 async def XJW():
     print("xjw下载。。。")
     xjwurl = "https://868680.com"
-    jscontent = (
-        '<!DOCTYPE html><html><head><META NAME="ROBOTS" CONTENT="INDEX,NOFOLLOW"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" /><meta name="applicable-device" content="mobile" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="apple-mobile-web-app-status-bar-style" content="black" /><meta content="telephone=no" name="format-detection" /><title>澳门图片</title></head><body><style type="text/css">.box{margin-top:0px;padding: 0px;border: solid 0px #949494;border-radius: 1px;background: #fff;box-shadow: 0 2px 5px rgba(0,0,0,0.1);}</style><h1 align="center" style="color:red ; font-size:50px">'
-        + f'<a href="{xjwurl}">澳门玄机网</a></h1>'
-    )
     xjw = [
         f"{xjwurl}/chajian/%E9%A1%B6%E9%83%A8%E5%85%AD%E8%82%96.js",
         f"{xjwurl}/chajian/%E5%B9%B3%E7%89%B9%E4%B8%80%E8%82%96.js",
@@ -132,17 +139,12 @@ async def XJW():
     async with aiohttp.ClientSession() as session:
         tasks = []
         sem = asyncio.Semaphore(10)
-        for i in range(len(xjw)):
-            task = asyncio.create_task(download(session, xjw[i], sem, i, xjw))
+        for url in xjw:
+            filepath = "./Script/Src/xjw/" + os.path.basename(url)
+            task = asyncio.create_task(dlxjw(session, url, sem, filepath))
             tasks.append(task)
         await asyncio.gather(*tasks)
-    for content in xjw:
-        jscontent = (
-            jscontent
-            + f'<div class="box"><h1 align="center" style="color:red ; font-size:25px">---------分割线---------</h1><script type="text/javascript" charset="gb2312">{content}</script></div>'
-        )
-    with open("./Script/Src/xjw.txt", "w") as f:
-        f.write(jscontent + "</body></html>")
+   
 
 
 async def MRY():
