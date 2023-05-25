@@ -3,6 +3,7 @@ import asyncio
 import aiofiles
 import codecs
 import os
+from urllib.parse import unquote
 
 
 async def download(session, url, sem, i, contentlist):
@@ -144,7 +145,7 @@ async def XJW():
         tasks = []
         sem = asyncio.Semaphore(10)
         for url in xjw:
-            filename = os.path.basename(url)
+            filename = unquote(os.path.basename(url), 'utf-8')
             jscontent = (
             jscontent
             + f'<div class="box"><h1 align="center" style="color:red ; font-size:25px">---------分割线---------</h1><script type="text/javascript" src="https://jsd.cdn.zzko.cn/gh/Rokate/imagebackup@main/Script/Src/xjw/{filename}"  charset="gb2312"></script></div>'
