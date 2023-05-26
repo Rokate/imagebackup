@@ -26,8 +26,8 @@ document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>147期:<font color=\'#008000\'>【精解管家婆一句话】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【更新中】【更新中】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：更新中。综合取肖</font><font color=\'#FF0000\' size=\'4\'>更新中</font><font color=\'#0000FF\' size=\'4\'>   本期平特更新中。<br>本期取码：更新中</td></tr>");
+document.writeln("		</font><font color=\'#6600CC\'>【铁扇公主找魔王】【小肚鸡肠】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：铁扇公主找魔王解料：铁扇公主找魔王，解女肖，兔蛇羊鸡猪，牛。解肖：兔蛇羊鸡猪牛。综合取肖</font><font color=\'#FF0000\' size=\'4\'>兔蛇羊鸡猪牛</font><font color=\'#0000FF\' size=\'4\'>   本期平特25.13.23.35.33.45.07.31.41.17.03.27。<br>本期取码：鸡</td></tr>");
 document.writeln("		");
 document.writeln("");
 

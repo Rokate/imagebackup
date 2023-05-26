@@ -26,9 +26,9 @@ document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>147期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
-document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>今期绿波行大运，家有六畜家中旺。横财可发定富足，财神送来三五六。龙王落水取灵码，一三五二八合到。佳成一唱好才文，鲜鱼只愿水中养。<br>");
+document.writeln("		【净几明窗】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:兔蛇龙猴马虎狗牛<br>主特六肖：兔蛇龙猴马虎</font></b></font></td></tr>");
 document.writeln("");
 
  
