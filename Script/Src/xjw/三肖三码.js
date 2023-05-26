@@ -29,12 +29,20 @@ document.writeln("		");
 document.writeln("		");
 
 
+
+document.writeln("						<tr>");
+document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("		<p align=\'center\'>");
+document.writeln("	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>147期:<font color=\'#FF00FF\'>《牛龙兔》</font><font color=\'#008000\'>（39 12 13）</font><font color=\'#0000FF\'>开？00中</font></font></span></div>	");
+document.writeln("	");
+
 document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("	");
 document.writeln("		<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>146期:<font color=\'#FF00FF\'>《虎猪猴》</font><font color=\'#008000\'>（14 41 08）</font><font color=\'#0000FF\'>开？00中</font></font></span></td></tr>");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>146期:<font color=\'#FF00FF\'>《<span style=\'background-color: #FFFF00\'>虎</span>猪猴》</font><font color=\'#008000\'>（<span style=\'background-color: #FFFF00\'>14</span> 41 08）</font><font color=\'#0000FF\'>开虎14中</font></font></span></td></tr>");
 document.writeln("			");
 
  

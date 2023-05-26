@@ -19,16 +19,19 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 document.writeln("");
 
+
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>146期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>今期生肖找桃花，老大老二定在家。二六三七正当时，一定身边有特码。二七六五本期连，三门有数必中特。元帅西征平叛乱，单数出特不稀奇。<br>");
-document.writeln("		【光杆司令】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:羊鸡牛猴鼠狗猪龙<br>主特六肖：羊鸡牛猴鼠狗</font></b></font></td></tr>");
+document.writeln("		<span><font size=\'4\'>147期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
+document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
 document.writeln("");
+
+ 
 
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
