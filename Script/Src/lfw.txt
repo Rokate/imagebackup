@@ -2633,7 +2633,7 @@ document.writeln("<tr><td height=40><p style=text-align:center><strong>");
 document.writeln("			<a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949/\' style=\'text-decoration: none\'><span style=font-family:楷体;font-size:16pt;color:#00f>查看最早图纸进入</span><span style=font-family:楷体;font-size:16pt;><font color=\'#FF0000\'>49图库</font></span></a></strong></tr>");
 document.writeln("");
 document.writeln("						");
-document.writeln("															");
+document.writeln("			</table></body>");
 document.writeln("								");</script></div><div><script type="text/javascript" charset="gb2312">﻿document.writeln("<table border=\'0\' width=\'100%\' bgcolor=\'#ffffff\'><tbody>");
 document.writeln("<td style=\'border:1px double #000080\' bgcolor=\'#000080\' height=\'30\'><p align=center>");
 document.writeln("<b><font face=\'楷体\' size=\'6\' color=\'#FF00FF\'>");
@@ -2845,12 +2845,9 @@ document.writeln("	");
 document.writeln("");
 document.writeln("			");
 document.writeln("	");
-document.writeln("	");
-document.writeln("<tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' href=\'https://lt2023.lanbods.com:4949/\' style=\'text-decoration: none\'><span style=font-family:楷体;font-size:16pt;color:#00f>查看最早图纸进入</span><span style=font-family:楷体;font-size:16pt;><font color=\'#FF0000\'>49图库</font></span></a></strong></tr>");
-document.writeln("			");
+
 document.writeln("");
-document.writeln("	");
+
 document.writeln("</body>");
 document.writeln("</html>");</script></div><div><script type="text/javascript" charset="gb2312">﻿document.writeln("<html>");
 document.writeln("");
