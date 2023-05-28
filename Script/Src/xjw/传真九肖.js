@@ -26,9 +26,9 @@ document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>149期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
-document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>今期四六合数开，四六喜逢财神到。金鸡报晓在三更，运转乾坤化吉祥。美好良辰客归来，春风一度过天涯。五走九后归一出，六六大顺三八来。<br>");
+document.writeln("		【白费心机】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:狗虎蛇猴鸡龙牛猪<br>主特六肖：狗虎蛇猴鸡龙</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
