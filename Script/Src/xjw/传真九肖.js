@@ -25,10 +25,21 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>148期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>149期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
+document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("");
+
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p align=\'left\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>148期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开兔01</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#0000FF\'>今期牛羊鸡猪开，双数兔马狗必中。看双看单还须定，心水还需自己抓。元宵十五好佳节，农夫家里出千金。叶公好龙人人知，一三不减九回头。<br>");
 document.writeln("		【少吃缺穿】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:羊猴狗龙鼠牛虎兔<br>主特六肖：羊猴狗龙鼠牛</font></b></font></td></tr>");
+document.writeln("				特围生肖:羊猴狗龙鼠牛虎<span style=\'background-color: #FFFF00\'>兔</span><br>主特六肖：羊猴狗龙鼠牛</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
