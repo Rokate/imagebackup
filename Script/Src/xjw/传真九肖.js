@@ -26,9 +26,9 @@ document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>151期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
-document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>今期特码在两头，四一二九来得猪。二六四尾不得九，惊天动地跃四间。二五四七发大财，红波定在中间发。特码自然双数来，眼前机会特码在。<br>");
+document.writeln("		【任人摆弄】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:虎兔牛猴羊猪马鼠<br>主特六肖：虎兔牛猴羊猪</font></b></font></td></tr>");
 document.writeln("");
  
 document.writeln("	<tr>");
