@@ -18,13 +18,11 @@ document.writeln("<table style=border-collapse:collapse border=0 width=100%><tbo
 
 document.writeln("<td style=\'border:10px double #06ae44\' bgcolor=\'#06ae44\' height=\'30\'><p align=center>");
 
-
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	150期<font color=\'#0000FF\'>【鼠鸡龙兔猴蛇】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
+document.writeln("	151期<font color=\'#0000FF\'>【龙鸡鼠猪猴狗】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
