@@ -37,45 +37,23 @@ document.writeln("	<tbody style=\'box-sizing: border-box;\'>");
 document.writeln(" ");
 document.writeln("");
 
-document.writeln("");
-document.writeln(" <!--开始-->");
+document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=left><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#0000FF\'>149期【战澳团队━以\'稳\'闻名】开？00准</font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>150期【战澳团队━以\'稳\'闻名】开？00准</font></b></font></table>");
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=left><b><font size=\'4\' face=\'楷体\'>");
-document.writeln("	团队十肖：鼠猴马羊虎狗兔猪龙鸡<br>");
-document.writeln("	团队八尾：01345678<br>");
-document.writeln("    团队四头：0124<br>");
+document.writeln("	团队十肖：龙牛马羊虎猪鼠鸡猴蛇<br>");
+document.writeln("	团队八尾：01345789<br>");
+document.writeln("    团队四头：0123<br>");
 document.writeln("    团队四行：金木火土");
 document.writeln("    </font></b></font></table>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=left><b><font face=\'楷体\'>综合围特：01 04 05 06 07 08 10 13 14 16 17 18 21 24 25 26 40 43 44 45 46 48</font></b></font></table>");
-document.writeln("		");
-document.writeln("	<!--结束-->");
-
- 
-document.writeln("");
-document.writeln("	<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=left><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#0000FF\'>146期【战澳团队━以\'稳\'闻名】开虎14准</font></b></font></table>");
-document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=left><b><font size=\'4\' face=\'楷体\'>");
-document.writeln("	团队十肖：鼠蛇马羊虎狗猪龙牛鸡<br>");
-document.writeln("	团队八尾：01456789<br>");
-document.writeln("    团队四头：1234<br>");
-document.writeln("    团队四行：木水火土");
-document.writeln("    </font></b></font></table>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=left><b><font face=\'楷体\'>综合围特：11 <span style=\'background-color: #FFFF00\'>14</span> 15 16 17 18 19 21 26 27 28 29 30 34 35 36 38 41 45 46 47 48</font></b></font></table>");
+document.writeln("	<td width=100% height=40><p align=left><b><font face=\'楷体\'>综合围特：03 04 05 07 08 09 10 14 15 17 21 23 24 29 31 33 34 35 38 39</font></b></font></table>");
 document.writeln("		");
 document.writeln("	<!--结束-->");
 document.writeln("");
-
-  
  
 document.writeln("");
 document.writeln("");

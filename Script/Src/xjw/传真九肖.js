@@ -25,12 +25,13 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>149期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>今期四六合数开，四六喜逢财神到。金鸡报晓在三更，运转乾坤化吉祥。美好良辰客归来，春风一度过天涯。五走九后归一出，六六大顺三八来。<br>");
-document.writeln("		【白费心机】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:狗虎蛇猴鸡龙牛猪<br>主特六肖：狗虎蛇猴鸡龙</font></b></font></td></tr>");
+document.writeln("		<span><font size=\'4\'>150期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>今期生肖牛羊马，蟾宫玉兔上瑶台。万事丛中一点红，二九之码可以加。梁山好汉是英雄，三人四六出灵码。只手遮天是叛贼，木兰从军为父志。<br>");
+document.writeln("		【反咬一口】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:蛇鼠龙马鸡猪羊猴<br>主特六肖：蛇鼠龙马鸡猪</font></b></font></td></tr>");
 document.writeln("");
 
+ 
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
