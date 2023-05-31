@@ -2271,7 +2271,7 @@ document.writeln("<tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'\'><b>151<font color=\'#008000\'>ƽͶ</font><font color=\'#800000\'>{43.35.00}</font>׼</b></font></td></tr>");
 document.writeln("	<tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 16pt\'><br>ߡ</font></b></font></td></tr>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 16pt\'><span style=\'background-color: #FFFF00\'></span><br><span style=\'background-color: #FFFF00\'></span><span style=\'background-color: #FFFF00\'></span></font></b></font></td></tr>");
 document.writeln("	");
 document.writeln("	");
 document.writeln("	</table>");
