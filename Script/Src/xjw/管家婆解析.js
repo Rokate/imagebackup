@@ -19,14 +19,26 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\'/chajiansb.js\' charset=\'utf-8\'></script>");
 
+
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>152期:<font color=\'#008000\'>【精解管家婆一句话】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>153期:<font color=\'#008000\'>【精解管家婆一句话】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#6600CC\'>【更新中】【更新中】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：更新中。综合取肖</font><font color=\'#FF0000\' size=\'4\'>更新中</font><font color=\'#0000FF\' size=\'4\'>   本期平特更新中。<br>本期取码：更新中</td></tr>");
+document.writeln("		");
+document.writeln("");
+
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p align=\'left\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>152期:<font color=\'#008000\'>【精解管家婆一句话】</font><font color=\'#FF0000\'>开龙12</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#6600CC\'>【四大才子中状元】【五马分尸】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：四大才子中状元解料：四大才子中状元，才子，龙虎猪；状元，马蛇。解肖：龙虎猪马蛇猴。综合取肖</font><font color=\'#FF0000\' size=\'4\'>龙虎猪马蛇猴</font><font color=\'#0000FF\' size=\'4\'>   本期平特马。<br>本期取码：12.24.02.38.05.27.22.34.11.47.44.32</td></tr>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：四大才子中状元解料：四大才子中状元，才子，龙虎猪；状元，马蛇。解肖：龙虎猪马蛇猴。综合取肖</font><font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>龙</span>虎猪马蛇猴</font><font color=\'#0000FF\' size=\'4\'>   本期平特马。<br>本期取码：<span style=\'background-color: #FFFF00\'>12</span>.24.02.38.05.27.22.34.11.47.44.32</td></tr>");
 document.writeln("		");
 
 document.writeln("	<tr>");
