@@ -62,7 +62,7 @@ document.writeln("    ");
 document.writeln("    	<tr>");
 document.writeln("      <td align=\'left\' height=28 bgcolor=\'#0000FF\' ><p><b>");
 document.writeln("		<font face=\'微软雅黑\' size=\'2\'>");
-document.writeln("		<a target=\'_blank\' href=\'https://j.1999zx.com:1999/\' style=\'text-decoration: none\'>");
+document.writeln("		<a target=\'_blank\' href=\'https://j.1999xz.com:1999/\' style=\'text-decoration: none\'>");
 document.writeln("		<font color=\'#FFFFFF\'>关注玄机网</font></font><font color=\'#FFFF00\' size=\'4\' face=\'微软雅黑\'>868680.com</font><font color=\'#FFFFFF\' face=\'微软雅黑\' size=\'2\'>最早看料</font></a><font face=\'微软雅黑\' size=\'2\'><font color=\'#FFFFFF\'> </font>  ");
 document.writeln("		</font>  ");
 document.writeln("		</b> </td>");
