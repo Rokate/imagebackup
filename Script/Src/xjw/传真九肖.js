@@ -19,15 +19,27 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 document.writeln("");
 
+
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>153期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>154期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
+document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("");
+
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p align=\'left\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>153期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开鸡19</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#0000FF\'>今期生肖守门庭，三二四七三二码。火木金袋装满钱，问五今秋几时黄。买码还需看牛羊，神机妙算得特码，鼠后灵牛头发角，明镜高悬四海清。<br>");
 document.writeln("		【刻鹄不成】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:龙蛇兔鸡虎马羊猴<br>主特六肖：龙蛇兔鸡虎马</font></b></font></td></tr>");
+document.writeln("				特围生肖:龙蛇兔<span style=\'background-color: #FFFF00\'>鸡</span>虎马羊猴<br>主特六肖：龙蛇兔<span style=\'background-color: #FFFF00\'>鸡</span>虎马</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");

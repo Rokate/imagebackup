@@ -33,75 +33,13 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'><strong>153期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开？00</strong></font><font color=\'#008000\'><strong><br>");
+document.writeln("		<span><font size=\'4\'><strong>154期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开？00</strong></font><font color=\'#008000\'><strong><br>");
 document.writeln("		</strong>");
-document.writeln("		</font><font color=\'#FF00FF\'><strong>花开不并百花丛,独立疏篱趣未穷</strong></font><strong><br>");
+document.writeln("		</font><font color=\'#FF00FF\'><strong>映日荷花别样红,淡妆浓抹总相宜</strong></font><strong><br>");
 document.writeln("		</strong><strong><font color=\'#6600CC\'>");
-document.writeln("		解:句中大意菊花盛开在秋天，从不与百花为伍，独立在稀疏的篱笆旁，情操意趣并未衰穷。独解独肖鼠牛虎兔马羊。<br>");
-document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>鼠牛虎兔马羊</span></strong></font></td></tr>");
+document.writeln("		解:荷花解荷花牛,样解羊,妆解女肖蛇羊兔鸡猪。<br>");
+document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>牛蛇羊兔鸡猪</span></strong></font></td></tr>");
 document.writeln("");
-
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p align=\'left\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'><strong>150期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开狗06</strong></font><font color=\'#008000\'><strong><br>");
-document.writeln("		</strong>");
-document.writeln("		</font><font color=\'#FF00FF\'><strong>昨夜笙歌容易散,酒醒添得愁无限</strong></font><strong><br>");
-document.writeln("		</strong><strong><font color=\'#6600CC\'>");
-document.writeln("		解:句中大意梅落繁枝千万片，犹自多情，学雪随风转。昨夜笙歌容易散，酒醒添得愁无限。夜解夜肖鼠牛虎鸡狗猪<br>");
-document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>鼠牛虎鸡<span style=\'background-color: #FFFF00\'>狗</span>猪</span></strong></font></td></tr>");
-document.writeln("");
-document.writeln("");
-
-document.writeln("");
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p align=\'left\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'><strong>149期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开羊33</strong></font><font color=\'#008000\'><strong><br>");
-document.writeln("		</strong>");
-document.writeln("		</font><font color=\'#FF00FF\'><strong>洛阳城里见秋风，欲作家书意万重</strong></font><strong><br>");
-document.writeln("		</strong><strong><font color=\'#6600CC\'>");
-document.writeln("		解:阳解阳肖，鸡兔牛羊虎猴，秋解秋肖，猴狗鸡 ，风解风肖，虎龙兔。<br>");
-document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>鸡兔牛<span style=\'background-color: #FFFF00\'>羊</span>虎猴</span></strong></font></td></tr>");
-document.writeln("");
-
- 
-
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p align=\'left\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'><strong>147期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开马22</strong></font><font color=\'#008000\'><strong><br>");
-document.writeln("		</strong>");
-document.writeln("		</font><font color=\'#FF00FF\'><strong>冲天香阵透长安，满城尽带黄金甲</strong></font><strong><br>");
-document.writeln("		</strong><strong><font color=\'#6600CC\'>");
-document.writeln("		解:天解天肖，兔马猴猪牛龙。<br>");
-document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>兔<span style=\'background-color: #FFFF00\'>马</span>猴猪牛龙</span></strong></font></td></tr>");
-document.writeln("");
-
- 
-
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p align=\'left\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'><strong>144期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开兔37</strong></font><font color=\'#008000\'><strong><br>");
-document.writeln("		</strong>");
-document.writeln("		</font><font color=\'#FF00FF\'><strong>关河冻合东西路，肠断斑骓送陆郎</strong></font><strong><br>");
-document.writeln("		</strong><strong><font color=\'#6600CC\'>");
-document.writeln("		解:东解东肖，虎兔龙。西解西肖，鸡狗猴。<br>");
-document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>虎<span style=\'background-color: #FFFF00\'>兔</span>龙鸡狗猴</span></strong></font></td></tr>");
-document.writeln("");
-document.writeln("");
-
- 
- 
  
  
 

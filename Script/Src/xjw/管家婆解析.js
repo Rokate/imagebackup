@@ -19,15 +19,24 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\'/chajiansb.js\' charset=\'utf-8\'></script>");
 
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p align=\'left\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>154期:<font color=\'#008000\'>【精解管家婆一句话】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#6600CC\'>【更新中】【更新中】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：更新中。综合取肖</font><font color=\'#FF0000\' size=\'4\'>更新中</font><font color=\'#0000FF\' size=\'4\'>   本期平特更新中。<br>本期取码：更新中</td></tr>");
+document.writeln("		");
 
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>153期:<font color=\'#008000\'>【精解管家婆一句话】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>153期:<font color=\'#008000\'>【精解管家婆一句话】</font><font color=\'#FF0000\'>开鸡19</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#6600CC\'>【红色梅花三六九】【守株待兔】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：红色梅花三六九，红，红肖，马兔鼠鸡；三六九，牛狗羊。解肖：马兔鼠鸡牛狗羊。综合取肖</font><font color=\'#FF0000\' size=\'4\'>马兔鼠鸡牛狗羊</font><font color=\'#0000FF\' size=\'4\'>   本期平特兔。<br>本期取码：10.22.37.49.04.28.19.31.03.15.18.45</td></tr>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：红色梅花三六九，红，红肖，马兔鼠鸡；三六九，牛狗羊。解肖：马兔鼠鸡牛狗羊。综合取肖</font><font color=\'#FF0000\' size=\'4\'>马兔鼠<span style=\'background-color: #FFFF00\'>鸡</span>牛狗羊</font><font color=\'#0000FF\' size=\'4\'>   本期平特兔。<br>本期取码：10.22.37.49.04.28.<span style=\'background-color: #FFFF00\'>19</span>.31.03.15.18.45</td></tr>");
 document.writeln("		");
 document.writeln("");
 

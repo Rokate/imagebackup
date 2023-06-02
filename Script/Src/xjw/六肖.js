@@ -18,31 +18,11 @@ document.writeln("<table style=border-collapse:collapse border=0 width=100%><tbo
 
 document.writeln("<td style=\'border:10px double #06ae44\' bgcolor=\'#06ae44\' height=\'30\'><p align=center>");
 
-
-document.writeln("		<!--开始-->");
+document.writeln("			<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	153期<font color=\'#0000FF\'>【兔羊龙牛马狗】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
+document.writeln("	154期<font color=\'#0000FF\'>【鼠狗马兔龙鸡】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	151期<font color=\'#0000FF\'>【龙鸡鼠猪猴<span style=\'background-color: #FFFF00\'>狗</span>】</font><font color=\'#FF00FF\'>开狗30准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	149期<font color=\'#0000FF\'>【虎鸡龙<span style=\'background-color: #FFFF00\'>羊</span>猪马】</font><font color=\'#FF00FF\'>开羊33准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
- 
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	146期<font color=\'#0000FF\'>【狗<span style=\'background-color: #FFFF00\'>虎</span>牛鸡猴兔】</font><font color=\'#FF00FF\'>开虎14准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
  
  
 document.writeln("			");
