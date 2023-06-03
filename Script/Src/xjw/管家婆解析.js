@@ -24,9 +24,19 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>154期:<font color=\'#008000\'>【精解管家婆一句话】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>155期:<font color=\'#008000\'>【精解管家婆一句话】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#6600CC\'>【更新中】【更新中】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：更新中。综合取肖</font><font color=\'#FF0000\' size=\'4\'>更新中</font><font color=\'#0000FF\' size=\'4\'>   本期平特更新中。<br>本期取码：更新中</td></tr>");
+document.writeln("		");
+
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p align=\'left\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>154期:<font color=\'#008000\'>【精解管家婆一句话】</font><font color=\'#FF0000\'>开牛03</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#6600CC\'>【三人四六出灵码】【杯弓蛇影】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：三人四六出灵码解料：三牛四鼠六狗34马36龙43鸡。解肖：牛鼠狗马龙鸡。综合取肖</font><font color=\'#FF0000\' size=\'4\'>牛鼠狗马龙鸡</font><font color=\'#0000FF\' size=\'4\'>   本期平特蛇。<br>本期取码：15.27.16.28.18.30.22.34.36.48.19.43</td></tr>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：三人四六出灵码解料：三牛四鼠六狗34马36龙43鸡。解肖：牛鼠狗马龙鸡。综合取肖</font><font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>牛</span>鼠狗马龙鸡</font><font color=\'#0000FF\' size=\'4\'>   本期平特蛇。<br>本期取码：15.27.16.28.18.30.22.34.36.48.19.43</td></tr>");
 document.writeln("		");
 
 document.writeln("	<tr>");
