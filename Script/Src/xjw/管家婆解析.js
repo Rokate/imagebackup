@@ -25,8 +25,8 @@ document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>155期:<font color=\'#008000\'>【精解管家婆一句话】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【更新中】【更新中】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：更新中。综合取肖</font><font color=\'#FF0000\' size=\'4\'>更新中</font><font color=\'#0000FF\' size=\'4\'>   本期平特更新中。<br>本期取码：更新中</td></tr>");
+document.writeln("		</font><font color=\'#6600CC\'>【三来见五并二数】【生龙活虎】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：三来见五并二数解料：三牛五猪二虎23蛇32猴25兔。解肖：牛猪虎蛇猴兔。综合取肖</font><font color=\'#FF0000\' size=\'4\'>牛猪虎蛇猴兔</font><font color=\'#0000FF\' size=\'4\'>   本期平特龙虎。<br>本期取码：27.39.05.41.02.14.11.35.32.44.13.25</td></tr>");
 document.writeln("		");
 
 document.writeln("	<tr>");

@@ -26,9 +26,9 @@ document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>155期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
-document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>今期特码应买三，二三组合有玄机。绿波有特兼防红，可憐天下父母心。未曾得向行人道，叛国投敌祸社程，特码就在中间开，灵蛇鼠洞一湖天。<br>");
+document.writeln("		【有一手儿】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:猴狗马鼠蛇龙鸡羊<br>主特六肖：猴狗马鼠蛇龙</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
