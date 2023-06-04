@@ -29,12 +29,21 @@ document.writeln("		");
 document.writeln("		");
 
 
+
 document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("	");
 document.writeln("		<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>155期:<font color=\'#FF00FF\'>《虎兔鸡》</font><font color=\'#008000\'>（26 49 31）</font><font color=\'#0000FF\'>开？00中</font></font></span></td></tr>");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>156期:<font color=\'#FF00FF\'>《猪马羊》</font><font color=\'#008000\'>（05 46 21）</font><font color=\'#0000FF\'>开？00中</font></font></span></td></tr>");
+document.writeln("	");
+
+document.writeln("				<tr>");
+document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("	");
+document.writeln("		<p align=\'center\'>");
+document.writeln("	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>155期:<font color=\'#FF00FF\'>《虎兔<span style=\'background-color: #FFFF00\'>鸡</span>》</font><font color=\'#008000\'>（26 49 31）</font><font color=\'#0000FF\'>开鸡07中</font></font></span></td></tr>");
 document.writeln("	");
 
 document.writeln("						<tr>");
