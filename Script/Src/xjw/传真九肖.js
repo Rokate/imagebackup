@@ -26,9 +26,9 @@ document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>157期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
-document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>今期生肖土在头，梅花香自苦寒来。青山绿水好风光，六六大顺出特码。梁山好汉是英雄，三人四六出灵码。只手遮天是叛贼，木兰从军为父志。<br>");
+document.writeln("		【演古劝今】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:蛇马猴牛鸡羊兔龙<br>主特六肖：蛇马猴牛鸡羊</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
