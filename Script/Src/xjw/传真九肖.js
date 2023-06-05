@@ -25,10 +25,21 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>156期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>157期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
+document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("");
+
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p align=\'left\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>156期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开鸡43</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#0000FF\'>今期土木生肖头，有土生木千目流。绿红生肖合七数，六九四七合特码。一到开码心自知，今期包你中大奖。一二相伴双数出，四季常青财运旺。<br>");
 document.writeln("		【熟人熟事】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:猴鸡牛蛇狗虎猪羊<br>主特六肖：猴鸡牛蛇狗虎</font></b></font></td></tr>");
+document.writeln("				特围生肖:猴<span style=\'background-color: #FFFF00\'>鸡</span>牛蛇狗虎猪羊<br>主特六肖：猴<span style=\'background-color: #FFFF00\'>鸡</span>牛蛇狗虎</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
