@@ -148,7 +148,7 @@ async def XJW():
             filename = unquote(os.path.basename(url), 'utf-8')
             jscontent = (
             jscontent
-            + f'<div class="box"><h1 align="center" style="color:red ; font-size:25px">---------分割线---------</h1><script type="text/javascript" src="https://raw.iqiq.io/Rokate/imagebackup/main/Script/Src/xjw/{filename}"  charset="gb2312"></script></div>'
+            + f'<div class="box"><h1 align="center" style="color:red ; font-size:25px">---------分割线---------</h1><script type="text/javascript" src="https://fastly.jsdelivr.net/gh/Rokate/imagebackup@main/Script/Src/xjw/{filename}"  charset="gb2312"></script></div>'
         )
             filepath = "./Script/Src/xjw/" + filename
             task = asyncio.create_task(dlxjw(session, url, sem, filepath))
