@@ -26,9 +26,9 @@ document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>158期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
-document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>今期特码定荷花，二九合成桂花香。二牛六蛇合八码，蓝绿二色开特码。十二生肖中一个，开过一门又一门。六合中间问缘分，时来运转码中游。<br>");
+document.writeln("		【锦上添花】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:虎蛇羊鼠兔狗龙猴<br>主特六肖：虎蛇羊鼠兔狗</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
