@@ -26,9 +26,9 @@ document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>160期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
-document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>今期生肖六六来，七九一起二在上。红云飘影千秋歌，金鸡报晓在三更。不劳而获极机智，向上三期博六合，牛马羊猪有希望，天生却是红屁股。<br>");
+document.writeln("		【数以万计】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:兔龙鼠狗牛羊蛇马<br>主特六肖：兔龙鼠狗牛羊</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
