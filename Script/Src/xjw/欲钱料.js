@@ -24,13 +24,19 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 document.writeln("			");
 document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\'/chajiansb.js\' charset=\'utf-8\'></script>");
 
+document.writeln("												<tr>");
+document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("			<p align=\'center\'>");
+document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>160期:<font color=\'#FF00FF\'>【欲钱买跑得很快的生肖】</font><font color=\'#0000FF\'>开？00中</font></td></tr>");
+document.writeln("");
+document.writeln("");
 
 document.writeln("");
 document.writeln("");
 document.writeln("											<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("			<p align=\'center\'>");
-document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>159期:<font color=\'#FF00FF\'>【欲钱买锦衣姿意的生肖】</font><font color=\'#0000FF\'>开？00中</font></td></tr>");
+document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>159期:<font color=\'#FF00FF\'>【欲钱买锦衣姿意的生肖】</font><font color=\'#0000FF\'>开虎14中</font></td></tr>");
 document.writeln("");
 
 document.writeln("");
