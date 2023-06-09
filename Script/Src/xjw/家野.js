@@ -8,48 +8,13 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\'/chajiansb.js\' charset=\'utf-8\'></script>");
 
 
-document.writeln("		<tr>");
+document.writeln("					<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'><p><span>		<b>");
 document.writeln("	");
-document.writeln("		<font size=\'4\'>160期:<font color=\'#008000\'>家野中特</font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>【野野野】</span></font><font color=\'#FF0000\'>开？00</font></font></b></td>");
+document.writeln("		<font size=\'4\'>161期:<font color=\'#008000\'>家野中特</font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>【家家家】</span></font><font color=\'#FF0000\'>开？00</font></font></b></td>");
 document.writeln("		</tr>");
 document.writeln("		");
-
-document.writeln("		<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'><p><span>		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>157期:<font color=\'#008000\'>家野中特</font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>【野野野】</span></font><font color=\'#FF0000\'>开猴44</font></font></b></td>");
-document.writeln("		</tr>");
-document.writeln("		");
-
-document.writeln("		<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'><p><span>		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>156期:<font color=\'#008000\'>家野中特</font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>【家家家】</span></font><font color=\'#FF0000\'>开鸡43</font></font></b></td>");
-document.writeln("		</tr>");
-
  
-
-document.writeln("		<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'><p><span>		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>154期:<font color=\'#008000\'>家野中特</font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>【家家家】</span></font><font color=\'#FF0000\'>开牛03</font></font></b></td>");
-document.writeln("		</tr>");
-document.writeln("");
-
-document.writeln("			<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'><p><span>		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>153期:<font color=\'#008000\'>家野中特</font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>【家家家】</span></font><font color=\'#FF0000\'>开鸡19</font></font></b></td>");
-document.writeln("		</tr>");
-
-document.writeln("		<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'><p><span>		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>152期:<font color=\'#008000\'>家野中特</font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>【野野野】</span></font><font color=\'#FF0000\'>开龙12</font></font></b></td>");
-document.writeln("		</tr>");
-document.writeln("		");
-
  
 
 document.writeln("<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");

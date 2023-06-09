@@ -20,12 +20,18 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\'/chajiansb.js\' charset=\'utf-8\'></script>");
 
+document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<p>");
+document.writeln("		<b>");
+document.writeln("		<font size=\'4\'>");
+document.writeln("		<span>161期:<font color=\'#008000\'>无错七尾</font>【2068943】</span><font color=\'#FF0000\'>开？00</font></font></b></td></tr>");
+document.writeln("		");
 
 document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("		<p>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>160期:<font color=\'#008000\'>无错七尾</font>【3890127】</span><font color=\'#FF0000\'>开？00</font></font></b></td></tr>");
+document.writeln("		<span>160期:<font color=\'#008000\'>无错七尾</font>【38901<span style=\'background-color: #FFFF00\'>2</span>7】</span><font color=\'#FF0000\'>开狗42</font></font></b></td></tr>");
 document.writeln("		");
 
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");

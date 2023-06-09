@@ -29,6 +29,7 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\'/chajiansb.js\' charset=\'utf-8\'></script>");
 
 
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("	<tr>");
@@ -36,9 +37,10 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>160期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【隧】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开？00</font></span><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#006600\'>解特：02 03 04 05 06 07 08 09 10 11 12 13 14 16 17 18 19 20 21 22 23</font></font></span></td></tr>");
+document.writeln("		<span><font size=\'4\'>161期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【骑】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开？00</font></span><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#006600\'>解特： 02 03 04 05 06 07 27 28 29 30 31 34 35 36 37 39 40 41 42 43</font></font></span></td></tr>");
 document.writeln("<!--结束-->");
+ 
 document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("	<tr>");
