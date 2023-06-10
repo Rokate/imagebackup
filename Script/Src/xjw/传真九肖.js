@@ -26,9 +26,9 @@ document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>162期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
-document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>今期生肖出江河，二八结伴三寻乐。红蓝今期任你选，有头有尾要买牛。初生牛儿不怕虎，早春二月柳叶垂，特码出在龙马身，捧小三码中头彩。<br>");
+document.writeln("		【小康人家】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:鸡狗蛇虎龙猴鼠猪<br>主特六肖：鸡狗蛇虎龙猴</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
