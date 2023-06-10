@@ -25,10 +25,21 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>161期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>162期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
+document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("");
+
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p align=\'left\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>161期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开猪05</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#0000FF\'>今期特码土中金，三流九教江湖客。蓝波看好中本期，三五二回两合数。财源广进你家门，一唱一合走天下。万事如意呈吉祥，今期特码开猪羊。<br>");
 document.writeln("		【气数已尽】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:羊马猪狗蛇兔鼠虎<br>主特六肖：羊马猪狗蛇兔</font></b></font></td></tr>");
+document.writeln("				特围生肖:羊马<span style=\'background-color: #FFFF00\'>猪</span>狗蛇兔鼠虎<br>主特六肖：羊马<span style=\'background-color: #FFFF00\'>猪</span>狗蛇兔</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");

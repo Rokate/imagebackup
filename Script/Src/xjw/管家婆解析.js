@@ -25,9 +25,19 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>161期:<font color=\'#008000\'>【精解管家婆一句话】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>162期:<font color=\'#008000\'>【精解管家婆一句话】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#6600CC\'>【更新中】【更新中】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：更新中。综合取肖</font><font color=\'#FF0000\' size=\'4\'>更新中</font><font color=\'#0000FF\' size=\'4\'>   本期平特更新中。<br>本期取码：更新中</td></tr>");
+document.writeln("		");
+
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p align=\'left\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>161期:<font color=\'#008000\'>【精解管家婆一句话】</font><font color=\'#FF0000\'>开猪05</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#6600CC\'>【一五尾数有玄机】【一马当先】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：一五尾数有玄机，一五尾，解单肖，牛羊兔蛇鸡猪。综合取肖</font><font color=\'#FF0000\' size=\'4\'>牛羊兔蛇鸡猪</font><font color=\'#0000FF\' size=\'4\'>   本期平特马。<br>本期取码：03.39.09.33.25.37.11.47.07.19.05.41</td></tr>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：一五尾数有玄机，一五尾，解单肖，牛羊兔蛇鸡猪。综合取肖</font><font color=\'#FF0000\' size=\'4\'>牛羊兔蛇鸡<span style=\'background-color: #FFFF00\'>猪</span></font><font color=\'#0000FF\' size=\'4\'>   本期平特马。<br>本期取码：03.39.09.33.25.37.11.47.07.19.<span style=\'background-color: #FFFF00\'>05</span>.41</td></tr>");
 document.writeln("		");
 
 document.writeln("	<tr>");

@@ -28,18 +28,31 @@ document.writeln("		");
 document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\'/chajiansb.js\' charset=\'utf-8\'></script>");
 
 
+document.writeln("");
+document.writeln("						<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p align=\'left\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'><strong>162期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开？00</strong></font><font color=\'#008000\'><strong><br>");
+document.writeln("		</strong>");
+document.writeln("		</font><font color=\'#FF00FF\'><strong>天生我材必有用，千金散尽还复来</strong></font><strong><br>");
+document.writeln("		</strong><strong><font color=\'#6600CC\'>");
+document.writeln("		解:天解天肖，兔马猴猪牛龙，金解金肖，猴鸡。<br>");
+document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>兔马猴猪鸡龙</span></strong></font></td></tr>");
+document.writeln("");
 
 document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'><strong>161期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开？00</strong></font><font color=\'#008000\'><strong><br>");
+document.writeln("		<span><font size=\'4\'><strong>161期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开猪05</strong></font><font color=\'#008000\'><strong><br>");
 document.writeln("		</strong>");
 document.writeln("		</font><font color=\'#FF00FF\'><strong>晓风不散愁千点，宿雨还添泪一痕</strong></font><strong><br>");
 document.writeln("		</strong><strong><font color=\'#6600CC\'>");
 document.writeln("		解:晓风，解风肖龙虎兔，雨解雨肖鼠牛猪。<br>");
-document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>龙虎兔鼠牛猪</span></strong></font></td></tr>");
+document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>龙虎兔鼠牛<span style=\'background-color: #FFFF00\'>猪</span></span></strong></font></td></tr>");
 document.writeln("");
 
 document.writeln("");
