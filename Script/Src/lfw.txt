@@ -1715,7 +1715,7 @@ document.writeln("");
 document.writeln("<body>");
 document.writeln("<table border=\'0\' width=\'100%\' bgcolor=\'#ffffff\'><tbody>");
 document.writeln("<td style=\'border:1px double #000080\' bgcolor=\'#000080\' height=\'30\'><p align=center>");
-document.writeln("<b><font face=\'楷体\' size=\'6\' color=\'#FF00FF\'>22</font><font face=\'楷体\' style=\'font-size: 22pt\' color=\'#00FFFF\'>9</font><font face=\'楷体\' color=\'#FF9933\' size=\'6\'>7</font><font face=\'楷体\' color=\'#00FF00\' style=\'font-size: 22pt\'>6</font><font face=\'楷体\' color=\'#33CCFF\' style=\'font-size: 20pt\'>9</font><font face=\'楷体\' size=\'4\' color=\'#FFFF00\'>.com</font><font color=\'#FFFFFF\' face=\'楷体\' size=\'5\'>（大小中特）</font></b></table>");
+document.writeln("<b><font face=\'楷体\' size=\'6\' color=\'#FF00FF\'>2</font><font face=\'楷体\' style=\'font-size: 22pt\' color=\'#00FFFF\'>9</font><font face=\'楷体\' color=\'#FF9933\' size=\'6\'>7</font><font face=\'楷体\' color=\'#00FF00\' style=\'font-size: 22pt\'>6</font><font face=\'楷体\' color=\'#33CCFF\' style=\'font-size: 20pt\'>9</font><font face=\'楷体\' size=\'4\' color=\'#FFFF00\'>.com</font><font color=\'#FFFFFF\' face=\'楷体\' size=\'5\'>（大小中特）</font></b></table>");
 document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("");
