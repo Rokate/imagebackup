@@ -19,15 +19,27 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 document.writeln("");
 
+
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>163期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>164期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
+document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("");
+
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p align=\'left\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>163期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开兔37</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#0000FF\'>今期生肖五七查，金幅夫人找管家。一七今期选特码，木火有钱两头找。鸡年来运皆欢喜，龙凤呈祥民安乐，钱财扬禄兴君招，六合情深博一码。<br>");
 document.writeln("		【贼走关门】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:猪狗兔羊马蛇鼠龙<br>主特六肖：猪狗兔羊马蛇</font></b></font></td></tr>");
+document.writeln("				特围生肖:猪狗<span style=\'background-color: #FFFF00\'>兔</span>羊马蛇鼠龙<br>主特六肖：猪狗<span style=\'background-color: #FFFF00\'>兔</span>羊马蛇</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
