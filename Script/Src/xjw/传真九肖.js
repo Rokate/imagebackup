@@ -26,9 +26,9 @@ document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>166期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
-document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>今期生肖最好找，家有六畜帮你发。绿波双数今看好，一马独行三军随。二五四七发大财，红波定在中间发。特码自然双数来，眼前机会特码在。<br>");
+document.writeln("		【咬字眼儿】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:虎兔猴鼠鸡马牛蛇<br>主特六肖：虎兔猴鼠鸡马</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
