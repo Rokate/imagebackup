@@ -14,61 +14,11 @@ document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\
 document.writeln("	<tbody style=\'box-sizing: border-box;\'>");
 document.writeln("	");
 
-
 document.writeln("		<tr style=\'box-sizing: border-box;\'>");
 document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			165期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'>0.2.4头</font>』<font color=\'#0000FF\'>开0000准</font></font></td>");
-document.writeln("		</tr>");
-document.writeln("				");
-document.writeln("		");
-
-document.writeln("			<tr style=\'box-sizing: border-box;\'>");
-document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			162期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>1</span>.3.4头</font>』<font color=\'#0000FF\'>开猪17准</font></font></td>");
-document.writeln("		</tr>");
-
- 
-
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			160期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'>1.3.<span style=\'background-color: #FFFF00\'>4</span>头</font>』<font color=\'#0000FF\'>开狗42准</font></font></td>");
-document.writeln("		</tr>");
-document.writeln("				");
-
-document.writeln("	<tr style=\'box-sizing: border-box;\'>");
-document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			159期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>1</span>.2.3头</font>』<font color=\'#0000FF\'>开虎14准</font></font></td>");
-document.writeln("		</tr>");
-document.writeln("				");
-
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			157期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'>0.3.<span style=\'background-color: #FFFF00\'>4</span>头</font>』<font color=\'#0000FF\'>开猴44准</font></font></td>");
-document.writeln("		</tr>");
-document.writeln("				");
-
-document.writeln("		<tr style=\'box-sizing: border-box;\'>");
-document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			156期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'>1.2.<span style=\'background-color: #FFFF00\'>4</span>头</font>』<font color=\'#0000FF\'>开鸡43准</font></font></td>");
-document.writeln("		</tr>");
-
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			155期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>0</span>.3.4头</font>』<font color=\'#0000FF\'>开鸡07准</font></font></td>");
+document.writeln("			166期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'>0.2.4头</font>』<font color=\'#0000FF\'>开0000准</font></font></td>");
 document.writeln("		</tr>");
 document.writeln("				");
 
