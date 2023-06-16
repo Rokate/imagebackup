@@ -35,41 +35,7 @@ document.writeln("		<p align=\'center\'>");
 document.writeln("	");
 document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>168期:<font color=\'#FF00FF\'>《鼠龙马》</font><font color=\'#008000\'>（40 48 22）</font><font color=\'#0000FF\'>开？00中</font></font></span></td></tr>");
 document.writeln("	");
-
-document.writeln("	");
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>164期:<font color=\'#FF00FF\'>《<span style=\'background-color: #FFFF00\'>马</span>羊鸡》</font><font color=\'#008000\'>（34 45 07）</font><font color=\'#0000FF\'>开马10中</font></font></span></div>	");
-document.writeln("	");
-
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("	");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>162期:<font color=\'#FF00FF\'>《虎<span style=\'background-color: #FFFF00\'>猪</span>猴》</font><font color=\'#008000\'>（14 41 08）</font><font color=\'#0000FF\'>开猪17中</font></font></span></td></tr>");
-document.writeln("			");
-
  
-document.writeln("");
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>160期:<font color=\'#FF00FF\'>《<span style=\'background-color: #FFFF00\'>狗</span>羊兔》</font><font color=\'#008000\'>（06 21 37）</font><font color=\'#0000FF\'>开狗42中</font></font></span></div>	");
-document.writeln("	");
-
-document.writeln("	");
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("");
-document.writeln("			<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>159期:<font color=\'#FF00FF\'>《龙<span style=\'background-color: #FFFF00\'>虎</span>羊》</font><font color=\'#008000\'>（12 <span style=\'background-color: #FFFF00\'>14</span> 09）</font><font color=\'#0000FF\'>开虎14中</font></font></span></div>	");
-document.writeln("		");
-document.writeln("	");
   
  document.writeln("						<br>");
 document.writeln("");
