@@ -26,8 +26,8 @@ document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>168期:<font color=\'#008000\'>【精解管家婆一句话】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【更新中】【更新中】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：更新中。综合取肖</font><font color=\'#FF0000\' size=\'4\'>更新中</font><font color=\'#0000FF\' size=\'4\'>   本期平特更新中。<br>本期取码：更新中</td></tr>");
+document.writeln("		</font><font color=\'#6600CC\'>【双来红绿挡不住】【九牛一毛】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：双来红绿挡不住解料：双来红绿挡不住，解双肖，鼠龙虎马猴狗。综合取肖</font><font color=\'#FF0000\' size=\'4\'>鼠龙虎马猴狗</font><font color=\'#0000FF\' size=\'4\'>   本期平特牛。<br>本期取码：16.28.12.24.26.38.22.34.08.32.18.42</td></tr>");
 document.writeln("		");
 document.writeln("");
 
