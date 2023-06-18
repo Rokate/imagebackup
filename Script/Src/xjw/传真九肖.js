@@ -20,15 +20,27 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 document.writeln("");
 
 
+
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>169期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>170期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
+document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("");
+
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p align=\'left\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>169期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开鼠04</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#0000FF\'>今期生肖定龙羊，子午相冲三合出。特码猜出是美人，蓝红开出生肖东。二五二七发大财，今期五数把三连，一轮红日找天边，好事成双六出名。<br>");
 document.writeln("		【揭不开锅】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:马猴鼠兔羊狗龙蛇<br>主特六肖：马猴鼠兔羊狗</font></b></font></td></tr>");
+document.writeln("				特围生肖:马猴<span style=\'background-color: #FFFF00\'>鼠</span>兔羊狗龙蛇<br>主特六肖：马猴<span style=\'background-color: #FFFF00\'>鼠</span>兔羊狗</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
