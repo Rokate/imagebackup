@@ -25,9 +25,9 @@ document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>171期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
-document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>今期生肖七七开，木能生火可发财。牧童放羊青草地，二一四六永相伴。八戒古时戏嫦娥，西天取经四师徒，铁树开花古来稀，红绿波色今看好。<br>");
+document.writeln("		【飞燕游龙】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:虎兔猴鸡鼠龙马猪<br>主特六肖：虎兔猴鸡鼠龙</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
