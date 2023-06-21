@@ -26,8 +26,8 @@ document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>173期:<font color=\'#008000\'>【精解管家婆一句话】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【更新中】【更新中】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：更新中。综合取肖</font><font color=\'#FF0000\' size=\'4\'>更新中</font><font color=\'#0000FF\' size=\'4\'>   本期平特更新中。<br>本期取码：更新中</td></tr>");
+document.writeln("		</font><font color=\'#6600CC\'>【一木一土一方水】【买王得羊】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：木肖，虎兔；土肖，牛龙羊狗。综合取肖</font><font color=\'#FF0000\' size=\'4\'>虎兔牛龙羊狗</font><font color=\'#0000FF\' size=\'4\'>   本期平特羊。<br>本期取码：26.38.13.37.15.27.24.36.21.45.30.42</td></tr>");
 document.writeln("		");
 document.writeln("");
 
