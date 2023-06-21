@@ -19,16 +19,26 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 document.writeln("");
 
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p align=\'left\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>173期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
+document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("");
 
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>172期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>172期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开龙12</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#0000FF\'>今期生肖出农家，老猴骑马倒着走。十二生肖我老大，一轮红日照天涯。三九千古五绝唱，叛徒大将称兄弟。不三不四桃花屋，五来六去合七码。<br>");
 document.writeln("		【自学成才】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:龙鼠鸡蛇狗羊虎猪<br>主特六肖：龙鼠鸡蛇狗羊</font></b></font></td></tr>");
+document.writeln("				特围生肖:<span style=\'background-color: #FFFF00\'>龙</span>鼠鸡蛇狗羊虎猪<br>主特六肖：<span style=\'background-color: #FFFF00\'>龙</span>鼠鸡蛇狗羊</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
