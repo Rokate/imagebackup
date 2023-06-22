@@ -19,15 +19,27 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 document.writeln("");
 
+
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>173期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>174期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
+document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("");
+
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p align=\'left\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>173期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开龙36</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#0000FF\'>今期生肖开金花，大将无帅找小姐。红兰今期有玄机，猜中单双有横财。四三三七带六来，自古山鸡不如风。将军君王美人伴，六合本期出灵码。<br>");
 document.writeln("		【天生一对】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:龙鸡羊马狗虎牛蛇<br>主特六肖：龙鸡羊马狗虎</font></b></font></td></tr>");
+document.writeln("				特围生肖:<span style=\'background-color: #FFFF00\'>龙</span>鸡羊马狗虎牛蛇<br>主特六肖：<span style=\'background-color: #FFFF00\'>龙</span>鸡羊马狗虎</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
