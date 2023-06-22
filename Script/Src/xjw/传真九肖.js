@@ -26,9 +26,9 @@ document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>174期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
-document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>今期生肖七七开，木能生火可发财。牧童放羊青草地，二一四六永相伴。龙王落水取灵码，一三五二八合到。佳成一唱好才文，鲜鱼只愿水中养。<br>");
+document.writeln("		【嫌肥挑瘦】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:马虎狗龙蛇鼠牛鸡<br>主特六肖：马虎狗龙蛇鼠</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
