@@ -33,13 +33,12 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'><strong>174期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开？00</strong></font><font color=\'#008000\'><strong><br>");
+document.writeln("		<span><font size=\'4\'><strong>175期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开？00</strong></font><font color=\'#008000\'><strong><br>");
 document.writeln("		</strong>");
-document.writeln("		</font><font color=\'#FF00FF\'><strong>他是若随凌云志，敢笑黄巢不丈夫</strong></font><strong><br>");
+document.writeln("		</font><font color=\'#FF00FF\'><strong>举眼风光长寂寞，满朝官职独蹉跎</strong></font><strong><br>");
 document.writeln("		</strong><strong><font color=\'#6600CC\'>");
-document.writeln("		解:云解云肖，猴鸡狗；丈夫解男肖，龙虎鼠猴牛马狗。<br>");
-document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>龙虎鼠猴牛狗</span></strong></font></td></tr>");
-document.writeln("");
+document.writeln("		解:风解风肖，虎龙兔；独解独肖，鼠牛虎兔马羊。<br>");
+document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>虎龙兔鼠牛马</span></strong></font></td></tr>");
 document.writeln("");
 
 document.writeln("						<tr>");
