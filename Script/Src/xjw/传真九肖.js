@@ -26,9 +26,9 @@ document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>176期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
-document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>今期生肖出北方，四前九后有玄机。三五相乘又相合，生肖本命带绿花。来七合六是吉数，八月十五好码开。特码本期开金花，一三五七是银钱。<br>");
+document.writeln("		【违心之言】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:猪牛鸡兔猴蛇狗羊<br>主特六肖：猪牛鸡兔猴蛇</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
