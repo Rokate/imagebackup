@@ -31,7 +31,7 @@ document.writeln("	   		");
 
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>175期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>？00</span><br>");
+document.writeln("		<span><font size=\'4\'>176期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>？00</span><br>");
 document.writeln("		<font color=\'#FF00FF\'>【老牛上了鼻绳—跑不了】</td>");
 document.writeln("		</tr>");
 

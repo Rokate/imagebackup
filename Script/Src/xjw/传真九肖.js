@@ -25,10 +25,10 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>175期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>今期二尾要看好，定时定候提醒你。一生之计在于辰，一言必中在掌中。梅花一枝报三春，爆竹四起接五福。白姐指美在七九，选好特码快下手。<br>");
-document.writeln("		【劈天盖地】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:龙蛇羊猴虎鸡牛猪<br>主特六肖：龙蛇羊猴虎鸡</font></b></font></td></tr>");
+document.writeln("		<span><font size=\'4\'>176期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
+document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
