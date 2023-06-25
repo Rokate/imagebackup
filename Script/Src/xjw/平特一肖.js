@@ -29,18 +29,14 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 document.writeln("	   		");
 
-document.writeln("			    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>176期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>？00</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【老牛上了鼻绳—跑不了】</td>");
-document.writeln("		</tr>");
 
-document.writeln("			    <tr>");
+
+document.writeln("                         <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>173期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>鸡31</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【鸡给黄鼠狼拜年—自投罗网】</td>");
-document.writeln("		</tr>");
-document.writeln("		");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>177期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>？00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【老虎当和尚—人面兽心】</td>");
+document.writeln("	</tr>");
 
 
 document.writeln("<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");

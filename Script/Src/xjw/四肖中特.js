@@ -25,15 +25,16 @@ document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\
 document.writeln("");
 
 
-document.writeln("	<tr>");
+document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>176期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【牛郎在天会织女，兔牛马鸡是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>兔牛马鸡</font></tr>");
+document.writeln("		<p>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>177期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#6600CC\'>【森林大火烧满天，鸡猴羊鼠是特码】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：鸡牛猴鼠</span></tr>	");
+document.writeln("	");
 document.writeln("");
-
- 
  
  
 
