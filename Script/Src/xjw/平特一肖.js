@@ -34,7 +34,7 @@ document.writeln("	   		");
 document.writeln("                         <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>177期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>？00</span><br>");
+document.writeln("		<span><font size=\'4\'>178期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>？00</span><br>");
 document.writeln("		<font color=\'#FF00FF\'>【老虎当和尚—人面兽心】</td>");
 document.writeln("	</tr>");
 
