@@ -26,9 +26,9 @@ document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>179期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
-document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>今期生肖九字头，兔来本期看四九。伯乐千里寻良驹，绿蓝两波开本期。一七前后并合五，将门生出有犬子。虎头蛇尾难成事，本期玄机诗中寻。<br>");
+document.writeln("		【庙堂伟器】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:鸡虎猴鼠猪牛狗蛇<br>主特六肖：鸡虎猴鼠猪牛</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
