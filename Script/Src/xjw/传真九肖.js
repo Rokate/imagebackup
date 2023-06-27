@@ -25,10 +25,10 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>178期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>今期生肖四九开，兰花小姐找奴才。五上三下有一码，五行不全有财拿。四四合五三二定，黑夜出门以到家。承到将王通命令，六一七九一肖来。<br>");
-document.writeln("		【心胸开阔】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:羊马牛龙猴兔猪鼠<br>主特六肖：羊马牛龙猴兔</font></b></font></td></tr>");
+document.writeln("		<span><font size=\'4\'>179期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
+document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
