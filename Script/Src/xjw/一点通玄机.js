@@ -27,48 +27,18 @@ document.writeln("		");
 document.writeln("		");
 document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\'/chajiansb.js\' charset=\'utf-8\'></script>");
 
-
 document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'><strong>179期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开？00</strong></font><font color=\'#008000\'><strong><br>");
+document.writeln("		<span><font size=\'4\'><strong>180期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开？00</strong></font><font color=\'#008000\'><strong><br>");
 document.writeln("		</strong>");
-document.writeln("		</font><font color=\'#FF00FF\'><strong>冲天香阵透长安，满城尽带黄金甲</strong></font><strong><br>");
+document.writeln("		</font><font color=\'#FF00FF\'><strong>惟有绿荷红菡萏，卷舒开合任天真</strong></font><strong><br>");
 document.writeln("		</strong><strong><font color=\'#6600CC\'>");
-document.writeln("		解:天解天肖，兔马猴猪牛龙。<br>");
-document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>兔马猴猪牛龙</span></strong></font></td></tr>");
+document.writeln("		解:合解合肖，龙蛇猴鸡狗猪，天解天肖，兔马猴猪牛龙。<br>");
+document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>龙蛇猴鸡狗猪</span></strong></font></td></tr>");
 document.writeln("");
-
-document.writeln("");
-document.writeln("");
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p align=\'left\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'><strong>176期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开猴32</strong></font><font color=\'#008000\'><strong><br>");
-document.writeln("		</strong>");
-document.writeln("		</font><font color=\'#FF00FF\'><strong>关河冻合东西路，肠断斑骓送陆郎</strong></font><strong><br>");
-document.writeln("		</strong><strong><font color=\'#6600CC\'>");
-document.writeln("		解:东解东肖，虎兔龙。西解西肖，鸡狗猴。<br>");
-document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>虎兔龙鸡狗<span style=\'background-color: #FFFF00\'>猴</span></span></strong></font></td></tr>");
-document.writeln("");
-
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p align=\'left\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'><strong>173期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开龙36</strong></font><font color=\'#008000\'><strong><br>");
-document.writeln("		</strong>");
-document.writeln("		</font><font color=\'#FF00FF\'><strong>春潮带雨晚来急,野渡无人舟自横</strong></font><strong><br>");
-document.writeln("		</strong><strong><font color=\'#6600CC\'>");
-document.writeln("		解:野渡无人舟自横，野肖鼠虎兔龙蛇猴。<br>");
-document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>鼠虎兔<span style=\'background-color: #FFFF00\'>龙</span>蛇猴</span></strong></font></td></tr>");
-document.writeln("");
-
  
  
 
