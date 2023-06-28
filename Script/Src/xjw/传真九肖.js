@@ -26,9 +26,9 @@ document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>180期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
-document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>今期生肖二五加，腊月菊花傲霜雪。特码红绿最理想，二八合七有灵码。二七四一再合五，红袖点灯苦读书。秀才能中状元郎，财源广进四九归。<br>");
+document.writeln("		【好衣美食】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:牛猪鼠鸡龙狗兔猴<br>主特六肖：牛猪鼠鸡龙狗</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
