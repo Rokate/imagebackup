@@ -26,10 +26,17 @@ document.writeln("		");
 document.writeln("		");
 
 document.writeln("				");
+document.writeln("					<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
+document.writeln("	<b>181期<font color=\'#6600CC\'>【二尾→拖49尾】开</font><font color=\'#FF6600\'>00.00.00</font>准</b></font></table>");
+document.writeln("		");
+document.writeln("		");
+document.writeln("				");
 document.writeln("			<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
-document.writeln("	<b>180期<font color=\'#6600CC\'>【八尾→拖49尾】开</font><font color=\'#FF6600\'>00.00.00</font>准</b></font></table>");
+document.writeln("	<b>180期<font color=\'#6600CC\'>【<span style=\'background-color: #FFFF00\'>八尾</span>→拖<span style=\'background-color: #FFFF00\'>4</span>9尾】开</font><font color=\'#FF6600\'>38.48.34</font>准</b></font></table>");
 document.writeln("		");
 document.writeln("		");
 document.writeln("");
