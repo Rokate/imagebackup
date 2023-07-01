@@ -7,13 +7,16 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\'/chajiansb.js\' charset=\'utf-8\'></script>");
 
-document.writeln("				<tr>");
+
+document.writeln("					<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>182期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>六六大顺</font>】</span><font color=\'#FF0000\'>开？00</font></font></b></td>");
+document.writeln("		<span>183期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>五谷丰登</font>】</span><font color=\'#FF0000\'>开？00</font></font></b></td>");
 document.writeln("		</tr>	");
-document.writeln("");
+document.writeln("		");
+document.writeln("					");
+ 
 
 document.writeln("			<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");

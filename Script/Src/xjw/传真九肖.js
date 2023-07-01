@@ -24,10 +24,21 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>182期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>183期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
+document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("");
+
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p align=\'left\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>182期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开猴08</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#0000FF\'>今期生肖羊称狗，一心一意看中猴。猴头猴尾不要买，买正中间不用愁。二五相合一七开，龙吟虎啸一时发。太监当权众将乱，看好合数一三五。<br>");
 document.writeln("		【纹风不动】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:马鼠鸡蛇兔虎猴羊<br>主特六肖：马鼠鸡蛇兔虎</font></b></font></td></tr>");
+document.writeln("				特围生肖:马鼠鸡蛇兔虎<span style=\'background-color: #FFFF00\'>猴</span>羊<br>主特六肖：马鼠鸡蛇兔虎</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
