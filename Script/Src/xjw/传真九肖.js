@@ -24,10 +24,10 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>183期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>今期生肖带红花，天上嫦娥赏桂花。道人本期点灵码，二三合成五六码。七出三一有财现，八戒好色成正果。鱼跃龙门争上游，木兰沙场除叛贼。<br>");
-document.writeln("		【豪言空话】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:兔猪羊龙虎马鼠蛇<br>主特六肖：兔猪羊龙虎马</font></b></font></td></tr>");
+document.writeln("		<span><font size=\'4\'>184期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
+document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
