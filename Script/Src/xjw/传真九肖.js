@@ -25,9 +25,9 @@ document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>184期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
-document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>今期生肖发金光，一九相合在今期。看定灵码要下注，说破玄机不为奇。美好良辰客归来，春风一度过天涯。五走九后归一出，六六大顺三八来。<br>");
+document.writeln("		【贤才君子】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:狗兔龙鼠虎猪鸡牛<br>主特六肖：狗兔龙鼠虎猪</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
