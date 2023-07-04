@@ -25,10 +25,21 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>185期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>186期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
+document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
+document.writeln("");
+
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p align=\'left\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>185期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开猴08</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#0000FF\'>今期生肖出二门，自古英雄出少年。梁祝徇情化彩蝶，红蓝特码送大家。特码得出是雪人，寒梅傲雪留清香。初生牛仔不怕虎，双数合单灵码现。<br>");
 document.writeln("		【叽里咕噜】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:猪狗兔马鼠猴羊牛<br>主特六肖：猪狗兔马鼠猴</font></b></font></td></tr>");
+document.writeln("				特围生肖:猪狗兔马鼠猴羊牛<br>主特六肖：猪狗兔马鼠<span style=\'background-color: #FFFF00\'>猴</span></font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
