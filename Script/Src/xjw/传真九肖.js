@@ -25,10 +25,10 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>186期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>今期生肖定南方，狗打老鼠无功劳。腊月冬季宰大猪，特定红绿满园春。三代英豪杨家奖，保家卫国求边关。梁上君子真功夫，十二生肖排第一。<br>");
-document.writeln("		【纵情酒色】</font><br><b><font color=\'#FF0000\'>");
-document.writeln("				特围生肖:鼠猴蛇虎牛马鸡龙<br>主特六肖：鼠猴蛇虎牛马</font></b></font></td></tr>");
+document.writeln("		<span><font size=\'4\'>187期:<font color=\'#008000\'>【澳门传真特围生肖】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>更新中。<br>");
+document.writeln("		【更新中】</font><br><b><font color=\'#FF0000\'>");
+document.writeln("				特围生肖:更新中<br>主特六肖：更新中</font></b></font></td></tr>");
 document.writeln("");
 
 document.writeln("	<tr>");
