@@ -12,7 +12,7 @@ document.writeln("			<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>187期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>三人成虎</font>】</span><font color=\'#FF0000\'>开？00</font></font></b></td>");
+document.writeln("		<span>188期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>三人成虎</font>】</span><font color=\'#FF0000\'>开？00</font></font></b></td>");
 document.writeln("		</tr>	");
 
 document.writeln("");
