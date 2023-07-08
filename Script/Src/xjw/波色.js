@@ -27,12 +27,20 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 document.writeln("		");
 document.writeln("		");
 
+document.writeln("	 	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>190期:<font color=\'#008000\'>【正版波色输尽光】</font><font color=\'#FF0000\'>开￥00(？)</font><font color=\'#008000\'> <br>");
+document.writeln("		</font><font color=\'#FF00FF\'>今期买绿输尽光，单数猪鸡有玄机</font></td>");
+document.writeln("				</tr>");
+document.writeln("");
+
 document.writeln("");
 document.writeln(" 	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>189期:<font color=\'#008000\'>【正版波色输尽光】</font><font color=\'#FF0000\'>开￥00(？)</font><font color=\'#008000\'> <br>");
-document.writeln("		</font><font color=\'#FF00FF\'>今期买绿输尽光，双数狗龙有玄机</font></td>");
+document.writeln("		<span><font size=\'4\'>189期:<font color=\'#008000\'>【正版波色输尽光】</font><font color=\'#FF0000\'>开马46(红)</font><font color=\'#008000\'> <br>");
+document.writeln("		</font><font color=\'#FF00FF\'>今期买绿输尽光，<span style=\'background-color: #FFFF00\'>双数</span>狗龙有玄机</font></td>");
 document.writeln("				</tr>");
 document.writeln("");
 document.writeln("");
