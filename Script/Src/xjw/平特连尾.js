@@ -25,11 +25,24 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 document.writeln("		");
 document.writeln("		");
 
+
+
+
+
+
+
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
+document.writeln("	<b>191期<font color=\'#6600CC\'>【一尾→拖48尾】开</font><font color=\'#FF6600\'>00.00.00</font>准</b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("				");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
-document.writeln("	<b>190期<font color=\'#6600CC\'>【四尾→拖38尾】开</font><font color=\'#FF6600\'>00.00.00</font>准</b></font></table>");
+document.writeln("	<b>190期<font color=\'#6600CC\'>【<span style=\'background-color: #FFFF00\'>四尾</span>→拖<span style=\'background-color: #FFFF00\'>3</span>8尾】开</font><font color=\'#FF6600\'>14.23.43</font>准</b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("		");
 document.writeln("");
