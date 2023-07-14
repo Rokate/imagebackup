@@ -37,10 +37,7 @@ document.writeln("		</font><font color=\'#6600CC\'>【快马加鞭取特码，�
 document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>蛇鼠羊兔</font></tr>");
 document.writeln("");
 document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
  
-document.writeln("");
 document.writeln("	");
 document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
