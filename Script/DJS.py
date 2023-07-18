@@ -161,7 +161,8 @@ async def XJW():
 
 async def MRY():
     print("mry下载。。。")
-    mryurl = "https://138383.com"
+    mryurl = "https://138383b.com"  
+    #26572.com
     jscontent = (
         '<!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="applicable-device" content="mobile"><meta name="apple-itunes-app" content="app-id=529696004"><meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><title>澳门图片</title></head><body><style type="text/css">.white-box { margin-top: 10px; padding: 5px; border: solid 1px #ddd; border-radius: 5px; background: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.1);}</style><h1 align="center" style="color:red ; font-size:50px">'
         + f'<a href="{mryurl}">澳门美人鱼论坛</a></h1>'
