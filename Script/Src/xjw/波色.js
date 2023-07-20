@@ -34,14 +34,17 @@ document.writeln("		");
 
 
 
+
+
+document.writeln("");
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<p>");
+document.writeln("");
+document.writeln("			<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>201期:<font color=\'#008000\'>【正版猜特输尽光】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>今期牛兔输尽光，四头二尾全不买。</td>");
-document.writeln("		</tr>");
+document.writeln("		<span><font size=\'4\'>202期:<font color=\'#008000\'>【正版波色输尽光】</font><font color=\'#FF0000\'>开￥00(？)</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>今期买绿输尽光，双数猴龙有玄机</td></tr>");
  
 document.writeln("	");
 document.writeln("	<tr>");
