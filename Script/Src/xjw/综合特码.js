@@ -48,24 +48,23 @@ document.writeln("");
 
 
 
-document.writeln("	<!--开始-->");
+document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=left><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#0000FF\'>202期【战澳团队━以\'稳\'闻名】开？00准</font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>203期【战澳团队━以\'稳\'闻名】开？00准</font></b></font></table>");
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=left><b><font size=\'4\' face=\'楷体\'>");
-document.writeln("	团队十肖：鸡鼠兔猴马羊虎狗龙蛇<br>");
-document.writeln("	团队八尾：12356789<br>");
-document.writeln("    团队四头：1234<br>");
-document.writeln("    团队四行：金木火土");
+document.writeln("	团队十肖：兔牛猪羊蛇鸡马猴鼠狗<br>");
+document.writeln("	团队八尾：01345678<br>");
+document.writeln("    团队四头：0124<br>");
+document.writeln("    团队四行：金水火土");
 document.writeln("    </font></b></font></table>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=left><b><font face=\'楷体\'>综合围特：13 16 18 21 22 23 25 26 31 32 33 35 36 37 38 43 45 46 47 48</font></b></font></table>");
+document.writeln("	<td width=100% height=40><p align=left><b><font face=\'楷体\'>综合围特：01 03 04 07 08 10 11 15 16 17 18 20 23 25 27 28 40 41 45 46 47</font></b></font></table>");
 document.writeln("		");
 document.writeln("	<!--结束-->");
  
-
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
