@@ -32,14 +32,25 @@ document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\
 
 
 
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>207期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【→六九边出←】</font><font color=\'#6600CC\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>解：05猪.06狗.07鸡.08猴.09羊.10马</font></font></span></td></tr>");
+document.writeln("	");
+document.writeln("");
 
 
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>206期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00 </font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>206期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开虎38</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#FF00FF\'>【→一六两边出←】</font><font color=\'#6600CC\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>解：</font></font></span><font size=\'4\' color=\'#0000FF\'>12龙.01兔.02虎.05猪.06狗.07鸡</font></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>解：</font></font></span><font size=\'4\' color=\'#0000FF\'>12龙.01兔.02<span style=\'background-color: #FFFF00\'>虎</span>.05猪.06狗.07鸡</font></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
