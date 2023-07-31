@@ -80,56 +80,7 @@ document.writeln("		");
 document.writeln("");
 
  
-
-document.writeln("				");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
-document.writeln("	<b>206期<font color=\'#6600CC\'>【四尾→拖<span style=\'background-color: #FFFF00\'>38</span>尾】开</font><font color=\'#FF6600\'>03.23.38</font>准</b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("				");
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
-document.writeln("	<b>205期<font color=\'#6600CC\'>【<span style=\'background-color: #FFFF00\'>三尾</span>→拖25尾】开</font><font color=\'#FF6600\'>03.33.00</font>准</b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-document.writeln("");
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
-document.writeln("	<b>204期<font color=\'#6600CC\'>【<span style=\'background-color: #FFFF00\'>三尾</span>→拖16尾】开</font><font color=\'#FF6600\'>03.23.00</font>准</b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("				");
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
-document.writeln("	<b>203期<font color=\'#6600CC\'>【<span style=\'background-color: #FFFF00\'>三尾</span>→拖<span style=\'background-color: #FFFF00\'>25</span>尾】开</font><font color=\'#FF6600\'>33.22.25</font>准</b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
-document.writeln("	<b>202期<font color=\'#6600CC\'>【<span style=\'background-color: #FFFF00\'>三尾</span>→拖<span style=\'background-color: #FFFF00\'>16</span>尾】开</font><font color=\'#FF6600\'>33.01.26</font>准</b></font></table>");
-document.writeln("		<!--结束-->");
-  
+ 
  
 document.writeln("		");
 document.writeln("<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");

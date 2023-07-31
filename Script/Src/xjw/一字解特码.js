@@ -45,20 +45,7 @@ document.writeln("		<span><font size=\'4\'>212期:<font color=\'#0000FF\'>一字
 document.writeln("		</font><font color=\'#006600\'>解特：01 05 06 07 08 13 14 17 18 19 24 25 26 27 33 <span style=\'background-color: #FFFF00\'>34</span> 35 36 37 41</td></tr>");
 document.writeln("<!--结束-->");
  
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>209期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【骑】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开鼠40</font></span><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#006600\'>解特： 02 03 04 05 06 07 27 28 29 30 31 34 35 36 37 39 <span style=\'background-color: #FFFF00\'>40</span> 41 42 43</font></font></span></td></tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-
+ 
 
  
 
