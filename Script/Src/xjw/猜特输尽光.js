@@ -32,47 +32,11 @@ document.writeln("			");
 
 
 
-
-
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>212期:<font color=\'#008000\'>【正版猜特输尽光】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>今期牛兔输尽光，二头八尾全不买。 </font></td>");
-document.writeln("		</tr>");
-
-
- 
-
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>210期:<font color=\'#008000\'>【正版猜特输尽光】</font><font color=\'#FF0000\'>开鸡07</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>今期<span style=\'background-color: #FFFF00\'>牛狗</span>输尽光，<span style=\'background-color: #FFFF00\'>二头</span>七尾全不买。</td>");
-document.writeln("		</tr>");
-document.writeln("		");
-document.writeln("");
- 
-
-document.writeln("<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("				<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>208期:<font color=\'#008000\'>【正版猜特输尽光】</font><font color=\'#FF0000\'>开鼠28</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>今期<span style=\'background-color: #FFFF00\'>虎蛇</span>输尽光，二头<span style=\'background-color: #FFFF00\'>一尾</span>全不买。</td>");
-document.writeln("		</tr>");
-document.writeln("		");
-
-
-document.writeln("");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>207期:<font color=\'#008000\'>【正版猜特输尽光】</font><font color=\'#FF0000\'>开兔49</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>今期<span style=\'background-color: #FFFF00\'>马羊</span>输尽光，<span style=\'background-color: #FFFF00\'>零头二尾</span>全不买。 </font></td>");
+document.writeln("		<span><font size=\'4\'>213期:<font color=\'#008000\'>【正版猜特输尽光】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>今期兔鼠输尽光，零头六尾全不买。 </font></td>");
 document.writeln("		</tr>");
 document.writeln("");
 document.writeln("");
@@ -80,23 +44,10 @@ document.writeln("");
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>206期:<font color=\'#008000\'>【正版猜特输尽光】</font><font color=\'#FF0000\'>开虎38</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>今期<span style=\'background-color: #FFFF00\'>牛兔</span>输尽光，<span style=\'background-color: #FFFF00\'>四头二尾</span>全不买。</td>");
+document.writeln("		<span><font size=\'4\'>212期:<font color=\'#008000\'>【正版猜特输尽光】</font><font color=\'#FF0000\'>开马34</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>今期<span style=\'background-color: #FFFF00\'>牛兔</span>输尽光，<span style=\'background-color: #FFFF00\'>二头八尾</span>全不买。 </font></td>");
 document.writeln("		</tr>");
-document.writeln("");
-document.writeln("");
 
-
-
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>205期:<font color=\'#008000\'>【正版猜特输尽光】</font><font color=\'#FF0000\'>开蛇11</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>今期<span style=\'background-color: #FFFF00\'>马鸡</span>输尽光，<span style=\'background-color: #FFFF00\'>零头二尾</span>全不买。 </font></td>");
-document.writeln("		</tr>");
-document.writeln("");
 
   
 
