@@ -28,7 +28,7 @@ async def dlxjw(session, url, sem, filepath):
                 await f.write(data)
         except Exception as e:
             print(f"Failed to download {url}: {e}")          
-
+#获取dihzi url+/yjjy/wenzhang.js
 async def MHCZ():
     print("mhcz下载。。。")
     mhczurl = "https://67292c.com"
@@ -107,7 +107,7 @@ async def XJW():
     xjwurl = "https://868680.com"
     jscontent = (
         '<!DOCTYPE html><html><head><META NAME="ROBOTS" CONTENT="INDEX,NOFOLLOW"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" /><meta name="applicable-device" content="mobile" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="apple-mobile-web-app-status-bar-style" content="black" /><meta content="telephone=no" name="format-detection" /><title>澳门图片</title></head><body><style type="text/css">.box{margin-top:0px;padding: 0px;border: solid 0px #949494;border-radius: 1px;background: #fff;box-shadow: 0 2px 5px rgba(0,0,0,0.1);}</style><h1 align="center" style="color:red ; font-size:50px">'
-        + f'<a href="{xjwurl}">澳门玄机网</a></h1>'
+        + f'<a href="{xjwurl}/868679.html">澳门玄机网</a></h1>'
     )
     xjw = [
         f"{xjwurl}/chajian/%E9%A1%B6%E9%83%A8%E5%85%AD%E8%82%96.js",
@@ -165,7 +165,7 @@ async def MRY():
     #26572.com
     jscontent = (
         '<!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="applicable-device" content="mobile"><meta name="apple-itunes-app" content="app-id=529696004"><meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><title>澳门图片</title></head><body><style type="text/css">.white-box { margin-top: 10px; padding: 5px; border: solid 1px #ddd; border-radius: 5px; background: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.1);}</style><h1 align="center" style="color:red ; font-size:50px">'
-        + f'<a href="{mryurl}">澳门美人鱼论坛</a></h1>'
+        + f'<a href="{mryurl}/26572.html">澳门美人鱼论坛</a></h1>'
     )
     mry = [
         f"{mryurl}/dbu.js",
@@ -211,7 +211,7 @@ async def ZLW():
     zlwurl = "https://49629.com"
     jscontent = (
         '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"><meta name="applicable-device" content="mobile"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta http-equiv="X-UA-Compatible" content="ie=edge"><title>澳门图片</title></head><body><style type="text/css">.white-box { margin-top: 10px; padding: 5px; border: solid 1px #ddd; border-radius: 5px; background: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.1);}</style><h1 align="center" style="color:red ; font-size:50px">'
-        + f'<a href="{zlwurl}">最全资料网</a></h1>'
+        + f'<a href="{zlwurl}/62.html">最全资料网</a></h1>'
     )
     zlw = [
         f"{zlwurl}/bbs/yy4wzt.js",
@@ -242,7 +242,7 @@ async def LFW():
     lfwurl = "https://29761b.com"
     jscontent = (
         '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"><meta name="applicable-device" content="mobile"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta http-equiv="X-UA-Compatible" content="ie=edge"><meta content="telephone=no" name="format-detection" /><title>澳门图片</title></head><body><style type="text/css">.white-box { margin-top: 10px; padding: 5px; border: solid 1px #ddd; border-radius: 5px; background: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.1);}</style><h1 align="center" style="color:red ; font-size:50px">'
-        + f'<a href="{lfwurl}">雷锋老牌论坛</a></h1>'
+        + f'<a href="{lfwurl}/29048.html">雷锋老牌论坛</a></h1>'
     )
     lfw = [
         f"{lfwurl}/bbs/db5x.js",
