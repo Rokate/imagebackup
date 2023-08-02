@@ -45,11 +45,35 @@ document.writeln("");
 
 
 
+
+
+
+
+
+document.writeln("");
+document.writeln(" <!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=left><font face=\'楷体\' size=\'4\'><b>");
+document.writeln("	<font color=\'#0000FF\'>215期【战澳团队━以\'稳\'闻名】开？00准</font></b></font></table>");
+document.writeln("");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=left><b><font size=\'4\' face=\'楷体\'>");
+document.writeln("	团队十肖：鼠猴蛇羊虎狗兔龙牛鸡<br>");
+document.writeln("	团队八尾：01235679<br>");
+document.writeln("    团队四头：0123<br>");
+document.writeln("    团队四行：金木水火");
+document.writeln("    </font></b></font></table>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=left><b><font face=\'楷体\'>综合围特：01 02 06 07 09 11 12 13 15 16 19 20 21 23 27 30 31 32 35 36 37 39</font></b></font></table>");
+document.writeln("		");
+document.writeln("	<!--结束-->");
+
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=left><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#0000FF\'>214期【战澳团队━以\'稳\'闻名】开？00准</font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>214期【战澳团队━以\'稳\'闻名】开虎14准</font></b></font></table>");
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=left><b><font size=\'4\' face=\'楷体\'>");
@@ -59,7 +83,7 @@ document.writeln("    团队四头：0123<br>");
 document.writeln("    团队四行：金木火土");
 document.writeln("    </font></b></font></table>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=left><b><font face=\'楷体\'>综合围特：03 04 05 07 08 09 10 14 15 17 21 23 24 29 31 33 34 35 38 39</font></b></font></table>");
+document.writeln("	<td width=100% height=40><p align=left><b><font face=\'楷体\'>综合围特：03 04 05 07 08 09 10 <span style=\'background-color: #FFFF00\'>14</span> 15 17 21 23 24 29 31 33 34 35 38 39</font></b></font></table>");
 document.writeln("		");
 document.writeln("	<!--结束-->");
 document.writeln("");
