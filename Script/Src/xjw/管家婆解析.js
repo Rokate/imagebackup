@@ -39,9 +39,7 @@ document.writeln("</font><font color=\'#6600CC\'>精解九肖：鼠牛虎鸡狗�
 document.writeln("<font color=\'#FF0000\' size=\'4\'>精解18码：</font><font color=\'#0000FF\' size=\'4\'>04.16.39.15.02.38.43.31.42.30.41.17.34.46.33.45.08.32<br></font>");
 document.writeln("</td></tr>");
 
-document.writeln("");
-document.writeln("");
-
+  
 
 document.writeln("<tr><td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("<p align=\'left\'>");
