@@ -18,7 +18,7 @@ document.writeln("");
 document.writeln("</html>");
 document.writeln("	");
 
-document.writeln("<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
+document.writeln("<table style=border-collapse:collapse border=0 width=100%><tbody><p style=text-align:center><strong>");
 document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\'/chajiansb.js\' charset=\'utf-8\'></script>");
 
 document.writeln("<div class=\'box\' id=\'ptyx\'>");
