@@ -61,24 +61,37 @@ document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=left><b><font size=\'4\' face=\'楷体\'>");
 document.writeln("	");
+
+
+
+document.writeln("219期团队十肖：兔牛猪羊蛇鸡马猴鼠狗<br>");
+document.writeln("218期团队十肖：<span style=\'background-color: #FFFF00\'>鸡</span>虎兔狗羊龙鼠猪蛇猴<br>");
 document.writeln("217期团队十肖：牛鸡<span style=\"background-color: #FFFF00\">狗</span>马虎蛇猴兔龙羊<br>	");
-document.writeln("218期团队十肖：鸡虎兔狗羊龙鼠猪蛇猴<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<br>");
+
+
+document.writeln("219期团队八尾：01345678<br>");
+document.writeln("218期团队八尾：0345678<span style=\'background-color: #FFFF00\'>9</span><br>");
 document.writeln("217期团队八尾：012457<span style=\"background-color: #FFFF00\">8</span>9<br>");
-document.writeln("218期团队八尾：03456789<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<br>");
+
+
+document.writeln("219期团队四头：0124<br>");
+document.writeln("218期团队四头：0<span style=\'background-color: #FFFF00\'>1</span>34<br>");
 document.writeln("217期团队四头：0<span style=\"background-color: #FFFF00\">1</span>34<br>");
-document.writeln("218期团队四头：0134<br>");
 document.writeln("");
 document.writeln("");
 document.writeln("<br>");
 document.writeln("");
+
+
+document.writeln("219期团队四行：金水火土<br>");
+document.writeln("218期团队四行：木<span style=\'background-color: #FFFF00\'>水</span>火土<br>");
 document.writeln("217期团队四行：木水火<span style=\"background-color: #FFFF00\">土</span><br>");
-document.writeln("218期团队四行：木水火土<br>");
 document.writeln("");
 document.writeln("<br>");
 document.writeln("");
