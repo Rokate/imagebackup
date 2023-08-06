@@ -27,81 +27,79 @@ document.writeln("");
 document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>战澳团队</font><font color=\'#FFFFFF\'>『综合特码』</font></font></b></table>");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\'/chajiansb.js\' charset=\'utf-8\'></script>");
-
+document.writeln("");
 document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' style=\'box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 微软雅黑, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;\'>");
 document.writeln("	<tbody style=\'box-sizing: border-box;\'>");
 document.writeln(" ");
 document.writeln("");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 document.writeln("");
 document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=left><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#0000FF\'>218期【战澳团队━以\'稳\'闻名】开？00准</font></b></font></table>");
 document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=left><b><font size=\'4\' face=\'楷体\'>");
-document.writeln("	团队十肖：鸡虎兔狗羊龙鼠猪蛇猴<br>");
-document.writeln("	团队八尾：03456789<br>");
-document.writeln("    团队四头：0134<br>");
-document.writeln("    团队四行：木水火土");
-document.writeln("    </font></b></font></table>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=left><b><font face=\'楷体\'>综合围特：03 04 05 06 09 10 14 15 16 17 18 19 33 34 35 36 39 40 43 45 46 47 48</font></b></font></table>");
-document.writeln("		");
-document.writeln("	<!--结束-->");
-document.writeln("  ");
-
-
-
-document.writeln("  ");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=left><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#0000FF\'>217期【战澳团队━以\'稳\'闻名】开狗18准</font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>【战澳团队━以\'稳\'闻名】</font></b></font></table>");
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=left><b><font size=\'4\' face=\'楷体\'>");
-document.writeln("	团队十肖：牛鸡狗马虎蛇猴兔龙羊<br>");
-document.writeln("	团队八尾：01245789<br>");
-document.writeln("    团队四头：0134<br>");
-document.writeln("    团队四行：木水火土");
+document.writeln("	");
+document.writeln("217期团队十肖：牛鸡<span style=\"background-color: #FFFF00\">狗</span>马虎蛇猴兔龙羊<br>	");
+document.writeln("218期团队十肖：鸡虎兔狗羊龙鼠猪蛇猴<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("<br>");
+document.writeln("217期团队八尾：012457<span style=\"background-color: #FFFF00\">8</span>9<br>");
+document.writeln("218期团队八尾：03456789<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("<br>");
+document.writeln("217期团队四头：0<span style=\"background-color: #FFFF00\">1</span>34<br>");
+document.writeln("218期团队四头：0134<br>");
+document.writeln("");
+document.writeln("");
+document.writeln("<br>");
+document.writeln("");
+document.writeln("217期团队四行：木水火<span style=\"background-color: #FFFF00\">土</span><br>");
+document.writeln("218期团队四行：木水火土<br>");
+document.writeln("");
+document.writeln("<br>");
+document.writeln("");
+document.writeln("");
 document.writeln("    </font></b></font></table>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=left><b><font face=\'楷体\'>综合围特：07 08 11 12 14 15 <span style=\'background-color: #FFFF00\'>18</span> 19 30 34 35 37 38 42 44 45 47 48 49</font></b></font></table>");
 document.writeln("		");
 document.writeln("	<!--结束-->");
+document.writeln("  ");
 document.writeln("");
-
-
-  
-
- 
-
-
- 
-  
-
+document.writeln("");
+document.writeln("");
+document.writeln("  ");
+document.writeln("");
+document.writeln("  ");
+document.writeln("");
+document.writeln(" ");
+document.writeln("");
+document.writeln("");
+document.writeln(" ");
+document.writeln("  ");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

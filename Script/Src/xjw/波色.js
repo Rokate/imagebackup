@@ -20,36 +20,24 @@ document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\
 document.writeln("<div class=\'box\' id=\'ptyx\'>");
 document.writeln("");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 document.writeln("		");
 document.writeln("		");
 
-
-
-
-
-
-
-
-
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("");
+
+
+
+
 document.writeln("			<p>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>218期:<font color=\'#008000\'>【正版波色输尽光】</font><font color=\'#FF0000\'>开？00准</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#FF00FF\'>今期买绿输尽光，双数猴龙有玄机</td></tr>");
-document.writeln("");
-document.writeln("");
 
-
- 
- 
-document.writeln("");
 document.writeln("");
 document.writeln("	  			");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
