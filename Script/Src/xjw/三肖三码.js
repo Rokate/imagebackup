@@ -34,13 +34,33 @@ document.writeln("		");
 
 
 
+
+
+
+
+
+
+
+document.writeln("		");
+document.writeln("		");
+document.writeln("				<tr>");
+document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("	");
+document.writeln("		<p align=\'center\'>");
+document.writeln("	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>224期:<font color=\'#FF00FF\'>《龙虎鸡》</font><font color=\'#008000\'>（36 38 43）</font><font color=\'#0000FF\'>开？00中</font></font></span></td></tr>");
+document.writeln("	");
+document.writeln("		");
+document.writeln("");
+
+
 document.writeln("	");
 document.writeln("");
 document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("		<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>223期:<font color=\'#FF00FF\'>《狗羊兔》</font><font color=\'#008000\'>（06 21 37）</font><font color=\'#0000FF\'>开？00中</font></font></span></div>	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>223期:<font color=\'#FF00FF\'>《狗<span style=\'background-color: #FFFF00\'>羊</span>兔》</font><font color=\'#008000\'>（06 21 37）</font><font color=\'#0000FF\'>开羊09中</font></font></span></div>	");
 document.writeln("	");
 document.writeln("	");
 
