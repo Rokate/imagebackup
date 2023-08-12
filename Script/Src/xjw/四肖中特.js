@@ -31,6 +31,16 @@ document.writeln("");
 
 
 
+document.writeln("");
+document.writeln("				<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>225期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#6600CC\'>【金龙飞天势还在，牛猪兔狗是特码】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：牛猪兔狗</span></tr>	");
+document.writeln("	");
 
 
 
@@ -40,7 +50,7 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>224期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>224期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开羊45</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#6600CC\'>【森林大火烧满天，鸡猴羊鼠是特码】<br></font></font>");
 document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：鸡牛猴鼠</span></tr>	");
 document.writeln("	");
