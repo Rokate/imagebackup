@@ -60,7 +60,7 @@ document.writeln("	<table style=border-collapse:collapse border=0 width=100% cel
 document.writeln("		<font color=\'#FF5050\'>224期:特围36码---开:羊45准</font><span style=color:maroon><br></span>");
 document.writeln("		<span style=color:#d50000>01.04.05.06.07.08.09.10.11.16.17.18</span><br>");
 document.writeln("		<span style=color:olive>19.21.25.26.27.28.29.30.31.32.36.37</span><br>");
-document.writeln("		<span style=color:#669>38.39.40.41.42.43.44.45.46.47.48.49</span></strong></span></table>");
+document.writeln("		<span style=color:#669>38.39.40.41.42.43.44.<span style=\'background-color: #FFFF00\'>45</span>.46.47.48.49</span></strong></span></table>");
 document.writeln("");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
 document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>867</font><font size=\'6\' color=\'#008000\'>13</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");

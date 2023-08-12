@@ -19,22 +19,9 @@ document.writeln("	225期<font color=\'#0000FF\'>【狗虎牛鸡猴兔】</font>
 document.writeln("		<!--结束-->");
 document.writeln("");
 
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	224期<font color=\'#0000FF\'>【龙牛鼠猪鸡虎】</font><font color=\'#FF00FF\'>开羊45准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
  
 
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	222期<font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>鸡</span>鼠虎兔狗马】</font><font color=\'#FF00FF\'>开鸡31准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
+ 
  
  
  

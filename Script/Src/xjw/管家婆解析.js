@@ -49,8 +49,8 @@ document.writeln("</td></tr>");
 document.writeln("<tr><td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("<p align=\'left\'>");
 document.writeln("<span><font size=\'4\'>224期:<font color=\'#008000\'>【精解管家婆一句赢大钱】</font><font color=\'#FF0000\'>开羊45</font><font color=\'#008000\'><br>");
-document.writeln("</font><font color=\'#6600CC\'>精解九肖：龙虎猴鼠牛猪马羊鸡<br></font></font>");
-document.writeln("<font color=\'#FF0000\' size=\'4\'>精解18码：</font><font color=\'#0000FF\' size=\'4\'>24.36.14.38.20.32.28.16.39.27.05.41.10.46.21.45.07.43<br></font>");
+document.writeln("</font><font color=\'#6600CC\'>精解九肖：龙虎猴鼠牛猪马<span style=\'background-color: #FFFF00\'>羊</span>鸡<br></font></font>");
+document.writeln("<font color=\'#FF0000\' size=\'4\'>精解18码：</font><font color=\'#0000FF\' size=\'4\'>24.36.14.38.20.32.28.16.39.27.05.41.10.46.21.<span style=\'background-color: #FFFF00\'>45</span>.07.43<br></font>");
 document.writeln("</td></tr>");
  
 document.writeln("<tr><td class=\'center f11 black l150\' align=\'center\'>");
