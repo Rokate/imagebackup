@@ -24,17 +24,14 @@ document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\
 
 
 
-
-
-
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	229期<font color=\'#008000\'>绝杀三肖</font><font color=\'#6600CC\'>【鼠羊虎】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
+document.writeln("	230期<font color=\'#008000\'>绝杀三肖</font><font color=\'#6600CC\'>【猴羊蛇】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 
-
+ 
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
@@ -78,102 +75,7 @@ document.writeln("");
 
 
  
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	222期<font color=\'#008000\'>绝杀三肖</font><font color=\'#6600CC\'>【兔猪羊】</font><font color=\'#FF00FF\'>开鸡31准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	221期<font color=\'#008000\'>绝杀三肖</font><font color=\'#6600CC\'>【马牛兔】</font><font color=\'#FF00FF\'>开虎38准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	220期<font color=\'#008000\'>绝杀三肖</font><font color=\'#6600CC\'>【牛兔蛇】</font><font color=\'#FF00FF\'>开猴20准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
  
-document.writeln("				<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	218期<font color=\'#008000\'>绝杀三肖</font><font color=\'#6600CC\'>【牛兔蛇】</font><font color=\'#FF00FF\'>开鸡19准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	217期<font color=\'#008000\'>绝杀三肖</font><font color=\'#6600CC\'>【马蛇羊】</font><font color=\'#FF00FF\'>开狗18准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	216期<font color=\'#008000\'>绝杀三肖</font><font color=\'#6600CC\'>【兔猪羊】</font><font color=\'#FF00FF\'>开龙36准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	215期<font color=\'#008000\'>绝杀三肖</font><font color=\'#6600CC\'>【猴羊蛇】</font><font color=\'#FF00FF\'>开兔49准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
- 
- 
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	212期<font color=\'#008000\'>绝杀三肖</font><font color=\'#6600CC\'>【鸡鼠龙】</font><font color=\'#FF00FF\'>开马34准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
- 
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	209期<font color=\'#008000\'>绝杀三肖</font><font color=\'#6600CC\'>【蛇鸡牛】</font><font color=\'#FF00FF\'>开鼠40准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	208期<font color=\'#008000\'>绝杀三肖</font><font color=\'#6600CC\'>【猴羊蛇】</font><font color=\'#FF00FF\'>开鼠28准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("");
- 
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	206期<font color=\'#008000\'>绝杀三肖</font><font color=\'#6600CC\'>【马蛇羊】</font><font color=\'#FF00FF\'>开虎38准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
- 
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	205期<font color=\'#008000\'>绝杀三肖</font><font color=\'#6600CC\'>【马牛兔】</font><font color=\'#FF00FF\'>开蛇11准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
   
   
 
