@@ -61,7 +61,10 @@ document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=left><b><font size=\'4\' face=\'楷体\'>");
 document.writeln("	");
-document.writeln("230期团队十肖：鼠猴蛇羊虎狗兔龙牛鸡<br>");
+
+
+document.writeln("231期团队十肖：鼠猴蛇羊虎狗兔龙牛鸡<br>");
+document.writeln("230期团队十肖：鼠猴蛇羊虎狗兔<span style=\'background-color: #FFFF00\'>龙</span>牛鸡<br>");
 document.writeln("229期团队十肖：龙牛马<span style=\'background-color: #FFFF00\'>羊</span>虎猪鼠鸡猴蛇<br>");
 document.writeln("228期团队十肖：鼠猴马羊虎狗兔<span style=\'background-color: #FFFF00\'>猪</span>龙鸡<br>");
 document.writeln("227期团队十肖：鼠猴蛇马虎狗兔猪<span style=\'background-color: #FFFF00\'>牛</span>鸡<br>");
@@ -79,7 +82,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("<br>");
 
-document.writeln("230期团队八尾：01235679<br>");
+document.writeln("231期团队八尾：01234789<br>");
+document.writeln("230期团队八尾：01235<span style=\'background-color: #FFFF00\'>6</span>79<br>");
 document.writeln("229期团队八尾：01<span style=\'background-color: #FFFF00\'>3</span>45789<br>");
 document.writeln("227期团队八尾：02<span style=\'background-color: #FFFF00\'>3</span>45689<br>");
 document.writeln("226期团队八尾：<span style=\'background-color: #FFFF00\'>0</span>1345679<br>");
@@ -96,7 +100,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("<br>");
 
-document.writeln("230期团队四头：0123<br>");
+document.writeln("231期团队四头：0134<br>");
+document.writeln("230期团队四头：012<span style=\'background-color: #FFFF00\'>3</span><br>");
 document.writeln("229期团队四头：012<span style=\'background-color: #FFFF00\'>3</span><br>");
 document.writeln("228期团队四头：01<span style=\'background-color: #FFFF00\'>2</span>4<br>");
 document.writeln("227期团队四头：<span style=\'background-color: #FFFF00\'>0</span>124<br>");
@@ -112,7 +117,8 @@ document.writeln("");
 document.writeln("<br>");
 document.writeln("");
 
-document.writeln("230期团队四行：金木水火<br>");
+document.writeln("231期团队四行：金木火土<br>");
+document.writeln("230期团队四行：金<span style=\'background-color: #FFFF00\'>木</span>水火<br>");
 document.writeln("229期团队四行：金木火<span style=\'background-color: #FFFF00\'>土</span><br>");
 document.writeln("228期团队四行：金木<span style=\'background-color: #FFFF00\'>火</span>土<br>");
 document.writeln("227期团队四行：金水火<span style=\'background-color: #FFFF00\'>土</span><br>");
