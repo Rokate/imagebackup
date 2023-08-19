@@ -31,8 +31,7 @@ document.writeln("<span><font size=\'4\'>232期:<font color=\'#008000\'>【精�
 document.writeln("</font><font color=\'#6600CC\'>精解九肖：兔猴马猪牛龙狗鼠虎<br></font></font>");
 document.writeln("<font color=\'#FF0000\' size=\'4\'>精解18码：</font><font color=\'#0000FF\' size=\'4\'>13.49.44.20.10.22.17.29.03.27.12.24.18.30.04.16.26.38<br></font>");
 document.writeln("</td></tr>");
-
-document.writeln("");
+ 
 
 
 document.writeln("<tr><td class=\'center f11 black l150\' align=\'center\'>");
