@@ -16,72 +16,17 @@ document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\
 
 
 
-
 document.writeln("		<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'><p><span>		<b>");
 document.writeln("	");
-document.writeln("		<font size=\'4\'>233期:<font color=\'#008000\'>家野中特</font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>【家家家】</span></font><font color=\'#FF0000\'>开？00</font></font></b></td>");
-document.writeln("		</tr>");
-document.writeln("");
-document.writeln("");
- 
-
-document.writeln("		<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'><p><span>		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>231期:<font color=\'#008000\'>家野中特</font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>【家家家】</span></font><font color=\'#FF0000\'>开羊45</font></font></b></td>");
-document.writeln("		</tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("		<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'><p><span>		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>230期:<font color=\'#008000\'>家野中特</font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>【野野野】</span></font><font color=\'#FF0000\'>开龙36</font></font></b></td>");
+document.writeln("		<font size=\'4\'>234期:<font color=\'#008000\'>家野中特</font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>【野野野】</span></font><font color=\'#FF0000\'>开？00</font></font></b></td>");
 document.writeln("		</tr>");
 document.writeln("		");
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 
  
-
-document.writeln("					<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'><p><span>		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>227期:<font color=\'#008000\'>家野中特</font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>【家家家】</span></font><font color=\'#FF0000\'>开牛03</font></font></b></td>");
-document.writeln("		</tr>");
-document.writeln("		");
-document.writeln("");
-
-
-
-document.writeln("		<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'><p><span>		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>226期:<font color=\'#008000\'>家野中特</font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>【野野野】</span></font><font color=\'#FF0000\'>开猴20</font></font></b></td>");
-document.writeln("		</tr>");
-document.writeln("		");
-document.writeln("");
-
-document.writeln("		<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'><p><span>		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>225期:<font color=\'#008000\'>家野中特</font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>【家家家】</span></font><font color=\'#FF0000\'>开猪29</font></font></b></td>");
-document.writeln("		</tr>");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("					<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'><p><span>		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>224期:<font color=\'#008000\'>家野中特</font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>【家家家】</span></font><font color=\'#FF0000\'>开羊45</font></font></b></td>");
-document.writeln("		</tr>");
-document.writeln("		");
-  
-
-  
  
 
 document.writeln("<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
