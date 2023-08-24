@@ -45,6 +45,7 @@ async def main(a, b, c):
         [f"https://tk2.fanghuwanglan.com:4949/col/{qish}/zbxyb.jpg", "a-zbxyb.jpg"],
         [f"https://tk2.fanghuwanglan.com:4949/col/{qish}/n1.jpg", "a-n1.jpg"],
         [f"https://tk2.fanghuwanglan.com:4949/col/{qish}/dcxj.jpg", "a-dcxj.jpg"],
+        [f"https://tk2.fanghuwanglan.com:4949/col/{qish}/ampm.jpg", "a-ampm.jpg"],
         [f"https://tk2.fanghuwanglan.com:4949/col/{qish}/sszm.jpg", "a-sszm.jpg"],
         [f"https://tk2.fanghuwanglan.com:4949/col/{qish}/ktzsx.jpg", "a-ktzsx.jpg"],
         [f"https://tk2.fanghuwanglan.com:4949/col/{qish}/rv.jpg", "a-rv.jpg"],
