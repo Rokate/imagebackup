@@ -33,45 +33,17 @@ document.writeln("		");
 
 
 
-
-
-document.writeln("");
 document.writeln("	");
 document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>236期:<font color=\'#FF00FF\'>《牛龙兔》</font><font color=\'#008000\'>（03 12 25）</font><font color=\'#0000FF\'>开？00中</font></font></span></div>	");
-document.writeln("	");
 document.writeln("");
-
+document.writeln("			<p align=\'center\'>");
+document.writeln("	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>237期:<font color=\'#FF00FF\'>《龙虎羊》</font><font color=\'#008000\'>（12 14 09）</font><font color=\'#0000FF\'>开？00中</font></font></span></div>	");
+document.writeln("		");
+document.writeln("	");
 
  
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("	");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>234期:<font color=\'#FF00FF\'>《虎<span style=\'background-color: #FFFF00\'>兔</span>鸡》</font><font color=\'#008000\'>（26 49 31）</font><font color=\'#0000FF\'>开兔13中</font></font></span></td></tr>");
-document.writeln("	");
-document.writeln("		");
-document.writeln("");
-
-
- 
-
-document.writeln("		");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("	");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>232期:<font color=\'#FF00FF\'>《<span style=\'background-color: #FFFF00\'>兔</span>羊牛》</font><font color=\'#008000\'>（<span style=\'background-color: #FFFF00\'>13</span> 45 39）</font><font color=\'#0000FF\'>开兔13中</font></font></span></td></tr>");
-document.writeln("			");
-document.writeln("");
-document.writeln("");
-
 
 
  
