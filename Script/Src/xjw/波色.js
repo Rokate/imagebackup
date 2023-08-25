@@ -20,23 +20,23 @@ document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\
 document.writeln("<div class=\'box\' id=\'ptyx\'>");
 document.writeln("");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 document.writeln("		");
 document.writeln("		");
-
-
-
-
-
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("	");
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
@@ -48,12 +48,12 @@ document.writeln("		<span><font size=\'4\'>237期:<font color=\'#008000\'>【正
 document.writeln("		</font><font color=\'#FF00FF\'>今期买蓝输尽光，单数鸡蛇有玄机</td></tr>");
 document.writeln("");
 document.writeln("");
-
- 
- 
- 
- 
- 
+document.writeln("");
+document.writeln(" ");
+document.writeln(" ");
+document.writeln(" ");
+document.writeln(" ");
+document.writeln(" ");
 document.writeln("");
 document.writeln("");
 document.writeln("	  			");

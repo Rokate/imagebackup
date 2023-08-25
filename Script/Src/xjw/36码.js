@@ -32,6 +32,16 @@ document.writeln("");
 
 
 
+
+
+
+
+
+
+
+
+
+
 document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("	");
@@ -42,7 +52,7 @@ document.writeln("		<span style=color:olive>13.14.15.17.18.19.22.23.26.27.28.29<
 document.writeln("		<span style=color:#669>30.31.32.33.38.39.40.41.42.43.44.49</span></strong></span></table>");
 document.writeln("");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>867</font><font size=\'6\' color=\'#008000\'>13</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
+document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>862</font><font size=\'6\' color=\'#008000\'>81</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
 document.writeln("	");
 document.writeln("<!--结束-->");
 document.writeln("");
@@ -60,7 +70,7 @@ document.writeln("		<span style=color:olive>17.18.<span style=\'background-color
 document.writeln("		<span style=color:#669>29.30.31.34.35.36.37.38.39.40.41.47</span></strong></span></table>");
 document.writeln("");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>867</font><font size=\'6\' color=\'#008000\'>13</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
+document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>862</font><font size=\'6\' color=\'#008000\'>81</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
 document.writeln("	");
 document.writeln("<!--结束-->");
 document.writeln("");
@@ -78,7 +88,7 @@ document.writeln("		<span style=color:olive>17.18.19.20.21.22.23.24.25.26.27.28<
 document.writeln("		<span style=color:#669>29.30.31.34.35.36.37.38.39.40.41.47</span></strong></span></table>");
 document.writeln("");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>867</font><font size=\'6\' color=\'#008000\'>13</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
+document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>862</font><font size=\'6\' color=\'#008000\'>81</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
 document.writeln("	");
 document.writeln("<!--结束-->");
 document.writeln("");
@@ -95,7 +105,7 @@ document.writeln("		<span style=color:olive>17.18.19.20.21.22.23.24.25.26.27.28<
 document.writeln("		<span style=color:#669>29.30.31.34.35.36.37.38.39.40.41.49</span></strong></span></table>");
 document.writeln("");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>867</font><font size=\'6\' color=\'#008000\'>13</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
+document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>862</font><font size=\'6\' color=\'#008000\'>81</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
 document.writeln("	");
 document.writeln("<!--结束-->");
 document.writeln("");
@@ -111,7 +121,7 @@ document.writeln("		<span style=color:olive>14.15.16.17.18.19.20.21.22.23.24.25<
 document.writeln("		<span style=color:#669>26.27.28.29.30.31.32.33.34.35.39.48</span></strong></span></table>");
 document.writeln("");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>867</font><font size=\'6\' color=\'#008000\'>13</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
+document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>862</font><font size=\'6\' color=\'#008000\'>81</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
 document.writeln("	");
 document.writeln("<!--结束-->");
 document.writeln("");
