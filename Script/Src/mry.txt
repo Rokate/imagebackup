@@ -2373,8 +2373,10 @@ document.writeln("</head>");
 document.writeln("");
 document.writeln("<body>");
 document.writeln("");
-document.writeln("<img src=\"https://tk2.fanghuwanglan.com:4949/col/237/ampm.jpg\" width=\"100%\"></img>");
+document.writeln("<img src=\"https://tk2.fanghuwanglan.com:4949/col/238/ampm.jpg\" width=\"100%\"></img>");
 document.writeln("");
+
+
 
 
 document.writeln("  <tr>");
