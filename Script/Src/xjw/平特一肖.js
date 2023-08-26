@@ -36,14 +36,19 @@ document.writeln("	   		");
 
 
 
-document.writeln("	");
-document.writeln("			    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>238期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【猪脑壳—死不开窃】</td>");
-document.writeln("		</tr>");
-document.writeln("		");
 
+
+
+
+document.writeln("                         <tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>239期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【老虎当和尚—人面兽心】</td>");
+document.writeln("	</tr>");
+document.writeln("		");
+document.writeln("");
+ 
 
 document.writeln("	");
 document.writeln("");
@@ -67,13 +72,7 @@ document.writeln("		");
 
  
 
-document.writeln("	");
-document.writeln("			    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>234期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>07</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【鸡给黄鼠狼拜年—自投罗网】</td>");
-document.writeln("		</tr>");
-document.writeln("		");
+ 
 
 
   
