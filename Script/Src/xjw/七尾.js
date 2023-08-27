@@ -26,13 +26,22 @@ document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\
 
 
 
+document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<p>");
+document.writeln("		<b>");
+document.writeln("		<font size=\'4\'>");
+document.writeln("		<span>240期:<font color=\'#008000\'>无错七尾</font>【2159463】</span><font color=\'#FF0000\'>开？00</font></font></b></td></tr>");
+document.writeln("		");
+document.writeln("");
+document.writeln("");
+
 
 document.writeln("	");
 document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("		<p>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>239期:<font color=\'#008000\'>无错七尾</font>【2068943】</span><font color=\'#FF0000\'>开？00</font></font></b></td></tr>");
+document.writeln("		<span>239期:<font color=\'#008000\'>无错七尾</font>【20689<span style=\'background-color: #FFFF00\'>4</span>3】</span><font color=\'#FF0000\'>开虎14</font></font></b></td></tr>");
 document.writeln("		");
 document.writeln("");
 document.writeln("");
@@ -48,48 +57,7 @@ document.writeln("		");
 document.writeln("");
 document.writeln("");
 
- 
-
-document.writeln("	");
-document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<p>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>236期:<font color=\'#008000\'>无错七尾</font>【012738<span style=\'background-color: #FFFF00\'>9</span>】</span><font color=\'#FF0000\'>开鸡19</font></font></b></td></tr>");
-document.writeln("		");
-document.writeln("");
-
-
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<p>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>235期:<font color=\'#008000\'>无错七尾</font>【12<span style=\'background-color: #FFFF00\'>4</span>5863】</span><font color=\'#FF0000\'>开鼠04</font></font></b></td></tr>");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("	");
-document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<p>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>234期:<font color=\'#008000\'>无错七尾</font>【0127<span style=\'background-color: #FFFF00\'>3</span>89】</span><font color=\'#FF0000\'>开兔13</font></font></b></td></tr>");
-document.writeln("		");
-document.writeln("");
-
-
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<p>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>233期:<font color=\'#008000\'>无错七尾</font>【1<span style=\'background-color: #FFFF00\'>2</span>45863】</span><font color=\'#FF0000\'>开龙12</font></font></b></td></tr>");
-document.writeln("		");
-document.writeln("");
-
- 
- 
+  
  
 document.writeln("<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
 document.writeln("			<a target=\'_blank\' href=\'https://61269c.com/#868627\' style=\'text-decoration: none\'><img src=/yyy123.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 15pt\'>进入澳彩网</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>61269c.com</font></span></a></strong></tr></table>		");
