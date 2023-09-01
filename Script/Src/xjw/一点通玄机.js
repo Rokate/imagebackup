@@ -38,23 +38,21 @@ document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\
 
 
 
-
-
+document.writeln("");
 document.writeln("");
 document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'><strong>244期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开？00</strong></font><font color=\'#008000\'><strong><br>");
+document.writeln("		<span><font size=\'4\'><strong>245期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开？00</strong></font><font color=\'#008000\'><strong><br>");
 document.writeln("		</strong>");
-document.writeln("		</font><font color=\'#FF00FF\'><strong>昨夜笙歌容易散,酒醒添得愁无限</strong></font><strong><br>");
+document.writeln("		</font><font color=\'#FF00FF\'><strong>终南山翠色欲流,肆弦壹声如裂帛</strong></font><strong><br>");
 document.writeln("		</strong><strong><font color=\'#6600CC\'>");
-document.writeln("		解:句中大意梅落繁枝千万片，犹自多情，学雪随风转。昨夜笙歌容易散，酒醒添得愁无限。夜解夜肖鼠牛虎鸡狗猪<br>");
-document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>鼠牛虎鸡狗猪</span></strong></font></td></tr>");
+document.writeln("		解:南肖蛇马羊；色解好色的猪,弦声解琴肖兔蛇鸡。<br>");
+document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>蛇马羊猪兔鸡</span></strong></font></td></tr>");
 document.writeln("");
 document.writeln("");
-
 
  
 document.writeln("");
