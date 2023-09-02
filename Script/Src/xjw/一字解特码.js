@@ -20,6 +20,20 @@ document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\
 
 
 
+document.writeln("");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>246期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【速】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开？00</font></span><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#006600\'>解特：11 12 13 14 15 16 21 22 23 24 25 26 32 33 38 42 43 44 45 46</td></tr>");
+document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("");
+
 
 document.writeln("<!--开始-->");
 document.writeln("");
@@ -28,8 +42,8 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>245期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【耗】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开？00</font></span><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#006600\'>解特： 16 17 18 19 20 21 22 23 24 25 29 30 31 36 37 38 39 40 44</font></font></span></td></tr>");
+document.writeln("		<span><font size=\'4\'>245期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【耗】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开兔37</font></span><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#006600\'>解特： 16 17 18 19 20 21 22 23 24 25 29 30 31 36 <span style=\'background-color: #FFFF00\'>37</span> 38 39 40 44</font></font></span></td></tr>");
 document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("");
