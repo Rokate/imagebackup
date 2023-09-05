@@ -38,7 +38,15 @@ document.writeln("	");
 
 
 
-
+document.writeln("		");
+document.writeln("	<!--开始-->");
+document.writeln("				<tr style=\'box-sizing: border-box;\'>");
+document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
+document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
+document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
+document.writeln("249期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【附近】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开？00准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
+document.writeln("		</tr>");
+document.writeln("<!--结束-->");
 
 
 document.writeln("");
@@ -48,7 +56,7 @@ document.writeln("				<tr style=\'box-sizing: border-box;\'>");
 document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("248期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【少年】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开？00准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
+document.writeln("248期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【少年】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开羊21准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
 document.writeln("		</tr>");
 document.writeln("<!--结束-->	");
 
@@ -171,45 +179,7 @@ document.writeln("238期正版二字经</font><font style=\'margin: 0px; padding
 document.writeln("		</tr>");
 document.writeln("<!--结束-->	");
 
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("237期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【神曲】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开牛15准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->	");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("236期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【冰雪】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开鸡19准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-
-
-document.writeln("	");
-document.writeln("<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("235期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【经典】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开鼠04准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-
-
  
- 
-
  
  
 

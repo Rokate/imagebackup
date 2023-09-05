@@ -32,19 +32,18 @@ document.writeln("		");
 
 
 
-
-
 document.writeln("");
-document.writeln("");
-document.writeln("						<tr>");
+document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("	");
 document.writeln("		<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>248期:<font color=\'#FF00FF\'>《狗猴牛》</font><font color=\'#008000\'>（06 44 27）</font><font color=\'#0000FF\'>开？00中</font></font></span></td></tr>");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>249期:<font color=\'#FF00FF\'>《虎兔鸡》</font><font color=\'#008000\'>（26 49 31）</font><font color=\'#0000FF\'>开？00中</font></font></span></td></tr>");
+document.writeln("	");
 document.writeln("		");
 document.writeln("");
 
+ 
 
 document.writeln("		");
 document.writeln("				<tr>");
