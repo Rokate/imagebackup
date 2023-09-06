@@ -32,52 +32,23 @@ document.writeln("		");
 
 
 
+
+
+
+
+
+
 document.writeln("");
 document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("	");
 document.writeln("		<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>249期:<font color=\'#FF00FF\'>《虎兔鸡》</font><font color=\'#008000\'>（26 49 31）</font><font color=\'#0000FF\'>开？00中</font></font></span></td></tr>");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>250期:<font color=\'#FF00FF\'>《猪马羊》</font><font color=\'#008000\'>（05 46 21）</font><font color=\'#0000FF\'>开？00中</font></font></span></td></tr>");
 document.writeln("	");
-document.writeln("		");
 document.writeln("");
 
- 
-
-document.writeln("		");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("	");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>247期:<font color=\'#FF00FF\'>《兔羊<span style=\'background-color: #FFFF00\'>牛</span>》</font><font color=\'#008000\'>（13 45 39）</font><font color=\'#0000FF\'>开牛03中</font></font></span></td></tr>");
-document.writeln("			");
-document.writeln("");
- 
-
-document.writeln("");
-document.writeln("	");
-document.writeln("");
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>245期:<font color=\'#FF00FF\'>《羊<span style=\'background-color: #FFFF00\'>兔</span>猴》</font><font color=\'#008000\'>（33 <span style=\'background-color: #FFFF00\'>37</span> 44）</font><font color=\'#0000FF\'>开兔37中</font></font></span></div>	");
-document.writeln("	");
-document.writeln("");
-document.writeln("	");
-
-document.writeln("");
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("");
-document.writeln("			<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>244期:<font color=\'#FF00FF\'>《<span style=\'background-color: #FFFF00\'>兔</span>牛鸡》</font><font color=\'#008000\'>（37 15 07）</font><font color=\'#0000FF\'>开兔25中</font></font></span></div>	");
-document.writeln("		");
-document.writeln("");
-
+  
  
  
  
