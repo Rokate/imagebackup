@@ -29,6 +29,22 @@ document.writeln("");
 
 
 
+document.writeln("<!--开始-->");
+document.writeln("");
+document.writeln("	");
+document.writeln("	<table style=border-collapse:collapse border=0 width=100% cellpadding=0><tbody><tr><td style=\'border:1px dotted olive\'><p style=line-height:200% align=center><span style=font-family:Verdana><strong>");
+document.writeln("		<font color=\'#FF5050\'>252期:特围36码---开:？00准</font><span style=color:maroon><br></span>");
+document.writeln("		<span style=color:#d50000>01.02.03.04.05.06.07.08.09.10.11.12</span><br>");
+document.writeln("		<span style=color:olive>13.14.15.17.18.19.22.23.26.27.28.29</span><br>");
+document.writeln("		<span style=color:#669>30.31.32.33.38.39.40.41.42.43.44.49</span></strong></span></table>");
+document.writeln("");
+document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
+document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>862</font><font size=\'6\' color=\'#008000\'>81</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
+document.writeln("	");
+document.writeln("<!--结束-->");
+document.writeln("");
+
+
 
 document.writeln("");
 document.writeln("");
@@ -36,10 +52,10 @@ document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("	");
 document.writeln("	<table style=border-collapse:collapse border=0 width=100% cellpadding=0><tbody><tr><td style=\'border:1px dotted olive\'><p style=line-height:200% align=center><span style=font-family:Verdana><strong>");
-document.writeln("		<font color=\'#FF5050\'>251期:特围36码---开:？00准</font><span style=color:maroon><br></span>");
+document.writeln("		<font color=\'#FF5050\'>251期:特围36码---开:马34准</font><span style=color:maroon><br></span>");
 document.writeln("		<span style=color:#d50000>05.06.07.08.09.10.11.12.13.14.15.16</span><br>");
 document.writeln("		<span style=color:olive>17.18.19.20.21.22.23.24.25.26.27.28</span><br>");
-document.writeln("		<span style=color:#669>29.30.31.34.35.36.37.38.39.40.41.47</span></strong></span></table>");
+document.writeln("		<span style=color:#669>29.30.31.<span style=\'background-color: #FFFF00\'>34</span>.35.36.37.38.39.40.41.47</span></strong></span></table>");
 document.writeln("");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
 document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>862</font><font size=\'6\' color=\'#008000\'>81</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
@@ -236,59 +252,7 @@ document.writeln("		<table style=border-collapse:collapse border=0 width=100%><t
 document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>862</font><font size=\'6\' color=\'#008000\'>81</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
 document.writeln("	");
 document.writeln("<!--结束-->");
- 
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("");
-document.writeln("	");
-document.writeln("	<table style=border-collapse:collapse border=0 width=100% cellpadding=0><tbody><tr><td style=\'border:1px dotted olive\'><p style=line-height:200% align=center><span style=font-family:Verdana><strong>");
-document.writeln("		<font color=\'#FF5050\'>238期:特围36码---开:蛇23准</font><span style=color:maroon><br></span>");
-document.writeln("		<span style=color:#d50000>03.04.05.06.07.08.09.10.11.12.13.14</span><br>");
-document.writeln("		<span style=color:olive>15.16.17.18.19.20.21.22.<span style=\'background-color: #FFFF00\'>23</span>.24.25.26</span><br>");
-document.writeln("		<span style=color:#669>27.28.29.30.31.32.33.34.35.36.37.45</span></strong></span></table>");
-document.writeln("");
-document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>862</font><font size=\'6\' color=\'#008000\'>81</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
-document.writeln("	");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("");
-document.writeln("	");
-document.writeln("	<table style=border-collapse:collapse border=0 width=100% cellpadding=0><tbody><tr><td style=\'border:1px dotted olive\'><p style=line-height:200% align=center><span style=font-family:Verdana><strong>");
-document.writeln("		<font color=\'#FF5050\'>237期:特围36码---开:牛15准</font><span style=color:maroon><br></span>");
-document.writeln("		<span style=color:#d50000>01.02.03.04.05.06.07.08.09.10.11.12</span><br>");
-document.writeln("		<span style=color:olive>13.14.<span style=\'background-color: #FFFF00\'>15</span>.17.18.19.22.23.26.27.28.29</span><br>");
-document.writeln("		<span style=color:#669>30.31.32.33.38.39.40.41.42.43.44.49</span></strong></span></table>");
-document.writeln("");
-document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>862</font><font size=\'6\' color=\'#008000\'>81</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
-document.writeln("	");
-document.writeln("<!--结束-->");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("");
-document.writeln("	");
-document.writeln("	<table style=border-collapse:collapse border=0 width=100% cellpadding=0><tbody><tr><td style=\'border:1px dotted olive\'><p style=line-height:200% align=center><span style=font-family:Verdana><strong>");
-document.writeln("		<font color=\'#FF5050\'>236期:特围36码---开:鸡19准</font><span style=color:maroon><br></span>");
-document.writeln("		<span style=color:#d50000>05.06.07.08.09.10.11.12.13.14.15.16</span><br>");
-document.writeln("		<span style=color:olive>17.18.<span style=\'background-color: #FFFF00\'>19</span>.20.21.22.23.24.25.26.27.28</span><br>");
-document.writeln("		<span style=color:#669>29.30.31.34.35.36.37.38.39.40.41.47</span></strong></span></table>");
-document.writeln("");
-document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>862</font><font size=\'6\' color=\'#008000\'>81</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
-document.writeln("	");
-document.writeln("<!--结束-->");
-document.writeln("");
-
+  
   
   
 

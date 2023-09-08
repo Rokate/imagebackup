@@ -27,85 +27,47 @@ document.writeln("");
 
 
 
-document.writeln("");
+
+
+
+
+
+
+
+
 document.writeln(" ");
 document.writeln("");
-document.writeln(" <table border=\'1\' width=\'100%\' height=\'30\' bordercolor=\'#DDDDDD\' class=\'qxtable\' style=\'box-sizing: border-box; table-layout: fixed; font-weight: bold; word-wrap: break-word; word-break: break-all; text-align: center; color: rgb(255, 255, 255); font-family: \'Microsoft YaHei\', Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; border-collapse: collapse; border: 0px none; margin: 0px; padding: 0px; background: rgb(255, 255, 255)\'>");
-document.writeln("	<tbody style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("		<tr style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box; height: 30px;\'>");
-document.writeln("			<td width=\'100%\' height=\'27\' bordercolor=\'#DEDEDE\' bgcolor=\'#FF99FF\' style=\'padding: 0px; margin: 0px; border: 1px solid rgb(101, 101, 101); box-sizing: border-box; text-overflow: ellipsis; font-size: 16px; color: rgb(0, 0, 0);\'>");
-document.writeln("			251期<font style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'><b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>:玄机网86281.com</b></font></td>");
-document.writeln("		</tr>");
-document.writeln("		<tr style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box; height: 30px;\'>");
-document.writeln("			<td width=\'100%\' height=\'33\' bordercolor=\'#DEDEDE\' bgcolor=\'#FFFFFF\' style=\'padding: 0px; margin: 0px; border: 1px solid rgb(101, 101, 101); box-sizing: border-box; text-overflow: ellipsis; font-size: 16px; color: rgb(0, 0, 0); text-align: left;\'>");
-document.writeln("			<b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			<font color=\'#000000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			六肖:</font></b><b style=\'box-sizing: border-box\'><font color=\'#FF0000\' style=\'box-sizing: border-box\'>猴兔牛鸡鼠猪</font></b></td>");
-document.writeln("		</tr>");
-document.writeln("		</tr>");
-document.writeln("		<tr style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box; height: 30px;\'>");
-document.writeln("			<td width=\'100%\' height=\'30\' bordercolor=\'#DEDEDE\' bgcolor=\'#FFFFFF\' style=\'padding: 0px; margin: 0px; border: 1px solid rgb(101, 101, 101); box-sizing: border-box; text-overflow: ellipsis; font-size: 16px; color: rgb(0, 0, 0); text-align: left;\'>");
-document.writeln("			<b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			<font color=\'#000000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			三肖:</font></b><b style=\'box-sizing: border-box\'><font color=\'#FF0000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>猴兔牛</font></b><b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'><font color=\'#FF0000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>(</font><font color=\'#FF00FF\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>快!</font><font color=\'#008000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>稳!</font><font color=\'#800000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>准!</font><font color=\'#FF0000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>)</font></b></td>");
-document.writeln("		</tr>");
-document.writeln("		<tr style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box; height: 30px;\'>");
-document.writeln("			<td width=\'100%\' height=\'30\' bordercolor=\'#DEDEDE\' bgcolor=\'#FFFFFF\' style=\'padding: 0px; margin: 0px; border: 1px solid rgb(101, 101, 101); box-sizing: border-box; text-overflow: ellipsis; font-size: 16px; color: rgb(0, 0, 0); text-align: left;\'>");
-document.writeln("			<b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			<font color=\'#000000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			12码:</font><font color=\'#FF0000\'></span>08 44 25 37 15 27 07 31 04 40 05 41</font></b></td>");
-document.writeln("		</tr>");
-document.writeln("				<tr style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box; height: 30px;\'>");
-document.writeln("			<td width=\'100%\' height=\'30\' bordercolor=\'#DEDEDE\' bgcolor=\'#FFFFFF\' style=\'padding: 0px; margin: 0px; border: 1px solid rgb(101, 101, 101); box-sizing: border-box; text-overflow: ellipsis; font-size: 16px; color: rgb(0, 0, 0); text-align: left;\'>");
-document.writeln("			<b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			<font color=\'#000000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			六码:</font><font color=\'#FF0000\'></span>08 44 25 37 15 27</font></b></td>");
-document.writeln("		</tr>");
-document.writeln("");
-document.writeln("		<tr style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box; height: 30px;\'>");
-document.writeln("");
-document.writeln("");
-document.writeln("			<td width=\'100%\' height=\'30\' bordercolor=\'#DEDEDE\' bgcolor=\'#FFFFFF\' style=\'padding: 0px; margin: 0px; border: 1px solid rgb(101, 101, 101); box-sizing: border-box; text-overflow: ellipsis; font-size: 16px; color: rgb(0, 0, 0); text-align: left;\'>");
-document.writeln("			<b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			<font color=\'#000000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			三码:</font></b><font color=\'#FF0000\'>08 44 25</span></font></td>");
-document.writeln("		</table>");
-document.writeln("		");
- 
-
-
-document.writeln("");
 document.writeln("");
 document.writeln(" <table border=\'1\' width=\'100%\' height=\'30\' bordercolor=\'#DDDDDD\' class=\'qxtable\' style=\'box-sizing: border-box; table-layout: fixed; font-weight: bold; word-wrap: break-word; word-break: break-all; text-align: center; color: rgb(255, 255, 255); font-family: \'Microsoft YaHei\', Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; border-collapse: collapse; border: 0px none; margin: 0px; padding: 0px; background: rgb(255, 255, 255)\'>");
 document.writeln("	<tbody style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
 document.writeln("		<tr style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box; height: 30px;\'>");
 document.writeln("			<td width=\'100%\' height=\'27\' bordercolor=\'#DEDEDE\' bgcolor=\'#FF99FF\' style=\'padding: 0px; margin: 0px; border: 1px solid rgb(101, 101, 101); box-sizing: border-box; text-overflow: ellipsis; font-size: 16px; color: rgb(0, 0, 0);\'>");
-document.writeln("			249期<font style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'><b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>:玄机网86281.com</b></font></td>");
+document.writeln("			252期<font style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'><b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>:玄机网86281.com</b></font></td>");
 document.writeln("		</tr>");
 document.writeln("		<tr style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box; height: 30px;\'>");
 document.writeln("			<td width=\'100%\' height=\'33\' bordercolor=\'#DEDEDE\' bgcolor=\'#FFFFFF\' style=\'padding: 0px; margin: 0px; border: 1px solid rgb(101, 101, 101); box-sizing: border-box; text-overflow: ellipsis; font-size: 16px; color: rgb(0, 0, 0); text-align: left;\'>");
 document.writeln("			<b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
 document.writeln("			<font color=\'#000000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			六肖:</font></b><b style=\'box-sizing: border-box\'><font color=\'#FF0000\' style=\'box-sizing: border-box\'>蛇牛鼠虎<span style=\'background-color: #FFFF00\'>猪</span>兔</font></b></td>");
+document.writeln("			六肖:</font></b><b style=\'box-sizing: border-box\'><font color=\'#FF0000\' style=\'box-sizing: border-box\'>虎狗牛龙兔猴</font></b></td>");
 document.writeln("		</tr>");
 document.writeln("		</tr>");
 document.writeln("		<tr style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box; height: 30px;\'>");
 document.writeln("			<td width=\'100%\' height=\'30\' bordercolor=\'#DEDEDE\' bgcolor=\'#FFFFFF\' style=\'padding: 0px; margin: 0px; border: 1px solid rgb(101, 101, 101); box-sizing: border-box; text-overflow: ellipsis; font-size: 16px; color: rgb(0, 0, 0); text-align: left;\'>");
 document.writeln("			<b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
 document.writeln("			<font color=\'#000000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			三肖:</font></b><b style=\'box-sizing: border-box\'><font color=\'#FF0000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>蛇牛鼠</font></b><b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'><font color=\'#FF0000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>(</font><font color=\'#FF00FF\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>快!</font><font color=\'#008000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>稳!</font><font color=\'#800000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>准!</font><font color=\'#FF0000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>)</font></b></td>");
+document.writeln("			三肖:</font></b><b style=\'box-sizing: border-box\'><font color=\'#FF0000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>虎狗牛</font></b><b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'><font color=\'#FF0000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>(</font><font color=\'#FF00FF\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>快!</font><font color=\'#008000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>稳!</font><font color=\'#800000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>准!</font><font color=\'#FF0000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>)</font></b></td>");
 document.writeln("		</tr>");
 document.writeln("		<tr style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box; height: 30px;\'>");
 document.writeln("			<td width=\'100%\' height=\'30\' bordercolor=\'#DEDEDE\' bgcolor=\'#FFFFFF\' style=\'padding: 0px; margin: 0px; border: 1px solid rgb(101, 101, 101); box-sizing: border-box; text-overflow: ellipsis; font-size: 16px; color: rgb(0, 0, 0); text-align: left;\'>");
 document.writeln("			<b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
 document.writeln("			<font color=\'#000000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			12码:</font><font color=\'#FF0000\'></span>35 47 39 27 04 16 26 38 17 <span style=\'background-color: #FFFF00\'>29</span> 13 25</font></b></td>");
+document.writeln("			12码:</font><font color=\'#FF0000\'></span>14 38 06 30 03 39 12 48 13 49 08 32</font></b></td>");
 document.writeln("		</tr>");
 document.writeln("				<tr style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box; height: 30px;\'>");
 document.writeln("			<td width=\'100%\' height=\'30\' bordercolor=\'#DEDEDE\' bgcolor=\'#FFFFFF\' style=\'padding: 0px; margin: 0px; border: 1px solid rgb(101, 101, 101); box-sizing: border-box; text-overflow: ellipsis; font-size: 16px; color: rgb(0, 0, 0); text-align: left;\'>");
 document.writeln("			<b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
 document.writeln("			<font color=\'#000000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			六码:</font><font color=\'#FF0000\'></span>35 47 39 27 04 16</font></b></td>");
+document.writeln("			六码:</font><font color=\'#FF0000\'></span>14 38 06 30 03 39</font></b></td>");
 document.writeln("		</tr>");
 document.writeln("");
 document.writeln("		<tr style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box; height: 30px;\'>");
@@ -114,14 +76,12 @@ document.writeln("");
 document.writeln("			<td width=\'100%\' height=\'30\' bordercolor=\'#DEDEDE\' bgcolor=\'#FFFFFF\' style=\'padding: 0px; margin: 0px; border: 1px solid rgb(101, 101, 101); box-sizing: border-box; text-overflow: ellipsis; font-size: 16px; color: rgb(0, 0, 0); text-align: left;\'>");
 document.writeln("			<b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
 document.writeln("			<font color=\'#000000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			三码:</font></b><font color=\'#FF0000\'>35 47 39</span></font></td>");
+document.writeln("			三码:</font></b><font color=\'#FF0000\'>14 38 06</span></font></td>");
 document.writeln("		</table>");
 document.writeln("		");
 document.writeln("		");
 
  
- 
-
  
  
 
