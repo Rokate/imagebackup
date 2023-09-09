@@ -3,36 +3,22 @@
 
 
 
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	252期<font color=\'#0000FF\'>【鸡鼠虎兔狗马】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
 
- 
- 
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	249期<font color=\'#0000FF\'>【兔牛<span style=\'background-color: #FFFF00\'>猪</span>羊蛇鸡】</font><font color=\'#FF00FF\'>开猪29准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
- 
+
+
+
+
+
 
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	247期<font color=\'#0000FF\'>【兔羊龙<span style=\'background-color: #FFFF00\'>牛</span>马狗】</font><font color=\'#FF00FF\'>开牛03准</font></font></b></font></table>");
+document.writeln("	253期<font color=\'#0000FF\'>【龙鸡鼠猪猴狗】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	246期<font color=\'#0000FF\'>【鸡鼠虎<span style=\'background-color: #FFFF00\'>兔</span>狗马】</font><font color=\'#FF00FF\'>开兔13准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
+
+ 
  
 
   
