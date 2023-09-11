@@ -46,7 +46,7 @@ document.writeln("				<tr style=\'box-sizing: border-box;\'>");
 document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("255期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【存活】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开⒛准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
+document.writeln("255期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【存活】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开？00准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
 document.writeln("		</tr>");
 document.writeln("<!--结束-->");
 
@@ -59,7 +59,7 @@ document.writeln("				<tr style=\'box-sizing: border-box;\'>");
 document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("254期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【好奇】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开？00准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
+document.writeln("254期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【好奇】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开兔49准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
 document.writeln("		</tr>");
 document.writeln("<!--结束-->");
 document.writeln("");
