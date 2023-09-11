@@ -40,6 +40,15 @@ document.writeln("		");
 
 
 
+document.writeln("				<tr>");
+document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("	");
+document.writeln("		<p align=\'center\'>");
+document.writeln("	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>255期:<font color=\'#FF00FF\'>《虎猪猴》</font><font color=\'#008000\'>（14 41 08）</font><font color=\'#0000FF\'>开⒛中</font></font></span></td></tr>");
+document.writeln("			");
+document.writeln("");
+
 
 document.writeln("");
 document.writeln("		");

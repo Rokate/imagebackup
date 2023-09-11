@@ -48,6 +48,22 @@ document.writeln("");
 
 
 
+
+
+
+
+
+
+document.writeln("");
+document.writeln("												<tr>");
+document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("			<p align=\'center\'>");
+document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>255期:<font color=\'#FF00FF\'>【欲钱买家中卖力的生肖】</font><font color=\'#0000FF\'>开⒛中</font></td></tr>");
+document.writeln("");
+document.writeln("		");
+document.writeln("");
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("												<tr>");
