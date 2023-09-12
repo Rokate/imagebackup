@@ -29,11 +29,26 @@ document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\
 
 
 
+
+
+
+
+document.writeln("	");
+document.writeln("								<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<p>");
+document.writeln("		<b>");
+document.writeln("		<font size=\'4\'>");
+document.writeln("		<span>256期:<font color=\'#008000\'>无错七尾</font>【0123895】</span><font color=\'#FF0000\'>开？00</font></font></b></td></tr>");
+document.writeln("		");
+document.writeln("");
+document.writeln("");
+
+
 document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("		<p>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>255期:<font color=\'#008000\'>无错七尾</font>【2159463】</span><font color=\'#FF0000\'>开？00</font></font></b></td></tr>");
+document.writeln("		<span>255期:<font color=\'#008000\'>无错七尾</font>【2<span style=\'background-color: #FFFF00\'>1</span>59463】</span><font color=\'#FF0000\'>开兔01</font></font></b></td></tr>");
 document.writeln("		");
 document.writeln("");
 document.writeln("");

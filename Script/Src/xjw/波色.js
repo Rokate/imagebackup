@@ -38,7 +38,17 @@ document.writeln("");
 
 
 
-
+document.writeln("");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("			<p>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>256期:<font color=\'#008000\'>【正版波色输尽光】</font><font color=\'#FF0000\'>开？00准</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>今期买蓝输尽光，单数鸡兔有玄机</td></tr>");
+document.writeln("");
+document.writeln("");
 
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
@@ -46,8 +56,8 @@ document.writeln("	");
 document.writeln("");
 document.writeln("			<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>255期:<font color=\'#008000\'>【正版波色输尽光】</font><font color=\'#FF0000\'>开？00准</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>今期买绿输尽光，单数猪羊有玄机</td></tr>");
+document.writeln("		<span><font size=\'4\'>255期:<font color=\'#008000\'>【正版波色输尽光】</font><font color=\'#FF0000\'>开兔01准</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>今期买<span style=\'background-color: #FFFF00\'>绿</span>输尽光，<span style=\'background-color: #FFFF00\'>单数</span>猪羊有玄机</td></tr>");
 document.writeln("		");
 document.writeln("");
 
