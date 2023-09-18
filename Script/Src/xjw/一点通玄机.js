@@ -38,22 +38,26 @@ document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\
 
 
 
+
+
+
+
+
+document.writeln("");
 document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'><strong>261期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开？00</strong></font><font color=\'#008000\'><strong><br>");
+document.writeln("		<span><font size=\'4\'><strong>262期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开？00</strong></font><font color=\'#008000\'><strong><br>");
 document.writeln("		</strong>");
-document.writeln("		</font><font color=\'#FF00FF\'><strong>三月烽火烧绿山，突来家书泪两滴。</strong></font><strong><br>");
+document.writeln("		</font><font color=\'#FF00FF\'><strong>花开不并百花丛,独立疏篱趣未穷</strong></font><strong><br>");
 document.writeln("		</strong><strong><font color=\'#6600CC\'>");
-document.writeln("		解:三月烽火烧绿山，火烧，（火）蛇马，突来家书泪两滴，家肖:牛马羊鸡狗猪。<br>");
-document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>羊鸡狗蛇牛马猪</span></strong></font></td></tr>");
+document.writeln("		解:句中大意菊花盛开在秋天，从不与百花为伍，独立在稀疏的篱笆旁，情操意趣并未衰穷。独解独肖鼠牛虎兔马羊。<br>");
+document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>鼠牛虎兔马羊</span></strong></font></td></tr>");
 document.writeln("");
 document.writeln("");
-
-
-
+ 
 document.writeln("");
 document.writeln("");
 document.writeln("						<tr>");

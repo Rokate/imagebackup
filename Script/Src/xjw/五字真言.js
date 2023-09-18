@@ -39,20 +39,16 @@ document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\
 
 
 
-
-document.writeln("");
-document.writeln("	");
-document.writeln("		<tr>");
+document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>261期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【→四九两边出←】</font><font color=\'#6600CC\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>解：03牛.04鼠.05猪.09羊.10马.11蛇</font></font></span></td></tr>");
-document.writeln("	");
+document.writeln("		<span><font size=\'4\'>262期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00 </font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【→二六两边出←】</font><font color=\'#6600CC\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>解：</font></font></span><font size=\'4\' color=\'#0000FF\'>01兔.02虎.03牛.05猪.06狗.07鸡</font></td></tr>");
+document.writeln("");
+document.writeln("");
 
-
+ 
 
 document.writeln("");
 document.writeln("");
