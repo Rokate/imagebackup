@@ -39,6 +39,17 @@ document.writeln("	");
 
 
 
+document.writeln("");
+document.writeln("	");
+document.writeln("		<!--开始-->");
+document.writeln("				<tr style=\'box-sizing: border-box;\'>");
+document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
+document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
+document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
+document.writeln("268期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【落日】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开？00准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
+document.writeln("		</tr>");
+document.writeln("<!--结束-->	");
+
 
 document.writeln("");
 document.writeln("		<!--开始-->");
@@ -46,7 +57,7 @@ document.writeln("				<tr style=\'box-sizing: border-box;\'>");
 document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("267期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【神曲】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开？00准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
+document.writeln("267期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【神曲】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开猴32准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
 document.writeln("		</tr>");
 document.writeln("<!--结束-->	");
 document.writeln("");
@@ -133,95 +144,7 @@ document.writeln("260期正版二字经</font><font style=\'margin: 0px; padding
 document.writeln("		</tr>");
 document.writeln("<!--结束-->");
 
-
-document.writeln("");
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("259期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【明月】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开猪29准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->	");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("258期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【惊奇】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开羊09准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-
-
-document.writeln("		<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("257期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【阴暗】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开龙36准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->	");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("256期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【飘逸】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开马34准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("255期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【存活】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开兔01准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("254期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【好奇】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开兔49准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("	");
-document.writeln("		<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("253期正版二字经</font><font style=\'margin: 0px; padding: 0px;\'><b><font color=\'#0000FF\' style=\'font-size: 16pt\'>【落日】</font></b></font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开虎26准</font><font style=\'font-size: 13pt\'></font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->	");
  
- 
- 
-
 
 document.writeln("<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
 document.writeln("			<a target=\'_blank\' href=\'https://61269c.com/#868627\' style=\'text-decoration: none\'><img src=/yyy123.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 15pt\'>进入澳彩网</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>61269c.com</font></span></a></strong></tr></table>		");

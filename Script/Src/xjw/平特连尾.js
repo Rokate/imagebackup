@@ -34,12 +34,19 @@ document.writeln("");
  
  
  
- document.writeln("			<!--开始-->");
+ 
+ 
+ 
+ 
+ 
+ document.writeln("				");
+document.writeln("");
+document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
-document.writeln("	<b>267期<font color=\'#6600CC\'>【一尾→拖28尾】开</font><font color=\'#FF6600\'>00.00.00</font>准</b></font></table>");
+document.writeln("	<b>268期<font color=\'#6600CC\'>【五尾→拖46尾】开</font><font color=\'#FF6600\'>00.00.00</font>准</b></font></table>");
 document.writeln("		<!--结束-->");
-document.writeln("");
+document.writeln("		");
 document.writeln("");
 
  
@@ -75,32 +82,7 @@ document.writeln("		<!--结束-->");
 document.writeln("		");
 document.writeln("");
 
- 
- document.writeln("			<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
-document.writeln("	<b>261期<font color=\'#6600CC\'>【<span style=\'background-color: #FFFF00\'>七尾</span>→拖4<span style=\'background-color: #FFFF00\'>1</span>尾】开</font><font color=\'#FF6600\'>27.01.00</font>准</b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
- document.writeln("				");
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
-document.writeln("	<b>260期<font color=\'#6600CC\'>【<span style=\'background-color: #FFFF00\'>六尾</span>→拖<span style=\'background-color: #FFFF00\'>3</span>9尾】开</font><font color=\'#FF6600\'>46.43.00</font>准</b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-
- 
- 
- 
- 
+  
   
  
  
