@@ -16,28 +16,27 @@ document.writeln("<div class=\'box\' id=\'ptyx\'>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
+document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
+document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>澳门玄机86281</font><font color=\'#FFFFFF\'>『欲钱料』</font></font></b></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
-document.writeln("			");
-document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\'/chajiansb.js\' charset=\'utf-8\'></script>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
 
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 
 
 
@@ -50,7 +49,18 @@ document.writeln("");
 document.writeln("												<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("			<p align=\'center\'>");
-document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>271期:<font color=\'#FF00FF\'>【欲钱买活泼聪明的生肖】</font><font color=\'#0000FF\'>开？00中</font></td></tr>");
+document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>272期:<font color=\'#FF00FF\'>【欲钱买天吃贪玩的生肖】</font><font color=\'#0000FF\'>开？00中</font></td></tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("								");
+document.writeln("");
+
+document.writeln("");
+document.writeln("");
+document.writeln("												<tr>");
+document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("			<p align=\'center\'>");
+document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>271期:<font color=\'#FF00FF\'>【欲钱买活泼聪明的生肖】</font><font color=\'#0000FF\'>开牛39中</font></td></tr>");
 document.writeln("");
 
  

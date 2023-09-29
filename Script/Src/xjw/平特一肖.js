@@ -1,25 +1,18 @@
-﻿document.writeln("<html>");
-document.writeln("");
-document.writeln("<head>");
-document.writeln("<meta http-equiv=\'Content-Language\' content=\'zh-cn\'>");
-document.writeln("<meta http-equiv=\'Content-Type\' content=\'text/html; charset=utf-8\'>");
-document.writeln("<title>030期</title>");
+﻿
 document.writeln("<style type=\'text/css\'>");
 document.writeln(".styleo {");
 document.writeln("	background-color: #FFFF00;");
 document.writeln("}");
 document.writeln("</style>");
-document.writeln("</head>");
+
 document.writeln("");
-document.writeln("<body>");
+document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
+document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
+document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>澳门玄机86281</font><font color=\'#FFFFFF\'>『平特一肖』</font></font></b></table>");
 document.writeln("");
-document.writeln("</body>");
 document.writeln("");
-document.writeln("</html>");
-document.writeln("	");
 
 document.writeln("<table style=border-collapse:collapse border=0 width=100%><tbody><p style=text-align:center><strong>");
-document.writeln("<script language=\'JavaScript\' type=\'text/javascript\' src=\'/chajiansb.js\' charset=\'utf-8\'></script>");
 
 document.writeln("<div class=\'box\' id=\'ptyx\'>");
 document.writeln("");
@@ -38,13 +31,20 @@ document.writeln("	   		");
 
 
 
-
+document.writeln("                         <tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>272期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【牛吃卷心菜—各人心中爱】</td>");
+document.writeln("	</tr>");
+document.writeln("		");
+document.writeln("");
 
 
 document.writeln("		");
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>271期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<span><font size=\'4\'>271期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>01</span><br>");
 document.writeln("		<font color=\'#FF00FF\'>【兔子撵乌龟—赶得上】</td>");
 document.writeln("		</tr>");
 
