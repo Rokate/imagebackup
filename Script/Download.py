@@ -152,8 +152,6 @@ if __name__ == "__main__":
         print("图片列表下载。。。")
         asyncio.run(main(qishu, qish, qs))
         print("am图片下载。。。")
-        asyncio.run(downloadamimg())
+        #asyncio.run(downloadamimg())
         print("xg图片下载。。。")
-        asyncio.run(downloadxgimg())
-        print("保存html")
-        
+        #asyncio.run(downloadxgimg())
