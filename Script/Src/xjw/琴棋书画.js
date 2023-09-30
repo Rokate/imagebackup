@@ -31,12 +31,16 @@ document.writeln("			");
 
 
 
-
+document.writeln("	<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>274期</font><font color=\'#008080\'>【琴棋书画】</font><font color=\'#FF0000\' size=\'4\' face=\'楷体\'>（</font><font color=\'#0000FF\' size=\'4\' face=\'微软雅黑\'>书琴棋</font><font color=\'#FF0000\' size=\'4\' face=\'楷体\'>）</font><font face=\'楷体\'>开？00准</font></b></table>");
+document.writeln("	<!--结束-->");
+document.writeln("");
 
 
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>273期</font><font color=\'#008080\'>【琴棋书画】</font><font color=\'#FF0000\' size=\'4\' face=\'楷体\'>（</font><font color=\'#0000FF\' size=\'4\' face=\'微软雅黑\'>书画棋</font><font color=\'#FF0000\' size=\'4\' face=\'楷体\'>）</font><font face=\'楷体\'>开？00准</font></b></table>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>273期</font><font color=\'#008080\'>【琴棋书画】</font><font color=\'#FF0000\' size=\'4\' face=\'楷体\'>（</font><font color=\'#0000FF\' size=\'4\' face=\'微软雅黑\'>书画<span style=\'background-color: #FFFF00\'>棋</span></font><font color=\'#FF0000\' size=\'4\' face=\'楷体\'>）</font><font face=\'楷体\'>开鼠28准</font></b></table>");
 document.writeln("	<!--结束-->");
 document.writeln("");
 
