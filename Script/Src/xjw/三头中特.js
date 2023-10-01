@@ -31,6 +31,21 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
+
+document.writeln("				<tr style=\'box-sizing: border-box;\'>");
+document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
+document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
+document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
+document.writeln("			275期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>1</span>.3.4头</font>』<font color=\'#0000FF\'>开兔13准</font></font></td>");
+document.writeln("		</tr>");
+document.writeln("				");
+document.writeln("		");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+
+
 document.writeln("			<tr style=\'box-sizing: border-box;\'>");
 document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
