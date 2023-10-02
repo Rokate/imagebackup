@@ -62,7 +62,10 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("	<td width=100% height=40><p align=left><b><font size=\'4\' face=\'楷体\'>");
 document.writeln("	");
 
-document.writeln("275期团队十肖：鼠猴蛇羊虎狗兔龙牛鸡<br>");
+
+
+
+document.writeln("276期团队十肖：牛鸡狗马虎蛇猴兔龙羊<br>");
 document.writeln("273期团队十肖：<span style=\'background-color: #FFFF00\'>鼠</span>猴马羊虎狗兔猪龙鸡<br>");
 document.writeln("272期团队十肖：鼠猴蛇马虎狗兔猪<span style=\'background-color: #FFFF00\'>牛</span>鸡<br>");
 document.writeln("271期团队十肖：鼠猴马羊虎狗兔龙<span style=\'background-color: #FFFF00\'>牛</span>鸡<br>");
@@ -79,8 +82,8 @@ document.writeln("");
 document.writeln("<br>");
 
 
-
-document.writeln("275期团队八尾：01235679<br>");
+document.writeln("276期团队八尾：01245789<br>");
+document.writeln("275期团队八尾：<span style=\'background-color: #FFFF00\'>0</span>1235679<br>");
 document.writeln("274期团队八尾：01<span style=\'background-color: #FFFF00\'>3</span>45789<br>");
 document.writeln("273期团队八尾：0134567<span style=\'background-color: #FFFF00\'>8</span><br>");
 document.writeln("271期团队八尾：0134567<span style=\'background-color: #FFFF00\'>9</span><br>");
@@ -93,8 +96,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("<br>");
 
-
-document.writeln("275期团队四头：0124<br>");
+document.writeln("276期团队四头：0234<br>");
+document.writeln("275期团队四头：0<span style=\'background-color: #FFFF00\'>1</span>24<br>");
 document.writeln("274期团队四头：0<span style=\'background-color: #FFFF00\'>1</span>23<br>");
 document.writeln("273期团队四头：01<span style=\'background-color: #FFFF00\'>2</span>4<br>");
 document.writeln("272期团队四头：01<span style=\'background-color: #FFFF00\'>2</span>4<br>");
@@ -105,7 +108,10 @@ document.writeln("");
 document.writeln("<br>");
 document.writeln("");
 
-document.writeln("275期团队四行：金木水火<br>");
+
+
+document.writeln("276期团队四行：木水火土<br>");
+document.writeln("275期团队四行：<span style=\'background-color: #FFFF00\'>金</span>木水火<br>");
 document.writeln("274期团队四行：金<span style=\'background-color: #FFFF00\'>木</span>火土<br>");
 document.writeln("272期团队四行：金<span style=\'background-color: #FFFF00\'>水</span>火土<br>");
 document.writeln("271期团队四行：<span style=\'background-color: #FFFF00\'>金</span>木火土<br>");

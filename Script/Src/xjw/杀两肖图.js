@@ -29,20 +29,43 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' style=\'box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 微软雅黑, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;\'>");
-
-
 document.writeln("	<tbody style=\'box-sizing: border-box;\'>");
 document.writeln("	");
 document.writeln("	");
 document.writeln("			<tr style=\'box-sizing: border-box;\'>");
 document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			");
-document.writeln("<a target=\'_blank\' href=\'https://49080.com/#/picture/28585\'><img src=\'https://tk2.qingxinmingxiang.com:4949/col/275/c002.jpg\'  width=\'49%\'></a>");
-document.writeln("<a target=\'_blank\' href=\'https://49080.com/#/picture/209029\'><img src=\'https://tk2.qingxinmingxiang.com:4949/col/275/hj44.jpg\'  width=\'49%\'></a>");
+document.writeln("<a target=\'_blank\' href=\'https://49080.com/#/picture/28585\'><img src=\'https://tk2.qingxinmingxiang.com:4949/col/276/c002.jpg\'  width=\'49%\'></a>");
+document.writeln("<a target=\'_blank\' href=\'https://49080.com/#/picture/209029\'><img src=\'https://tk2.qingxinmingxiang.com:4949/col/276/hj44.jpg\'  width=\'49%\'></a>");
 document.writeln("		</td></tr>");
 document.writeln("		");
 document.writeln("		");
 document.writeln("		");
+
+
+
+
+
+document.writeln("	");
+document.writeln("");
+document.writeln("		");
+document.writeln("													<!--开始-->");
+document.writeln("				<tr style=\'box-sizing: border-box;\'>");
+document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
+document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
+document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
+document.writeln("			276期玄机网禁两肖<font color=\'#FF0000\'>【狗猴】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
+document.writeln("			276期澳门杀两肖图<font color=\'#FF0000\'>【更新】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
+document.writeln("			276期澳门图库禁肖<font color=\'#FF0000\'>【更新】</font>特开<font color=\'#0000FF\'>？00</font>准</font></font></p></td>");
+document.writeln("		</tr>");
+document.writeln("<!--推广-->");
+document.writeln("				<tr style=\'box-sizing: border-box;\'>");
+document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\' bgcolor=\'#FFFF00\'>");
+document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
+document.writeln("			<a target=\'_blank\' href=\'https://j.1999xz.com:1999/\' style=\'text-decoration: none\'><img src=/yyy123.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 15pt\'>点击投注澳门六合彩</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1999.cc</font></span></a></strong>");
+document.writeln("</p></td></tr>");
+document.writeln("<!--结束-->	");
+
 
 
 
@@ -51,9 +74,9 @@ document.writeln("				<tr style=\'box-sizing: border-box;\'>");
 document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			275期玄机网禁两肖<font color=\'#FF0000\'>【鼠马】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
-document.writeln("			275期澳门杀两肖图<font color=\'#FF0000\'>【兔龙】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
-document.writeln("			275期澳门图库禁肖<font color=\'#FF0000\'>【蛇猴】</font>特开<font color=\'#0000FF\'>？00</font>准</font></font></p></td>");
+document.writeln("			275期玄机网禁两肖<font color=\'#FF0000\'>【鼠马】</font>特开<font color=\'#0000FF\'>马10</font>错<br>");
+document.writeln("			275期澳门杀两肖图<font color=\'#FF0000\'>【兔龙】</font>特开<font color=\'#0000FF\'>马10</font>准<br>");
+document.writeln("			275期澳门图库禁肖<font color=\'#FF0000\'>【蛇猴】</font>特开<font color=\'#0000FF\'>马10</font>准</font></font></p></td>");
 document.writeln("		</tr>");
 document.writeln("<!--推广-->");
 document.writeln("				<tr style=\'box-sizing: border-box;\'>");
