@@ -80,8 +80,8 @@ async def main(a, b, c):
 
 async def downloadamimg():
     amimg = [
-         ["https://xam666.003123.work/js8/tu/4.jpg","a-mj.jpg"],
-        ["https://xam666.003123.work/js8/tu/lxx.png","a-shxg.png"],
+         ["https://xam666.003123lhzz.xyz/js8/tu/4.jpg","a-mj.jpg"],
+        ["https://xam666.003123lhzz.xyz/js8/tu/lxx.png","a-shxg.png"],
     ]
     for i, url in enumerate(amimg):
         response = requests.get(url[0])
@@ -152,6 +152,6 @@ if __name__ == "__main__":
         print("图片列表下载。。。")
         asyncio.run(main(qishu, qish, qs))
         print("am图片下载。。。")
-        #asyncio.run(downloadamimg())
+        asyncio.run(downloadamimg())
         print("xg图片下载。。。")
-        #asyncio.run(downloadxgimg())
+        asyncio.run(downloadxgimg())
