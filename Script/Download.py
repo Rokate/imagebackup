@@ -94,11 +94,11 @@ async def downloadxgimg():
     xgimg = [
         [
             "https://xgtk.003123.work/index.php?c=119",
-            'Title: <a href="(.*?)">马经',
+            '<th><a href="(.*?)">',
         ],
         [
             "https://xgtk.003123.work/index.php?c=17",
-            'Title: <a href="(.*?)">守护幸福',
+            '<th><a href="(.*?)">',
         ],
     ]
     y = 0
