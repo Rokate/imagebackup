@@ -35,8 +35,8 @@ document.writeln("	");
 document.writeln("			<tr style=\'box-sizing: border-box;\'>");
 document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			");
-document.writeln("<a target=\'_blank\' href=\'https://49080.com/#/picture/28585\'><img src=\'https://tk2.qingxinmingxiang.com:4949/col/288/c002.jpg\'  width=\'49%\'></a>");
-document.writeln("<a target=\'_blank\' href=\'https://49080.com/#/picture/209029\'><img src=\'https://tk2.qingxinmingxiang.com:4949/col/288/hj44.jpg\'  width=\'49%\'></a>");
+document.writeln("<a target=\'_blank\' href=\'https://49080.com/#/picture/28585\'><img src=\'https://tk2.qingxinmingxiang.com:4949/col/289/c002.jpg\'  width=\'49%\'></a>");
+document.writeln("<a target=\'_blank\' href=\'https://49080.com/#/picture/209029\'><img src=\'https://tk2.qingxinmingxiang.com:4949/col/289/hj44.jpg\'  width=\'49%\'></a>");
 document.writeln("		</td></tr>");
 document.writeln("		");
 document.writeln("		");
@@ -52,15 +52,14 @@ document.writeln("		");
 
 
 
-
-document.writeln("			<!--开始-->");
+document.writeln("					<!--开始-->");
 document.writeln("				<tr style=\'box-sizing: border-box;\'>");
 document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			288期玄机网禁两肖<font color=\'#FF0000\'>【猪狗】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
-document.writeln("			288期澳门杀两肖图<font color=\'#FF0000\'>【更新】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
-document.writeln("			288期澳门图库禁肖<font color=\'#FF0000\'>【更新】</font>特开<font color=\'#0000FF\'>？00</font>准</font></font></p></td>");
+document.writeln("			289期玄机网禁两肖<font color=\'#FF0000\'>【鼠马】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
+document.writeln("			289期澳门杀两肖图<font color=\'#FF0000\'>【更新】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
+document.writeln("			289期澳门图库禁肖<font color=\'#FF0000\'>【更新】</font>特开<font color=\'#0000FF\'>？00</font>准</font></font></p></td>");
 document.writeln("		</tr>");
 document.writeln("<!--推广-->");
 document.writeln("				<tr style=\'box-sizing: border-box;\'>");
@@ -68,9 +67,10 @@ document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\' bgcol
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<a target=\'_blank\' href=\'https://j.1999xz.com:1999/\' style=\'text-decoration: none\'><img src=/yyy123.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 15pt\'>点击投注澳门六合彩</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1999.cc</font></span></a></strong>");
 document.writeln("</p></td></tr>");
-document.writeln("<!--结束-->	");
+document.writeln("<!--结束-->");
 document.writeln("");
-document.writeln("");
+
+
 
 document.writeln("");
 document.writeln("			<!--开始-->");
