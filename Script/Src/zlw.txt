@@ -329,7 +329,7 @@ document.writeln("<div class=\'box\'>");
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong\'>");
-document.writeln("	<div class=\'bizhong-tit\'>澳门资料网（62103b.com）一尾一码</div>");
+document.writeln("	<div class=\'bizhong-tit\'>澳门资料网（62361b.com）一尾一码</div>");
 document.writeln("	<div class=\'bizhong-box\'>");
 document.writeln("    	<div class=\'bizhong-l\'>");
 document.writeln("        	<ul>");
