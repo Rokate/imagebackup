@@ -16,6 +16,11 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 
 
 
+
+
+
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
@@ -25,100 +30,13 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>295期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【喝】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开？00</font></span><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#006600\'>解特： 05 06 07 11 12 13 14 15 22 23 28 29 30 31 39 40 41 42 43</font></font></span></td></tr>");
+document.writeln("		<span><font size=\'4\'>296期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【隧】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开？00</font></span><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#006600\'>解特：02 03 04 05 06 07 08 09 10 11 12 13 14 16 17 18 19 20 21 22 23</font></font></span></td></tr>");
 document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
-
-document.writeln("<!--开始-->");
-document.writeln("");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>293期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【概】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开猴20</font></span><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#006600\'>解特：16 17 18 19 <span style=\'background-color: #FFFF00\'>20</span> 21 22 23 24 25 26 27 28 33 34 35 36 41 42 48</td></tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-document.writeln("<!--开始-->");
-document.writeln("");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>292期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【焊】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开兔25</font></span><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#006600\'>解特：08 09 10 11 12 24 <span style=\'background-color: #FFFF00\'>25</span> 26 27 28 29 30 31 32 38 39 40 41 42 43 47</td></tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>289期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【耗】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开羊21</font></span><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#006600\'>解特： 16 17 18 19 20 <span style=\'background-color: #FFFF00\'>21</span> 22 23 24 25 29 30 31 36 37 38 39 40 44</font></font></span></td></tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>288期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【缚】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开蛇23</font></span><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#006600\'>解特： 06 07 08 16 17 18 19 20 21 22 <span style=\'background-color: #FFFF00\'>23</span> 24 25 26 27 28 35 36 41</font></font></span></td></tr>");
-document.writeln("<!--结束-->");
-
-
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>286期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【窜】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开鸡19</font></span><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#006600\'>解特：01 05 06 07 08 13 14 17 18 19 24 25 26 27 33 34 35 36 37 41</td></tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>285期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【槲】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开猪41</font></span><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#006600\'>解特：02 03 04 05 06 07 16 17 18 19 20 21 31 32 33 34 35 38 <span style=\'background-color: #FFFF00\'>41</span> 45</td></tr>");
-document.writeln("<!--结束-->");
 
 
 
