@@ -77,66 +77,6 @@ async def main(a, b, c):
             tasks.append(task)
         await asyncio.gather(*tasks)
 
-
-async def downloadamimg():
-    amimg = [
-         ["https://xam666.003123lhzz.xyz/js8/tu/4.jpg","a-mj.jpg"],
-        ["https://xam666.003123lhzz.xyz/js8/tu/lxx.png","a-shxg.png"],
-    ]
-    for i, url in enumerate(amimg):
-        response = requests.get(url[0])
-        file_path = "./Script/Src/" + url[1]
-        with open(file_path, 'wb') as f:
-            f.write(response.content)
-
-
-async def downloadxgimg():
-    xgimg = [
-        [
-            "https://xgtk.003123.work/index.php?c=119",
-            '<th><a href="(.*?)">',
-        ],
-        [
-            "https://xgtk.003123.work/index.php?c=17",
-            '<th><a href="(.*?)">',
-        ],
-    ]
-    y = 0
-    data = {"password": "003123.com"}
-    for url in xgimg:
-        pic = str(y)
-        y = y + 1
-        try:
-            async with aiohttp.ClientSession() as session:
-                async with session.post(url[0],data=data) as resp:
-                    page = await resp.text()
-                    pattern = re.compile(url[1])
-                    m = re.findall(pattern, page)
-                    async with session.get(m[0]) as resp:
-                        page2 = await resp.text()
-                    pattern2 = re.compile('InterPhoto.image.php(.*?)"')
-                    m2 = re.findall(pattern2, page2)
-                    headers = {
-                        "sec-ch-ua": '" Not A;Brand";v="99", "Chromium";v="98"',
-                        "Referer": m[0],
-                        "sec-ch-ua-mobile": "?0",
-                        "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.139 Safari/537.36",
-                        "sec-ch-ua-platform": '"Windows"',
-                    }
-                    picfile = await session.get(
-                        "https://xgtk.003123.work/InterPhoto.image.php" + m2[0],
-                        headers=headers,
-                    )
-                    async with aiofiles.open(f"./Script/Src/xgpic{pic}.jpg", "wb") as f:
-                        while True:
-                            chunk = await picfile.content.read(1024)
-                            if not chunk:
-                                break
-                            await f.write(chunk)
-        except Exception as e:
-            print("下载出错:\t", url[0], repr(e))
-
-
 if __name__ == "__main__":
     #a6.003123.club
     try:
@@ -151,7 +91,4 @@ if __name__ == "__main__":
     else:
         print("图片列表下载。。。")
         asyncio.run(main(qishu, qish, qs))
-        print("am图片下载。。。")
-        asyncio.run(downloadamimg())
-        print("xg图片下载。。。")
-        asyncio.run(downloadxgimg())
+        
