@@ -17,12 +17,28 @@ document.writeln("		");
 
 
 
+
+
+
+
+document.writeln("");
+document.writeln("		");
+document.writeln("	");
+document.writeln("						<tr>");
+document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("		<p align=\'center\'>");
+document.writeln("	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>300期:<font color=\'#FF00FF\'>《马羊鸡》</font><font color=\'#008000\'>（34 45 07）</font><font color=\'#0000FF\'>开？00中</font></font></span></div>	");
+document.writeln("	");
+document.writeln("");
+document.writeln("");
+
 document.writeln("");
 document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("		<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>299期:<font color=\'#FF00FF\'>《牛龙兔》</font><font color=\'#008000\'>（39 12 13）</font><font color=\'#0000FF\'>开？00中</font></font></span></div>	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>299期:<font color=\'#FF00FF\'>《牛<span style=\'background-color: #FFFF00\'>龙</span>兔》</font><font color=\'#008000\'>（39 12 13）</font><font color=\'#0000FF\'>开龙24中</font></font></span></div>	");
 document.writeln("	");
 document.writeln("");
 document.writeln("");
