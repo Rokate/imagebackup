@@ -214,7 +214,7 @@ document.writeln("		<tr style=\'box-sizing: border-box;\'>");
 document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			286期<font color=\'#008000\'>春夏秋冬</font>『<font color=\'#FF0000\'>春span style=\'background-color: #FFFF00\'>秋</span>冬</font>』<font color=\'#0000FF\'>开鸡19准</font></font></td>");
+document.writeln("			286期<font color=\'#008000\'>春夏秋冬</font>『<font color=\'#FF0000\'>春<span style=\'background-color: #FFFF00\'>秋</span>冬</font>』<font color=\'#0000FF\'>开鸡19准</font></font></td>");
 document.writeln("		</tr>");
 document.writeln("");
 document.writeln("");
