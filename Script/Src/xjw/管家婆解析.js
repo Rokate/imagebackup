@@ -29,12 +29,20 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 
 
 
+document.writeln("<tr><td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("<p align=\'left\'>");
+document.writeln("<span><font size=\'4\'>311期:<font color=\'#008000\'>【精解管家婆一句赢大钱】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("</font><font color=\'#6600CC\'>精解九肖：龙虎猴鼠牛猪马羊鸡<br></font></font>");
+document.writeln("<font color=\'#FF0000\' size=\'4\'>精解18码：</font><font color=\'#0000FF\' size=\'4\'>24.36.14.38.20.32.28.16.39.27.05.41.10.46.21.45.07.43<br></font>");
+document.writeln("</td></tr>");
+document.writeln("");
+document.writeln("");
 
 document.writeln("<tr><td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("<p align=\'left\'>");
-document.writeln("<span><font size=\'4\'>310期:<font color=\'#008000\'>【精解管家婆一句赢大钱】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("</font><font color=\'#6600CC\'>精解九肖：龙蛇虎兔羊猪牛马猴<br></font></font>");
-document.writeln("<font color=\'#FF0000\' size=\'4\'>精解18码：</font><font color=\'#0000FF\' size=\'4\'>12.48.47.35.26.38.13.25.09.33.17.29.39.27.34.46.08<br></font>");
+document.writeln("<span><font size=\'4\'>310期:<font color=\'#008000\'>【精解管家婆一句赢大钱】</font><font color=\'#FF0000\'>开兔13</font><font color=\'#008000\'><br>");
+document.writeln("</font><font color=\'#6600CC\'>精解九肖：龙蛇虎<span style=\'background-color: #FFFF00\'>兔</span>羊猪牛马猴<br></font></font>");
+document.writeln("<font color=\'#FF0000\' size=\'4\'>精解18码：</font><font color=\'#0000FF\' size=\'4\'>12.48.47.35.26.38.<span style=\'background-color: #FFFF00\'>13</span>.25.09.33.17.29.39.27.34.46.08<br></font>");
 document.writeln("</td></tr>");
 
 document.writeln("<tr><td class=\'center f11 black l150\' align=\'center\'>");
