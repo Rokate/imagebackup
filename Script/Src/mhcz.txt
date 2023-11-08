@@ -5433,11 +5433,7 @@ document.writeln("<font face=\'微软雅黑\' size=\'4\' color=\'#0000FF\'>312�
 document.writeln("<font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>32.18.28.49.26.47.44.30.35.31.05.41.33</font>");
 document.writeln("</tr>");
 
-document.writeln("<tr>");
-document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=44><p style=box-sizing:border-box;padding:0;margin:0 align=center>");
-document.writeln("<font face=\'微软雅黑\' size=\'4\' color=\'#0000FF\'>311期：大刀砍杀→</font><font face=\'微软雅黑\' color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>开狗30准</span></font><br>");
-document.writeln("<font face=\'微软雅黑\' color=\'#000000\' size=\'4\'>46.03.11.06.42.44.12.14.25.30.38.36.09</font>");
-document.writeln("</tr>");
+
 
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=44><p style=box-sizing:border-box;padding:0;margin:0 align=center>");
