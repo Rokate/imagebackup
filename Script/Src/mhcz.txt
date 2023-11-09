@@ -1115,14 +1115,6 @@ document.writeln("			<font color=\'#0000FF\' size=\'4\'>解：23蛇.03牛.26虎.
 document.writeln("		</tr>");
 document.writeln(" <!--结束-->");
 
-document.writeln("<!--开始-->");
-document.writeln("	<tr>");
-document.writeln("			<td align=\'center\' height=78>");
-document.writeln("			<font color=\'#008080\'>312期:【五字真言爆特码】</font><font color=\'#FF00FF\'>开猪05准</font><br>");
-document.writeln("		     <font color=\'#FF00FF\'>【&#9755;</font><span style=\'font-weight: 400; background-color:#FFFFFF\'><font size=\'5\' color=\'#000000\'>如意金箍棒</font></span><font color=\'#FF00FF\'>&#9754;】</font><br></font>");
-document.writeln("			<font color=\'#0000FF\' size=\'4\'>解：40鼠.24龙.33羊.22马.14虎</td>");
-document.writeln("		</tr>");
-document.writeln(" <!--结束-->");
 
 
 document.writeln("<!--开始-->");
@@ -3952,13 +3944,6 @@ document.writeln("313期</font><font color=\'#008000\'>三行中特</font><font 
 document.writeln("</span></font></font>");
 document.writeln("</tr>");
 
-document.writeln("<tr>");
-document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=49><p style=box-sizing:border-box;padding:0;margin:0 align=center>");
-document.writeln("<span style=box-sizing:border-box;font-size:14pt><font face=\'微软雅黑\'><b>");
-document.writeln("<span style=box-sizing:border-box;><font color=\'#000000\'>");
-document.writeln("312期</font><font color=\'#008000\'>三行中特</font><font color=\'#FF0000\'>【<span style=\'background-color: #FFFF00\'>木</span>金土】</font><font color=\'#000000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF00FF\'>猪05</font></span><font color=\'#000000\'>准</font></span></b><font color=\'#000000\'><span style=\'font-size: 14pt\'></strong>");
-document.writeln("</span></font></font>");
-document.writeln("</tr>");
 
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=49><p style=box-sizing:border-box;padding:0;margin:0 align=center>");
@@ -4902,7 +4887,7 @@ document.writeln("		<td bgcolor=\'#ffffff\' height=\'40\' width=\'20%\' align=\'
 document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 11pt; -ms-word-wrap:break-word\' size=\'3\'>");
 document.writeln("		《<font color=\'#FF0000\'>金行</font>》</font></td>");
 document.writeln("		<td bgcolor=\'#ffffff\' height=\'40\' width=\'20%\' align=\'center\' style=\'font-size: 12px; color: rgb(0, 0, 0);\'>");
-document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 11pt\'>《<font color=\'#FF0000\'>蓝单</font>》</font></td>");
+document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 11pt\'>《<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>蓝单</span></font>》</font></td>");
 document.writeln("		<td bgcolor=\'#ffffff\' height=\'40\' width=\'20%\' align=\'center\' style=\'font-size: 12px; color: rgb(0, 0, 0);\'>");
 document.writeln("		<font face=\'微软雅黑\' size=\'2\' color=\'#0000FF\'>开:</font><font face=\'微软雅黑\' size=\'2\' color=\'#FF0000\'>猪05</font><font face=\'微软雅黑\' size=\'2\' color=\'#0000FF\'></font></td>");
 document.writeln("        </font>");
