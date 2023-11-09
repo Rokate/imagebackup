@@ -63,8 +63,9 @@ document.writeln("	<td width=100% height=40><p align=left><b><font size=\'4\' fa
 document.writeln("	");
 
 
+document.writeln("314期团队十肖：鼠猴蛇马虎狗兔猪牛鸡<br>");
 
-document.writeln("313期团队十肖：鼠猴马羊虎狗兔龙牛鸡<br>");
+document.writeln("313期团队十肖：鼠猴<span style=\'background-color: #FFFF00\'>马</span>羊虎狗兔龙牛鸡<br>");
 document.writeln("312期团队十肖：鼠蛇马羊虎狗<span style=\'background-color: #FFFF00\'>猪</span>龙牛鸡<br>");
 document.writeln("311期团队十肖：牛兔猪猴马羊鸡<span style=\'background-color: #FFFF00\'>狗</span>鼠龙<br>");
 document.writeln("310期团队十肖：蛇牛鼠虎猪<span style=\'background-color: #FFFF00\'>兔</span>羊马猴鸡<br>");
@@ -85,8 +86,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<br>");
 
+document.writeln("314期团队八尾：02345689<br>");
 
-document.writeln("313期团队八尾：01345679<br>");
+document.writeln("313期团队八尾：<span style=\'background-color: #FFFF00\'>0</span>1345679<br>");
 document.writeln("312期团队八尾：014<span style=\'background-color: #FFFF00\'>5</span>6789<br>");
 document.writeln("311期团队八尾：<span style=\'background-color: #FFFF00\'>0</span>2345789<br>");
 document.writeln("309期团队八尾：1245<span style=\'background-color: #FFFF00\'>6</span>789<br>");
@@ -130,8 +132,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<br>");
 
+document.writeln("314期团队四头：0124<br>");
 
-document.writeln("313期团队四头：0134<br>");
+document.writeln("313期团队四头：0<span style=\'background-color: #FFFF00\'>1</span>34<br>");
 document.writeln("310期团队四头：2<span style=\'background-color: #FFFF00\'>1</span>34<br>");
 document.writeln("308期团队四头：012<span style=\'background-color: #FFFF00\'>4</span><br>");
 document.writeln("307期团队四头：0<span style=\'background-color: #FFFF00\'>1</span>23<br>");
@@ -157,8 +160,9 @@ document.writeln("");
 document.writeln("<br>");
 document.writeln("");
 
+document.writeln("314期团队四行：金水火土<br>");
 
-document.writeln("313期团队四行：金木火土<br>");
+document.writeln("313期团队四行：<span style=\'background-color: #FFFF00\'>金</span>木火土<br>");
 document.writeln("312期团队四行：<span style=\'background-color: #FFFF00\'>木</span>水火土<br>");
 document.writeln("311期团队四行：金木水<span style=\'background-color: #FFFF00\'>火</span><br>");
 document.writeln("310期团队四行：金<span style=\'background-color: #FFFF00\'>木</span>水土<br>");
