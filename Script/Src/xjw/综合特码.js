@@ -62,8 +62,8 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("	<td width=100% height=40><p align=left><b><font size=\'4\' face=\'楷体\'>");
 document.writeln("	");
 
-
-document.writeln("314期团队十肖：鼠猴蛇马虎狗兔猪牛鸡<br>");
+document.writeln("315期团队十肖：鼠猴马羊虎狗兔猪龙鸡<br>");
+document.writeln("314期团队十肖：鼠猴蛇马<span style=\'background-color: #FFFF00\'>虎</span>狗兔猪牛鸡<br>");
 
 document.writeln("313期团队十肖：鼠猴<span style=\'background-color: #FFFF00\'>马</span>羊虎狗兔龙牛鸡<br>");
 document.writeln("312期团队十肖：鼠蛇马羊虎狗<span style=\'background-color: #FFFF00\'>猪</span>龙牛鸡<br>");
@@ -85,8 +85,8 @@ document.writeln("295期团队十肖：龙鼠猪蛇<span style=\'background-colo
 document.writeln("");
 document.writeln("");
 document.writeln("<br>");
-
-document.writeln("314期团队八尾：02345689<br>");
+document.writeln("315期团队八尾：01345678<br>");
+document.writeln("314期团队八尾：02345<span style=\'background-color: #FFFF00\'>6</span>89<br>");
 
 document.writeln("313期团队八尾：<span style=\'background-color: #FFFF00\'>0</span>1345679<br>");
 document.writeln("312期团队八尾：014<span style=\'background-color: #FFFF00\'>5</span>6789<br>");
@@ -131,8 +131,8 @@ document.writeln("265期团队八尾：012<span style=\'background-color: #FFFF0
 document.writeln("");
 document.writeln("");
 document.writeln("<br>");
-
-document.writeln("314期团队四头：0124<br>");
+document.writeln("315期团队四头：0124<br>");
+document.writeln("314期团队四头：01<span style=\'background-color: #FFFF00\'>2</span>4<br>");
 
 document.writeln("313期团队四头：0<span style=\'background-color: #FFFF00\'>1</span>34<br>");
 document.writeln("310期团队四头：2<span style=\'background-color: #FFFF00\'>1</span>34<br>");
@@ -159,9 +159,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("<br>");
 document.writeln("");
+document.writeln("315期团队四行：金木火土<br>");
 
-document.writeln("314期团队四行：金水火土<br>");
-
+document.writeln("314期团队四行：金水火<span style=\'background-color: #FFFF00\'>土</span><br>");
 document.writeln("313期团队四行：<span style=\'background-color: #FFFF00\'>金</span>木火土<br>");
 document.writeln("312期团队四行：<span style=\'background-color: #FFFF00\'>木</span>水火土<br>");
 document.writeln("311期团队四行：金木水<span style=\'background-color: #FFFF00\'>火</span><br>");

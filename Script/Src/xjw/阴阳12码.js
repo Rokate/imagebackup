@@ -40,9 +40,6 @@ document.writeln("	");
 document.writeln("	");
 
 3
-
-document.writeln("");
-document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
