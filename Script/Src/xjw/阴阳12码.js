@@ -39,103 +39,18 @@ document.writeln("	<!--结束-->");
 document.writeln("	");
 document.writeln("	");
 
-3
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#008000\'>314期</font><font color=\'#FF0000\'>☆【特爆六肖12码】☆</font></b></font></table>");
+document.writeln("	<font color=\'#008000\'>316期</font><font color=\'#FF0000\'>☆【特爆六肖12码】☆</font></b></font></table>");
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>阳肖【牛虎兔羊猴鸡】</font></b></font></table>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>03.39.14.38.25.37.09.21.08.32.07.31</font></b></font></table>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>03.27.26.38.13.37.21.45.20.32.07.43</font></b></font></table>");
 document.writeln("		");
 document.writeln("	<!--结束-->");
-document.writeln("");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#008000\'>311期</font><font color=\'#FF0000\'>☆【特爆六肖12码】☆</font></b></font></table>");
-document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>阴肖【鼠<span style=\'background-color: #FFFF00\'>狗</span>蛇马狗猪】</font></b></font></table>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>04.40.24.36.23.47.10.34.06.<span style=\'background-color: #FFFF00\'>30</span>.17.29</font></b></font></table>");
-document.writeln("		");
-document.writeln("	<!--结束-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#008000\'>309期</font><font color=\'#FF0000\'>☆【特爆六肖12码】☆</font></b></font></table>");
-document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>阴肖【<span style=\'background-color: #FFFF00\'>16</span>龙蛇马狗猪】</font></b></font></table>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'><span style=\'background-color: #FFFF00\'>16</span>.40.12.36.11.23.22.46.06.42.05.41</font></b></font></table>");
-document.writeln("		");
-document.writeln("	<!--结束-->");
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#008000\'>306期</font><font color=\'#FF0000\'>☆【特爆六肖12码】☆</font></b></font></table>");
-document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>阴肖【<span style=\'background-color: #FFFF00\'>鼠</span>龙蛇马狗猪】</font></b></font></table>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>04.<span style=\'background-color: #FFFF00\'>28</span>.24.48.11.47.22.34.18.42.05.41</font></b></font></table>");
-document.writeln("		");
-document.writeln("	<!--结束-->");
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#008000\'>304期</font><font color=\'#FF0000\'>☆【特爆六肖12码】☆</font></b></font></table>");
-document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>阴肖【<span style=\'background-color: #FFFF00\'>鼠</span>龙蛇马狗猪】</font></b></font></table>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>16.<span style=\'background-color: #FFFF00\'>28</span>.24.36.11.35.22.34.18.30.05.29</font></b></font></table>");
-document.writeln("		");
-document.writeln("	<!--结束-->");
-document.writeln("");
-document.writeln("");
-
- document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#008000\'>303期</font><font color=\'#FF0000\'>☆【特爆六肖12码】☆</font></b></font></table>");
-document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>阳肖【<span style=\'background-color: #FFFF00\'>牛</span>虎兔羊猴鸡】</font></b></font></table>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>03.27.26.38.13.49.33.45.20.32.07.19</font></b></font></table>");
-document.writeln("		");
-document.writeln("	<!--结束-->");
-document.writeln("");
-
- document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
-document.writeln("	<font color=\'#008000\'>302期</font><font color=\'#FF0000\'>☆【特爆六肖12码】☆</font></b></font></table>");
-document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>阳肖【牛虎兔羊<span style=\'background-color: #FFFF00\'>猴</span>鸡】</font></b></font></table>");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>03.27.26.38.13.37.21.45.20.<span style=\'background-color: #FFFF00\'>32</span>.07.43</font></b></font></table>");
-document.writeln("		");
-document.writeln("	<!--结束-->");
-
 
 
 
