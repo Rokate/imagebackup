@@ -62,7 +62,8 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("	<td width=100% height=40><p align=left><b><font size=\'4\' face=\'楷体\'>");
 document.writeln("	");
 
-document.writeln("318期团队十肖：牛鸡狗马虎蛇猴兔龙羊<br>");
+document.writeln("319期团队十肖：鸡鼠兔猴马羊虎狗龙蛇<br>");
+document.writeln("318期团队十肖：牛鸡狗马虎蛇猴<span style=\'background-color: #FFFF00\'>兔</span>龙羊<br>");
 document.writeln("316期团队十肖：<span style=\'background-color: #FFFF00\'>龙</span>牛马羊虎猪鼠鸡猴蛇<br>");
 document.writeln("315期团队十肖：鼠猴马羊虎狗兔<span style=\'background-color: #FFFF00\'>猪</span>龙鸡<br>");
 document.writeln("314期团队十肖：鼠猴蛇马<span style=\'background-color: #FFFF00\'>虎</span>狗兔猪牛鸡<br>");
@@ -88,7 +89,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("<br>");
 
-document.writeln("318期团队八尾：01245789<br>");
+document.writeln("319期团队八尾：12356789<br>");
+document.writeln("318期团队八尾：0124578<span style=\'background-color: #FFFF00\'>9</span><br>");
 
 document.writeln("317期团队八尾：0<span style=\'background-color: #FFFF00\'>1</span>235679<br>");
 document.writeln("316期团队八尾：013457<span style=\'background-color: #FFFF00\'>8</span>9<br>");
@@ -140,7 +142,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("<br>");
 
-document.writeln("318期团队四头：0234<br>");
+document.writeln("319期团队四头：1234<br>");
+document.writeln("318期团队四头：023<span style=\'background-color: #FFFF00\'>4</span><br>");
 document.writeln("315期团队四头：01<span style=\'background-color: #FFFF00\'>2</span>4<br>");
 document.writeln("314期团队四头：01<span style=\'background-color: #FFFF00\'>2</span>4<br>");
 
@@ -170,7 +173,8 @@ document.writeln("");
 document.writeln("<br>");
 document.writeln("");
 
-document.writeln("318期团队四行：木水火土<br>");
+document.writeln("319期团队四行：金木火土<br>");
+document.writeln("318期团队四行：木<span style=\'background-color: #FFFF00\'>水</span>火土<br>");
 document.writeln("317期团队四行：金木<span style=\'background-color: #FFFF00\'>水</span>火<br>");
 document.writeln("316期团队四行：木水火<span style=\'background-color: #FFFF00\'>土</span><br>");
 
