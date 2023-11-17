@@ -56,7 +56,6 @@ async def MHCZ():
         f"{mhczurl}/bbs/1anv.js",
         f"{mhczurl}/bbs/jy3x.js",
         f"{mhczurl}/bbs/jy4x.js",
-        f"{mhczurl}/bbs/dszt.js",
         f"{mhczurl}/bbs/tian.js",
         f"{mhczurl}/bbs/gjh.js",
         f"{mhczurl}/bbs/3qbc.js",
