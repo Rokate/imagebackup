@@ -1680,7 +1680,7 @@ document.writeln("<td style=\'border:1px double #000080\' bgcolor=\'#000080\' he
 document.writeln("<b><font face=\'楷体\' size=\'6\' color=\'#FF00FF\'>2</font><font face=\'楷体\' style=\'font-size: 22pt\' color=\'#00FFFF\'>9</font><font face=\'楷体\' color=\'#FF9933\' size=\'6\'>7</font><font face=\'楷体\' color=\'#00FF00\' style=\'font-size: 22pt\'>9</font><font face=\'楷体\' color=\'#33CCFF\' style=\'font-size: 20pt\'>0c</font><font face=\'楷体\' size=\'4\' color=\'#FFFF00\'>.com</font><font color=\'#FFFFFF\' face=\'楷体\' size=\'5\'>（单双中特）</font></b></table>");
 document.writeln("");
 document.writeln("<tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' href=\'https://h5.49217004.com:8443//\' style=\'text-decoration: none\'><span style=font-family:楷体;font-size:16pt;color:#00f>49图库49.com</span><span style=font-family:楷体;font-size:16pt;><font color=\'#FF0000\'>图纸最全-最快</font></span></a></strong></tr>");
+document.writeln("			<a target=\'_blank\' href=\'https://h5.49217004.com:8443/\' style=\'text-decoration: none\'><span style=font-family:楷体;font-size:16pt;color:#00f>49图库49.com</span><span style=font-family:楷体;font-size:16pt;><font color=\'#FF0000\'>图纸最全-最快</font></span></a></strong></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -1708,7 +1708,9 @@ document.writeln("325期<font color=\'#008000\'>【单双中特</font>】=<font 
 
 
 
+document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'36\'><tbody><tr>");
+document.writeln("	<td width=100% height=36><p align=center><font face=\'微软雅黑\' size=\'4\'><b>");
 document.writeln("324期<font color=\'#008000\'>【单双中特</font>】=<font color=\'#800000\'>【？？】</font>开 ？00准</b></font></table>");
 
 
@@ -2614,20 +2616,6 @@ document.writeln("结束-->");
 
 
 
-document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'黑体\'></font><font size=\'3\' face=\'黑体\'>");
-document.writeln("	323期雷锋<font color=\'#FF0000\'>（一句玄机）</font>:开</font></b><span style=\'background-color: #FFFF00\'><b><font face=\'黑体\'>？00</font></b></span></td></tr>");
-document.writeln("");
-document.writeln("<tr><td width=100% height=40><p align=center><font face=\'黑体\'><b>");
-document.writeln("		<font color=\'#0000FF\' style=\'font-size: 16pt\'>");
-document.writeln("	【男肖合单，牛虎龙猴出特】</font></b></font></td></tr>");
-document.writeln("</table>");
-document.writeln("");
-document.writeln("");
-
-
-
 
 
 
@@ -2642,14 +2630,17 @@ document.writeln("</table>");
 
 
 
+document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b><font face=\'黑体\'></font><font size=\'3\' face=\'黑体\'>");
 document.writeln("	323期雷锋<font color=\'#FF0000\'>（一句玄机）</font>:开</font></b><span style=\'background-color: #FFFF00\'><b><font face=\'黑体\'>？00</font></b></span></td></tr>");
 document.writeln("");
 document.writeln("<tr><td width=100% height=40><p align=center><font face=\'黑体\'><b>");
 document.writeln("		<font color=\'#0000FF\' style=\'font-size: 16pt\'>");
-document.writeln("	【www.29790c.com】</font></b></font></td></tr>");
+document.writeln("	【男肖合单，牛虎龙猴出特】</font></b></font></td></tr>");
 document.writeln("</table>");
+document.writeln("");
+document.writeln("");
 
 
 
@@ -3403,7 +3394,7 @@ document.writeln("         ");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><b>");
 document.writeln("	<font face=\'微软雅黑\' style=\'font-size: 13pt\'>");
-document.writeln("	322期:<font color=\'#800080\'>天地一肖</font><font color=\'#008000\'>【<span style=\'background-color: #FFFF00\'>天肖</span>虎】</font>开猴32准</font></b></table>");
+document.writeln("	322期:<font color=\'#800080\'>天地一肖</font><font color=\'#008000\'>【<span style=\'background-color: #FFFF00\'>天肖</span>+虎】</font>开猴32准</font></b></table>");
 document.writeln("      ");
 
 
