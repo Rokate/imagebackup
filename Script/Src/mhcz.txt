@@ -182,31 +182,13 @@ document.writeln("");
 
 
 
-document.writeln("");
+
+
+
+
+
+
 document.writeln("<!--网址开始--");
-document.writeln("<tr>");
-document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40 bordercolor=\'#C0C0C0\'>");
-document.writeln("<p style=box-sizing:border-box;padding:0;margin:0 align=left>");
-document.writeln("<font face=\'微软雅黑\'><b><span style=\'box-sizing:border-box; \'>");
-document.writeln("<font color=\'#0000FF\' size=\'4\'>");
-document.writeln("308期澳门马会传真：</font><font color=\'#000000\' size=\'4\'>开奖日更新</font><font color=\'#0000FF\' size=\'4\'><br></font>");
-document.writeln("<font color=\'#008000\' size=\'4\'>");
-document.writeln("<span style=\'font-weight: 400\'>");
-document.writeln("解释：开奖日更新</span><br>");
-document.writeln("</font>");
-document.writeln("</span>");
-document.writeln("<font color=\'#008000\' size=\'4\'>");
-document.writeln("<font color=\'#FF00FF\' size=\'4\'><span style=\'box-sizing:border-box; \'>");
-document.writeln("综合特肖：开奖日更新<br>综合六肖：开奖日更新<br>综合三肖：开奖日更新<br>");
-document.writeln("综合一肖：开奖日更新<br>");
-document.writeln("综合特码：开奖日更新</span></font></font></b></font></tr>");
-document.writeln("<!--网址开始-->");
-
-
-
-
-
-document.writeln("<!--网址开始-->");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40 bordercolor=\'#C0C0C0\'>");
 document.writeln("<p style=box-sizing:border-box;padding:0;margin:0 align=left>");
@@ -227,7 +209,25 @@ document.writeln("<!--网址开始-->");
 
 
 
-
+document.writeln("");
+document.writeln("<!--网址开始-->");
+document.writeln("<tr>");
+document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40 bordercolor=\'#C0C0C0\'>");
+document.writeln("<p style=box-sizing:border-box;padding:0;margin:0 align=left>");
+document.writeln("<font face=\'微软雅黑\'><b><span style=\'box-sizing:border-box; \'>");
+document.writeln("<font color=\'#0000FF\' size=\'4\'>");
+document.writeln("324期澳门马会传真：</font><font color=\'#000000\' size=\'4\'>今期特码在两头，一一三三可相寻。二二四四同跟生，四四六六南北财。四十风光庆有余，猴头虎尾其中取，中秋佳节桂花香，将相夫人三八妇。</font><font color=\'#0000FF\' size=\'4\'><br></font>");
+document.writeln("<font color=\'#008000\' size=\'4\'>");
+document.writeln("<span style=\'font-weight: 400\'>");
+document.writeln("解释： 今期特码在两头，一一三三可相寻。两头数，一一解11蛇，三三解33羊。 二二四四同跟生，四四六六南北财。二二解22马，四四解44猴，四四六六解46马肖。 四十风光庆有余，猴头虎尾其中取，明肖猴虎，四十解鼠。 中秋佳节桂花香，将相夫人三八妇。桂花解猪，夫人三八解鸡肖。</span><br>");
+document.writeln("</font>");
+document.writeln("</span>");
+document.writeln("<font color=\'#008000\' size=\'4\'>");
+document.writeln("<font color=\'#FF00FF\' size=\'4\'><span style=\'box-sizing:border-box; \'>");
+document.writeln("综合特肖：蛇羊马猴鼠虎鸡猪龙<br>综合六肖：蛇羊马猴鼠虎<br>综合三肖：蛇羊马<br>");
+document.writeln("综合一肖：蛇<br>");
+document.writeln("综合特码：11.23.21.33.10.34.08.20.04.40.02.38.31.43.05.41.12.36</span></font></font></b></font></tr>");
+document.writeln("<!--网址开始-->");
 document.writeln("<!--网址开始-->");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40 bordercolor=\'#C0C0C0\'>");
@@ -1219,14 +1219,14 @@ document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40 bordercolor=\'#C0C0C0\'>");
 document.writeln("<p style=box-sizing:border-box;padding:0;margin:0 align=left>");
 document.writeln("<font face=\'微软雅黑\'><b><span style=\'box-sizing:border-box; \'><font color=\'#000000\'>");
-document.writeln("324期澳门马会传真四字：</font><font size=\'5\' color=\'#008000\'>【开奖日更新】</font></span><span style=\'box-sizing:border-box; font-size:14pt\'><font color=\'#FF0000\'><br></font>");
+document.writeln("324期澳门马会传真四字：</font><font size=\'5\' color=\'#008000\'>【巴结高枝】</font></span><span style=\'box-sizing:border-box; font-size:14pt\'><font color=\'#FF0000\'><br></font>");
 document.writeln("</span>");
 document.writeln("<span style=\'box-sizing:border-box; \'><font color=\'#FF0000\'>");
-document.writeln("四字妙解：开奖日更新</font></span><span style=\'box-sizing:border-box; font-size:14pt\'><br><br>");
+document.writeln("四字妙解：高枝:比喻权贵。向权贵献媚取宠</font></span><span style=\'box-sizing:border-box; font-size:14pt\'><br><br>");
 document.writeln("</span>");
 document.writeln("<span style=\'box-sizing:border-box; \'>");
-document.writeln("<font color=\'#008000\'>综合取肖：开奖日更新<br>");
-document.writeln("综合取码：开奖日更新</font></span></b></tr>");
+document.writeln("<font color=\'#008000\'>综合取肖：猪猴马蛇兔虎<br>");
+document.writeln("综合取码：05.29.20.44.10.34.11.23.13.37.26.02</font></span></b></tr>");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#FFFF00 height=40>");
 document.writeln("<p style=box-sizing:border-box;padding:0;margin:0 align=center>");
@@ -1882,7 +1882,7 @@ document.writeln("		</tr>");
 
 
 document.writeln("      <tr>");
-document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>323期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖绿双〗</font><font color=\'#008000\'>开虎02准</font></font></b></td>");
+document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>323期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖绿双〗</font><font color=\'#008000\'>开02准</font></font></b></td>");
 document.writeln("		</tr>");
 
 document.writeln("      <tr>");
@@ -2221,9 +2221,9 @@ document.writeln("</tr>");
 
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40><p style=box-sizing:border-box;padding:0;margin:0 align=center>");
-document.writeln("<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#0000FF\'>321</font><font face=\'微软雅黑\'><b><span style=\'box-sizing:border-box; font-size:14pt\'><font color=\'#0000FF\'>-323期《三期必中》中</font><font color=\'#FF00FF\'>0</font><font color=\'#0000FF\'>期</font><font color=\'#000000\'><br></font><font color=\'#008000\'></font><font color=\'#FF0000\'>");
-document.writeln("【虎马龙兔】<br>");
-document.writeln("【02.34.36.25】</font></span></b>");
+document.writeln("<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#0000FF\'>321</font><font face=\'微软雅黑\'><b><span style=\'box-sizing:border-box; font-size:14pt\'><font color=\'#0000FF\'>-323期《三期必中》中</font><font color=\'#FF00FF\'>1</font><font color=\'#0000FF\'>期</font><font color=\'#000000\'><br></font><font color=\'#008000\'></font><font color=\'#FF0000\'>");
+document.writeln("【<span style=\'background-color: #FFFF00\'>虎</span>马龙兔】<br>");
+document.writeln("【<span style=\'background-color: #FFFF00\'>02</span>.34.36.25】</font></span></b>");
 document.writeln("</tr>");
 
 
@@ -4234,7 +4234,7 @@ document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
 document.writeln("<p style=box-sizing:border-box;padding:0;margin:0 align=left>");
 document.writeln("<span style=box-sizing:border-box;><font face=\'微软雅黑\'><b><font color=\'#000000\'>");
-document.writeln("324期火车头:</font><font color=\'#FF0000\'>开奖日更新</font><font color=\'#000000\'><br></font>");
+document.writeln("324期火车头:</font><font color=\'#FF0000\'>烧伤虎。诗：羊死猴伤，一跳龙门称英雄。</font><font color=\'#000000\'><br></font>");
 document.writeln("<font color=\'#0000FF\'>解：关注澳门马会传真58317.com。</font></b><font color=\'#0000FF\'></strong>");
 document.writeln("</font></font>");
 document.writeln("</tr>");
@@ -4879,13 +4879,13 @@ document.writeln("<!--开始-->");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40 bordercolor=\'#C0C0C0\'>");
 document.writeln("<p style=box-sizing:border-box;padding:0;margin:0 align=left>");
-document.writeln("<font face=\'微软雅黑\' color=\'#008000\'>324期澳门奇人一字玄机：</font><font size=\'5\' color=\'#FF0000\'>【？】</font></span><span style=\'box-sizing:border-box; font-size:14pt\'><font color=\'#FF0000\'><br></font>");
+document.writeln("<font face=\'微软雅黑\' color=\'#008000\'>324期澳门奇人一字玄机：</font><font size=\'5\' color=\'#FF0000\'>【墚】</font></span><span style=\'box-sizing:border-box; font-size:14pt\'><font color=\'#FF0000\'><br></font>");
 document.writeln("</span>");
 document.writeln("<span style=\'box-sizing:border-box; \'><font color=\'#0000FF\'>");
-document.writeln("[解]： 开奖日更新</font></span><span style=\'box-sizing:border-box; font-size:14pt\'><br><br>");
+document.writeln("[解]： 左边土字解土肖，牛龙羊狗；右下角木字解木肖，虎兔。</font></span><span style=\'box-sizing:border-box; font-size:14pt\'><br><br>");
 document.writeln("</span>");
 document.writeln("<span style=\'box-sizing:border-box; \'>");
-document.writeln("<font color=\'#FF00FF\' size=\'4\'>综合出肖：开奖日更新</font></span></b></font></tr>");
+document.writeln("<font color=\'#FF00FF\' size=\'4\'>综合出肖：牛龙羊狗虎兔</font></span></b></font></tr>");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#FFFF00 height=40>");
 document.writeln("<p style=box-sizing:border-box;padding:0;margin:0 align=center>");
