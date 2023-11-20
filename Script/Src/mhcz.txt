@@ -3019,7 +3019,7 @@ document.writeln("<!--开始-->");
 document.writeln("<!--开始-->");
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=37 style=\'border-style: solid; border-width: 1px\'>");
-document.writeln("<b><font size=\'4\'><font color=\'#008000\'>323期：必开</font><font color=\'#FF0000\'>【<span style=\'background-color: #FFFF00\'>纸</span>在笔墨】</font><font color=\'#008000\'>开：</font><font color=\'#0000FF\'>虎02准</font></font></b></td>");
+document.writeln("<b><font size=\'4\'><font color=\'#008000\'>323期：必开</font><font color=\'#FF0000\'>【<span style=\'background-color: #FFFF00\'>纸</span>笔墨】</font><font color=\'#008000\'>开：</font><font color=\'#0000FF\'>虎02准</font></font></b></td>");
 document.writeln("</tr>");
 document.writeln("<!--开始-->");
 
