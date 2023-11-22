@@ -12,88 +12,50 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 
 
 
-document.writeln("			<tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>326期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>八面玲珑</font>】</span><font color=\'#FF0000\'>开00</font></font></b></td>");
+document.writeln("		<span>329期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>中中中中</font>】</span><font color=\'#FF0000\'>开00</font></font></b></td>");
 document.writeln("		</tr>	");
-document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 
 
+ 
 
 
-document.writeln("			<tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>323期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>九天揽月</font>】</span><font color=\'#FF0000\'>开29</font></font></b></td>");
+document.writeln("		<span>328期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>中中中中</font>】</span><font color=\'#FF0000\'>开00</font></font></b></td>");
 document.writeln("		</tr>	");
-document.writeln("		");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 
 
-document.writeln("			<tr>");
+ 
+
+ 
+
+document.writeln("");
+document.writeln("");
+document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>322期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>三人成虎</font>】</span><font color=\'#FF0000\'>开13</font></font></b></td>");
+document.writeln("		<span>327期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>六六大顺</font>】</span><font color=\'#FF0000\'>开00</font></font></b></td>");
 document.writeln("		</tr>	");
-document.writeln("		");
-document.writeln("		");
-
-document.writeln("			<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>321期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>四大皆空</font>】</span><font color=\'#FF0000\'>开04</font></font></b></td>");
-document.writeln("		</tr>	");
-document.writeln("		");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("		");
-document.writeln("			<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>320期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>三人成虎</font>】</span><font color=\'#FF0000\'>开23</font></font></b></td>");
-document.writeln("		</tr>	");
-document.writeln("		");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-
-document.writeln("			<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>319期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>四大皆空</font>】</span><font color=\'#FF0000\'>开14</font></font></b></td>");
-document.writeln("		</tr>	");
-document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
-document.writeln("");
-document.writeln("");
-document.writeln("					<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>318期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>五谷丰登</font>】</span><font color=\'#FF0000\'>开15</font></font></b></td>");
-document.writeln("		</tr>");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
 
 
  
