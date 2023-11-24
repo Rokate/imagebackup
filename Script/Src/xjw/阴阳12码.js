@@ -40,6 +40,23 @@ document.writeln("	");
 document.writeln("	");
 
 
+
+ 
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
+document.writeln("	<font color=\'#008000\'>329期</font><font color=\'#FF0000\'>☆【特爆六肖12码】☆</font></b></font></table>");
+document.writeln("");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>阴肖【鼠龙蛇马狗猪】</font></b></font></table>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>04.28.24.36.23.47.10.46.18.42.05.41</font></b></font></table>");
+document.writeln("		");
+document.writeln("	<!--结束-->");
+document.writeln("");
+document.writeln("");
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
@@ -48,7 +65,7 @@ document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\
 document.writeln("	<font color=\'#008000\'>328期</font><font color=\'#FF0000\'>☆【特爆六肖12码】☆</font></b></font></table>");
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>阳肖【牛虎兔羊猴鸡】</font></b></font></table>");
+document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'><span style=\'background-color: #FFFF00\'>阳肖</span>【牛虎<span style=\'background-color: #FFFF00\'>兔</span>羊猴鸡】</font></b></font></table>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>03.39.14.38.25.37.09.21.08.32.07.31</font></b></font></table>");
 document.writeln("		");
