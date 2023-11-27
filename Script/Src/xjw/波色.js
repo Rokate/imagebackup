@@ -11,6 +11,19 @@ document.writeln("");
 
 
 
+document.writeln("	 	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>332期:<font color=\'#008000\'>【正版波色输尽光】</font><font color=\'#FF0000\'>开？00准</font><font color=\'#008000\'> <br>");
+document.writeln("		</font><font color=\'#FF00FF\'>今期买绿输尽光，单数猪鸡有玄机</font></td>");
+document.writeln("				</tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+
+
 document.writeln("");
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
@@ -18,8 +31,8 @@ document.writeln("	");
 document.writeln("");
 document.writeln("			<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>331期:<font color=\'#008000\'>【正版波色输尽光】</font><font color=\'#FF0000\'>开？00准</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>今期买绿输尽光，双数马虎有玄机</td></tr>");
+document.writeln("		<span><font size=\'4\'>331期:<font color=\'#008000\'>【正版波色输尽光】</font><font color=\'#FF0000\'>开马46准</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>今期买绿输尽光，<span style=\'background-color: #FFFF00\'>双数马</span>虎有玄机</td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
