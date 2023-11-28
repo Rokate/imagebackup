@@ -1073,8 +1073,8 @@ document.writeln("	<td width=100% height=40><p align=center><b>");
 document.writeln("	<font face=\'楷体\' style=\'font-size: 16pt\'>331期<font color=\'#0000FF\'>杀</font></font><font color=\'#FF00FF\' style=\'font-size: 16pt\'>平特</font><font face=\'楷体\' style=\'font-size: 16pt\'><font color=\'#0000FF\'>（3肖/2肖/1肖/1尾）</font></span><br>");
 document.writeln("	</font><font face=\'方正粗黑宋简体\'><font color=\'#FF0000\' style=\'font-size: 16pt\'>");
 document.writeln("	杀一肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>鸡</font>");
-document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>杀二肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>鸡马</font>");
-document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>杀三肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>鸡马虎</font>");
+document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>杀二肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>鸡<span style=\'background-color: #FFFF00\'>马</span></font>");
+document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>杀三肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>鸡<span style=\'background-color: #FFFF00\'>马</span>虎</font>");
 document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>");
 document.writeln("	杀平特1尾：</font><font color=\'#008000\'><span style=\'font-size: 16pt\'>二二二</span></font></font></b></font></table>");
 document.writeln("	<!--结束-->");
@@ -2189,7 +2189,7 @@ document.writeln("		</tr>");
 
 
 document.writeln("      <tr>");
-document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>331期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖红单〗</font><font color=\'#008000\'>开马46准</font></font></b></td>");
+document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>331期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖红单〗</font><font color=\'#008000\'>开46准</font></font></b></td>");
 document.writeln("		</tr>");
 
 
@@ -2200,7 +2200,7 @@ document.writeln("		</tr>");
 
 
 document.writeln("      <tr>");
-document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>329期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖绿单〗</font><font color=\'#008000\'>开蛇35准</font></font></b></td>");
+document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>329期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖绿单〗</font><font color=\'#008000\'>开35准</font></font></b></td>");
 document.writeln("		</tr>");
 
 document.writeln("      <tr>");
