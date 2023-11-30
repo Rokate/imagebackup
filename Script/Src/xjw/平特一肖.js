@@ -19,20 +19,26 @@ document.writeln("");
 document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 document.writeln("	   		");
-document.writeln("	");
-document.writeln("			    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>334期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【鸡给黄鼠狼拜年—自投罗网】</td>");
-document.writeln("		</tr>");
-document.writeln("		");
+
+
+
 
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>333期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>18</span><br>");
+document.writeln("		<span><font size=\'4\'>335期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
 document.writeln("		<font color=\'#FF00FF\'>【狗吠月亮—少见多怪】</td>");
 document.writeln("		</tr>");
 document.writeln("");
+
+
+document.writeln("	");
+document.writeln("			    <tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<span><font size=\'4\'>334期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>28</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【鸡给黄<span style=\'background-color: #FFFF00\'>鼠</span>狼拜年—自投罗网】</td>");
+document.writeln("		</tr>");
+document.writeln("		");
+
 
 
 
