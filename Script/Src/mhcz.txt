@@ -771,7 +771,7 @@ document.writeln("		</font>  ");
 document.writeln("		<font face=\'华文楷体\' size=\'5\'>");
 document.writeln("		特肖：小肖（鼠兔龙蛇猴鸡）<br>	");
 document.writeln("				主四肖：猴龙<span style=\'background-color: #FFFF00\'>鼠</span>鸡<br>			");
-document.writeln("        <span style=\'font-weight: 400\'>博8码：20.32.24.36.16.28.07.31</span></font></b></td>");
+document.writeln("        <span style=\'font-weight: 400\'>博8码：20.32.24.36.<span style=\'background-color: #FFFF00\'>16</span>.28.07.31</span></font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
 
