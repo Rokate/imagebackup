@@ -34,11 +34,22 @@ document.writeln("");
 document.writeln("");
 
 
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
+document.writeln("	<b>340期<font color=\'#6600CC\'>【二尾→拖35尾】开</font><font color=\'#FF6600\'>00.00.00</font>准</b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
 document.writeln("				");
 document.writeln("			<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
-document.writeln("	<b>339期<font color=\'#6600CC\'>【四尾→拖19尾】开</font><font color=\'#FF6600\'>00.00.00</font>准</b></font></table>");
+document.writeln("	<b>339期<font color=\'#6600CC\'>【<span style=\'background-color: #FFFF00\'>四尾</span>→拖<span style=\'background-color: #FFFF00\'>1</span>9尾】开</font><font color=\'#FF6600\'>44.01.00</font>准</b></font></table>");
 document.writeln("		");
 document.writeln("		");
 document.writeln("");
