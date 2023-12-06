@@ -23,10 +23,11 @@ async def download_image(session, url, filepath):
         print("下载出错:\t", url, repr(e))
 
 
-async def main(a, b, c):
+async def main(a, b, c, d):
     qishu = a
     qish = b
     qs = c
+    urld = d
     urls = [
         ["https://www.353583.com/tutu/faf.jpg", "a-faf.jpg"],
         ["https://www.353583.com/tutu/fgmc.jpg", "a-fgmc.jpg"],
@@ -42,31 +43,31 @@ async def main(a, b, c):
         ["https://www.353583.com/tutu/ujcc.jpg", "a-ujcc.jpg"],
         [f"https://www.29761b.com/img/djpt{qishu}.jpg", "a-djpt.jpg"],
         [f"https://69760b.com/img/1xzt{qishu}.jpg", "a-1xzt.jpg"],
-        [f"https://tk2.zaojiao365.net:4949/col/{qish}/zbxyb.jpg", "a-zbxyb.jpg"],
-        [f"https://tk2.zaojiao365.net:4949/col/{qish}/n1.jpg", "a-n1.jpg"],
-        [f"https://tk2.zaojiao365.net:4949/col/{qish}/dcxj.jpg", "a-dcxj.jpg"],
-        [f"https://tk2.zaojiao365.net:4949/col/{qish}/ampm.jpg", "a-ampm.jpg"],
-        [f"https://tk2.zaojiao365.net:4949/col/{qish}/sszm.jpg", "a-sszm.jpg"],
-        [f"https://tk2.zaojiao365.net:4949/col/{qish}/ktzsx.jpg", "a-ktzsx.jpg"],
-        [f"https://tk2.zaojiao365.net:4949/col/{qish}/rv.jpg", "a-rv.jpg"],
-        [f"https://tk2.zaojiao365.net:4949/col/{qish}/tt38.jpg", "a-tt38.jpg"],
-        [f"https://tk2.zaojiao365.net:4949/col/{qish}/amffh.jpg", "a-amffh.jpg"],
-        [f"https://tk2.zaojiao365.net:4949/col/{qish}/amfql.jpg", "a-amfql.jpg"],
-        [f"https://tk2.zaojiao365.net:4949/col/{qish}/twqp.jpg", "a-twqp.jpg"],
-        [f"https://tk2.zaojiao365.net:4949/col/{qish}/mfpy.jpg", "a-mfpy.jpg"],
-        [f"https://tk2.zaojiao365.net:4949/col/{qish}/lhlxsm.jpg", "a-lhlxsm.jpg"],
-        [f"https://tk2.zaojiao365.net:4949/col/{qish}/b8.jpg", "a-b8.jpg"],
-        [f"https://tk2.zaojiao365.net:4949/col/{qish}/tjn.jpg", "a-tjn.jpg"],
-        [f"https://tk2.zaojiao365.net:4949/col/{qish}/ampt.jpg", "a-ampt.jpg"],
-        [f"https://tk2.zaojiao365.net:4949/col/{qish}/lmkz.jpg", "a-lmkz.jpg"],
+        [f"https://tk2.{urld}/col/{qish}/zbxyb.jpg", "a-zbxyb.jpg"],
+        [f"https://tk2.{urld}/col/{qish}/n1.jpg", "a-n1.jpg"],
+        [f"https://tk2.{urld}/col/{qish}/dcxj.jpg", "a-dcxj.jpg"],
+        [f"https://tk2.{urld}/col/{qish}/ampm.jpg", "a-ampm.jpg"],
+        [f"https://tk2.{urld}/col/{qish}/sszm.jpg", "a-sszm.jpg"],
+        [f"https://tk2.{urld}/col/{qish}/ktzsx.jpg", "a-ktzsx.jpg"],
+        [f"https://tk2.{urld}/col/{qish}/rv.jpg", "a-rv.jpg"],
+        [f"https://tk2.{urld}/col/{qish}/tt38.jpg", "a-tt38.jpg"],
+        [f"https://tk2.{urld}/col/{qish}/amffh.jpg", "a-amffh.jpg"],
+        [f"https://tk2.{urld}/col/{qish}/amfql.jpg", "a-amfql.jpg"],
+        [f"https://tk2.{urld}/col/{qish}/twqp.jpg", "a-twqp.jpg"],
+        [f"https://tk2.{urld}/col/{qish}/mfpy.jpg", "a-mfpy.jpg"],
+        [f"https://tk2.{urld}/col/{qish}/lhlxsm.jpg", "a-lhlxsm.jpg"],
+        [f"https://tk2.{urld}/col/{qish}/b8.jpg", "a-b8.jpg"],
+        [f"https://tk2.{urld}/col/{qish}/tjn.jpg", "a-tjn.jpg"],
+        [f"https://tk2.{urld}/col/{qish}/ampt.jpg", "a-ampt.jpg"],
+        [f"https://tk2.{urld}/col/{qish}/lmkz.jpg", "a-lmkz.jpg"],
         ["https://67292b.com/tu/f011.jpg", "a-f011.jpg"],
-        [f"https://tk.zaojiao365.net:4949/col/{qs}/n1.jpg", "x-n1.jpg"],
-        [f"https://tk.zaojiao365.net:4949/col/{qs}/b002.jpg", "x-b002.jpg"],
-        [f"https://tk.zaojiao365.net:4949/col/{qs}/b004.jpg", "x-b004.jpg"],
-        [f"https://tk.zaojiao365.net:4949/col/{qs}/b006.jpg", "x-b006.jpg"],
-        [f"https://tk.zaojiao365.net:4949/col/{qs}/b008.jpg", "x-b008.jpg"],
-        [f"https://tk.zaojiao365.net:4949/col/{qs}/j11.jpg", "x-j11.jpg"],
-        [f"https://tk.zaojiao365.net:4949/col/{qs}/qlb.jpg", "x-qlb.jpg"],
+        [f"https://tk.{urld}/col/{qs}/n1.jpg", "x-n1.jpg"],
+        [f"https://tk.{urld}/col/{qs}/b002.jpg", "x-b002.jpg"],
+        [f"https://tk.{urld}/col/{qs}/b004.jpg", "x-b004.jpg"],
+        [f"https://tk.{urld}/col/{qs}/b006.jpg", "x-b006.jpg"],
+        [f"https://tk.{urld}/col/{qs}/b008.jpg", "x-b008.jpg"],
+        [f"https://tk.{urld}/col/{qs}/j11.jpg", "x-j11.jpg"],
+        [f"https://tk.{urld}/col/{qs}/qlb.jpg", "x-qlb.jpg"],
 
     ]
     conn=aiohttp.TCPConnector(ssl=False)
@@ -84,6 +85,10 @@ if __name__ == "__main__":
         #amcode = {"code": "71"}
         qishu = requests.post('https://am49.app/open/latest?code=71').json()['data']['nextIssueNo'][-3:]
         qish = qishu.lstrip('0')
+        url = requests.get('https://49252a.com/unite49/h5/picture/detail/latest?pictureTypeId=28854').json()['data']['largePictureUrl']
+        pattern = r"https?://([\w.-]+:\d+)/"
+        match = re.match(pattern, url)
+        domain_port = match.group(1)
         
         #xgcode = {"code": "28"}
         qs = requests.post('https://am49.app/open/latest?code=28').json()['data']['nextIssueNo'][-3:].lstrip('0')
@@ -91,5 +96,5 @@ if __name__ == "__main__":
         print("日期更新出错了", traceback.format_exc())
     else:
         print("图片列表下载。。。")
-        asyncio.run(main(qishu, qish, qs))
+        asyncio.run(main(qishu, qish, qs, domain_port))
         
