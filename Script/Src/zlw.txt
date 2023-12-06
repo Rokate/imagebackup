@@ -249,7 +249,9 @@ document.writeln("</style>");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--必中start-->");
-docume
+document.writeln("<div class=\'box\'>");
+
+
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong10\'>");
 document.writeln("	<div class=\'bizhong10-tit\'>澳门资料网（62519b.com）一尾一码</div>");
@@ -280,7 +282,7 @@ document.writeln("        </div>");
 document.writeln("      <div class=\'bizhong10-foot\'><font color=\'#00FFFF\'>334期一尾中特：</font><font color=\'#FFFF00\' size=\'6\'>（<font color=\'#FFFF00\'>9尾</font>）</font><font color=\'#00FF00\'>单车变宝马~</font></div>");
 document.writeln("");
 document.writeln("</div>");
-document.writeln("<!--必中每期开始-->");nt.writeln("<div class=\'box\'>");
+document.writeln("<!--必中每期开始-->");
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong10\'>");
