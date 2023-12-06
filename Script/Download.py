@@ -86,9 +86,9 @@ if __name__ == "__main__":
         qishu = requests.post('https://am49.app/open/latest?code=71').json()['data']['nextIssueNo'][-3:]
         qish = qishu.lstrip('0')
         url = requests.get('https://49252a.com/unite49/h5/picture/detail/latest?pictureTypeId=28854').json()['data']['largePictureUrl']
-        pattern = r"https?://([\w.-]+:\d+)/"
-        match = re.match(pattern, url)
-        domain_port = match.group(1)
+        pattern = re.compile("https://tk2.(.*?)/")
+        match = re.findall(pattern, url)
+        domain_port = match[0]
         
         #xgcode = {"code": "28"}
         qs = requests.post('https://am49.app/open/latest?code=28').json()['data']['nextIssueNo'][-3:].lstrip('0')
