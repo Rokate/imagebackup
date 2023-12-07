@@ -2120,7 +2120,7 @@ document.writeln("		</tr>");
 
 
 document.writeln("      <tr>");
-document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>340期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖绿单〗</font><font color=\'#008000\'>开马46准</font></font></b></td>");
+document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>340期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖绿单〗</font><font color=\'#008000\'>开46准</font></font></b></td>");
 document.writeln("		</tr>");
 
 document.writeln("      <tr>");
@@ -4452,8 +4452,8 @@ document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
 document.writeln("<p style=box-sizing:border-box;padding:0;margin:0 align=left>");
 document.writeln("<span style=box-sizing:border-box;><font face=\'微软雅黑\'><b><font color=\'#000000\'>");
-document.writeln("341期火车头:</font><font color=\'#FF0000\'>开奖日更新。</font><font color=\'#000000\'><br></font>");
-document.writeln("<font color=\'#0000FF\'>解：烧伤鸡。诗：龙死猪伤，三八连理必二十。</font></b><font color=\'#0000FF\'></strong>");
+document.writeln("341期火车头:</font><font color=\'#FF0000\'>烧伤鸡。诗：龙死猪伤，三八连理必二十。</font><font color=\'#000000\'><br></font>");
+document.writeln("<font color=\'#0000FF\'>解：关注澳门马会传真58317.com。</font></b><font color=\'#0000FF\'></strong>");
 document.writeln("</font></font>");
 document.writeln("</tr>");
 document.writeln("<!--网址结束-->");
@@ -5273,7 +5273,7 @@ document.writeln("		<td bgcolor=\'#ffffff\' height=\'40\' width=\'20%\' align=\'
 document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 11pt\'>《<font color=\'#FF0000\'>狗</font>》</font></td>");
 document.writeln("		<td bgcolor=\'#ffffff\' height=\'40\' width=\'20%\' align=\'center\' style=\'font-size: 12px; color: rgb(0, 0, 0);\'>");
 document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 11pt; -ms-word-wrap:break-word\' size=\'3\'>");
-document.writeln("		《<font color=\'#FF0000\'>火行</font>》</font></td>");
+document.writeln("		《<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>火行</span></font>》</font></td>");
 document.writeln("		<td bgcolor=\'#ffffff\' height=\'40\' width=\'20%\' align=\'center\' style=\'font-size: 12px; color: rgb(0, 0, 0);\'>");
 document.writeln("		<font face=\'微软雅黑\' style=\'font-size: 11pt\'>《<font color=\'#FF0000\'>蓝双</font>》</font></td>");
 document.writeln("		<td bgcolor=\'#ffffff\' height=\'40\' width=\'20%\' align=\'center\' style=\'font-size: 12px; color: rgb(0, 0, 0);\'>");
