@@ -10,40 +10,16 @@ document.writeln("");
 
 
 
+
+
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	341期<font color=\'#0000FF\'>【鼠鸡龙兔猴蛇】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
+document.writeln("	342期<font color=\'#0000FF\'>【猴羊鼠虎马牛】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 
 
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	338期<font color=\'#0000FF\'>【龙鸡鼠<span style=\'background-color: #FFFF00\'>猪</span>猴狗】</font><font color=\'#FF00FF\'>开猪41准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	337期<font color=\'#0000FF\'>【鸡<span style=\'background-color: #FFFF00\'>鼠</span>虎兔狗马】</font><font color=\'#FF00FF\'>开鼠16准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	336期<font color=\'#0000FF\'>【兔牛猪羊蛇<span style=\'background-color: #FFFF00\'>鸡</span>】</font><font color=\'#FF00FF\'>开鸡31准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-
-document.writeln("			<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	335期<font color=\'#0000FF\'>【鼠狗马兔<span style=\'background-color: #FFFF00\'>龙</span>鸡】</font><font color=\'#FF00FF\'>开龙24准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
 
 
 
