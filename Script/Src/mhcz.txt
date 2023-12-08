@@ -2180,7 +2180,7 @@ document.writeln("		</tr>");
 
 
 document.writeln("      <tr>");
-document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>341期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖绿双〗</font><font color=\'#008000\'>开马34准</font></font></b></td>");
+document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>341期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖绿双〗</font><font color=\'#008000\'>开34准</font></font></b></td>");
 document.writeln("		</tr>");
 
 
@@ -2279,7 +2279,7 @@ document.writeln("		<table style=\'WIDOWS: 1; TEXT-TRANSFORM: none; BACKGROUND-C
 document.writeln("	<tr>");
 document.writeln("		<td style=\'BORDER-BOTTOM: rgb(229,229,229) 1px solid; BORDER-LEFT: rgb(229,229,229) 1px solid; PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; WORD-BREAK: break-all; BORDER-TOP: rgb(229,229,229) 1px solid; BORDER-RIGHT: rgb(229,229,229) 1px solid; PADDING-TOP: 3px\' bgColor=\'#ffffff\' align=\'left\'>");
 document.writeln("		<p align=\'center\'>");
-document.writeln("		<b><font face=\'宋体\' size=\'4\' color=\'#6600CC\'>340期:<img src=/images/zzzz.gif width=15 height=15></font><font color=\'#FF0000\' face=\'宋体\' size=\'4\'>〖杀②尾→0.3尾〗</font><font color=\'#6600CC\' face=\'宋体\' size=\'4\'><img src=/images/zzzz.gif width=15 height=15>开</font><font color=\'#FF00FF\' face=\'宋体\' size=\'4\'>马46</font><font color=\'#6600CC\' face=\'宋体\' size=\'4\'>准</font></b></td>");
+document.writeln("		<b><font face=\'宋体\' size=\'4\' color=\'#6600CC\'>340期:<img src=/images/zzzz.gif width=15 height=15></font><font color=\'#FF0000\' face=\'宋体\' size=\'4\'>〖杀②尾→0.3尾〗</font><font color=\'#6600CC\' face=\'宋体\' size=\'4\'><img src=/images/zzzz.gif width=15 height=15>开</font><font color=\'#FF00FF\' face=\'宋体\' size=\'4\'>46</font><font color=\'#6600CC\' face=\'宋体\' size=\'4\'>准</font></b></td>");
 document.writeln("	</tr>");
 document.writeln("	</table>");
 
@@ -3522,179 +3522,6 @@ document.writeln("			</table>");
 document.writeln("    <!--结束-->");
 
 
-
-
-
-
-document.writeln("                   <!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td style=\'text-align:center\' height=\'60\'><table border=1 width=100% bgcolor=#ffffff>");
-document.writeln("        <tbody>");
-document.writeln("        ");
-document.writeln("          <td style=\'border:6px double #800000; height: 50px;\' bgcolor=#800000><p align=center> ");
-document.writeln("			<b><font face=\'楷体\' style=\'font-size: 20pt\' color=\'#FFFF00\'>341期</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 20pt\'>『30码中特』</font></b>");
-document.writeln("      </table>");
-document.writeln("      <table border=1 width=100% bgcolor=#ffffff height=\'160\'>");
-document.writeln("      <tbody>");
-document.writeln("        <tr>");
-document.writeln("          <td align=center bgcolor=#ffffcc width=10% height=36><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>鼠</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=36><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'>16.28</font></span></strong><td align=center bgcolor=#ffffcc width=10% height=36>");
-document.writeln("			<span style=color:#000><strong> ");
-document.writeln("			猪</strong></span> <td align=center width=20% height=36>");
-document.writeln("			<strong> ");
-document.writeln("			<span style=font-family:Arial;>");
-document.writeln("			<font size=\'4\' color=\'#800000\'></font></span></strong><td align=center bgcolor=#ffffcc width=10% height=36><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>狗</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=36><strong> ");
-document.writeln("			<span style=font-family:Arial;>");
-document.writeln("			<font size=\'4\' color=\'#800000\'>18.42</font></span></strong></tr>");
-document.writeln("        <tr>");
-document.writeln("          <td align=center bgcolor=#ffffcc width=10% height=37><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>鸡</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=37><strong>");
-document.writeln("			<font size=\'4\' color=\'#800000\'><span style=\'font-family: Arial\'>07.19.31.43</span></font></strong><td align=center bgcolor=#ffffcc width=10% height=37><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>猴</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=37><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'>08.32.44</font></span></strong>");
-document.writeln("          <td align=center bgcolor=#ffffcc width=10% height=37><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>羊</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=37><strong> ");
-document.writeln("			<span style=font-family:Arial;>");
-document.writeln("			<font size=\'4\' color=\'#800000\'>33.21.45</font></span></strong>");
-document.writeln("        </tr>");
-document.writeln("        <tr>");
-document.writeln("          <td align=center bgcolor=#ffffcc width=10% height=35><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>马</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=35><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'></font></span></strong><td align=center bgcolor=#ffffcc width=10% height=35><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>蛇</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=35><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'> 11.23.35.47 </font></span></strong><td align=center bgcolor=#ffffcc width=10% height=35><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>龙</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=35><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'> 12.24.48</font></span></strong>");
-document.writeln("        </tr>");
-document.writeln("        <tr>");
-document.writeln("          <td align=center bgcolor=#ffffcc width=10% height=40><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>兔</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=40><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'>");
-document.writeln("			25.49</font></span></strong><td align=center bgcolor=#ffffcc width=10% height=40><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>虎</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=40><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'>14.26</font></span></strong>");
-document.writeln("          <td align=center bgcolor=#ffffcc width=10% height=40><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>牛</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=40><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'>03.27.39</font></span></strong>");
-document.writeln("        </tr>");
-document.writeln("			</table>");
-document.writeln("    <!--结束-->");
-
-
-
-
-document.writeln("               <!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td style=\'text-align:center\' height=\'60\'><table border=1 width=100% bgcolor=#ffffff>");
-document.writeln("        <tbody>");
-document.writeln("        ");
-document.writeln("          <td style=\'border:6px double #800000; height: 50px;\' bgcolor=#800000><p align=center> ");
-document.writeln("			<b><font face=\'楷体\' style=\'font-size: 20pt\' color=\'#FFFF00\'>339期</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 20pt\'>『30码中特』</font></b>");
-document.writeln("      </table>");
-document.writeln("      <table border=1 width=100% bgcolor=#ffffff height=\'160\'>");
-document.writeln("      <tbody>");
-document.writeln("        <tr>");
-document.writeln("          <td align=center bgcolor=#ffffcc width=10% height=36><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>鼠</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=36><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'>28.40</font></span></strong><td align=center bgcolor=#ffffcc width=10% height=36>");
-document.writeln("			<span style=color:#000><strong> ");
-document.writeln("			猪</strong></span> <td align=center width=20% height=36>");
-document.writeln("			<strong> ");
-document.writeln("			<span style=font-family:Arial;>");
-document.writeln("			<font size=\'4\' color=\'#800000\'>17.41</font></span></strong><td align=center bgcolor=#ffffcc width=10% height=36><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>狗</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=36><strong> ");
-document.writeln("			<span style=font-family:Arial;>");
-document.writeln("			<font size=\'4\' color=\'#800000\'>42</font></span></strong></tr>");
-document.writeln("        <tr>");
-document.writeln("          <td align=center bgcolor=#ffffcc width=10% height=37><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>鸡</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=37><strong>");
-document.writeln("			<font size=\'4\' color=\'#800000\'><span style=\'font-family: Arial\'>19.31.43</span></font></strong><td align=center bgcolor=#ffffcc width=10% height=37><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>猴</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=37><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'>32</font></span></strong>");
-document.writeln("          <td align=center bgcolor=#ffffcc width=10% height=37><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>羊</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=37><strong> ");
-document.writeln("			<span style=font-family:Arial;>");
-document.writeln("			<font size=\'4\' color=\'#800000\'>21.45</font></span></strong>");
-document.writeln("        </tr>");
-document.writeln("        <tr>");
-document.writeln("          <td align=center bgcolor=#ffffcc width=10% height=35><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'><span style=\'background-color: #FFFF00\'>马</span></font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=35><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'><span style=\'background-color: #FFFF00\'>10</span>.22</font></span></strong><td align=center bgcolor=#ffffcc width=10% height=35><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>蛇</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=35><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'> 11.35.47 </font></span></strong><td align=center bgcolor=#ffffcc width=10% height=35><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>龙</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=35><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'> 12.24.48</font></span></strong>");
-document.writeln("        </tr>");
-document.writeln("        <tr>");
-document.writeln("          <td align=center bgcolor=#ffffcc width=10% height=40><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>兔</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=40><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'>");
-document.writeln("			37.25.49</font></span></strong><td align=center bgcolor=#ffffcc width=10% height=40><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>虎</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=40><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'>02.14.26</font></span></strong>");
-document.writeln("          <td align=center bgcolor=#ffffcc width=10% height=40><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>牛</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=40><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'>15.27.39</font></span></strong>");
-document.writeln("        </tr>");
-document.writeln("			</table>");
-document.writeln("    <!--结束-->");
-
-
-
-document.writeln("  <!--开始-->");
-document.writeln("  <tr>");
-document.writeln("    <td style=\'text-align:center\' height=\'60\'><table border=1 width=100% bgcolor=#ffffff>");
-document.writeln("        <tbody>");
-document.writeln("        ");
-document.writeln("          <td style=\'border:6px double #800000; height: 50px;\' bgcolor=#800000><p align=center> ");
-document.writeln("			<b><font face=\'楷体\' style=\'font-size: 20pt\' color=\'#FFFF00\'>336期</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 20pt\'>『30码中特』</font></b>");
-document.writeln("      </table>");
-document.writeln("      <table border=1 width=100% bgcolor=#ffffff height=\'160\'>");
-document.writeln("      <tbody>");
-document.writeln("        <tr>");
-document.writeln("          <td align=center bgcolor=#ffffcc width=10% height=36><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>鼠</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=36><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'>40</font></span></strong><td align=center bgcolor=#ffffcc width=10% height=36><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>猪</font></span></strong></span> <td align=center width=20% height=36>");
-document.writeln("			<strong> ");
-document.writeln("			<span style=font-family:Arial;>");
-document.writeln("			<font size=\'4\' color=\'#800000\'>05.29.41</font></span></strong><td align=center bgcolor=#ffffcc width=10% height=36><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>狗</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=36><strong> ");
-document.writeln("			<span style=font-family:Arial;>");
-document.writeln("			<font size=\'4\' color=\'#800000\'>30.42</font></span></strong></tr>");
-document.writeln("        <tr>");
-document.writeln("          <td align=center bgcolor=#ffffcc width=10% height=37><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'><span style=\'background-color: #FFFF00\'>鸡</span></font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=37><strong>");
-document.writeln("			<font size=\'4\' color=\'#800000\'><span style=\'font-family: Arial\'>07.19.<span style=\'background-color: #FFFF00\'>31</span></span></font></strong><td align=center bgcolor=#ffffcc width=10% height=37><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>猴</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=37><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'>08.20.32.44</font></span></strong>");
-document.writeln("          <td align=center bgcolor=#ffffcc width=10% height=37><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>羊</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=37><strong> ");
-document.writeln("			<span style=font-family:Arial;>");
-document.writeln("			<font size=\'4\' color=\'#800000\'>09</font></span></strong>");
-document.writeln("        </tr>");
-document.writeln("        <tr>");
-document.writeln("          <td align=center bgcolor=#ffffcc width=10% height=35><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>马</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=35><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'>10.22.34</font></span></strong><td align=center bgcolor=#ffffcc width=10% height=35><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>蛇</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=35><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'>11.35.47</font></span></strong><td align=center bgcolor=#ffffcc width=10% height=35><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>龙</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=35><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'>12</font></span></strong></tr>");
-document.writeln("        <tr>");
-document.writeln("          <td align=center bgcolor=#ffffcc width=10% height=40><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>兔</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=40><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'>");
-document.writeln("			01.13.25.37</font></span></strong><td align=center bgcolor=#ffffcc width=10% height=40><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>虎</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=40><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'>02.14.38</font></span></strong>");
-document.writeln("          <td align=center bgcolor=#ffffcc width=10% height=40><span style=color:#000><strong> <span style=font-family:Arial;><font size=\'4\'>牛</font></span></strong></span>");
-document.writeln("          <td align=center width=20% height=40><strong> ");
-document.writeln("			<span style=font-family:Arial;><font size=\'4\' color=\'#800000\'>15.27</font></span></strong>");
-document.writeln("        </tr>");
-document.writeln("			</table>");
-document.writeln("      <!--结束-->");
 
 
 
