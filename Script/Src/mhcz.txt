@@ -827,13 +827,13 @@ document.writeln("										大肖：牛虎马羊狗猪<br>");
 document.writeln("										小肖：鼠兔龙蛇猴鸡</font></b></td>");
 document.writeln("    </tr> ");
 document.writeln("    <!--结束-->  ");
-
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("    <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 align=\'center\' ><b><font color=\'#0000FF\' face=\'微软雅黑\' size=\'4\'>");
@@ -845,9 +845,9 @@ document.writeln("				主四肖：牛马羊狗<br>			");
 document.writeln("        <span style=\'font-weight: 400\'>博8码：15.27.22.46.09.45.06.42</span></font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("    <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 align=\'center\' ><b><font color=\'#0000FF\' face=\'微软雅黑\' size=\'4\'>");
@@ -859,9 +859,9 @@ document.writeln("				主四肖：<span style=\'background-color: #FFFF00\'>兔<
 document.writeln("        <span style=\'font-weight: 400\'>博8码：37.49.04.28.23.35.08.32</span></font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("    <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 align=\'center\' ><b><font color=\'#0000FF\' face=\'微软雅黑\' size=\'4\'>");
@@ -873,9 +873,9 @@ document.writeln("				主四肖：虎牛狗<span style=\'background-color: #FFFF
 document.writeln("        <span style=\'font-weight: 400\'>博8码：14.38.03.27.18.30.29.41</span></font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("    <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 align=\'center\' ><b><font color=\'#0000FF\' face=\'微软雅黑\' size=\'4\'>");
@@ -887,11 +887,11 @@ document.writeln("				主四肖：虎<span style=\'background-color: #FFFF00\'>�
 document.writeln("        <span style=\'font-weight: 400\'>博8码：02.26.10.<span style=\'background-color: #FFFF00\'>34</span>.21.33.17.29</span></font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("    <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 align=\'center\' ><b><font color=\'#0000FF\' face=\'微软雅黑\' size=\'4\'>");
@@ -900,7 +900,7 @@ document.writeln("		</font>  ");
 document.writeln("		<font face=\'华文楷体\' size=\'5\'>");
 document.writeln("		特肖：大肖（牛虎<span style=\'background-color: #FFFF00\'>马</span>羊狗猪）<br>	");
 document.writeln("				主四肖：虎羊猪狗<br>			");
-document.writeln("        <span style=\'font-weight: 400\'>博8码：02.14.21.33.17.29.30.42</span></font></b></script></div><div class="box"><script type="text/javascript">﻿document.writeln("<html>");
+document.writeln("        <span style=\'font-weight: 400\'>博8码：02.14.21.33.17.29.30.42</span></font></b>");</script></div><div class="box"><script type="text/javascript">﻿document.writeln("<html>");
 document.writeln("<head>");
 document.writeln("<meta http-equiv=\'Content-Type\' content=\'text/html; charset=gb2312\'>");
 document.writeln("<title>新建网页 2</title>");
