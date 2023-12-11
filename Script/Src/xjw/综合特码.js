@@ -63,8 +63,8 @@ document.writeln("	<td width=100% height=40><p align=left><b><font size=\'4\' fa
 document.writeln("	");
 
 
-
-document.writeln("345期团队十肖：鼠猴蛇羊虎狗兔龙牛鸡<br>");
+document.writeln("346期团队十肖：牛鸡狗马虎蛇猴兔龙羊<br>");
+document.writeln("345期团队十肖：鼠猴蛇羊虎狗兔龙牛<span style=\'background-color: #FFFF00\'>鸡</span><br>");
 document.writeln("344期团队十肖：龙牛马羊虎猪鼠鸡猴<span style=\'background-color: #FFFF00\'>蛇</span><br>");
 document.writeln("343期团队十肖：鼠猴马羊虎狗<span style=\'background-color: #FFFF00\'>兔</span>猪龙鸡<br>");
 document.writeln("342期团队十肖：鼠猴蛇马虎狗兔<span style=\'background-color: #FFFF00\'>猪</span>牛鸡<br>");
@@ -115,7 +115,8 @@ document.writeln("<br>");
 
 
 
-document.writeln("345期团队八尾：01235679<br>");
+document.writeln("346期团队八尾：01245789<br>");
+document.writeln("345期团队八尾：012356<span style=\'background-color: #FFFF00\'>7</span>9<br>");
 document.writeln("344期团队八尾：01345<span style=\'background-color: #FFFF00\'>7</span>89<br>");
 document.writeln("343期团队八尾：0<span style=\'background-color: #FFFF00\'>1</span>345678<br>");
 document.writeln("342期团队八尾：0234<span style=\'background-color: #FFFF00\'>5</span>689<br>");
@@ -195,7 +196,8 @@ document.writeln("<br>");
 
 
 
-document.writeln("345期团队四头：0123<br>");
+document.writeln("346期团队四头：0234<br>");
+document.writeln("345期团队四头：<span style=\'background-color: #FFFF00\'>0</span>123<br>");
 document.writeln("343期团队四头：<span style=\'background-color: #FFFF00\'>0</span>124<br>");
 document.writeln("342期团队四头：<span style=\'background-color: #FFFF00\'>0</span>124<br>");
 document.writeln("341期团队四头：01<span style=\'background-color: #FFFF00\'>3</span>4<br>");
@@ -248,7 +250,8 @@ document.writeln("");
 
 
 
-document.writeln("345期团队四行：金木水火<br>");
+document.writeln("346期团队四行：木水火土<br>");
+document.writeln("345期团队四行：金木水<span style=\'background-color: #FFFF00\'>火</span><br>");
 document.writeln("344期团队四行：木水火<span style=\'background-color: #FFFF00\'>土</span><br>");
 document.writeln("343期团队四行：<span style=\'background-color: #FFFF00\'>金</span>木火土<br>");
 document.writeln("341期团队四行：金木火<span style=\'background-color: #FFFF00\'>土</span><br>");
