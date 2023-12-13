@@ -49,6 +49,3 @@ document.writeln("");
 
 
   
- document.writeln("						<br>");
-document.writeln("");
-document.writeln("		<a target=\'_blank\' href=\'https://j.100tzz.com:100/\' style=\'text-decoration: none\'><img src=/yyy123.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 15pt\'>点击投注澳门六合彩</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>100.cc</font></span></a></strong></tr></table>		");
