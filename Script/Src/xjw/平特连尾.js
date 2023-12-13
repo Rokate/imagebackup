@@ -19,7 +19,7 @@ document.writeln("</html>");
 document.writeln("");
 document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
-document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>澳门玄机86281</font><font color=\'#FFFFFF\'>『平特连尾』</font></font></b></table>");
+document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>澳门玄机86563</font><font color=\'#FFFFFF\'>『平特连尾』</font></font></b></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
@@ -33,10 +33,29 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
+
+
+
+
+document.writeln("				");
+document.writeln("");
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
+document.writeln("	<b>348期<font color=\'#6600CC\'>【九尾→拖72尾】开</font><font color=\'#FF6600\'>00.00.00</font>准</b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("		");
+document.writeln("");
+document.writeln("");
+
+
+
+
+
 document.writeln("				<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
-document.writeln("	<b>347期<font color=\'#6600CC\'>【三尾→拖59尾】开</font><font color=\'#FF6600\'>00.00.00</font>准</b></font></table>");
+document.writeln("	<b>347期<font color=\'#6600CC\'>【<span style=\'background-color: #FFFF00\'>三尾</span>→拖5<span style=\'background-color: #FFFF00\'>9</span>尾】开</font><font color=\'#FF6600\'>43.29.00</font>准</b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");

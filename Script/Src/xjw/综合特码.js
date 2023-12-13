@@ -63,7 +63,8 @@ document.writeln("	<td width=100% height=40><p align=left><b><font size=\'4\' fa
 document.writeln("	");
 
 
-document.writeln("347期团队十肖：鸡鼠兔猴马羊虎狗龙蛇<br>");
+document.writeln("348期团队十肖：兔牛猪羊蛇鸡马猴鼠狗<br>");
+document.writeln("347期团队十肖：鸡鼠兔猴<span style=\'background-color: #FFFF00\'>马</span>羊虎狗龙蛇<br>");
 document.writeln("346期团队十肖：牛鸡狗马虎蛇猴兔龙<span style=\'background-color: #FFFF00\'>羊</span><br>");
 document.writeln("345期团队十肖：鼠猴蛇羊虎狗兔龙牛<span style=\'background-color: #FFFF00\'>鸡</span><br>");
 document.writeln("344期团队十肖：龙牛马羊虎猪鼠鸡猴<span style=\'background-color: #FFFF00\'>蛇</span><br>");
@@ -115,7 +116,8 @@ document.writeln("");
 document.writeln("<br>");
 
 
-document.writeln("347期团队八尾：12356789<br>");
+document.writeln("348期团队八尾：01345678<br>");
+document.writeln("347期团队八尾：1235<span style=\'background-color: #FFFF00\'>6</span>789<br>");
 document.writeln("346期团队八尾：0124578<span style=\'background-color: #FFFF00\'>9</span><br>");
 document.writeln("345期团队八尾：012356<span style=\'background-color: #FFFF00\'>7</span>9<br>");
 document.writeln("344期团队八尾：01345<span style=\'background-color: #FFFF00\'>7</span>89<br>");
@@ -196,7 +198,8 @@ document.writeln("");
 document.writeln("<br>");
 
 
-document.writeln("347期团队四头：1234<br>");
+document.writeln("348期团队四头：0124<br>");
+document.writeln("347期团队四头：123<span style=\'background-color: #FFFF00\'>4</span><br>");
 document.writeln("346期团队四头：023<span style=\'background-color: #FFFF00\'>0</span><br>");
 document.writeln("345期团队四头：<span style=\'background-color: #FFFF00\'>0</span>123<br>");
 document.writeln("343期团队四头：<span style=\'background-color: #FFFF00\'>0</span>124<br>");
@@ -251,7 +254,8 @@ document.writeln("");
 
 
 
-document.writeln("347期团队四行：金木火土<br>");
+document.writeln("348期团队四行：金水火土<br>");
+document.writeln("347期团队四行：金木<span style=\'background-color: #FFFF00\'>火</span>土<br>");
 document.writeln("345期团队四行：金木水<span style=\'background-color: #FFFF00\'>火</span><br>");
 document.writeln("344期团队四行：木水火<span style=\'background-color: #FFFF00\'>土</span><br>");
 document.writeln("343期团队四行：<span style=\'background-color: #FFFF00\'>金</span>木火土<br>");
@@ -348,7 +352,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' href=\'https://61269c.com/#868627\' style=\'text-decoration: none\'><img src=/yyy123.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 15pt\'>进入澳彩网</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>61269c.com</font></span></a></strong></tr></table>		");
+document.writeln("			<a target=\'_blank\' href=\'https://76891.com/#868627\' style=\'text-decoration: none\'><img src=/yyy123.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 15pt\'>进入澳彩网</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>76891.com</font></span></a></strong></tr></table>		");
 document.writeln(" ");
 document.writeln("");
 document.writeln("</table>");
