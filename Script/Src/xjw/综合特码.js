@@ -62,8 +62,8 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("	<td width=100% height=40><p align=left><b><font size=\'4\' face=\'楷体\'>");
 document.writeln("	");
 
-
-document.writeln("348期团队十肖：兔牛猪羊蛇鸡马猴鼠狗<br>");
+document.writeln("349期团队十肖：猴蛇马猪牛龙兔狗鼠羊<br>");
+document.writeln("348期团队十肖：<span style=\'background-color: #FFFF00\'>兔</span>牛猪羊蛇鸡马猴鼠狗<br>");
 document.writeln("347期团队十肖：鸡鼠兔猴<span style=\'background-color: #FFFF00\'>马</span>羊虎狗龙蛇<br>");
 document.writeln("346期团队十肖：牛鸡狗马虎蛇猴兔龙<span style=\'background-color: #FFFF00\'>羊</span><br>");
 document.writeln("345期团队十肖：鼠猴蛇羊虎狗兔龙牛<span style=\'background-color: #FFFF00\'>鸡</span><br>");
@@ -115,8 +115,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("<br>");
 
-
-document.writeln("348期团队八尾：01345678<br>");
+document.writeln("349期团队八尾：01256789<br>");
+document.writeln("348期团队八尾：013456<span style=\'background-color: #FFFF00\'>7</span>8<br>");
 document.writeln("347期团队八尾：1235<span style=\'background-color: #FFFF00\'>6</span>789<br>");
 document.writeln("346期团队八尾：0124578<span style=\'background-color: #FFFF00\'>9</span><br>");
 document.writeln("345期团队八尾：012356<span style=\'background-color: #FFFF00\'>7</span>9<br>");
@@ -197,8 +197,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<br>");
 
-
-document.writeln("348期团队四头：0124<br>");
+document.writeln("349期团队四头：0123<br>");
 document.writeln("347期团队四头：123<span style=\'background-color: #FFFF00\'>4</span><br>");
 document.writeln("346期团队四头：023<span style=\'background-color: #FFFF00\'>0</span><br>");
 document.writeln("345期团队四头：<span style=\'background-color: #FFFF00\'>0</span>123<br>");
@@ -253,8 +252,8 @@ document.writeln("<br>");
 document.writeln("");
 
 
-
-document.writeln("348期团队四行：金水火土<br>");
+document.writeln("349期团队四行：金木水火<br>");
+document.writeln("348期团队四行：金水<span style=\'background-color: #FFFF00\'>火</span>土<br>");
 document.writeln("347期团队四行：金木<span style=\'background-color: #FFFF00\'>火</span>土<br>");
 document.writeln("345期团队四行：金木水<span style=\'background-color: #FFFF00\'>火</span><br>");
 document.writeln("344期团队四行：木水火<span style=\'background-color: #FFFF00\'>土</span><br>");
