@@ -49,7 +49,7 @@ document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("	");
 document.writeln("	<table style=border-collapse:collapse border=0 width=100% cellpadding=0><tbody><tr><td style=\'border:1px dotted olive\'><p style=line-height:200% align=center><span style=font-family:Verdana><strong>");
-document.writeln("		<font color=\'#FF5050\'>348期:特围36码---开:？00准</font><span style=color:maroon><br></span>");
+document.writeln("		<font color=\'#FF5050\'>348期:特围36码---开:朤朤准</font><span style=color:maroon><br></span>");
 document.writeln("		<span style=color:#d50000>05.06.07.08.09.10.11.12.13.14.15.16</span><br>");
 document.writeln("		<span style=color:olive>17.18.19.20.21.22.23.24.25.26.27.28</span><br>");
 document.writeln("		<span style=color:#669>29.30.31.34.35.36.37.38.39.40.41.47</span></strong></span></table>");
