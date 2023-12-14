@@ -2210,7 +2210,7 @@ document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>348期<f
 document.writeln("		</tr>");
 
 document.writeln("      <tr>");
-document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>347期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖红单〗</font><font color=\'#008000\'>开马46准</font></font></b></td>");
+document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>347期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖红单〗</font><font color=\'#008000\'>开46准</font></font></b></td>");
 document.writeln("		</tr>");
 
 document.writeln("      <tr>");
