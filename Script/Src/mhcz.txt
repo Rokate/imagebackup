@@ -179,7 +179,7 @@ document.writeln("<!--网址开始-->");
 
 
 
-document.writeln("<!--网址开始--");
+document.writeln("<!--网址开始-->");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40 bordercolor=\'#C0C0C0\'>");
 document.writeln("<p style=box-sizing:border-box;padding:0;margin:0 align=left>");
@@ -2330,7 +2330,7 @@ document.writeln("		</tr>");
 
 
 document.writeln("      <tr>");
-document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>349期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖蓝双〗</font><font color=\'#008000\'>开鼠28准</font></font></b></td>");
+document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>349期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖蓝双〗</font><font color=\'#008000\'>开28准</font></font></b></td>");
 document.writeln("		</tr>");
 
 document.writeln("      <tr>");
