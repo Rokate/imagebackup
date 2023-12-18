@@ -34,9 +34,9 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>352期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>352期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开猪41</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#FF00FF\'>【→六九边出←】</font><font color=\'#6600CC\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>解：05猪.06狗.07鸡.08猴.09羊.10马</font></font></span></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>解：05<span style='background-color: #FFFF00\'>猪</span>.06狗.07鸡.08猴.09羊.10马</font></font></span></td></tr>");
 document.writeln("	");
 
 
