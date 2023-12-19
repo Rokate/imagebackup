@@ -30,9 +30,8 @@ document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("");
 document.writeln("			<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>353期:<font color=\'#FF00FF\'>《中中中》</font><font color=\'#008000\'>（00 00 00）</font><font color=\'#0000FF\'>开0000中</font></font></span></div>	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>353期:<font color=\'#FF00FF\'>《猪猴鼠》</font><font color=\'#008000\'>（17 32 28）</font><font color=\'#0000FF\'>开0000中</font></font></span></div>	");
 document.writeln("		");
-
 
 
 
