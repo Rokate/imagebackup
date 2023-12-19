@@ -11,10 +11,22 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 document.writeln("	");
 document.writeln("			");
 
+
+
+
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>352期:<font color=\'#008000\'>【正版猜特输尽光】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>353期:<font color=\'#008000\'>【正版猜特输尽光】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>今期买鼠输尽光，东船西航两头现。 </font></td>");
+document.writeln("		</tr>");
+document.writeln("");
+document.writeln("");
+
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>352期:<font color=\'#008000\'>【正版猜特输尽光】</font><font color=\'#FF0000\'>开猪41</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#FF00FF\'>今期马羊输尽光，零头二尾全不买。 </font></td>");
 document.writeln("		</tr>");
 document.writeln("");
