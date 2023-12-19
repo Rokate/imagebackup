@@ -2088,7 +2088,7 @@ document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>353期<f
 document.writeln("		</tr>");
 
 document.writeln("      <tr>");
-document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>352期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖绿单〗</font><font color=\'#008000\'>开猪41准</font></font></b></td>");
+document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>352期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖绿单〗</font><font color=\'#008000\'>开41准</font></font></b></td>");
 document.writeln("		</tr>");
 
 document.writeln("      <tr>");
