@@ -18,6 +18,23 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 
 
 
+document.writeln("		");
+document.writeln("			<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<b>");
+document.writeln("		<font size=\'4\'>");
+document.writeln("		<span>357期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>五福临门</font>】</span><font color=\'#FF0000\'>开00</font></font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("		");
+document.writeln("");
+document.writeln("				");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+
+
+
 
 
 document.writeln("");
@@ -26,7 +43,7 @@ document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>356期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>六六大顺</font>】</span><font color=\'#FF0000\'>开00</font></font></b></td>");
+document.writeln("		<span>356期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>六六大顺</font>】</span><font color=\'#FF0000\'>开04</font></font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("");
 document.writeln("");
