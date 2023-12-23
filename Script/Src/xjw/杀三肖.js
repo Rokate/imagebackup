@@ -8,6 +8,18 @@ document.writeln("</head>");
 document.writeln("");
 document.writeln("<body>");
 
+document.writeln("");
+document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
+document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
+document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>澳门玄机86281</font><font color=\'#FFFFFF\'>『绝杀三肖』</font></font></b></table>");
+document.writeln("");
+document.writeln("");
+
+document.writeln("<table border=\'1\' width=\'100%\' bgcolor=\'#ffffff\'><tbody>");
+
+
+
+
 
 
 
