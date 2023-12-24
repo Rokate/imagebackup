@@ -32,6 +32,24 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 
 
 
+document.writeln("");
+document.writeln("");
+document.writeln("						<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p align=\'left\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'><strong>359期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开？00</strong></font><font color=\'#008000\'><strong><br>");
+document.writeln("		</strong>");
+document.writeln("		</font><font color=\'#FF00FF\'><strong>洛阳城里见秋风，欲作家书意万重</strong></font><strong><br>");
+document.writeln("		</strong><strong><font color=\'#6600CC\'>");
+document.writeln("		解:阳解阳肖，鸡兔牛羊虎猴，秋解秋肖，猴狗鸡 ，风解风肖，虎龙兔。<br>");
+document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>鸡<span style='background-color: #FFFF00\'>兔</span>牛羊虎猴</span></strong></font></td></tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+
 
 
 document.writeln("						<tr>");
@@ -39,7 +57,7 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'><strong>358期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开？00</strong></font><font color=\'#008000\'><strong><br>");
+document.writeln("		<span><font size=\'4\'><strong>358期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开兔01</strong></font><font color=\'#008000\'><strong><br>");
 document.writeln("		</strong>");
 document.writeln("		</font><font color=\'#FF00FF\'><strong>映日荷花别样红,淡妆浓抹总相宜</strong></font><strong><br>");
 document.writeln("		</strong><strong><font color=\'#6600CC\'>");
