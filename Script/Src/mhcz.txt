@@ -625,7 +625,7 @@ document.writeln("		</tr>");
 
 document.writeln("				<tr>");
 document.writeln("			<td height=\'46\'>");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#008000\'>362期：</font><font color=\'#FF00FF\' size=\'4\'>独平</font><font color=\'#FF00FF\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>鸡</span>07】</font><font color=\'#0000FF\' size=\'4\'>开鸡42准</font></b></td>");
+document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#008000\'>362期：</font><font color=\'#FF00FF\' size=\'4\'>独平</font><font color=\'#FF00FF\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>鸡</span>07】</font><font color=\'#0000FF\' size=\'4\'>开鸡43准</font></b></td>");
 document.writeln("		</tr>");
 
 
@@ -1904,7 +1904,7 @@ document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>363期<f
 document.writeln("		</tr>");
 
 document.writeln("      <tr>");
-document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>362期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖红单〗</font><font color=\'#008000\'>开龙36准</font></font></b></td>");
+document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>362期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖红单〗</font><font color=\'#008000\'>开36准</font></font></b></td>");
 document.writeln("		</tr>");
 
 document.writeln("      <tr>");
