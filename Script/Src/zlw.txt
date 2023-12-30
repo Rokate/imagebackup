@@ -19,7 +19,7 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("363期<font color=\'#FF00FF\'>（鸡狗牛+5140尾）</font>开？00</font></b></font></table>");
+document.writeln("364期<font color=\'#FF00FF\'>（鸡龙狗+3697尾）</font>开？00</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
@@ -75,10 +75,19 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	363期<font color=\'#FF0000\'>（大数+1头）</font>开？00√</font></b></font></table>");
+document.writeln("	364期<font color=\'#FF0000\'>（小数+3头）</font>开？00√</font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	363期<font color=\'#FF0000\'>（大数+<span style=\'background-color: #FFFF00\'>1头</span>）</font>开龙12√</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 
@@ -119,7 +128,12 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("363期：<font color=\'#0000FF\'>（野兽+马狗）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("364期：<font color=\'#0000FF\'>（野兽+猪狗）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("363期：<font color=\'#0000FF\'>（<span style=\'background-color: #FFFF00\'>野兽</span>+马狗）</font>开<font color=\'#FF0000\'>(龙12)</font></font></b></font></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
@@ -223,19 +237,50 @@ document.writeln("	<div class=\'bizhong10-tit\'>澳门资料网（62815b.com）�
 document.writeln("	<div class=\'bizhong10-box\'>");
 document.writeln("    	<div class=\'bizhong10-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li>363期必中一尾：<font color=\'#FF0000\' size=\'4\'>9</font></li>");
-document.writeln("            	<li>363期必中二尾：<font color=\'#FF0000\' size=\'4\'>9-3</font></li>");
-document.writeln("            	<li>363期必中三尾：<font color=\'#FF0000\' size=\'4\'>9-3-2</font></li>");
-document.writeln("            	<li>363期必中四尾：<font color=\'#FF0000\' size=\'4\'>9-3-2-4</font></li>");
-document.writeln("            	<li>363期必中五尾：<font color=\'#FF0000\' size=\'4\'>9-3-2-4-0</font></li>");
-document.writeln("            	<li>363期必中六尾：<font color=\'#FF0000\' size=\'4\'>9-3-2-4-0-6</font></li>");
-document.writeln("             	<li>363期必中七尾：<font color=\'#FF0000\' size=\'4\'>9-3-2-4-0-6-7</font></li>");
+document.writeln(" 	            <li>364期必中一尾：<font color=\'#FF0000\' size=\'4\'>9</font></li>");
+document.writeln("            	<li>364期必中二尾：<font color=\'#FF0000\' size=\'4\'>9-5</font></li>");
+document.writeln("            	<li>364期必中三尾：<font color=\'#FF0000\' size=\'4\'>9-5-8</font></li>");
+document.writeln("            	<li>364期必中四尾：<font color=\'#FF0000\' size=\'4\'>9-5-8-6</font></li>");
+document.writeln("            	<li>364期必中五尾：<font color=\'#FF0000\' size=\'4\'>9-5-8-6-1</font></li>");
+document.writeln("            	<li>364期必中六尾：<font color=\'#FF0000\' size=\'4\'>9-5-8-6-1-2</font></li>");
+document.writeln("             	<li>364期必中七尾：<font color=\'#FF0000\' size=\'4\'>9-5-8-6-1-2-7</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("    	<div class=\'bizhong10-r\'>");
 document.writeln("        	<ul>");
 document.writeln("            	<li>必中三码：<font color=\'#FF0000\' size=\'4\'>19.29.39</font></li>");
-document.writeln("            	<li>必中六码：<font color=\'#FF0000\' size=\'4\'>03.23.33</font></li>");
+document.writeln("            	<li>必中六码：<font color=\'#FF0000\' size=\'4\'>15.25.45</font></li>");
+document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>08.38.48</font></li>");
+document.writeln("            	<li>必中12码：<font color=\'#FF0000\' size=\'4\'>16.26.36</font></li>");
+document.writeln("            	<li>必中15码：<font color=\'#FF0000\' size=\'4\'>21.31.41</font></li>");
+document.writeln("            	<li>必中18码：<font color=\'#FF0000\' size=\'4\'>02.32.42</font></li>");
+document.writeln("            	<li>必中21码：<font color=\'#FF0000\' size=\'4\'>07.27.47</font></li>");
+document.writeln("            </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("      <div class=\'bizhong10-foot\'><font color=\'#00FFFF\'>364期一尾中特：</font><font color=\'#FFFF00\' size=\'6\'>（<font color=\'#FFFF00\'>9尾</font>）</font><font color=\'#00FF00\'>单车变宝马~</font></div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
+
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong10\'>");
+document.writeln("	<div class=\'bizhong10-tit\'>澳门资料网（62815b.com）一尾一码</div>");
+document.writeln("	<div class=\'bizhong10-box\'>");
+document.writeln("    	<div class=\'bizhong10-l\'>");
+document.writeln("        	<ul>");
+
+document.writeln("            	<li>363期必中三尾：<font color=\'#FF0000\' size=\'4\'>9-3-<span style=\'background-color: #FFFF00\'>【2】</span></font></li>");
+document.writeln("            	<li>363期必中四尾：<font color=\'#FF0000\' size=\'4\'>9-3-<span style=\'background-color: #FFFF00\'>【2】</span>-4</font></li>");
+document.writeln("            	<li>363期必中五尾：<font color=\'#FF0000\' size=\'4\'>9-3-<span style=\'background-color: #FFFF00\'>【2】</span>-4-0</font></li>");
+document.writeln("            	<li>363期必中六尾：<font color=\'#FF0000\' size=\'4\'>9-3-<span style=\'background-color: #FFFF00\'>【2】</span>-4-0-6</font></li>");
+document.writeln("             	<li>363期必中七尾：<font color=\'#FF0000\' size=\'4\'>9-3-<span style=\'background-color: #FFFF00\'>【2】</span>-4-0-6-7</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("    	<div class=\'bizhong10-r\'>");
+document.writeln("        	<ul>");
+
 document.writeln("            	<li>必中九码：<font color=\'#FF0000\' size=\'4\'>02.32.42</font></li>");
 document.writeln("            	<li>必中12码：<font color=\'#FF0000\' size=\'4\'>04.24.44</font></li>");
 document.writeln("            	<li>必中15码：<font color=\'#FF0000\' size=\'4\'>10.30.40</font></li>");
@@ -925,7 +970,14 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>363期：</font>【<font color=\'#008000\'>双数+鸡羊</font>】开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>364期：</font>【<font color=\'#008000\'>双数+鸡兔</font>】开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>363期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>双数</span>+鸡羊</font>】开<font color=\'#FF0000\'>(龙12)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");
@@ -934,19 +986,6 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("	<font color=\'#0000FF\'>362期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>双数</span>+蛇羊</font>】开<font color=\'#FF0000\'>(龙36)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>360期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>双数</span>+羊牛</font>】开<font color=\'#FF0000\'>(虎26)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>358期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>单数</span>+猴狗</font>】开<font color=\'#FF0000\'>(兔01)</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
 
 
 
