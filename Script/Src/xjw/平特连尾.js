@@ -36,11 +36,16 @@ document.writeln("");
 
 
 
+document.writeln("			<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
+document.writeln("	<b>002期<font color=\'#6600CC\'>【一尾→拖28尾】开</font><font color=\'#FF6600\'>00.00.00</font>准</b></font></table>");
+document.writeln("		<!--结束-->");
 
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
-document.writeln("	<b>001期<font color=\'#6600CC\'>【六尾→拖29尾】开</font><font color=\'#FF6600\'>00.00.00</font>准</b></font></table>");
+document.writeln("	<b>001期<font color=\'#6600CC\'>【六尾→拖29尾】开</font><font color=\'#FF6600\'>06.00.00</font>准</b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("		");
 
