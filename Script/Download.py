@@ -85,7 +85,7 @@ if __name__ == "__main__":
         #amcode = {"code": "71"}
         #qishu = requests.post('https://am49.app/open/latest?code=71').json()['data']['nextIssueNo'][-3:]
         qishu = requests.get('https://49252a.com/unite49/h5/index/lotteryTime').json()['data']['list'][0]['isLotteryDay']
-        qish = qishu.lstrip('0')
+        #qish = qishu.lstrip('0')
         url = requests.get('https://49252a.com/unite49/h5/picture/detail/latest?pictureTypeId=28854').json()['data']['largePictureUrl']
         pattern = re.compile("https://tk2.(.*?)/")
         match = re.findall(pattern, url)
@@ -98,5 +98,5 @@ if __name__ == "__main__":
         print("日期更新出错了", traceback.format_exc())
     else:
         print("图片列表下载。。。")
-        asyncio.run(main(qishu, qish, qs, domain_port))
+        asyncio.run(main(qishu, qishu, qs, domain_port))
         
