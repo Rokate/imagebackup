@@ -84,7 +84,7 @@ if __name__ == "__main__":
     try:
         #amcode = {"code": "71"}
         qishu = requests.post('https://am49.app/open/latest?code=71').json()['data']['nextIssueNo'][-3:]
-        qish = qishu.lstrip('0')
+        qish = qishu.lstrip('00')
         url = requests.get('https://49252a.com/unite49/h5/picture/detail/latest?pictureTypeId=28854').json()['data']['largePictureUrl']
         pattern = re.compile("https://tk2.(.*?)/")
         match = re.findall(pattern, url)
