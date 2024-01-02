@@ -84,7 +84,8 @@ if __name__ == "__main__":
     try:
         #amcode = {"code": "71"}
         #qishu = requests.post('https://am49.app/open/latest?code=71').json()['data']['nextIssueNo'][-3:]
-        qishu = requests.get('https://49252a.com/unite49/h5/index/lotteryTime').json()['data']['list'][0]['isLotteryDay']
+        Lday = requests.get('https://49252a.com/unite49/h5/index/lotteryTime')
+        qishu = Lday.json()['data']['list'][0]['isLotteryDay'] + 1
         qish = str(qishu).zfill(3)
         url = requests.get('https://49252a.com/unite49/h5/picture/detail/latest?pictureTypeId=28854').json()['data']['largePictureUrl']
         pattern = re.compile("https://tk2.(.*?)/")
@@ -93,7 +94,7 @@ if __name__ == "__main__":
         
         #xgcode = {"code": "28"}
         #qs = requests.post('https://am49.app/open/latest?code=28').json()['data']['nextIssueNo'][-3:].lstrip('0')
-        qs = "1"
+        qs = Lday.json()['data']['list'][1]['isLotteryDay'] + 1
     except Exception as e:
         print("日期更新出错了", traceback.format_exc())
     else:
