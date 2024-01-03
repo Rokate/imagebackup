@@ -83,10 +83,11 @@ if __name__ == "__main__":
     #a6.003123.club
     try:
         #amcode = {"code": "71"}
-        #qishu = requests.post('https://am49.app/open/latest?code=71').json()['data']['nextIssueNo'][-3:]
-        Lday = requests.get('https://49252a.com/unite49/h5/index/lotteryTime')
-        qishu = Lday.json()['data']['list'][0]['isLotteryDay'] + 1
-        qish = str(qishu).zfill(3)
+        qish = requests.post('https://am49.app/open/latest/single?code=71').json()['data']['nextIssueNo'][-3:]
+        qishu = qish.lstrip('0')
+        #Lday = requests.get('https://49252a.com/unite49/h5/index/lotteryTime')
+        #qishu = Lday.json()['data']['list'][0]['isLotteryDay'] + 1
+        #qish = str(qishu).zfill(3)
         url = requests.get('https://49252a.com/unite49/h5/picture/detail/latest?pictureTypeId=28854').json()['data']['largePictureUrl']
         pattern = re.compile("https://tk2.(.*?)/")
         match = re.findall(pattern, url)
