@@ -24,13 +24,11 @@ document.writeln("	   		");
 
 
 
-document.writeln("                         <tr>");
+document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>004期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【老虎当和尚—人面兽心】</td>");
-document.writeln("	</tr>");
-document.writeln("		");
+document.writeln("		<span><font size=\'4\'>005期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【羊群里跑出个骆驼—抖什么威风】</td>");
+document.writeln("		</tr>");
 document.writeln("");
 
 

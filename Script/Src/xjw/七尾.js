@@ -28,6 +28,15 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 
 
 
+document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<p>");
+document.writeln("		<b>");
+document.writeln("		<font size=\'4\'>");
+document.writeln("		<span>005期:<font color=\'#008000\'>无错七尾</font>【2159463】</span><font color=\'#FF0000\'>开？00</font></font></b></td></tr>");
+document.writeln("		");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 
 
 document.writeln("	");
@@ -35,7 +44,7 @@ document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>")
 document.writeln("		<p>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>004期:<font color=\'#008000\'>无错七尾</font>【2068943】</span><font color=\'#FF0000\'>开？00</font></font></b></td></tr>");
+document.writeln("		<span>004期:<font color=\'#008000\'>无错七尾</font>【2<span style=\'background-color: #FFFF00\'>0</span>68943】</span><font color=\'#FF0000\'>开鼠40</font></font></b></td></tr>");
 document.writeln("		");
 document.writeln("");
 document.writeln("");
