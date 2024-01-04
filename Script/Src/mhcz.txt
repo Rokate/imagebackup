@@ -2056,7 +2056,7 @@ document.writeln("		</tr>");
 
 
 document.writeln("      <tr>");
-document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>003期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖绿双〗</font><font color=\'#008000\'>开鸡19准</font></font></b></td>");
+document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>003期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖绿双〗</font><font color=\'#008000\'>开19准</font></font></b></td>");
 document.writeln("		</tr>");
 
 
