@@ -17,7 +17,7 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 
 
 
-document.writeln("");
+
 document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("	<tr>");
@@ -25,9 +25,13 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>006期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【槲】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开？00</font></span><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#006600\'>解特：02 03 04 05 06 07 16 17 18 19 20 21 31 32 33 34 35 38 41 45</td></tr>");
+document.writeln("		<span><font size=\'4\'>007期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【鸯】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开？00</font></span><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#006600\'>解特：05 06 07 12 13 14 15 16 22 23 24 25 28 29 30 31 32 33 34 36</td></tr>");
 document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
 
 
 document.writeln("<!--开始-->");
