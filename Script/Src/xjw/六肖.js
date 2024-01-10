@@ -8,19 +8,11 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("			<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	011期<font color=\'#0000FF\'>【鼠狗马兔龙鸡】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-
 
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	010期<font color=\'#0000FF\'>【兔羊<span style=\'background-color: #FFFF00\'>龙</span>牛马狗】</font><font color=\'#FF00FF\'>开龙36准</font></font></b></font></table>");
+document.writeln("	010期<font color=\'#0000FF\'>【兔羊龙牛马狗】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 
