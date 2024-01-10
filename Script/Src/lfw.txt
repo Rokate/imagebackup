@@ -458,20 +458,6 @@ document.writeln("	");
 
 
 
-document.writeln("					<!--开始-->");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>011期红字暗码：【鬼斧神工01 24 33 40】</font><font face=\'华文中宋\'><br>");
-document.writeln("	解释：形容技能的精巧如同神鬼制作出来一般。</font></b><br>");
-document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	<b>红字解六肖：龙鼠猪鸡蛇牛</b></font></td></b>");
-document.writeln("</font>");
-document.writeln("</font>		</tr>");
-document.writeln("");
-document.writeln("		<!--结束-->	");
-
-
-
 
 document.writeln("					<!--开始-->");
 document.writeln("");
@@ -479,7 +465,7 @@ document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>010期红字暗码：【婢学夫人05 18 33 40】</font><font face=\'华文中宋\'><br>");
 document.writeln("	解释：意思是婢女学作夫人，比喻刻意去学，却总不能像。</font></b><br>");
 document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	<b>红字解六肖：<span style=\'background-color: #FFFF00\'>龙</span>牛马鼠猪鸡</b></font></td></b>");
+document.writeln("	<b>红字解六肖：龙牛马鼠猪鸡</b></font></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
@@ -2900,9 +2886,9 @@ document.writeln("							");
 document.writeln("	<!--开始-->");
 document.writeln("");
 document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>011期今日闲情暗语：町画手表!<br>");
-document.writeln("	</font><font face=\'华文中宋\'>解释：町画手表!解画肖羊猪猴</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合取肖：羊猪猴蛇马羊</font></b></td></b>");
+document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>010期今日闲情暗语：方块狗!<br>");
+document.writeln("	</font><font face=\'华文中宋\'>解释：方块狗，解家禽牛鸡猪狗马羊</font></b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合取肖：牛鸡猪狗马羊</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
@@ -3208,7 +3194,7 @@ document.writeln("<tr>");
 document.writeln("		<td class=\'center f13 black l150\' style=\'border-color: #D0FFFF; \' align=\'center\' bgcolor=#FFFFFF>");
 document.writeln("		  ");
 document.writeln("         	<b>");
-document.writeln("         <font color=\'#008000\' face=\'黑体\' size=\'4\'>以下统计至2020-067-2024-011期（错288）</font></b></td>");
+document.writeln("         <font color=\'#008000\' face=\'黑体\' size=\'4\'>以下统计至2020-067-2024-010期（错288）</font></b></td>");
 document.writeln("	</tr></table>");
 document.writeln("	");
 document.writeln("	<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' style=\'border: 1px solid #E70012;\' height=\'40\'>	");
@@ -3252,7 +3238,7 @@ document.writeln("<tr>");
 document.writeln("		<td class=\'center f13 black l150\' style=\'border-color: #D0FFFF; \' align=\'center\' bgcolor=#FFFFFF>");
 document.writeln("		  ");
 document.writeln("         	<b><font color=\'#000000\' face=\'黑体\'>");
-document.writeln("			<span style=\'background-color: #FFFF00\'>011上期开龙:</span></font><span style=\'background-color: #FFFF00\'><font face=\'黑体\' size=\'4\'><font color=\'#FF0000\'>龙兔虎羊蛇猴马牛狗</font><font color=\'#0000FF\'>(错28)</font></font></span><span style=\'background-color: #FFFFFF\'> ");
+document.writeln("			<span style=\'background-color: #FFFFFF\'>上期开龙:</span></font><span style=\'background-color: #FFFFFF\'><font face=\'黑体\' size=\'4\'><font color=\'#FF0000\'>龙兔虎羊蛇猴马牛狗</font><font color=\'#0000FF\'>(错28)</font></font> ");
 document.writeln("			</font> ");
 document.writeln("			</span> ");
 document.writeln("			</b> </td>");
@@ -3313,7 +3299,7 @@ document.writeln("		<td class=\'center f13 black l150\' style=\'border-color: #D
 document.writeln("		  ");
 document.writeln("         	<b>");
 document.writeln("         	<font color=\'#000000\' face=\'黑体\'>");
-document.writeln("			上期开狗:</font><font face=\'黑体\' size=\'4\'><font color=\'#FF0000\'>兔羊虎牛猪鼠龙狗蛇</font><font color=\'#0000FF\'>(错23)</font></font> ");
+document.writeln("			<span style=\'background-color: #FFFF00\'>010上期开狗:</span></font><span style=\'background-color: #FFFF00\'><font face=\'黑体\' size=\'4\'><font color=\'#FF0000\'>兔羊虎牛猪鼠龙狗蛇</font><font color=\'#0000FF\'>(错23)</font></font></span> ");
 document.writeln("			</font> ");
 document.writeln("			</b> </td>");
 document.writeln("	</tr></table>");
