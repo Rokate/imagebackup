@@ -715,7 +715,7 @@ document.writeln("						<p style=\'box-sizing: border-box; padding: 0px; margin:
 document.writeln("						<strong style=\'box-sizing: border-box;\'>");
 document.writeln("						<span style=\'box-sizing: border-box; font-family:Tahoma; font-size:14pt; background-color:rgb(255, 255, 255)\'>");
 document.writeln("						<font color=\'#000000\'>");
-document.writeln("						<font color=\'#FF0000\'>011期</font>:</font><font color=\'#FF0000\'>&#10027;</font><font color=\'#000000\'>北兮六尾</font><font color=\'#FF0000\'>&#10027;");
+document.writeln("						<font color=\'#FF0000\'>010期</font>:</font><font color=\'#FF0000\'>&#10027;</font><font color=\'#000000\'>北兮六尾</font><font color=\'#FF0000\'>&#10027;");
 document.writeln("						<br>");
 document.writeln("						</font>");
 document.writeln("						<font color=\'#000000\'>");
@@ -2182,21 +2182,7 @@ document.writeln("						<td align=\'center\' bgcolor=\'#ffffff\' height=\'40\' s
 document.writeln("						<p style=\'box-sizing: border-box; padding: 0px; margin: 0px; word-spacing: 1px; line-height: 32px;\'>");
 document.writeln("						<b style=\'box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(58, 88, 95); font-family: 楷体; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;\'>");
 document.writeln("						<font size=\'4\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>");
-document.writeln("						011期</font></b><font style=\'box-sizing: border-box; margin: 0px; padding: 0px\' color=\'#9933FF\' size=\'4\'><b style=\'box-sizing: border-box; font-family: 楷体; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; padding: 0px; background-color: rgb(255, 255, 255)\'>合数单双</b></font><b style=\'box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(58, 88, 95); font-family: 楷体; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;\'><font size=\'4\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'><font color=\'#0000FF\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>【</font><font color=\'#FF0000\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>合单合单</font><font color=\'#0000FF\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>】开</font><font color=\'#FFFF00\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'><span style=\'box-sizing: border-box; margin: 0px; padding: 0px; background-color: rgb(255, 0, 255);\'>？00</span></font><font color=\'#0000FF\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>中</font></font></b></td>");
-document.writeln("					</tr>");
-document.writeln("</table>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("");
-document.writeln("<table border=\'0\' width=\'100%\' cellpadding=\'0\' style=\'box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; color: rgb(58, 88, 95); font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 微软雅黑, Arial, sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>");
-document.writeln("				<tbody style=\'box-sizing: border-box;\'>");
-document.writeln("					<tr style=\'box-sizing: border-box;\'>");
-document.writeln("						<td align=\'center\' bgcolor=\'#ffffff\' height=\'40\' style=\'box-sizing: border-box; border: 1px solid rgb(235, 235, 235);\'>");
-document.writeln("						<p style=\'box-sizing: border-box; padding: 0px; margin: 0px; word-spacing: 1px; line-height: 32px;\'>");
-document.writeln("						<b style=\'box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(58, 88, 95); font-family: 楷体; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;\'>");
-document.writeln("						<font size=\'4\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>");
-document.writeln("						010期</font></b><font style=\'box-sizing: border-box; margin: 0px; padding: 0px\' color=\'#9933FF\' size=\'4\'><b style=\'box-sizing: border-box; font-family: 楷体; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; padding: 0px; background-color: rgb(255, 255, 255)\'>合数单双</b></font><b style=\'box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(58, 88, 95); font-family: 楷体; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;\'><font size=\'4\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'><font color=\'#0000FF\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>【</font><font color=\'#FF0000\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>合单合单</font><font color=\'#0000FF\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>】开</font><font color=\'#FFFF00\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'><span style=\'box-sizing: border-box; margin: 0px; padding: 0px; background-color: rgb(255, 0, 255);\'>龙36</span></font><font color=\'#0000FF\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>中</font></font></b></td>");
+document.writeln("						010期</font></b><font style=\'box-sizing: border-box; margin: 0px; padding: 0px\' color=\'#9933FF\' size=\'4\'><b style=\'box-sizing: border-box; font-family: 楷体; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; padding: 0px; background-color: rgb(255, 255, 255)\'>合数单双</b></font><b style=\'box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(58, 88, 95); font-family: 楷体; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;\'><font size=\'4\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'><font color=\'#0000FF\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>【</font><font color=\'#FF0000\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>合单合单</font><font color=\'#0000FF\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>】开</font><font color=\'#FFFF00\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'><span style=\'box-sizing: border-box; margin: 0px; padding: 0px; background-color: rgb(255, 0, 255);\'>？00</span></font><font color=\'#0000FF\' style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>中</font></font></b></td>");
 document.writeln("					</tr>");
 document.writeln("</table>");
 document.writeln("");
@@ -2219,7 +2205,7 @@ document.writeln("</head>");
 document.writeln("");
 document.writeln("<body>");
 document.writeln("");
-document.writeln("<img src=\"https://tk2.zaojiao365.net:4949/col/10/ampm.jpg\" width=\"100%\"></img>");
+document.writeln("<img src=\"https://tk2.zaojiao365.net:4949/col/11/ampm.jpg\" width=\"100%\"></img>");
 document.writeln("");
 
 
@@ -2231,20 +2217,20 @@ document.writeln("<td style=\'margin: 0px; padding: 3px 2px;  word-break: break-
 document.writeln("");
 document.writeln("<p style=\'font-size: 11pt; margin-bottom: 8px; text-align: left;\'>");
 document.writeln("<b>");
-document.writeln("<font color=\'#FF0000\'>010期一字記之曰：【逸】</font><font color=\'#0000FF\'><br></font>");
-document.writeln("力大也许是六畜，更添十六向三十，潺潺活水，孕育萬物，休閒生活最安逸，隨遇而安，悠然自得，人生感覺更充實!玄機測字:《球》<br>");
-document.writeln(" <font color=\"#0000FF\">解：力大也许是六畜：力大解大肖虎狗牛羊猪马，六畜解马鸡羊狗猪牛，本期综合六肖虎狗牛羊猪马</font><br> ");
+document.writeln("<font color=\'#FF0000\'>011期一字記之曰：【？】</font><font color=\'#0000FF\'><br></font>");
+document.writeln("更新中!玄機測字:《？》<br>");
+document.writeln(" <font color=\"#0000FF\">解：更新中</font><br> ");
 document.writeln("<br>");
 document.writeln("</font>");
 document.writeln("</b>");
 document.writeln("<font color=\"#800000\">");
 document.writeln("");
 document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>");
-document.writeln("生肖：</span></font><span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>虎狗牛羊猪马<br>");
+document.writeln("生肖：</span></font><span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>更新中<br>");
 document.writeln("</span>");
 document.writeln("<span style=\'font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>");
 document.writeln("<font color=\"#800000\">");
-document.writeln("特码：</font><font color=\"#008000\">14.38.18.30.03.15.21.45.05.29.10.22</font></span><span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>");
+document.writeln("特码：</font><font color=\"#008000\">更新中</font></span><span style=\'color: #FF00FF; font-family: 微软雅黑; text-indent: 2em; font-size: 16px\'>");
 document.writeln("</span></p>");
 document.writeln("");
 document.writeln("  </table>");
