@@ -1903,12 +1903,6 @@ document.writeln("</tr>");
 
 
 
-document.writeln("<tr>");
-document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=47><p style=box-sizing:border-box;padding:0;margin:0 align=center>");
-document.writeln("<span style=box-sizing:border-box;font-size:14pt><b><span style=box-sizing:border-box;><font face=\'微软雅黑\'><font color=\'#000000\'>");
-document.writeln("013期牛逼双波【</font><font color=\'#008000\'>绿波</font><font color=\'#0000FF\'>红波</font><font color=\'#000000\'>】开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF00FF\'>狗18</font></span><font color=\'#000000\'>准</font></font></span></b><font color=\'#FF0000\'><font color=\'#FF0000\'><font color=\'#000000\'><span style=\'font-size: 14pt\'></strong>");
-document.writeln("</span></font></font>");
-document.writeln("</tr>");
 
 
 document.writeln("<tr>");
@@ -2099,12 +2093,12 @@ document.writeln("		</tr>");
 
 
 document.writeln("      <tr>");
-document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>013期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖蓝单〗</font><font color=\'#008000\'>开狗18准</font></font></b></td>");
+document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>013期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖蓝单〗</font><font color=\'#008000\'>开18准</font></font></b></td>");
 document.writeln("		</tr>");
 
 
 document.writeln("      <tr>");
-document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>012期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖红单〗</font><font color=\'#008000\'>开马22准</font></font></b></td>");
+document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>012期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖红单〗</font><font color=\'#008000\'>开22准</font></font></b></td>");
 document.writeln("		</tr>");
 
 
