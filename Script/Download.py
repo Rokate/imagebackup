@@ -43,6 +43,7 @@ async def main(a, b, c, d):
         ["https://www.353583.com/tutu/ujcc.jpg", "a-ujcc.jpg"],
         [f"https://www.29761b.com/img/djpt{qishu}.jpg", "a-djpt.jpg"],
         [f"https://69760b.com/img/1xzt{qishu}.jpg", "a-1xzt.jpg"],
+        [f"https://tk2.{urld}/col/{qish}/amsgyy.jpg", "a-amsgyy.jpg"],
         [f"https://tk2.{urld}/col/{qish}/zbxyb.jpg", "a-zbxyb.jpg"],
         [f"https://tk2.{urld}/col/{qish}/n1.jpg", "a-n1.jpg"],
         [f"https://tk2.{urld}/col/{qish}/dcxj.jpg", "a-dcxj.jpg"],
