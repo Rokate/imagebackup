@@ -14,13 +14,31 @@ document.writeln("			");
 
 
 
+document.writeln("		");
+document.writeln("			<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>019期:<font color=\'#008000\'>【正版猜特输尽光】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>今期鼠猪输尽光，一头三尾全不买。</td>");
+document.writeln("		</tr>");
+document.writeln("		");
+document.writeln("		");
+document.writeln("");
+
+
+
+
+
+
 
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>018期:<font color=\'#008000\'>【正版猜特输尽光】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>018期:<font color=\'#008000\'>【正版猜特输尽光】</font><font color=\'#FF0000\'>开蛇47</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#FF00FF\'>今期牛狗输尽光，二头七尾全不买。</td>");
 document.writeln("		</tr>");
 document.writeln("		");
