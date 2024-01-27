@@ -7,13 +7,17 @@ document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color
 document.writeln("");
 document.writeln("");
 
-
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	028期<font color=\'#0000FF\'>【兔牛猪羊蛇鸡】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
 
 
 document.writeln("			<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	027期<font color=\'#0000FF\'>【鼠狗马兔龙鸡】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
+document.writeln("	027期<font color=\'#0000FF\'>【<span style=\'background-color: #FFFF00\'>鼠</span>狗马兔龙鸡】</font><font color=\'#FF00FF\'>开鼠28准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 
