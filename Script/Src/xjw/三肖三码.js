@@ -14,65 +14,45 @@ document.writeln("		");
 document.writeln("		");
 
 
+
 document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>028期:<font color=\'#FF00FF\'>《牛龙兔》</font><font color=\'#008000\'>（03 12 25）</font><font color=\'#0000FF\'>开？00中</font></font></span></div>	");
-document.writeln("	");
 document.writeln("");
-
-
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("			<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>025期:<font color=\'#FF00FF\'>《狗<span style=\'background-color: #FFFF00\'>猴</span>牛》</font><font color=\'#008000\'>（06 44 27）</font><font color=\'#0000FF\'>开猴32中</font></font></span></td></tr>");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>031期:<font color=\'#FF00FF\'>《更新中》</font><font color=\'#008000\'>（00 00 00）</font><font color=\'#0000FF\'>开0000中</font></font></span></div>	");
 document.writeln("		");
-document.writeln("");
-document.writeln("");
 
-
+document.writeln("						<tr>");
+document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("");
+document.writeln("			<p align=\'center\'>");
+document.writeln("	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>030期:<font color=\'#FF00FF\'>《更新中》</font><font color=\'#008000\'>（00 00 00）</font><font color=\'#0000FF\'>开0000中</font></font></span></div>	");
 document.writeln("		");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("	");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>024期:<font color=\'#FF00FF\'>《<span style=\'background-color: #FFFF00\'>兔</span>羊牛》</font><font color=\'#008000\'>（13 45 39）</font><font color=\'#0000FF\'>开兔01中</font></font></span></td></tr>");
-document.writeln("			");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("	");
-document.writeln("");
+
+
 document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>023期:<font color=\'#FF00FF\'>《羊兔<span style=\'background-color: #FFFF00\'>猴</span>》</font><font color=\'#008000\'>（33 37 44）</font><font color=\'#0000FF\'>开猴20中</font></font></span></div>	");
-document.writeln("	");
 document.writeln("");
+document.writeln("			<p align=\'center\'>");
 document.writeln("	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>029期:<font color=\'#FF00FF\'>《龙虎羊》</font><font color=\'#008000\'>（12 14 09）</font><font color=\'#0000FF\'>开？00中</font></font></span></div>	");
+document.writeln("		");
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+document.writeln("						<br>");
 document.writeln("");
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("	");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>021期:<font color=\'#FF00FF\'>《鼠猴<span style=\'background-color: #FFFF00\'>蛇</span>》</font><font color=\'#008000\'>（04 20 23）</font><font color=\'#0000FF\'>开蛇35中</font></font></span></td></tr>");
-document.writeln("	");
-document.writeln("				");
-document.writeln("");
-
-
-
-
-
+document.writeln("		<a target=\'_blank\' href=\'https://j.100tzz.com:100/\' style=\'text-decoration: none\'><img src=/yyy123.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 15pt\'>点击投注澳门六合彩</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>100.cc</font></span></a></strong></tr></table>		");
