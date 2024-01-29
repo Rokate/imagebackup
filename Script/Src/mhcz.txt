@@ -2667,7 +2667,15 @@ document.writeln("");
 
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40><p style=box-sizing:border-box;padding:0;margin:0 align=center>");
-document.writeln("<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#0000FF\'>026</font><font face=\'微软雅黑\'><b><span style=\'box-sizing:border-box; font-size:14pt\'><font color=\'#0000FF\'>-028期《三期必中》中</font><font color=\'#FF00FF\'>0</font><font color=\'#0000FF\'>期</font><font color=\'#000000\'><br></font><font color=\'#008000\'></font><font color=\'#FF0000\'>");
+document.writeln("<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#0000FF\'>029</font><font face=\'微软雅黑\'><b><span style=\'box-sizing:border-box; font-size:14pt\'><font color=\'#0000FF\'>-031期《三期必中》中</font><font color=\'#FF00FF\'>0</font><font color=\'#0000FF\'>期</font><font color=\'#000000\'><br></font><font color=\'#008000\'></font><font color=\'#FF0000\'>");
+document.writeln("【猪鼠羊鸡】<br>");
+document.writeln("【05.28.33.19】</font></span></b>");
+document.writeln("</tr>");
+
+
+document.writeln("<tr>");
+document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40><p style=box-sizing:border-box;padding:0;margin:0 align=center>");
+document.writeln("<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#0000FF\'>026</font><font face=\'微软雅黑\'><b><span style=\'box-sizing:border-box; font-size:14pt\'><font color=\'#0000FF\'>-028期《三期必中》中</font><font color=\'#FF00FF\'>一</font><font color=\'#0000FF\'>期</font><font color=\'#000000\'><br></font><font color=\'#008000\'></font><font color=\'#FF0000\'>");
 document.writeln("【兔虎蛇<span style=\'background-color: #FFFF00\'>羊</span>】<br>");
 document.writeln("【25.14.11.<span style=\'background-color: #FFFF00\'>09</span>】</font></span></b>");
 document.writeln("</tr>");
