@@ -15,6 +15,15 @@ document.writeln("		");
 
 
 
+
+document.writeln("						<tr>");
+document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("");
+document.writeln("			<p align=\'center\'>");
+document.writeln("	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>033期:<font color=\'#FF00FF\'>《更新中》</font><font color=\'#008000\'>（00 00 00）</font><font color=\'#0000FF\'>开0000中</font></font></span></div>	");
+document.writeln("		");
+
 document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("");
@@ -23,30 +32,20 @@ document.writeln("	");
 document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>032期:<font color=\'#FF00FF\'>《更新中》</font><font color=\'#008000\'>（00 00 00）</font><font color=\'#0000FF\'>开0000中</font></font></span></div>	");
 document.writeln("		");
 
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
+
+
 document.writeln("");
-document.writeln("			<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>031期:<font color=\'#FF00FF\'>《更新中》</font><font color=\'#008000\'>（00 00 00）</font><font color=\'#0000FF\'>开0000中</font></font></span></div>	");
 document.writeln("		");
-
-
-
-document.writeln("");
-document.writeln("	");
-document.writeln("");
-document.writeln("						<tr>");
+document.writeln("		");
+document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("	");
 document.writeln("		<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>030期:<font color=\'#FF00FF\'>《狗羊兔》</font><font color=\'#008000\'>（06 21 37）</font><font color=\'#0000FF\'>开？00中</font></font></span></div>	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>031期:<font color=\'#FF00FF\'>《龙虎鸡》</font><font color=\'#008000\'>（36 38 43）</font><font color=\'#0000FF\'>开？00中</font></font></span></td></tr>");
 document.writeln("	");
-document.writeln("	");
-
-
-
-
+document.writeln("		");
+document.writeln("");
 
 
 
