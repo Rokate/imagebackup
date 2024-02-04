@@ -10,6 +10,18 @@ document.writeln("");
 document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 
+document.writeln("");
+document.writeln("");
+document.writeln("				<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<b>");
+document.writeln("		<font size=\'4\'>");
+document.writeln("		<span>036期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>六六大顺</font>】</span><font color=\'#FF0000\'>开00</font></font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
 
 
 document.writeln("");
@@ -17,7 +29,7 @@ document.writeln("					<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>035期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>二缶锺惑</font>】</span><font color=\'#FF0000\'>开00</font></font></b></td>");
+document.writeln("		<span>035期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>二缶锺惑</font>】</span><font color=\'#FF0000\'>开12</font></font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("		");
 document.writeln("				");
