@@ -184,7 +184,7 @@ document.writeln("<font color=\'#008000\' size=\'4\'>");
 document.writeln("<font color=\'#FF00FF\' size=\'4\'><span style=\'box-sizing:border-box; \'>");
 document.writeln("综合特肖：<span style=\'background-color: #FFFF00\'>蛇</span>羊虎猪猴鸡狗兔鼠<br>综合六肖：<span style=\'background-color: #FFFF00\'>蛇</span>羊虎猪猴鸡<br>综合三肖：<span style=\'background-color: #FFFF00\'>蛇</span>羊虎<br>");
 document.writeln("综合一肖：<span style=\'background-color: #FFFF00\'>蛇</span><br>");
-document.writeln("综合特码：11.23.09.21.02.38.17.41.20.32.19.31.06.30.13.49.04.40</span></font></font></b></font></tr>");
+document.writeln("综合特码：<span style=\'background-color: #FFFF00\'>11</span>.23.09.21.02.38.17.41.20.32.19.31.06.30.13.49.04.40</span></font></font></b></font></tr>");
 document.writeln("<!--网址开始-->");
 
 
@@ -1337,9 +1337,9 @@ document.writeln("  <tr>");
 document.writeln("<td align=\'center\' width=\'25%\' height=\'48\' bgcolor=\'#CCFFFF\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
 document.writeln("<span style=\'font-size: 18px; color: #0000FF\'>034期</span></td>");
 document.writeln("<td align=\'center\' width=\'50%\' height=\'48\' bgcolor=\'#FFFFFF\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'><span style=\'font-family:微软雅黑;font-size:18px;padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("【虎兔<span style=\'background-color: #FFFF00\'>狗龙</span>马鸡】</span></td>");
+document.writeln("【虎<span style=\'background-color: #FFFF00\'>兔狗龙</span>马鸡】</span></td>");
 document.writeln("<td align=\'center\' width=\'25%\' height=\'48\' bgcolor=\'#CCFFFF\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'><span style=\'font-family:微软雅黑;font-size:18px;padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("中2个</span></td>");
+document.writeln("中3个</span></td>");
 document.writeln("</tr>");
 
 
@@ -1930,7 +1930,7 @@ document.writeln("【04.22.25.20】</font></span></b>");
 document.writeln("</tr>");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40><p style=box-sizing:border-box;padding:0;margin:0 align=center>");
-document.writeln("<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#0000FF\'>034</font><font face=\'微软雅黑\'><b><span style=\'box-sizing:border-box; font-size:14pt\'><font color=\'#0000FF\'>-036期《三期必中》中</font><font color=\'#FF00FF\'>0</font><font color=\'#0000FF\'>期</font><font color=\'#000000\'><br></font><font color=\'#008000\'></font><font color=\'#FF0000\'>");
+document.writeln("<font face=\'微软雅黑\' style=\'font-size: 14pt\' color=\'#0000FF\'>034</font><font face=\'微软雅黑\'><b><span style=\'box-sizing:border-box; font-size:14pt\'><font color=\'#0000FF\'>-036期《三期必中》中</font><font color=\'#FF00FF\'>1</font><font color=\'#0000FF\'>期</font><font color=\'#000000\'><br></font><font color=\'#008000\'></font><font color=\'#FF0000\'>");
 document.writeln("【猴猪兔<span style=\'background-color: #FFFF00\'>蛇</span>】<br>");
 document.writeln("【20.17.25.<span style=\'background-color: #FFFF00\'>11</span>】</font></span></b>");
 document.writeln("</tr>");
@@ -2461,12 +2461,6 @@ document.writeln("</span></font></font>");
 document.writeln("</tr>");
 
 
-document.writeln("<tr>");
-document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=35><p style=box-sizing:border-box;padding:0;margin:0 align=center>");
-document.writeln("<span style=box-sizing:border-box;font-size:14pt><font face=\'微软雅黑\'><b><span style=box-sizing:border-box;><font color=\'#000000\'>");
-document.writeln("034期</font><font color=\'#008000\'>菜肉草肖</font><font color=\'#FF0000\'>【<span style=\'background-color: #FFFF00\'>吃菜</span>吃草】</font><font color=\'#000000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF00FF\'>蛇11</font></span><font color=\'#000000\'>准</font></span></b><font color=\'#000000\'><span style=\'font-size: 14pt\'></strong>");
-document.writeln("</span></font></font>");
-document.writeln("</tr>");
 
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=35><p style=box-sizing:border-box;padding:0;margin:0 align=center>");
