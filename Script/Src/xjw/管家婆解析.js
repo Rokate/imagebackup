@@ -24,10 +24,20 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 
 
+
 document.writeln("<tr><td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("<p align=\'left\'>");
-document.writeln("<span><font size=\'4\'>041期:<font color=\'#008000\'>【精解管家婆一句赢大钱】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("</font><font color=\'#6600CC\'>精解九肖：龙虎猴鼠牛猪马羊鸡<br></font></font>");
+document.writeln("<span><font size=\'4\'>042期:<font color=\'#008000\'>【精解管家婆一句赢大钱】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("</font><font color=\'#6600CC\'>精解九肖：兔龙蛇马羊猴鸡狗猪<br></font></font>");
+document.writeln("<font color=\'#FF0000\' size=\'4\'>精解18码：</font><font color=\'#0000FF\' size=\'4\'>26.38.25.37.12.24.35.47.34.46.09.33.08.32.19.31.06.30<br></font>");
+document.writeln("</td></tr>");
+
+
+
+document.writeln("<tr><td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("<p align=\'left\'>");
+document.writeln("<span><font size=\'4\'>041期:<font color=\'#008000\'>【精解管家婆一句赢大钱】</font><font color=\'#FF0000\'>开鼠41</font><font color=\'#008000\'><br>");
+document.writeln("</font><font color=\'#6600CC\'>精解九肖：龙虎猴<span style=\'background-color: #FFFF00\'>鼠</span>牛猪马羊鸡<br></font></font>");
 document.writeln("<font color=\'#FF0000\' size=\'4\'>精解18码：</font><font color=\'#0000FF\' size=\'4\'>25.37.15.39.21.33.29.17.40.28.06.42.11.47.22.46.08.44<br></font>");
 document.writeln("</td></tr>");
 document.writeln("");
@@ -199,58 +209,6 @@ document.writeln("</font><font color=\'#6600CC\'>精解九肖：兔蛇羊鸡猪�
 document.writeln("<font color=\'#FF0000\' size=\'4\'>精解18码：</font><font color=\'#0000FF\' size=\'4\'>25.13.23.35.33.45.07.31.41.17.03.27.34.46.08.32.18.30<br></font>");
 document.writeln("</td></tr>");
 document.writeln("");
-
-document.writeln("<tr><td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("<p align=\'left\'>");
-document.writeln("<span><font size=\'4\'>022期:<font color=\'#008000\'>【精解管家婆一句赢大钱】</font><font color=\'#FF0000\'>开猪41</font><font color=\'#008000\'><br>");
-document.writeln("</font><font color=\'#6600CC\'>精解九肖：牛虎马猴狗<span style=\'background-color: #FFFF00\'>猪</span>蛇羊鸡<br></font></font>");
-document.writeln("<font color=\'#FF0000\' size=\'4\'>精解18码：</font><font color=\'#0000FF\' size=\'4\'>15.27.26.38.34.46.44.20.42.30.<span style=\'background-color: #FFFF00\'>41</span>.17.47.35.33.45.07.19<br></font>");
-document.writeln("</td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("<tr><td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("<p align=\'left\'>");
-document.writeln("<span><font size=\'4\'>021期:<font color=\'#008000\'>【精解管家婆一句赢大钱】</font><font color=\'#FF0000\'>开蛇35</font><font color=\'#008000\'><br>");
-document.writeln("</font><font color=\'#6600CC\'>精解九肖：兔龙<span style=\'background-color: #FFFF00\'>蛇</span>马羊猴鼠牛虎<br></font></font>");
-document.writeln("<font color=\'#FF0000\' size=\'4\'>精解18码：</font><font color=\'#0000FF\' size=\'4\'> 25.37.24.36.11.23.34.46.33.45.08.32.28.16.39.27.14.38<br></font>");
-document.writeln("</td></tr>");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("<tr><td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("<p align=\'left\'>");
-document.writeln("<span><font size=\'4\'>020期:<font color=\'#008000\'>【精解管家婆一句赢大钱】</font><font color=\'#FF0000\'>开猪29</font><font color=\'#008000\'><br>");
-document.writeln("</font><font color=\'#6600CC\'>精解九肖：鼠牛虎兔龙蛇鸡狗<span style=\'background-color: #FFFF00\'>猪</span><br></font></font>");
-document.writeln("<font color=\'#FF0000\' size=\'4\'>精解18码：</font><font color=\'#0000FF\' size=\'4\'>28.16.39.27.02.38.13.25.24.36.11.23.19.31.06.30.<span style=\'background-color: #FFFF00\'>29</span>.17<br></font>");
-document.writeln("</td></tr>");
-document.writeln("");
-document.writeln("	");
-
-
-document.writeln("<tr><td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("<p align=\'left\'>");
-document.writeln("<span><font size=\'4\'>019期:<font color=\'#008000\'>【精解管家婆一句赢大钱】</font><font color=\'#FF0000\'>开猪17</font><font color=\'#008000\'><br>");
-document.writeln("</font><font color=\'#6600CC\'>精解九肖：牛虎马羊狗<span style=\'background-color: #FFFF00\'>猪</span>鼠兔龙<br></font></font>");
-document.writeln("<font color=\'#FF0000\' size=\'4\'>精解18码：</font><font color=\'#0000FF\' size=\'4\'>39.27.14.38.10.46.21.45.18.42.05.41.28.40.13.49.24.36<br></font>");
-document.writeln("</td></tr>");
-document.writeln("");
-
-
-
-document.writeln("<tr><td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("<p align=\'left\'>");
-document.writeln("<span><font size=\'4\'>018期:<font color=\'#008000\'>【精解管家婆一句赢大钱】</font><font color=\'#FF0000\'>开蛇47</font><font color=\'#008000\'><br>");
-document.writeln("</font><font color=\'#6600CC\'>精解九肖：鼠龙虎马猴狗<span style=\'background-color: #FFFF00\'>蛇</span>鸡猪<br></font></font>");
-document.writeln("<font color=\'#FF0000\' size=\'4\'>精解18码：</font><font color=\'#0000FF\' size=\'4\'>28.16.24.36.14.38.22.46.44.20.42.30.11.<span style=\'background-color: #FFFF00\'>47</span>.07.19.05.41<br></font>");
-document.writeln("</td></tr>");
-
-
 
 
 

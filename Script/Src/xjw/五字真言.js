@@ -28,15 +28,26 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 
 
-
+document.writeln("");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>042期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【→七十边出←】</font><font color=\'#6600CC\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>解：06猪.07狗.08鸡.09猴.10羊.11马</font></font></span></td></tr>");
+document.writeln("	");
+document.writeln("");
 document.writeln("");
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>041期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>041期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开鼠41</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#FF00FF\'>【→五八两边出←】</font><font color=\'#6600CC\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>解：05鼠.06猪.07狗.08鸡.09猴.10羊</font></font></span></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>解：<span style=\'background-color: #FFFF00\'>05鼠</span>.06猪.07狗.08鸡.09猴.10羊</font></font></span></td></tr>");
 document.writeln("	");
 document.writeln("");
 document.writeln("");
