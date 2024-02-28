@@ -90,7 +90,9 @@ if __name__ == "__main__":
         #Lday = requests.get('https://49252a.com/unite49/h5/index/lotteryTime')
         #qishu = Lday.json()['data']['list'][0]['isLotteryDay'] + 1
         #qish = str(qishu).zfill(3)
-        url = requests.get('https://49252a.com/unite49/h5/picture/detail/latest?pictureTypeId=28854').json()['data']['largePictureUrl']
+        #118tk.com https://118z1.com/#/ https://49tkapp.com/
+        #url = requests.get('https://49252a.com/unite49/h5/picture/detail/latest?pictureTypeId=28854').json()['data']['largePictureUrl']
+        url = requests.get('https://h5.118z2.com:8443/tk118/h5/picture/detail/latest?pictureTypeId=28854').json()['data']['largePictureUrl']
         pattern = re.compile("https://tk2.(.*?)/")
         match = re.findall(pattern, url)
         domain_port = match[0]
