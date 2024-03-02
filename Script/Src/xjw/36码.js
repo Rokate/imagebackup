@@ -36,13 +36,29 @@ document.writeln("");
 
 
 
+document.writeln("<!--开始-->");
+document.writeln("");
+document.writeln("	");
+document.writeln("	<table style=border-collapse:collapse border=0 width=100% cellpadding=0><tbody><tr><td style=\'border:1px dotted olive\'><p style=line-height:200% align=center><span style=font-family:Verdana><strong>");
+document.writeln("		<font color=\'#FF5050\'>063期:特围36码---开:？00准</font><span style=color:maroon><br></span>");
+document.writeln("		<span style=color:#d50000>32.26.20.36.16.31.44.30.46.05.40.25</span><br>");
+document.writeln("		<span style=color:olive>45.15.47.03.11.09.37.28.01.12.48.23</span><br>");
+document.writeln("		<span style=color:#669>35.24.49.34.10.33.22.13.38.29.21.14</span></strong></span></table>");
+document.writeln("");
+document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
+document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>865</font><font size=\'6\' color=\'#008000\'>63</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
+document.writeln("	");
+document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("");
+
 
 document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("	");
 document.writeln("	<table style=border-collapse:collapse border=0 width=100% cellpadding=0><tbody><tr><td style=\'border:1px dotted olive\'><p style=line-height:200% align=center><span style=font-family:Verdana><strong>");
-document.writeln("		<font color=\'#FF5050\'>062期:特围36码---开:？00准</font><span style=color:maroon><br></span>");
-document.writeln("		<span style=color:#d50000>09.42.24.10.27.44.14.49.20.48.22.45</span><br>");
+document.writeln("		<font color=\'#FF5050\'>062期:特围36码---开:龙49准</font><span style=color:maroon><br></span>");
+document.writeln("		<span style=color:#d50000>09.42.24.10.27.44.14.<span style=\'background-color: #FFFF00\'>49</span>.20.48.22.45</span><br>");
 document.writeln("		<span style=color:olive>16.38.30.21.15.08.02.29.32.06.26.23</span><br>");
 document.writeln("		<span style=color:#669>47.07.04.46.40.34.25.17.13.41.39.35</span></strong></span></table>");
 document.writeln("");
