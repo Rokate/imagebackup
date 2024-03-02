@@ -85,6 +85,7 @@ if __name__ == "__main__":
     #a6.003123.club
     try:
         #amcode = {"code": "71"} site:lh49.app
+        #https://am49.app/forum/master/list?postCategory=71
         qish = requests.post('https://am49.app/open/latest/single?code=71').json()['data']['nextIssueNo'][-3:]
         qishu = qish.lstrip('0')
         #Lday = requests.get('https://49252a.com/unite49/h5/index/lotteryTime')
@@ -97,9 +98,9 @@ if __name__ == "__main__":
         match = re.findall(pattern, url)
         domain_port = match[0]
         
-        #xgcode = {"code": "28"}
-        #qs = requests.post('https://am49.app/open/latest?code=28').json()['data']['nextIssueNo'][-3:].lstrip('0')
-        qs = '24'
+        #xgcode = {"code": "28"} https://am49.app/forum/master/list?postCategory=28
+        qs = requests.post('https://am49.app/open/latest?code=28').json()['data']['nextIssueNo'][-3:].lstrip('0')
+        
     except Exception as e:
         print("日期更新出错了", traceback.format_exc())
     else:
