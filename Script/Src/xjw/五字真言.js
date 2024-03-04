@@ -29,6 +29,27 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 document.writeln("");
 document.writeln("");
 
+
+
+
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>065期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00 </font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【→四八两边出←】</font><font color=\'#6600CC\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>解：</font></font></span><font size=\'4\' color=\'#0000FF\'>03虎.04牛.05鼠.07狗.08鸡.09猴</font></td></tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+
+
 document.writeln("	");
 document.writeln("");
 document.writeln("	<tr>");
@@ -36,9 +57,9 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>064期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>064期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开羊46</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#FF00FF\'>【→二十两边出←】</font><font color=\'#6600CC\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>解：01龙.02兔.03虎.09猴.10羊.11马</font></font></span></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>解：01龙.02兔.03虎.09猴.10<span style=\'background-color: #FFFF00\'>羊</span>.11马</font></font></span></td></tr>");
 document.writeln("	");
 document.writeln("");
 document.writeln("");

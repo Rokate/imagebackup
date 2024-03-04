@@ -47,11 +47,25 @@ document.writeln("");
 
 
 
+
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("											<tr>");
+document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("			<p align=\'center\'>");
+document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>065期:<font color=\'#FF00FF\'>【欲钱买锦衣姿意的生肖】</font><font color=\'#0000FF\'>开？00中</font></td></tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+
+
 document.writeln("");
 document.writeln("												<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("			<p align=\'center\'>");
-document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>064期:<font color=\'#FF00FF\'>【欲钱买温顺乖巧的生肖】</font><font color=\'#0000FF\'>开？00中</font></td></tr>");
+document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>064期:<font color=\'#FF00FF\'>【欲钱买温顺乖巧的生肖】</font><font color=\'#0000FF\'>开羊46中</font></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
