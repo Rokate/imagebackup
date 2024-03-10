@@ -20,37 +20,21 @@ document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("		<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>072期:<font color=\'#FF00FF\'>《羊兔猴》</font><font color=\'#008000\'>（00 00 00）</font><font color=\'#0000FF\'>开0000中</font></font></span></div>	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>072期:<font color=\'#FF00FF\'>《中中中》</font><font color=\'#008000\'>（00 00 00）</font><font color=\'#0000FF\'>开0000中</font></font></span></div>	");
 document.writeln("	");
 document.writeln("");
 document.writeln("");
 
 
-
 document.writeln("");
-document.writeln("		");
-document.writeln("	");
+document.writeln("");
 document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("		<p align=\'center\'>");
+document.writeln("");
+document.writeln("			<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>071期:<font color=\'#FF00FF\'>《羊兔猴》</font><font color=\'#008000\'>（00 00 00）</font><font color=\'#0000FF\'>开0000中</font></font></span></div>	");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>071期:<font color=\'#FF00FF\'>《兔牛鸡》</font><font color=\'#008000\'>（38 16 08）</font><font color=\'#0000FF\'>开？00中</font></font></span></div>	");
 document.writeln("		");
-document.writeln("	");
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>070期:<font color=\'#FF00FF\'>《羊兔猴》</font><font color=\'#008000\'>（34 38 45）</font><font color=\'#0000FF\'>开？00中</font></font></span></div>	");
-document.writeln("	");
-document.writeln("");
 document.writeln("");
 
 
