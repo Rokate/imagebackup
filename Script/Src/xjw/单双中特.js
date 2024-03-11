@@ -11,6 +11,8 @@ document.writeln("");
 
 
 
+
+
 document.writeln("<!--开始-->	");
 document.writeln("	");
 document.writeln("	<tr>");
@@ -22,13 +24,14 @@ document.writeln("		<span>");
 document.writeln("	");
 document.writeln("		<b>");
 document.writeln("	");
-document.writeln("		<font size=\'4\'>071期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
+document.writeln("		<font size=\'4\'>072期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
 document.writeln("\' style=\'font-size: 14pt\'>双</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开？00</font></font></b></td></tr>");
 document.writeln("");
 document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+
 
 
 
