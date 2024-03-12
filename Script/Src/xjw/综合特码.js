@@ -64,7 +64,8 @@ document.writeln("	");
 
 
 
-document.writeln("072期团队十肖：鼠猴蛇羊虎狗兔龙牛鸡<br>");
+document.writeln("073期团队十肖：狗兔龙牛鸡鼠猴蛇羊虎<br>");
+document.writeln("072期团队十肖：鼠猴蛇羊虎<span style=\'background-color: #FFFF00\'>狗</span>兔龙牛鸡<br>");
 
 document.writeln("071期团队十肖：鼠猴马羊<span style=\'background-color: #FFFF00\'>虎</span>狗兔猪龙鸡<br>");
 
@@ -103,7 +104,8 @@ document.writeln("<br>");
 
 
 
-document.writeln("072期团队八尾：01235679<br>");
+document.writeln("073期团队八尾：01235789<br>");
+document.writeln("072期团队八尾：0123567<span style=\'background-color: #FFFF00\'>9</span><br>");
 
 document.writeln("071期团队八尾：01<span style=\'background-color: #FFFF00\'>3</span>45678<br>");
 
@@ -148,6 +150,7 @@ document.writeln("<br>");
 
 
 
+document.writeln("073期团队四头：0134<br>");
 document.writeln("072期团队四头：0123<br>");
 
 document.writeln("071期团队四头：<span style=\'background-color: #FFFF00\'>0</span>124<br>");
@@ -179,6 +182,7 @@ document.writeln("");
 
 
 
+document.writeln("073期团队四行：金木火土<br>");
 document.writeln("072期团队四行：金木水火<br>");
 document.writeln("071期团队四行：<span style=\'background-color: #FFFF00\'>金</span>木火土<br>");
 
