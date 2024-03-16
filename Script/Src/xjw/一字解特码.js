@@ -14,7 +14,6 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 
 
-
 document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("	<tr>");
@@ -22,11 +21,12 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>076期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【焊】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开？00</font></span><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#006600\'>解特：08 09 10 11 12 24 25 26 27 28 29 30 31 32 38 39 40 41 42 43 47</td></tr>");
+document.writeln("		<span><font size=\'4\'>077期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【概】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开？00</font></span><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#006600\'>解特：16 17 18 19 20 21 22 23 24 25 26 27 28 33 34 35 36 41 42 48</td></tr>");
 document.writeln("<!--结束-->");
 document.writeln("");
-
+document.writeln("");
+document.writeln("");
 
 
 
