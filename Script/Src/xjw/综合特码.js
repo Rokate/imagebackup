@@ -63,7 +63,8 @@ document.writeln("	<td width=100% height=40><p align=left><b><font size=\'4\' fa
 document.writeln("	");
 
 
-document.writeln("082期团队十肖：猴蛇马猪牛龙兔狗鼠羊<br>");
+document.writeln("083期团队十肖：鼠蛇马羊虎狗猪龙牛鸡<br>");
+document.writeln("082期团队十肖：猴蛇马猪牛龙兔狗鼠<span style=\'background-color: #FFFF00\'>羊</span><br>");
 document.writeln("081期团队十肖：牛兔猪猴马羊鸡狗鼠<span style=\'background-color: #FFFF00\'>龙</span><br>");
 document.writeln("080期团队十肖：蛇牛鼠虎猪<span style=\'background-color: #FFFF00\'>兔</span>羊马猴鸡<br>");
 document.writeln("079期团队十肖：龙鼠猪蛇猴<span style=\'background-color: #FFFF00\'>鸡</span>虎兔狗羊<br>");
@@ -109,7 +110,8 @@ document.writeln("<br>");
 
 
 
-document.writeln("082期团队八尾：01256789<br>");
+document.writeln("083期团队八尾：01456789<br>");
+document.writeln("082期团队八尾：01<span style=\'background-color: #FFFF00\'>2</span>56789<br>");
 document.writeln("081期团队八尾：02<span style=\'background-color: #FFFF00\'>3</span>45789<br>");
 document.writeln("080期团队八尾：012456<span style=\'background-color: #FFFF00\'>8</span>9<br>");
 document.writeln("079期团队八尾：12<span style=\'background-color: #FFFF00\'>4</span>56789<br>");
@@ -160,7 +162,8 @@ document.writeln("");
 document.writeln("<br>");
 
 
-document.writeln("082期团队四头：0123<br>");
+document.writeln("083期团队四头：1234<br>");
+document.writeln("082期团队四头：01<span style=\'background-color: #FFFF00\'>2</span>3<br>");
 document.writeln("081期团队四头：0<span style=\'background-color: #FFFF00\'>1</span>24<br>");
 document.writeln("080期团队四头：21<span style=\'background-color: #FFFF00\'>3</span>4<br>");
 document.writeln("079期团队四头：023<span style=\'background-color: #FFFF00\'>4</span><br>");
@@ -198,7 +201,8 @@ document.writeln("");
 
 
 
-document.writeln("082期团队四行：金木水火<br>");
+document.writeln("083期团队四行：木水火土<br>");
+document.writeln("082期团队四行：金<span style=\'background-color: #FFFF00\'>木</span>水火<br>");
 document.writeln("081期团队四行：金木<span style=\'background-color: #FFFF00\'>水</span>火<br>");
 document.writeln("078期团队四行：金水火<span style=\'background-color: #FFFF00\'>土</span><br>");
 document.writeln("077期团队四行：<span style=\'background-color: #FFFF00\'>金</span>木水火<br>");
