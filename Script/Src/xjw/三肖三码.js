@@ -14,6 +14,26 @@ document.writeln("		");
 document.writeln("		");
 
 
+document.writeln("");
+document.writeln("						<tr>");
+document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("		<p align=\'center\'>");
+document.writeln("	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>084期:<font color=\'#FF00FF\'>《狗羊兔》</font><font color=\'#008000\'>（00 00 00）</font><font color=\'#0000FF\'>开0000中</font></font></span></div>	");
+document.writeln("	");
+document.writeln("");
+document.writeln("");
+
+
+document.writeln("");
+document.writeln("						<tr>");
+document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("		<p align=\'center\'>");
+document.writeln("	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>083期:<font color=\'#FF00FF\'>《狗羊兔》</font><font color=\'#008000\'>（00 00 00）</font><font color=\'#0000FF\'>开0000中</font></font></span></div>	");
+document.writeln("	");
+document.writeln("");
+document.writeln("");
 
 
 
