@@ -13,142 +13,17 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 
 
 
-document.writeln("");
-document.writeln("");
-document.writeln("					<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>089期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>五谷丰登</font>】</span><font color=\'#FF0000\'>开00</font></font></b></td>");
-document.writeln("		</tr>");
-document.writeln("		");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("					<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>086期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>二缶锺惑</font>】</span><font color=\'#FF0000\'>开02</font></font></b></td>");
-document.writeln("		</tr>	");
-document.writeln("		");
-document.writeln("				");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("		");
 document.writeln("			<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>085期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>五福临门</font>】</span><font color=\'#FF0000\'>开35</font></font></b></td>");
-document.writeln("		</tr>	");
-document.writeln("		");
-document.writeln("");
-document.writeln("				");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("			<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>083期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>八面玲珑</font>】</span><font color=\'#FF0000\'>开38</font></font></b></td>");
+document.writeln("		<span>090期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>四大皆空</font>】</span><font color=\'#FF0000\'>开00</font></font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
-
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("		");
-document.writeln("			<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>080期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>一鸣惊人</font>】</span><font color=\'#FF0000\'>开11</font></font></b></td>");
-document.writeln("		</tr>	");
-document.writeln("		");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("			<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>079期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>九天揽月</font>】</span><font color=\'#FF0000\'>开19</font></font></b></td>");
-document.writeln("		</tr>	");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("		");
-document.writeln("			<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>078期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>三人成虎</font>】</span><font color=\'#FF0000\'>开13</font></font></b></td>");
-document.writeln("		</tr>	");
-document.writeln("		");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("			<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>077期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>四大皆空</font>】</span><font color=\'#FF0000\'>开04</font></font></b></td>");
-document.writeln("		</tr>	");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("		");
-document.writeln("			<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>076期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>三人成虎</font>】</span><font color=\'#FF0000\'>开23</font></font></b></td>");
-document.writeln("		</tr>	");
-document.writeln("		");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
 
 
 
