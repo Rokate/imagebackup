@@ -35,8 +35,8 @@ document.writeln("	");
 document.writeln("			<tr style=\'box-sizing: border-box;\'>");
 document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			");
-document.writeln("<a target=\'_blank\' href=\'https://49080.com/#/picture/28585\'><img src=\'https://tk2.zaojiao365.net:4949/col/90/c002.jpg\'  width=\'49%\'></a>");
-document.writeln("<a target=\'_blank\' href=\'https://49080.com/#/picture/209029\'><img src=\'https://tk2.zaojiao365.net:4949/col/90/hj44.jpg\'  width=\'49%\'></a>");
+document.writeln("<a target=\'_blank\' href=\'https://49080.com/#/picture/28585\'><img src=\'https://tk2.zaojiao365.net:4949/col/91/c002.jpg\'  width=\'49%\'></a>");
+document.writeln("<a target=\'_blank\' href=\'https://49080.com/#/picture/209029\'><img src=\'https://tk2.zaojiao365.net:4949/col/91/hj44.jpg\'  width=\'49%\'></a>");
 document.writeln("		</td></tr>");
 document.writeln("		");
 document.writeln("		");
@@ -56,9 +56,9 @@ document.writeln("				<tr style=\'box-sizing: border-box;\'>");
 document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			090期玄机网禁两肖<font color=\'#FF0000\'>【羊鸡】</font>特开<font color=\'#0000FF\'>0000</font>准<br>");
-document.writeln("			090期澳门杀两肖图<font color=\'#FF0000\'>【马猴】</font>特开<font color=\'#0000FF\'>0000</font>准<br>");
-document.writeln("			090期澳门图库禁肖<font color=\'#FF0000\'>【猴马】</font>特开<font color=\'#0000FF\'>0000</font>准</font></font></p></td>");
+document.writeln("			091期玄机网禁两肖<font color=\'#FF0000\'>【虎龙】</font>特开<font color=\'#0000FF\'>000</font>准<br>");
+document.writeln("			091期澳门杀两肖图<font color=\'#FF0000\'>【？？】</font>特开<font color=\'#0000FF\'>000</font>准<br>");
+document.writeln("			091期澳门图库禁肖<font color=\'#FF0000\'>【？？】</font>特开<font color=\'#0000FF\'>000</font>准</font></font></p></td>");
 document.writeln("		</tr>");
 document.writeln("<!--推广-->");
 document.writeln("				<tr style=\'box-sizing: border-box;\'>");
@@ -71,12 +71,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("		");
-document.writeln("	");
-document.writeln("");
-document.writeln("		");
+
 
 
 document.writeln("													<!--开始-->");
