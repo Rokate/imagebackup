@@ -15,100 +15,17 @@ document.writeln("		");
 
 
 document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>091期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【天上人间】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>天肖</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("");
 document.writeln("");
 document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>088期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开龙37</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>092期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#FF00FF\'>【单枪匹马】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>单数</span></font></font></td></tr>");
 document.writeln("	");
 document.writeln("");
 document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>087期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开猪06</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【小巧玲珑】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>小数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("							<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>086期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开马11</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【单枪匹马】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>单数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>085期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开马35</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【大功告成】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>大数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>082期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开羊22</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【双喜临门】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>双数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
 
 
 
