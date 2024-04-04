@@ -14,27 +14,16 @@ document.writeln("		");
 document.writeln("		");
 
 document.writeln("");
-document.writeln("	");
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("	");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>096期:<font color=\'#FF00FF\'>《更新中》</font><font color=\'#008000\'>（06 47 22）</font><font color=\'#0000FF\'>开0000中</font></font></span></td></tr>");
-document.writeln("	");
-document.writeln("	");
-
-
-document.writeln("");
+document.writeln("		");
 document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("	");
 document.writeln("		<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>095期:<font color=\'#FF00FF\'>《狗羊兔》</font><font color=\'#008000\'>（07 22 38）</font><font color=\'#0000FF\'>开？00中</font></font></span></div>	");
-document.writeln("	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>096期:<font color=\'#FF00FF\'>《狗猴牛》</font><font color=\'#008000\'>（07 45 28）</font><font color=\'#0000FF\'>开？00中</font></font></span></td></tr>");
+document.writeln("		");
 document.writeln("");
-document.writeln("");
+
 
 
 
