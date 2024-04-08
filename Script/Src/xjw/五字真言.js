@@ -29,19 +29,20 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 document.writeln("");
 document.writeln("");
 
+
+
+document.writeln("");
 document.writeln("");
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>099期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【→九六两边出←】</font><font color=\'#6600CC\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>解：08鸡.09猴.10羊.05鼠.06猪.07狗</font></font></span></td></tr>");
-document.writeln("	");
+document.writeln("		<span><font size=\'4\'>100期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00 </font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【→八四两边出←】</font><font color=\'#6600CC\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>解：</font></font></span><font size=\'4\' color=\'#0000FF\'>07狗.08鸡.09猴.03虎.04牛.05鼠</font></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+
 
 
 
