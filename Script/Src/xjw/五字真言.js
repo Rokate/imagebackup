@@ -30,29 +30,17 @@ document.writeln("");
 document.writeln("");
 
 
+
+
+
 document.writeln("");
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>107期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00 </font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【→二七两边出←】</font><font color=\'#6600CC\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>解：</font></font></span><font size=\'4\' color=\'#0000FF\'>01龙.02兔.03虎.06猪.07狗.08鸡</font></td></tr>");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>104期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开马35</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【→六十两边出←】</font><font color=\'#6600CC\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>解：05鼠.06猪.07狗.09猴.10羊.11<span style=\'background-color: #FFFF00\'>马</span></font></font></span></td></tr>");
+document.writeln("		<span><font size=\'4\'>110期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开中00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【→六九两边出←】</font><font color=\'#6600CC\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>解：00中.00中.00中.00中.00中.00中</font></font></span></td></tr>");
 document.writeln("	");
 document.writeln("");
 document.writeln("");
@@ -60,62 +48,16 @@ document.writeln("");
 
 
 
-
-
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>102期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开狗19 </font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【→三七两边出←】</font><font color=\'#6600CC\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>解：</font></font></span><font size=\'4\' color=\'#0000FF\'>02兔.03虎.04牛.06猪.07<span style=\'background-color: #FFFF00\'>狗</span>.08鸡</font></td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln(" ");
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("	");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>101期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开猴21 </font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【→六十两边出←】</font><font color=\'#6600CC\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>解：</font></font></span><font size=\'4\' color=\'#0000FF\'>05鼠.06猪.07狗.09<span style=\'background-color: #FFFF00\'>猴</span>.10羊.11马</font></td></tr>");
-document.writeln("");
-
-
-
-
-document.writeln("");
 document.writeln("");
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>100期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开鼠17 </font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【→八四两边出←】</font><font color=\'#6600CC\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>解：</font></font></span><font size=\'4\' color=\'#0000FF\'>07狗.08鸡.09猴.03虎.04牛.05<span style=\'background-color: #FFFF00\'>鼠</span></font></td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>098期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开羊46</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【→七十边出←】</font><font color=\'#6600CC\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>解：06猪.07狗.08鸡.09猴.10<span style=\'background-color: #FFFF00\'>羊</span>.11马</font></font></span></td></tr>");
+document.writeln("		<span><font size=\'4\'>109期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开中00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【→六九两边出←】</font><font color=\'#6600CC\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>解：00中.00中.00中.00中.00中.00中</font></font></span></td></tr>");
 document.writeln("	");
+document.writeln("");
 document.writeln("");
 
 
@@ -123,7 +65,21 @@ document.writeln("");
 
 
 
-  
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<p>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>108期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【→六九两边出←】</font><font color=\'#6600CC\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>解：05鼠.06猪.07狗.08鸡.09猴.10羊</font></font></span></td></tr>");
+document.writeln("	");
+document.writeln("");
+document.writeln("");
+
+
+
+
  
   
  
