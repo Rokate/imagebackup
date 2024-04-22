@@ -106,7 +106,7 @@ async def XJW():
     xjwurl = "https://868680.com"
     jscontent = (
         '<!DOCTYPE html><html><head><META NAME="ROBOTS" CONTENT="INDEX,NOFOLLOW"><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" /><meta name="applicable-device" content="mobile" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="apple-mobile-web-app-status-bar-style" content="black" /><meta content="telephone=no" name="format-detection" /><title>澳门图片</title></head><body><style type="text/css">.box{margin-top:0px;padding: 0px;border: solid 0px #949494;border-radius: 1px;background: #fff;box-shadow: 0 2px 5px rgba(0,0,0,0.1);}</style><h1 align="center" style="color:red ; font-size:50px">'
-        + f'<a href="{xjwurl}/868679.html">澳门玄机网</a></h1>'
+        + f'<a href="https://proxy.hashhackers.com/-----{xjwurl}/868679.html">澳门玄机网</a></h1>'
     )
     xjw = [
         f"{xjwurl}/chajian/%E9%A1%B6%E9%83%A8%E5%85%AD%E8%82%96.js",
