@@ -43,14 +43,32 @@ document.writeln("");
 document.writeln("");
 
 
+
+
+
+
+
 document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("117期红色记忆【独家16码】开中00准<br>");
+document.writeln("119期红色记忆【独家16码】开中00准<br>");
 document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
 document.writeln("（00.00.00.00.00.00.00.00）<br>");
-document.writeln("（00.00.00.00.00.00.00.000）</font></td>");
+document.writeln("（00.00.00.00.00.00.00.00）</font></td>");
+document.writeln("</tr>			");
+document.writeln("<!----结束----> ");
+
+
+
+document.writeln("	<!----开始---->    ");
+document.writeln("<tr>");
+document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
+document.writeln("<p align=\"center\"><font size=\"4\">");
+document.writeln("118期红色记忆【独家16码】开中00准<br>");
+document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
+document.writeln("（00.00.00.00.00.00.00.00）<br>");
+document.writeln("（00.00.00.00.00.00.00.00）</font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 
@@ -63,28 +81,16 @@ document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("116期红色记忆【独家16码】开？00准<br>");
+document.writeln("117期红色记忆【独家16码】开？00准<br>");
 document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
-document.writeln("（40.13.31.01.39.49.21.43）<br>");
-document.writeln("（38.08.28.48.22.44.16.42）</font></td>");
+document.writeln("（32.01.19.39.09.03.44.38）<br>");
+document.writeln("（11.33.07.05.30.24.14.40）</font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 
 
 
 
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("113期红色记忆【独家16码】开蛇24准<br>");
-document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
-document.writeln("（22.43.10.42.08.<span style='background-color: #FFFF00\'>24</span>.13.35）<br>");
-document.writeln("（26.11.01.21.44.28.04.02）</font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
 
 
 
