@@ -20,42 +20,39 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 document.writeln("	   		");
 
-document.writeln("                         <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>121期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【更新中】</td>");
-document.writeln("	</tr>");
-document.writeln("		");
-document.writeln("");
-
-
-
-document.writeln("                         <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>120期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【老虎当和尚—人面兽心】</td>");
-document.writeln("	</tr>");
-document.writeln("		");
-document.writeln("");
 
 
 
 
-document.writeln("	");
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>117期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>29</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【鸡给黄鼠狼拜年—自投罗网】</td>");
+document.writeln("		<span><font size=\'4\'>123期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【更新中】</td>");
 document.writeln("		</tr>");
-document.writeln("		");
+document.writeln("");
+
+
+
+document.writeln("			    <tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<span><font size=\'4\'>122期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【更新中】</td>");
+document.writeln("		</tr>");
+document.writeln("");
 
 
 
 
+document.writeln("			    <tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<span><font size=\'4\'>121期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【狗吠月亮—少见多怪】</td>");
+document.writeln("		</tr>");
+document.writeln("");
 
-  
+
+
+
 
 document.writeln("<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
 document.writeln("			<a target=\'_blank\' href=\'https://j.100tzz.com:100/\' style=\'text-decoration: none\'><img src=/yyy123.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 15pt\'>点击投注澳门六合彩</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>100.cc</font></span></a></strong></tr></table>");

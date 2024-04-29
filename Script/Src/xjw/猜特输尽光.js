@@ -12,14 +12,22 @@ document.writeln("	");
 document.writeln("			");
 
 
+
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>120期:<font color=\'#008000\'>【正版猜特输尽光】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>今期猪鼠输尽光，四头八尾全不买。 </font></td>");
+document.writeln("		<p>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>121期:<font color=\'#008000\'>【正版猜特输尽光】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>今期牛猪输尽光，二头七尾全不买。</td>");
 document.writeln("		</tr>");
+document.writeln("		");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+
+
+
 
 
 document.writeln("<tr>");
