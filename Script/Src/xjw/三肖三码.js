@@ -26,16 +26,14 @@ document.writeln("		");
 document.writeln("");
 
 
-
 document.writeln("");
 document.writeln("		");
-document.writeln("				<tr>");
+document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("	");
 document.writeln("		<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>122期:<font color=\'#FF00FF\'>《更新中》</font><font color=\'#008000\'>（00 00 00）</font><font color=\'#0000FF\'>开0000中</font></font></span></td></tr>");
-document.writeln("			");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>122期:<font color=\'#FF00FF\'>《狗猴牛》</font><font color=\'#008000\'>（07 45 28）</font><font color=\'#0000FF\'>开？00中</font></font></span></td></tr>");
 document.writeln("		");
 document.writeln("");
 
@@ -46,7 +44,7 @@ document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("		<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>121期:<font color=\'#FF00FF\'>《狗羊兔》</font><font color=\'#008000\'>（07 22 38）</font><font color=\'#0000FF\'>开？00中</font></font></span></div>	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>121期:<font color=\'#FF00FF\'>《狗羊<span style='background-color: #FFFF00\'>兔</span>》</font><font color=\'#008000\'>（07 22 38）</font><font color=\'#0000FF\'>开兔02中</font></font></span></div>	");
 document.writeln("	");
 document.writeln("");
 document.writeln("");
