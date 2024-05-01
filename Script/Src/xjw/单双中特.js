@@ -11,26 +11,6 @@ document.writeln("");
 
 
 
-document.writeln("<!--开始-->	");
-document.writeln("	");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span>");
-document.writeln("	");
-document.writeln("		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>122期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
-document.writeln("\' style=\'font-size: 14pt\'>单</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开？00</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
 
 
 document.writeln("<!--开始-->	");
@@ -44,195 +24,8 @@ document.writeln("		<span>");
 document.writeln("	");
 document.writeln("		<b>");
 document.writeln("	");
-document.writeln("		<font size=\'4\'>119期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
-document.writeln("\' style=\'font-size: 14pt\'>双</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开鸡32</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("<!--开始-->	");
-document.writeln("	");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span>");
-document.writeln("	");
-document.writeln("		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>118期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
-document.writeln("\' style=\'font-size: 14pt\'>单</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开猴21</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-document.writeln("<!--开始-->	");
-document.writeln("	");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span>");
-document.writeln("	");
-document.writeln("		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>115期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
-document.writeln("\' style=\'font-size: 14pt\'>单</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开鼠29</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-
-document.writeln("<!--开始-->	");
-document.writeln("	");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span>");
-document.writeln("	");
-document.writeln("		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>113期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
-document.writeln("\' style=\'font-size: 14pt\'>双</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开蛇24</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-
-document.writeln("<!--开始-->	");
-document.writeln("	");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span>");
-document.writeln("	");
-document.writeln("		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>110期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
-document.writeln("\' style=\'font-size: 14pt\'>双</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开蛇48</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-document.writeln("<!--开始-->	");
-document.writeln("	");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span>");
-document.writeln("	");
-document.writeln("		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>109期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
-document.writeln("\' style=\'font-size: 14pt\'>单</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开狗43</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-
-
-document.writeln("<!--开始-->	");
-document.writeln("	");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span>");
-document.writeln("	");
-document.writeln("		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>107期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
-document.writeln("\' style=\'font-size: 14pt\'>双</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开羊46</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("<!--开始-->	");
-document.writeln("	");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span>");
-document.writeln("	");
-document.writeln("		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>106期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
-document.writeln("\' style=\'font-size: 14pt\'>双</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开牛16</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("<!--开始-->	");
-document.writeln("	");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span>");
-document.writeln("	");
-document.writeln("		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>105期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
-document.writeln("\' style=\'font-size: 14pt\'>单</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开龙49</font></font></b></td></tr>");
+document.writeln("		<font size=\'4\'>125期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
+document.writeln("\' style=\'font-size: 14pt\'>中</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开中00</font></font></b></td></tr>");
 document.writeln("");
 document.writeln("<!--结束-->");
 document.writeln("");
@@ -255,28 +48,8 @@ document.writeln("		<span>");
 document.writeln("	");
 document.writeln("		<b>");
 document.writeln("	");
-document.writeln("		<font size=\'4\'>103期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
-document.writeln("\' style=\'font-size: 14pt\'>单</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开鼠05</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("<!--开始-->	");
-document.writeln("	");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span>");
-document.writeln("	");
-document.writeln("		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>102期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
-document.writeln("\' style=\'font-size: 14pt\'>单</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开狗19</font></font></b></td></tr>");
+document.writeln("		<font size=\'4\'>124期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
+document.writeln("\' style=\'font-size: 14pt\'>中</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开中00</font></font></b></td></tr>");
 document.writeln("");
 document.writeln("<!--结束-->");
 document.writeln("");
@@ -297,104 +70,13 @@ document.writeln("		<span>");
 document.writeln("	");
 document.writeln("		<b>");
 document.writeln("	");
-document.writeln("		<font size=\'4\'>101期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
-document.writeln("\' style=\'font-size: 14pt\'>单</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开猴21</font></font></b></td></tr>");
+document.writeln("		<font size=\'4\'>123期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
+document.writeln("\' style=\'font-size: 14pt\'>双</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开？00</font></font></b></td></tr>");
 document.writeln("");
 document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
-
-
-document.writeln("<!--开始-->	");
-document.writeln("	");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span>");
-document.writeln("	");
-document.writeln("		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>099期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
-document.writeln("\' style=\'font-size: 14pt\'>双</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开牛28</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("<!--开始-->	");
-document.writeln("	");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span>");
-document.writeln("	");
-document.writeln("		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>098期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
-document.writeln("\' style=\'font-size: 14pt\'>双</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开羊46</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("<!--开始-->	");
-document.writeln("	");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span>");
-document.writeln("	");
-document.writeln("		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>097期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
-document.writeln("\' style=\'font-size: 14pt\'>双</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开羊10</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("<!--开始-->	");
-document.writeln("	");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span>");
-document.writeln("	");
-document.writeln("		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>096期:<font color=\'#0000FF\'>单双中特</font><font color=\'#FF00FF\'>【</font></font><font color=\'#FF0000\' face=\'禹卫书法行书简体");
-document.writeln("\' style=\'font-size: 14pt\'>单</font><font size=\'4\'><font color=\'#FF00FF\'>】</font><font color=\'#0000FF\'>开鼠05</font></font></b></td></tr>");
-document.writeln("");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-
 
 
 
