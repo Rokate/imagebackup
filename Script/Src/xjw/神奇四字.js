@@ -13,145 +13,14 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 document.writeln("		");
 document.writeln("		");
 
-document.writeln("");
-document.writeln("						<tr>");
+document.writeln("							<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>124期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【大功告成】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>大数</span></font></font></td></tr>");
+document.writeln("		<span><font size=\'4\'>127期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开中00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【单枪匹马】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>？数</span></font></font></td></tr>");
 document.writeln("	");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>121期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开兔02</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【双喜临门】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>双数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>120期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开鼠29</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【就地正法】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>地肖</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>118期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开猴21</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【单枪匹马】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>单数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>117期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开龙25</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【天上人间】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>天肖</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>116期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开羊10</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【双喜临门】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>双数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>115期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开鼠29</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【大地回春】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>大数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>114期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开猪18</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【单枪匹马】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>单数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>113期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开蛇24</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【小巧玲珑】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>小数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -163,201 +32,27 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>112期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开狗43</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>126期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开中00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【单枪匹马】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>？数</span></font></font></td></tr>");
+document.writeln("	");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+
+ 
+
+document.writeln("							<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>125期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#FF00FF\'>【单枪匹马】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>单数</span></font></font></td></tr>");
 document.writeln("	");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
-
-
-
-
-document.writeln("");
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>111期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开狗43</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【大功告成】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>大数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>110期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开蛇48</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【双喜临门】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>双数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>108期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开羊46</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【双喜临门】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>双数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>107期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开羊46</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【就地正法】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>地肖</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>106期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开牛16</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【小巧玲珑】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>小数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>105期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开龙49</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【单枪匹马】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>单数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>104期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开马35</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【天上人间】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>天肖</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>101期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开猴21</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【单枪匹马】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>单数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>100期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开鼠17</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【小巧玲珑】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>小数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-document.writeln("");
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>098期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开羊46</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【大功告成】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>大数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>097期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开羊10</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【双喜临门】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>双数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>095期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开蛇48</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【双喜临门】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>双数</span></font></font></td></tr>");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
 
 
  
