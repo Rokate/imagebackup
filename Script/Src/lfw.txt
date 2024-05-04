@@ -424,12 +424,12 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("");
+document.writeln("</table>");
 
 document.writeln("		");
 document.writeln("</body>");
 document.writeln("</html>");
-</script></div><div><script type="text/javascript" charset="gb2312">﻿document.writeln("<table border=\'0\' width=\'100%\' bgcolor=\'#ffffff\'><tbody>");
+document.writeln("</html>");</script></div><div><script type="text/javascript" charset="gb2312">﻿document.writeln("<table border=\'0\' width=\'100%\' bgcolor=\'#ffffff\'><tbody>");
 document.writeln("<td style=\'border:1px double #000080\' bgcolor=\'#000080\' height=\'30\'><p align=center>");
 document.writeln("<b><font face=\'楷体\' size=\'6\' color=\'#FF00FF\'>29215.com</font><font face=\'楷体\' style=\'font-size: 22pt\' color=\'#00FFFF\'></font><font color=\'#FFFFFF\' face=\'楷体\' size=\'5\'>（密码玄机）</font></b></table>");
 document.writeln("");
