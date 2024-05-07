@@ -9,11 +9,19 @@ document.writeln("");
 
 
 
+document.writeln("			<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	129期<font color=\'#0000FF\'>【鼠狗马兔龙鸡】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+
+
 
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	128期<font color=\'#0000FF\'>【兔羊龙牛马狗】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
+document.writeln("	128期<font color=\'#0000FF\'>【<span style='background-color: #FFFF00\'>兔</span>羊龙牛马狗】</font><font color=\'#FF00FF\'>开兔02准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 

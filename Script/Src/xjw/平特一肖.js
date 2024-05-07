@@ -20,36 +20,10 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 document.writeln("	   		");
 
-
-
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>128期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【老牛上了鼻绳—跑不了】</td>");
-document.writeln("		</tr>");
-document.writeln("");
-
-
-
-
-
-document.writeln("				    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>125期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>17</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【老鼠钻到风箱里—两头受气】</td>");
-document.writeln("		</tr>");
-document.writeln("		");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("			    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>122期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>10</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【羊群里跑出个骆驼—抖什么威风】</td>");
+document.writeln("		<span><font size=\'4\'>131期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【？】</td>");
 document.writeln("		</tr>");
 document.writeln("");
 
@@ -59,11 +33,21 @@ document.writeln("");
 
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>121期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>43</span><br>");
+document.writeln("		<span><font size=\'4\'>130期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【？】</td>");
+document.writeln("		</tr>");
+document.writeln("");
+
+
+
+
+
+document.writeln("			    <tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<span><font size=\'4\'>129期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
 document.writeln("		<font color=\'#FF00FF\'>【狗吠月亮—少见多怪】</td>");
 document.writeln("		</tr>");
 document.writeln("");
-
 
 
 
