@@ -14,41 +14,34 @@ document.writeln("		");
 document.writeln("		");
 
 
-
-
-
-
-document.writeln("");
 document.writeln("");
 document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>130期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开中00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【双喜临门】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>？数</span></font></font></td></tr>");
+document.writeln("		<span><font size=\'4\'>132期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开中00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【？】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>中中</span></font></font></td></tr>");
 document.writeln("	");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
-
-
-
 document.writeln("");
+
+
 document.writeln("");
 document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>129期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【双喜临门】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>双数</span></font></font></td></tr>");
+document.writeln("		<span><font size=\'4\'>131期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开中00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【？】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>中中</span></font></font></td></tr>");
 document.writeln("	");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
+document.writeln("");
 
 
 
@@ -58,8 +51,8 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>126期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开狗07</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【小巧玲珑】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>小数</span></font></font></td></tr>");
+document.writeln("		<span><font size=\'4\'>130期:<font color=\'#008000\'>【神奇四字解特】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【天上人间】</font><font color=\'#6600CC\'>解：</font><font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>天肖</span></font></font></td></tr>");
 document.writeln("	");
 document.writeln("");
 document.writeln("");

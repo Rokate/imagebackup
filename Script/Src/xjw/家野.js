@@ -9,6 +9,15 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 
 
+document.writeln("		<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'><p><span>		<b>");
+document.writeln("	");
+document.writeln("		<font size=\'4\'>132期:<font color=\'#008000\'>家野中特</font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>【马上中】</span></font><font color=\'#FF0000\'>开中00</font></font></b></td>");
+document.writeln("		</tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
 
 document.writeln("		<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'><p><span>		<b>");
@@ -20,21 +29,13 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("		<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'><p><span>		<b>");
-document.writeln("	");
-document.writeln("		<font size=\'4\'>130期:<font color=\'#008000\'>家野中特</font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>【马上中】</span></font><font color=\'#FF0000\'>开中00</font></font></b></td>");
-document.writeln("		</tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
 
 document.writeln("		<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'><p><span>		<b>");
 document.writeln("	");
-document.writeln("		<font size=\'4\'>129期:<font color=\'#008000\'>家野中特</font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>【家家家】</span></font><font color=\'#FF0000\'>开？00</font></font></b></td>");
+document.writeln("		<font size=\'4\'>130期:<font color=\'#008000\'>家野中特</font><font color=\'#FFFF00\'><span style=\'background-color: #000000\'>【野野野】</span></font><font color=\'#FF0000\'>开？00</font></font></b></td>");
 document.writeln("		</tr>");
+document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("");
