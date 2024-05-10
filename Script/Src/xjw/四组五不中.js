@@ -49,7 +49,7 @@ document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>");
-document.writeln("		131期：开00.00.00.00.00.00T00</font></font></td>");
+document.writeln("		132期：开00.00.00.00.00.00T00</font></font></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -59,8 +59,8 @@ document.writeln("		【平码小娱乐：共同探讨彩界真理】</font><font
 document.writeln("		<font color=\'#FF00FF\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		平特连肖：</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><Br>");
-document.writeln("		【牛兔拖猪猴】<Br>");
-document.writeln("28.40.26.38拖30.18.45.21<Br>	");
+document.writeln("		【猪狗拖猴羊】<Br>");
+document.writeln("06.42.07.31拖21.33.34.46<Br>	");
 document.writeln("	（16组2中2）<Br><Br>	");
 document.writeln("		");
 document.writeln("		");
@@ -69,14 +69,14 @@ document.writeln("		<font color=\'#FF00FF\' style=\'font-size: 12pt\' face=\'微
 document.writeln("		");
 document.writeln("		");
 document.writeln("		平特连尾：</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><Br>");
-document.writeln("	【36拖49】<br>03.13.23.16.26.36拖04.14.24.19.29.39<Br>		");
+document.writeln("	【23拖79】<br>22.32.42.03.13.23拖07.17.27.29.39.49<Br>		");
 document.writeln("	（36组2中2）<Br><Br>	");
 document.writeln("		");
 document.writeln("</font>");
 document.writeln("		<font color=\'#FF00FF\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		平码五不中：</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><Br>");
-document.writeln("		①【05.07.16.17.18】<BR> ②【19.23.34.35.38】<Br>");
+document.writeln("		①【02.05.16.17.18】<BR> ②【22.30.31.32.39】<Br>");
 document.writeln("<Br>");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");
@@ -92,7 +92,8 @@ document.writeln("		</b> </td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("    <!--结束-->     ");
-document.writeln(" ");
+
+
 
 
 
