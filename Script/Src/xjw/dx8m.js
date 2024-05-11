@@ -159,7 +159,7 @@ document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
 document.writeln("122期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开蛇36准</font><br>");
 document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>大数</span>++01.13.16.18.19.20.21.22</span></font></td>");
+document.writeln("<span style='background-color: #FFFF00\'>大数</span>+01.13.16.18.19.20.21.22</span></font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 document.writeln("	");
