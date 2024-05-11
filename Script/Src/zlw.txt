@@ -17,10 +17,17 @@ document.writeln("			<a target=\'_blank\' href=\'https://gfftggh.www57235c.com:8
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("131期<font color=\'#FF00FF\'>（猴羊虎+3284尾）</font>开？00</font></b></font></table>");
+document.writeln("132期<font color=\'#FF00FF\'>（猪兔鸡+7019尾）</font>开？00</font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("131期<font color=\'#FF00FF\'>（猴羊虎+328<span style=\'background-color: #FFFF00\'>4</span>尾）</font>开牛04</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 
@@ -29,20 +36,6 @@ document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
 document.writeln("129期<font color=\'#FF00FF\'>（<span style=\'background-color: #FFFF00\'>龙</span>狗猪+0783尾）</font>开龙49</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("126期<font color=\'#FF00FF\'>（<span style=\'background-color: #FFFF00\'>狗</span>鼠猴+0219尾）</font>开狗07</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("124期<font color=\'#FF00FF\'>（马狗<span style=\'background-color: #FFFF00\'>羊</span>+<span style=\'background-color: #FFFF00\'>2</span>640尾）</font>开羊22</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 
