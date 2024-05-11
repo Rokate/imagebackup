@@ -86,14 +86,16 @@ if __name__ == "__main__":
     try:
         #amcode = {"code": "71"} site:lh49.app
         #https://am49.app/forum/master/list?postCategory=71
-        qish = requests.post('https://am49.app/open/latest/single?code=71').json()['data']['nextIssueNo'][-3:]
+        info = requests.get('https://h5.118z2.com:8443/tk118/h5/picture/detail/latest?pictureTypeId=28854').json()
+        #qish = requests.post('https://am49.app/open/latest/single?code=71').json()['data']['nextIssueNo'][-3:]
+        qish = info['data']['period']
         qishu = qish.lstrip('0')
         #Lday = requests.get('https://49252a.com/unite49/h5/index/lotteryTime')
         #qishu = Lday.json()['data']['list'][0]['isLotteryDay'] + 1
         #qish = str(qishu).zfill(3)
         #118tk.com https://118z1.com/#/ https://49tkapp.com/
         #url = requests.get('https://49252a.com/unite49/h5/picture/detail/latest?pictureTypeId=28854').json()['data']['largePictureUrl']
-        url = requests.get('https://h5.118z2.com:8443/tk118/h5/picture/detail/latest?pictureTypeId=28854').json()['data']['largePictureUrl']
+        url = info['data']['largePictureUrl']
         pattern = re.compile("https://tk2.(.*?)/")
         match = re.findall(pattern, url)
         domain_port = match[0]
