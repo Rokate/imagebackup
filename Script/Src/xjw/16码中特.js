@@ -43,15 +43,14 @@ document.writeln("");
 document.writeln("");
 
 
-
 document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("134期红色记忆【独家16码】开？00准<br>");
+document.writeln("137期红色记忆【独家16码】开中00准<br>");
 document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
-document.writeln("（01.27.23.15.03.40.25.46）<br>");
-document.writeln("（37.08.31.05.45.19.13.36）</font></td>");
+document.writeln("（00.00.00.00.00.00.00.00）<br>");
+document.writeln("（00.00.00.00.00.00.00.00）</font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 
@@ -63,15 +62,12 @@ document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("131期红色记忆【独家16码】开牛04准<br>");
+document.writeln("136期红色记忆【独家16码】开中00准<br>");
 document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
-document.writeln("（45.13.35.26.12.31.03.43）<br>");
-document.writeln("（16.37.11.33.08.01.28.<span style='background-color: #FFFF00\'>04</span>）</font></td>");
+document.writeln("（00.00.00.00.00.00.00.00）<br>");
+document.writeln("（00.00.00.00.00.00.00.00）</font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
-
-
-
 
 
 
@@ -80,15 +76,12 @@ document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("129期红色记忆【独家16码】开龙49准<br>");
+document.writeln("135期红色记忆【独家16码】开？00准<br>");
 document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
-document.writeln("（40.13.31.01.39.<span style='background-color: #FFFF00\'>49</span>.21.43）<br>");
-document.writeln("（38.08.28.48.22.44.16.42）</font></td>");
+document.writeln("（15.43.20.01.16.28.42.22）<br>");
+document.writeln("（39.07.33.32.49.17.46.14）</font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
-
-
-
 
 
 

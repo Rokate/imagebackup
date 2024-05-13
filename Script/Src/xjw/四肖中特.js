@@ -27,20 +27,6 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 
 
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>134期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【一来二去有祥意，龙鼠兔猴是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>龙鼠兔猴</font></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
 
 
 document.writeln("");
@@ -49,23 +35,28 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>131期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开牛04</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【十八投军在北方，鸡牛猴鼠是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：鸡<span style='background-color: #FFFF00\'>牛</span>猴鼠</span></tr>	");
+document.writeln("		<span><font size=\'4\'>137期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开中00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#6600CC\'>【更新中】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：更新中</span></tr>	");
 document.writeln("	");
 document.writeln("");
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 
 
 
 
 document.writeln("");
-document.writeln("	<tr>");
+document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>129期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开龙49</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【金玉水灵尘地间，鸡猪龙马是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>鸡猪<span style='background-color: #FFFF00\'>龙</span>马</font></tr>");
+document.writeln("		<p>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>136期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开中00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#6600CC\'>【更新中】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：更新中</span></tr>	");
+document.writeln("	");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -73,19 +64,23 @@ document.writeln("");
 
 
 
-
-
-
-
-document.writeln("	<tr>");
+document.writeln("");
+document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>128期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开兔02</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【棋逢敌手方可喜，虎狗兔猪是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>虎狗<span style='background-color: #FFFF00\'>兔</span>猪</font></tr>");
+document.writeln("		<p>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>135期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#6600CC\'>【金龙飞天势还在，牛猪兔狗是特码】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：牛猪兔狗</span></tr>	");
+document.writeln("	");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+
+
+
 
 
 document.writeln("<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
