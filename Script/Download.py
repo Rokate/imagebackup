@@ -101,7 +101,8 @@ if __name__ == "__main__":
         domain_port = match[0]
         
         #xgcode = {"code": "28"} https://am49.app/forum/master/list?postCategory=28
-        qs = requests.post('https://am49.app/open/latest?code=28').json()['data']['nextIssueNo'][-3:].lstrip('0')
+        #qs = requests.post('https://am49.app/open/latest?code=28').json()['data']['nextIssueNo'][-3:].lstrip('0')
+        qs = requests.get('https://h5.118z2.com:8443/tk118/h5/picture/detail/latest?pictureTypeId=10870').json()['data']['period']
         
     except Exception as e:
         print("日期更新出错了", traceback.format_exc())
