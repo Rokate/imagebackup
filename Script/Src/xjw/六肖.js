@@ -12,7 +12,7 @@ document.writeln("");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	138期<font color=\'#0000FF\'>【虎鸡龙羊猪马】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
+document.writeln("	139期<font color=\'#0000FF\'>【龙鸡鼠猪猴狗】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 
@@ -109,34 +109,6 @@ document.writeln("	123期<font color=\'#0000FF\'>【鼠鸡龙兔<span style='bac
 document.writeln("		<!--结束-->");
 document.writeln("");
 
-
-
-
-document.writeln("			<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	121期<font color=\'#0000FF\'>【鼠狗马<span style='background-color: #FFFF00\'>兔</span>龙鸡】</font><font color=\'#FF00FF\'>开兔02准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-
-
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	120期<font color=\'#0000FF\'>【龙牛<span style='background-color: #FFFF00\'>鼠</span>猪鸡虎】</font><font color=\'#FF00FF\'>开鼠29准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
-
-
-
-
-
-document.writeln("		<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	119期<font color=\'#0000FF\'>【龙<span style='background-color: #FFFF00\'>鸡</span>鼠猪猴狗】</font><font color=\'#FF00FF\'>开鸡32准</font></font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
 
 
 

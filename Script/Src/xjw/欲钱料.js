@@ -45,6 +45,14 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
+document.writeln("");
+document.writeln("												<tr>");
+document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("			<p align=\'center\'>");
+document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>139期:<font color=\'#FF00FF\'>【欲钱买跑得很快的生肖】</font><font color=\'#0000FF\'>开？00中</font></td></tr>");
+document.writeln("");
+
+
 
 
 document.writeln("");
@@ -52,7 +60,7 @@ document.writeln("");
 document.writeln("											<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("			<p align=\'center\'>");
-document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>138期:<font color=\'#FF00FF\'>【欲钱买天吃贪玩的生肖】</font><font color=\'#0000FF\'>开？00中</font></td></tr>");
+document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>138期:<font color=\'#FF00FF\'>【欲钱买天吃贪玩的生肖】</font><font color=\'#0000FF\'>开兔14中</font></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -115,163 +123,6 @@ document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>133
 document.writeln("");
 document.writeln("");
 document.writeln("								");
-
-
-
-
-document.writeln("");
-document.writeln("												<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("			<p align=\'center\'>");
-document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>132期:<font color=\'#FF00FF\'>【欲钱买跑得很快的生肖】</font><font color=\'#0000FF\'>开龙37中</font></td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("											<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("			<p align=\'center\'>");
-document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>131期:<font color=\'#FF00FF\'>【欲钱买锦衣姿意的生肖】</font><font color=\'#0000FF\'>开牛04中</font></td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("												<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("			<p align=\'center\'>");
-document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>130期:<font color=\'#FF00FF\'>【欲钱买温顺乖巧的生肖】</font><font color=\'#0000FF\'>开鼠17中</font></td></tr>");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("												<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("			<p align=\'center\'>");
-document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>129期:<font color=\'#FF00FF\'>【欲钱买家中卖力的生肖】</font><font color=\'#0000FF\'>开龙49中</font></td></tr>");
-document.writeln("");
-document.writeln("		");
-
-
-
-document.writeln("  ");
-document.writeln("");
-document.writeln("");
-document.writeln("												<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("			<p align=\'center\'>");
-document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>128期:<font color=\'#FF00FF\'>【欲钱买牙齿锋利的生肖】</font><font color=\'#0000FF\'>开兔02中</font></td></tr>");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("											<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("			<p align=\'center\'>");
-document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>127期:<font color=\'#FF00FF\'>【欲钱买锦衣姿意的生肖】</font><font color=\'#0000FF\'>开蛇48中</font></td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("												<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("			<p align=\'center\'>");
-document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>126期:<font color=\'#FF00FF\'>【欲钱买跑得很快的生肖】</font><font color=\'#0000FF\'>开狗07中</font></td></tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("											<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("			<p align=\'center\'>");
-document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>125期:<font color=\'#FF00FF\'>【欲钱买天吃贪玩的生肖】</font><font color=\'#0000FF\'>开蛇12中</font></td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
- 
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("												<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("			<p align=\'center\'>");
-document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>124期:<font color=\'#FF00FF\'>【欲钱买天吃贪玩的生肖】</font><font color=\'#0000FF\'>开羊22中</font></td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("								");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("												<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("			<p align=\'center\'>");
-document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>123期:<font color=\'#FF00FF\'>【欲钱买活泼聪明的生肖】</font><font color=\'#0000FF\'>开猴21中</font></td></tr>");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("												<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("			<p align=\'center\'>");
-document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>122期:<font color=\'#FF00FF\'>【欲钱买家中卖力的生肖】</font><font color=\'#0000FF\'>开蛇36中</font></td></tr>");
-document.writeln("");
-document.writeln("		");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("	");
-document.writeln("												<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("			<p align=\'center\'>");
-document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>121期:<font color=\'#FF00FF\'>【欲钱买家中卖力的生肖】</font><font color=\'#0000FF\'>开兔02中</font></td></tr>");
-document.writeln("");
-document.writeln("		");
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("												<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("			<p align=\'center\'>");
-document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>120期:<font color=\'#FF00FF\'>【欲钱买活泼聪明的生肖】</font><font color=\'#0000FF\'>开鼠29中</font></td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("								");
-
 
 
 

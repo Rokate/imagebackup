@@ -27,18 +27,19 @@ document.writeln("");
 document.writeln("");
 
 
-
 document.writeln("");
-document.writeln("		");
+document.writeln("");
 document.writeln("	");
+document.writeln("");
 document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("		<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>139期:<font color=\'#FF00FF\'>《中中中》</font><font color=\'#008000\'>（00 00 00）</font><font color=\'#0000FF\'>开0000中</font></font></span></div>	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>139期:<font color=\'#FF00FF\'>《马羊鸡》</font><font color=\'#008000\'>（35 46 08）</font><font color=\'#0000FF\'>开？00中</font></font></span></div>	");
 document.writeln("	");
 document.writeln("");
-document.writeln("");
+document.writeln("	");
+
 
 
 document.writeln("");
@@ -48,7 +49,7 @@ document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("");
 document.writeln("			<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>138期:<font color=\'#FF00FF\'>《兔牛鸡》</font><font color=\'#008000\'>（38 16 08）</font><font color=\'#0000FF\'>开？00中</font></font></span></div>	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>138期:<font color=\'#FF00FF\'>《<span style='background-color: #FFFF00\'>兔</span>牛鸡》</font><font color=\'#008000\'>（38 16 08）</font><font color=\'#0000FF\'>开兔14中</font></font></span></div>	");
 document.writeln("		");
 document.writeln("");
 
