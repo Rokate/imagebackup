@@ -2313,12 +2313,12 @@ document.writeln("");
 document.writeln("<table border=1 width=100% bgcolor=#ffffff height=\'53\'><tbody>");
 document.writeln("<td style=\'border:10px double #800000; height: 47px;\' bgcolor=#800000><p align=center>");
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 19pt\'><font color=\'#FFFF00\'>澳门马会传真</font><font color=\'#FFFFFF\'>『双波20码』</font></font></b></table>");
-
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'157\'><tbody>");
 document.writeln("	");
@@ -2328,7 +2328,7 @@ document.writeln("<tr><td width=100% height=38><p align=left>");
 document.writeln("	<font color=\'#0000FF\' style=\'font-size: 14pt\'><b>【蓝波】05.06.11.16.17.22.21.27.28.39</b></font></td></tr>");
 document.writeln("");
 document.writeln("<tr><td width=100% height=44><p align=left>");
-document.writeln("	<font color=\'#008000\' style=\'font-size: 14pt\'><b>【绿波】35.40.45.46.01.02.07.08.12.13</b></font></td></tr>");
+document.writeln("	<font color=\'#008000\' style=\'font-size: 14pt\'><b>【绿波】06.11.16.17.22.21.27.28.30.33</b></font></td></tr>");
 document.writeln("");
 document.writeln("<tr><td width=100% height=38 bgcolor=\'#FFFF99\'><p align=\'left\'><b>");
 document.writeln("	<span style=box-sizing:border-box;><font color=\'#000000\'>澳门马会传真</font><font size=\'5\' color=\'#FF00FF\'>57235.com</font></span><font color=\'#000000\'>一定谨记!</font></span> </b>");
@@ -2394,8 +2394,8 @@ document.writeln("<tr><td width=100% height=38 bgcolor=\'#FFFF99\'><p align=\'le
 document.writeln("	<span style=box-sizing:border-box;><font color=\'#000000\'>澳门马会传真</font><font size=\'5\' color=\'#FF00FF\'>57235.com</font></span><font color=\'#000000\'>一定谨记!</font></span> </b>");
 document.writeln("</td></tr></table>				");
 document.writeln("		<!--结束-->");
-
-</script></div><div class="box"><script type="text/javascript">﻿document.writeln("<html>");
+document.writeln("");
+document.writeln("");</script></div><div class="box"><script type="text/javascript">﻿document.writeln("<html>");
 document.writeln("<head>");
 document.writeln("<meta http-equiv=\'Content-Type\' content=\'text/html; charset=gb2312\'>");
 document.writeln("<title>新建网页 2</title>");
