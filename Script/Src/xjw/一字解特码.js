@@ -42,13 +42,10 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>143期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【？】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开中00</font></span><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#006600\'>解特： 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</font></font></span></td></tr>");
+document.writeln("		<span><font size=\'4\'>143期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【焊】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开？00</font></span><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#006600\'>解特：08 09 10 11 12 24 25 26 27 28 29 30 31 32 38 39 40 41 42 43 47</td></tr>");
 document.writeln("<!--结束-->");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-
 
 
 
@@ -62,8 +59,8 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>142期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【餐】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开？00</font></span><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#006600\'>解特： 02 04 05 06 11 12 13 14 18 19 20 21 27 28 29 33 38 39 44</font></font></span></td></tr>");
+document.writeln("		<span><font size=\'4\'>142期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【餐】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开虎27</font></span><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#006600\'>解特： 02 04 05 06 11 12 13 14 18 19 20 21 <span style='background-color: #FFFF00\'>27</span> 28 29 33 38 39 44</font></font></span></td></tr>");
 document.writeln("<!--结束-->");
 document.writeln("");
 document.writeln("");
