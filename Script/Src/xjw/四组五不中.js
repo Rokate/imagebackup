@@ -42,15 +42,13 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
-
 document.writeln("   <!--开始--->");
 document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>");
-document.writeln("		143期：开00.00.00.00.00.00T00</font></font></td>");
+document.writeln("		144期：开00.00.00.00.00.00T00</font></font></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -60,8 +58,8 @@ document.writeln("		【平码小娱乐：共同探讨彩界真理】</font><font
 document.writeln("		<font color=\'#FF00FF\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		平特连肖：</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><Br>");
-document.writeln("		【虎狗拖牛龙】<Br>");
-document.writeln("15.39.07.31拖04.40.13.49	<Br>	");
+document.writeln("		【牛兔拖猪猴】<Br>");
+document.writeln("28.40.26.38拖30.18.45.21<Br>	");
 document.writeln("	（16组2中2）<Br><Br>	");
 document.writeln("		");
 document.writeln("		");
@@ -70,14 +68,14 @@ document.writeln("		<font color=\'#FF00FF\' style=\'font-size: 12pt\' face=\'微
 document.writeln("		");
 document.writeln("		");
 document.writeln("		平特连尾：</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><Br>");
-document.writeln("	【62拖91】<br>16.26.36.02.12.22拖09.19.29.01.11.21<Br>		");
+document.writeln("	【36拖49】<br>03.13.23.16.26.36拖04.14.24.19.29.39<Br>		");
 document.writeln("	（36组2中2）<Br><Br>	");
 document.writeln("		");
 document.writeln("</font>");
 document.writeln("		<font color=\'#FF00FF\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		平码五不中：</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><Br>");
-document.writeln("		①【10.11.14.15.16】<BR> ②【20.21.24.35.37】<Br>");
+document.writeln("		①【05.07.16.17.18】<BR> ②【19.23.34.35.38】<Br>");
 document.writeln("<Br>");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");
@@ -93,6 +91,7 @@ document.writeln("		</b> </td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("    <!--结束-->     ");
+document.writeln(" ");
 
 
 
