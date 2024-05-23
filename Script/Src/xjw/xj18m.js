@@ -29,7 +29,7 @@ document.writeln("</style>");
 document.writeln("");
 document.writeln("<body>");
 document.writeln("  ");
-document.writeln("<img src=\"https://tk2.zaojiao365.net:4949/col/144/amzy.jpg\" alt=\"\" width=\"100%\">");
+document.writeln("<img src=\"https://tk2.zaojiao365.net:4949/col/145/amzy.jpg\" alt=\"\" width=\"100%\">");
 document.writeln("");
 document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
@@ -46,6 +46,8 @@ document.writeln("");
 
 
 
+
+
 document.writeln("  <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=38 >");
@@ -54,10 +56,29 @@ document.writeln("");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		<font color=\"#0000FF\">144期【玄机特码诗】猜透必中开（？00）</font><br>");
-document.writeln("①解特九肖：蛇鼠兔羊虎猪狗马牛<br>");
+document.writeln("		<font color=\"#0000FF\">145期【玄机特码诗】猜透必中开（？00）</font><br>");
+document.writeln("①解特九肖：龙蛇虎兔羊猪猴鸡狗<br>");
+document.writeln("②解特五肖：龙蛇虎兔羊<br>");
+document.writeln("③解特18码：13.49.48.36.27.39.14.26.10.34.18.30.09.33.08.32.07.19</b></font></p></td>");
+document.writeln("    </tr>     ");
+document.writeln("     <!--结束-->");
+document.writeln("	");
+document.writeln("	");
+
+
+
+document.writeln("  <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=38 >");
+document.writeln("		<p align=\'left\'>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<b>");
+document.writeln("");
+document.writeln("		<font color=\"#0000FF\">144期【玄机特码诗】猜透必中开（牛16）</font><br>");
+document.writeln("①解特九肖：蛇鼠兔羊虎猪狗马<span style='background-color: #FFFF00\'>牛</span><br>");
 document.writeln("②解特五肖：蛇鼠兔羊虎<br>");
-document.writeln("③解特18码：24.36.29.41.14.26.10.22.27.39.18.30.19.31.11.23.16.28</b></font></p></td>");
+document.writeln("③解特18码：24.36.29.41.14.26.10.22.27.39.18.30.19.31.11.23.<span style='background-color: #FFFF00\'>16</span>.28</b></font></p></td>");
 document.writeln("    </tr>     ");
 document.writeln("     <!--结束-->");
 
