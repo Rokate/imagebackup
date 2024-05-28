@@ -29,7 +29,7 @@ document.writeln("</style>");
 document.writeln("");
 document.writeln("<body>");
 document.writeln("  ");
-document.writeln("<img src=\"https://tk2.zaojiao365.net:4949/col/149/amzy.jpg\" alt=\"\" width=\"100%\">");
+document.writeln("<img src=\"https://tk2.zaojiao365.net:4949/col/150/amzy.jpg\" alt=\"\" width=\"100%\">");
 document.writeln("");
 document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
@@ -47,6 +47,7 @@ document.writeln("");
 
 
 
+
 document.writeln("  <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=38 >");
@@ -55,10 +56,31 @@ document.writeln("");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		<font color=\"#0000FF\">149期【玄机特码诗】猜透必中开（？00）</font><br>");
-document.writeln("①解特九肖：牛马虎蛇猴狗羊鸡猪<br>");
+document.writeln("		<font color=\"#0000FF\">150期【玄机特码诗】猜透必中开（？00）</font><br>");
+document.writeln("①解特九肖：龙虎猴鼠牛猪马羊鸡<br>");
+document.writeln("②解特五肖：龙虎猴鼠牛<br>");
+document.writeln("③解特18码：25.37.15.39.21.33.29.17.40.28.06.42.11.47.22.46.08.44</b></font></p></td>");
+document.writeln("    </tr>     ");
+document.writeln("     <!--结束-->");
+document.writeln("	");
+document.writeln("	");
+document.writeln("");
+
+
+
+
+document.writeln("  <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=38 >");
+document.writeln("		<p align=\'left\'>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<b>");
+document.writeln("");
+document.writeln("		<font color=\"#0000FF\">149期【玄机特码诗】猜透必中开（羊22）</font><br>");
+document.writeln("①解特九肖：牛马虎蛇猴狗<span style='background-color: #FFFF00\'>羊</span>鸡猪<br>");
 document.writeln("②解特五肖：牛马虎蛇猴<br>");
-document.writeln("③解特18码：40.28.11.47.15.39.12.48.09.33.31.43.22.46.08.44.06.30</b></font></p></td>");
+document.writeln("③解特18码：40.28.11.47.15.39.12.48.09.33.31.43.<span style='background-color: #FFFF00\'>22</span>.46.08.44.06.30</b></font></p></td>");
 document.writeln("    </tr>     ");
 document.writeln("     <!--结束-->");
 document.writeln("	");
