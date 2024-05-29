@@ -31,7 +31,21 @@ document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>")
 document.writeln("		<p>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>150期:<font color=\'#008000\'>无错七尾</font>【1268943】</span><font color=\'#FF0000\'>开？00</font></font></b></td></tr>");
+document.writeln("		<span>151期:<font color=\'#008000\'>无错七尾</font>【2068943】</span><font color=\'#FF0000\'>开？00</font></font></b></td></tr>");
+document.writeln("		");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+
+
+
+document.writeln("	");
+document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<p>");
+document.writeln("		<b>");
+document.writeln("		<font size=\'4\'>");
+document.writeln("		<span>150期:<font color=\'#008000\'>无错七尾</font>【126894<span style='background-color: #FFFF00\'>3</span>】</span><font color=\'#FF0000\'>开猴33</font></font></b></td></tr>");
 document.writeln("		");
 document.writeln("");
 document.writeln("");
