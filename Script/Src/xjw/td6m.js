@@ -30,18 +30,25 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
+
+
+
+
+
 document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><b><font size=\'4\'>155期:</font><font color=\'#0000FF\' style=\"font-size: 14pt\">【天地六码】</font></b><font size=\'4\'><b><font color=\'#FF0000\'>开？00</font></b><font color=\'#008000\'><b>准</b><br>");
+document.writeln("		<span><b><font size=\'4\'>156期:</font><font color=\'#0000FF\' style=\"font-size: 14pt\">【天地六码】</font></b><font size=\'4\'><b><font color=\'#FF0000\'>开？00</font></b><font color=\'#008000\'><b>准</b><br>");
 document.writeln("		</font></font>");
 document.writeln("		<b>");
-document.writeln("		<font style=\"font-size: 16pt\">天肖【兔猴龙】<br>14.02.45.21.13.25</font></b></span></tr>	");
+document.writeln("		<font style=\"font-size: 16pt\">地肖【蛇羊虎】<br>48.24.34.46.27.39</font></b></span></tr>	");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+
+
 
 
 
