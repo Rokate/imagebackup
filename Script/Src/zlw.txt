@@ -17,10 +17,19 @@ document.writeln("			<a target=\'_blank\' href=\'https://gfftggh.www57235c.com:8
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("155期</font><font color=\'#FF0000\' size=\"5\">（马牛蛇+4902尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("156期</font><font color=\'#FF0000\' size=\"5\">（羊兔猪+6971尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("155期</font><font color=\'#FF0000\' size=\"5\">（马牛蛇+<span style=\'background-color: #FFFF00\'>4</span>902尾）</font><font size=\'4\'>开鸡44</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");
@@ -231,7 +240,13 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("155期：<font color=\'#0000FF\'>（家禽+龙猴）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("156期：<font color=\'#0000FF\'>（野兽+牛狗）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("155期：<font color=\'#0000FF\'>（<span style=\'background-color: #FFFF00\'>家禽</span>+龙猴）</font>开<font color=\'#FF0000\'>(鸡44)</font></font></b></font></table>");
 
 document.writeln("");
 document.writeln("<!--开始-->");
