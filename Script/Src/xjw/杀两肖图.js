@@ -35,8 +35,8 @@ document.writeln("	");
 document.writeln("			<tr style=\'box-sizing: border-box;\'>");
 document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			");
-document.writeln("<a target=\'_blank\' href=\'https://49080.com/#/picture/28585\'><img src=\'https://tk2.zaojiao365.net:4949/col/156/c002.jpg\'  width=\'49%\'></a>");
-document.writeln("<a target=\'_blank\' href=\'https://49080.com/#/picture/209029\'><img src=\'https://tk2.zaojiao365.net:4949/col/156/hj44.jpg\'  width=\'49%\'></a>");
+document.writeln("<a target=\'_blank\' href=\'https://49080.com/#/picture/28585\'><img src=\'https://tk2.zaojiao365.net:4949/col/157/c002.jpg\'  width=\'49%\'></a>");
+document.writeln("<a target=\'_blank\' href=\'https://49080.com/#/picture/209029\'><img src=\'https://tk2.zaojiao365.net:4949/col/157/hj44.jpg\'  width=\'49%\'></a>");
 document.writeln("		</td></tr>");
 document.writeln("		");
 document.writeln("		");
@@ -51,15 +51,38 @@ document.writeln("		");
 
 
 
+
+document.writeln("");
+document.writeln("	");
+document.writeln("	<!--开始-->");
+document.writeln("				<tr style=\'box-sizing: border-box;\'>");
+document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
+document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
+document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
+document.writeln("			157期玄机网禁两肖<font color=\'#FF0000\'>【羊鼠】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
+document.writeln("			157期澳门杀两肖图<font color=\'#FF0000\'>【马蛇】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
+document.writeln("			157期澳门图库禁肖<font color=\'#FF0000\'>【兔虎】</font>特开<font color=\'#0000FF\'>？00</font>准</font></font></p></td>");
+document.writeln("		</tr>");
+document.writeln("<!--推广-->");
+document.writeln("				<tr style=\'box-sizing: border-box;\'>");
+document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\' bgcolor=\'#FFFF00\'>");
+document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
+document.writeln("			<a target=\'_blank\' href=\'https://j.1999xz.com:1999/\' style=\'text-decoration: none\'><img src=/yyy123.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 15pt\'>点击投注澳门六合彩</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1999.cc</font></span></a></strong>");
+document.writeln("</p></td></tr>");
+document.writeln("<!--结束-->	");
+document.writeln("");
+
+
+
 document.writeln("");
 document.writeln("												<!--开始-->");
 document.writeln("				<tr style=\'box-sizing: border-box;\'>");
 document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			156期玄机网禁两肖<font color=\'#FF0000\'>【鼠牛】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
-document.writeln("			156期澳门杀两肖图<font color=\'#FF0000\'>【牛虎】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
-document.writeln("			156期澳门图库禁肖<font color=\'#FF0000\'>【羊马】</font>特开<font color=\'#0000FF\'>？00</font>准</font></font></p></td>");
+document.writeln("			156期玄机网禁两肖<font color=\'#FF0000\'>【鼠牛】</font>特开<font color=\'#0000FF\'>猪42</font>准<br>");
+document.writeln("			156期澳门杀两肖图<font color=\'#FF0000\'>【牛虎】</font>特开<font color=\'#0000FF\'>猪42</font>准<br>");
+document.writeln("			156期澳门图库禁肖<font color=\'#FF0000\'>【羊马】</font>特开<font color=\'#0000FF\'>猪42</font>准</font></font></p></td>");
 document.writeln("		</tr>");
 document.writeln("<!--推广-->");
 document.writeln("				<tr style=\'box-sizing: border-box;\'>");
@@ -183,73 +206,6 @@ document.writeln("<!--结束-->	");
 
 
 
-
-
-
-document.writeln("");
-document.writeln("				");
-document.writeln("<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			150期玄机网禁两肖<font color=\'#FF0000\'>【兔蛇】</font>特开<font color=\'#0000FF\'>猴33</font>准<br>");
-document.writeln("			150期澳门杀两肖图<font color=\'#FF0000\'>【猪虎】</font>特开<font color=\'#0000FF\'>猴33</font>准<br>");
-document.writeln("			150期澳门图库禁肖<font color=\'#FF0000\'>【鸡鼠】</font>特开<font color=\'#0000FF\'>猴33</font>准</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--推广-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\' bgcolor=\'#FFFF00\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<a target=\'_blank\' href=\'https://j.1999xz.com:1999/\' style=\'text-decoration: none\'><img src=/yyy123.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 15pt\'>点击投注澳门六合彩</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1999.cc</font></span></a></strong>");
-document.writeln("</p></td></tr>");
-document.writeln("<!--结束-->	");
-document.writeln("");
-
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("					<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			149期玄机网禁两肖<font color=\'#FF0000\'>【狗鸡】</font>特开<font color=\'#0000FF\'>羊22</font>准<br>");
-document.writeln("			149期澳门杀两肖图<font color=\'#FF0000\'>【牛狗】</font>特开<font color=\'#0000FF\'>羊22</font>准<br>");
-document.writeln("			149期澳门图库禁肖<font color=\'#FF0000\'>【牛狗】</font>特开<font color=\'#0000FF\'>羊22</font>准</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--推广-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\' bgcolor=\'#FFFF00\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<a target=\'_blank\' href=\'https://j.1999xz.com:1999/\' style=\'text-decoration: none\'><img src=/yyy123.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 15pt\'>点击投注澳门六合彩</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1999.cc</font></span></a></strong>");
-document.writeln("</p></td></tr>");
-document.writeln("<!--结束-->	");
-
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			148期玄机网禁两肖<font color=\'#FF0000\'>【猪牛】</font>特开<font color=\'#0000FF\'>虎27</font>准<br>");
-document.writeln("			148期澳门杀两肖图<font color=\'#FF0000\'>【兔虎】</font>特开<font color=\'#0000FF\'>虎27</font>准<br>");
-document.writeln("			148期澳门图库禁肖<font color=\'#FF0000\'>【兔虎】</font>特开<font color=\'#0000FF\'>虎27</font>准</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--推广-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\' bgcolor=\'#FFFF00\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<a target=\'_blank\' href=\'https://j.1999xz.com:1999/\' style=\'text-decoration: none\'><img src=/yyy123.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 15pt\'>点击投注澳门六合彩</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1999.cc</font></span></a></strong>");
-document.writeln("</p></td></tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln
 
 	
 
