@@ -68,7 +68,7 @@ document.writeln("		<b style=\'padding: 0px; margin: 0px; word-wrap: break-word;
 document.writeln("		<font face=\'微软雅黑\' style=\'word-wrap: break-word; margin: 0px; padding: 0px\'>");
 document.writeln("		157期</font></b></td>");
 document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\' style=\'height: 26px\'>");
-document.writeln("		<font face=\'微软雅黑\'>开:00</font></td>");
+document.writeln("		<font face=\'微软雅黑\'>开:猴45</font></td>");
 document.writeln("		</tr>");
 document.writeln("		</table>");
 document.writeln("		");

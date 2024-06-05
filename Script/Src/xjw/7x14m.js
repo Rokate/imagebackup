@@ -41,6 +41,33 @@ document.writeln("");
 
 
 
+
+document.writeln("<!--开始 -->");
+document.writeln("        <table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' class=\'qxtable\' id=\'table1661\'>");
+document.writeln("			<tr>");
+document.writeln("				<td style=\'text-align:center; background: #FFFFFF;\' width=\'100%\'>");
+document.writeln("				<b><font size=\'5\'>158期</font><font color=\"#FF00FF\">七肖中特 86563.com长期跟踪</font></b></td>");
+document.writeln("			</tr>");
+document.writeln("						<tr>");
+document.writeln("				<td style=\'text-align: center\' bgcolor=\'#FFFFFF\'>");
+document.writeln("				<b>");
+document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(7.)肖特:</font><font color=\'#00CC66\' style=\"font-size: 14pt\">鼠龙虎马猴狗蛇</font></b></td>");
+document.writeln("			</tr>");
+document.writeln("			");
+document.writeln("			<tr>");
+document.writeln("				<td style=\'text-align: center\' bgcolor=\'#FFFFFF\'>");
+document.writeln("				<b>");
+document.writeln("				<font color=\'#000080\'>稳赚特码（14码）<BR></font>");
+document.writeln("				<font color=\'#00CC66\' style=\"font-size: 13pt\">29.17.25.37.15.39.23.47.45.21.43.31.12.48</font></b></td>");
+document.writeln("			</tr>					");
+document.writeln("</table> 			");
+document.writeln("<!--结束 -->");
+document.writeln("");
+document.writeln("");
+
+
+
+
 document.writeln("<!--开始 -->");
 document.writeln("        <table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' class=\'qxtable\' id=\'table1661\'>");
 document.writeln("			<tr>");
@@ -50,7 +77,7 @@ document.writeln("			</tr>");
 document.writeln("						<tr>");
 document.writeln("				<td style=\'text-align: center\' bgcolor=\'#FFFFFF\'>");
 document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(7.)肖特:</font><font color=\'#00CC66\' style=\"font-size: 14pt\">龙虎猴鼠牛猪马</font></b></td>");
+document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(7.)肖特:</font><font color=\'#00CC66\' style=\"font-size: 14pt\">龙虎<span style='background-color: #FFFF00\'>猴</span>鼠牛猪马</font></b></td>");
 document.writeln("			</tr>");
 document.writeln("			");
 document.writeln("			<tr>");
