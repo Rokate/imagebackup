@@ -49,7 +49,7 @@ document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' widt
 document.writeln("		<b><font face=\'微软雅黑\'>159期</font></b></td>");
 document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowspan=\'3\'>");
 document.writeln("		<strong>");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>牛鸡马猪</span>/font>");
+document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>牛鸡马猪</span></font>");
 document.writeln("		<font face=\'微软雅黑\' color=\'#FF0000\'>（04.16.20.32.11.23.30.42）</span></font></strong><font face=\'微软雅黑\' color=\'#FF0000\'></span></font></td>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
 document.writeln("		<font face=\'微软雅黑\'>开:000</font></td>");
@@ -89,7 +89,7 @@ document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' widt
 document.writeln("		<b><font face=\'微软雅黑\'>156期</font></b></td>");
 document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowspan=\'3\'>");
 document.writeln("		<strong>");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>狗蛇猴<span style='background-color: #FFFF00\'>鸡</span>/font>");
+document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>狗蛇猴<span style='background-color: #FFFF00\'>鸡</span></font>");
 document.writeln("		<font face=\'微软雅黑\' color=\'#FF0000\'>（07.31.12.36.21.33.20.32）</span></font></strong><font face=\'微软雅黑\' color=\'#FF0000\'></span></font></td>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
 document.writeln("		<font face=\'微软雅黑\'>开:猪42</font></td>");
