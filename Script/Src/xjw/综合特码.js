@@ -1,4 +1,4 @@
-﻿udocument.writeln("<head>");
+﻿document.writeln("<head>");
 document.writeln("<meta http-equiv=\'Content-Language\' content=\'zh-cn\'>");
 document.writeln("<meta http-equiv=\'Content-Type\' content=\'text/html; charset=utf-8\'>");
 document.writeln("</head>");
