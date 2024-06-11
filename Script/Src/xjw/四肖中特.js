@@ -26,6 +26,24 @@ document.writeln("");
 document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 
+
+
+
+
+document.writeln("				<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>166期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开中00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#6600CC\'>【？】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：更新中</span></tr>	");
+document.writeln("");
+document.writeln("");
+
+
+
+
 document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
@@ -39,29 +57,15 @@ document.writeln("");
 
 
 
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>164期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开中00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【？】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：更新中</span></tr>	");
 document.writeln("");
 document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("	");
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>163期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【快马加鞭取特码，蛇鼠羊兔是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>蛇鼠羊兔</font></tr>");
+document.writeln("		<span><font size=\'4\'>164期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#6600CC\'>【看中羊头两只角，马鸡兔猪是特码】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>马鸡兔猪</font></tr>");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");

@@ -37,6 +37,21 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
+document.writeln("		<span><font size=\'4\'>166期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开中00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【→七十边出←】</font><font color=\'#6600CC\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>解：00中.00中.00中.00中.00中.00中</font></font></span></td></tr>");
+document.writeln("	");
+document.writeln("");
+
+
+
+document.writeln("");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p>");
+document.writeln("	");
 document.writeln("		<span><font size=\'4\'>165期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开中00</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#FF00FF\'>【→七十边出←】</font><font color=\'#6600CC\'><br>");
 document.writeln("		</font><font color=\'#0000FF\'>解：00中.00中.00中.00中.00中.00中</font></font></span></td></tr>");
@@ -47,33 +62,19 @@ document.writeln("");
 
 
 document.writeln("");
-document.writeln("");
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>164期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开中00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【→七十边出←】</font><font color=\'#6600CC\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>解：00中.00中.00中.00中.00中.00中</font></font></span></td></tr>");
+document.writeln("		<span><font size=\'4\'>164期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【→九六两边出←】</font><font color=\'#6600CC\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>解：08鸡.09猴.10羊.05鼠.06猪.07狗</font></font></span></td></tr>");
 document.writeln("	");
 document.writeln("");
-
-
-
-
 document.writeln("");
 document.writeln("");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>163期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【→七十边出←】</font><font color=\'#6600CC\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>解：06猪.07狗.08鸡.09猴.10羊.11马</font></font></span></td></tr>");
-document.writeln("	");
-document.writeln("");
+
 
 
 
