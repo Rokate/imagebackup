@@ -25,33 +25,16 @@ document.writeln("");
 
 
 
-document.writeln("	");
+
+
 document.writeln("		<!--开始-->");
 document.writeln("				<tr style=\'box-sizing: border-box;\'>");
 document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("			165期<font color=\'#0000FF\'>一波半爆特</font></font><font color=\'#008000\' style=\'margin:0px; padding:0px; font-size: 15pt; \'>【绿波+蓝双】</font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开<font color=\'#FF0000\'>？00</font>准</font></font></p></td>");
+document.writeln("			168期<font color=\'#0000FF\'>一波半爆特</font></font><font color=\'#008000\' style=\'margin:0px; padding:0px; font-size: 15pt; \'>【中中+中中】</font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开<font color=\'#FF0000\'>中00</font>准</font></font></p></td>");
 document.writeln("		</tr>");
 document.writeln("<!--结束-->");
-document.writeln("");
-
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("			162期<font color=\'#0000FF\'>一波半爆特</font></font><font color=\'#008000\' style=\'margin:0px; padding:0px; font-size: 15pt; \'>【<span style='background-color: #FFFF00\'>红波</span>+绿单】</font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开<font color=\'#FF0000\'>龙01</font>准</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
 
 
 
@@ -61,53 +44,9 @@ document.writeln("				<tr style=\'box-sizing: border-box;\'>");
 document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("			161期<font color=\'#0000FF\'>一波半爆特</font></font><font color=\'#008000\' style=\'margin:0px; padding:0px; font-size: 15pt; \'>【<span style='background-color: #FFFF00\'>红波</span>+蓝单】</font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开<font color=\'#FF0000\'>马35</font>准</font></font></p></td>");
+document.writeln("			167期<font color=\'#0000FF\'>一波半爆特</font></font><font color=\'#008000\' style=\'margin:0px; padding:0px; font-size: 15pt; \'>【中中+中中】</font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开<font color=\'#FF0000\'>中00</font>准</font></font></p></td>");
 document.writeln("		</tr>");
 document.writeln("<!--结束-->");
-
-
-
-document.writeln("	");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("			158期<font color=\'#0000FF\'>一波半爆特</font></font><font color=\'#008000\' style=\'margin:0px; padding:0px; font-size: 15pt; \'>【<span style='background-color: #FFFF00\'>蓝波</span>+绿双】</font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开<font color=\'#FF0000\'>鸡20</font>准</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("			157期<font color=\'#0000FF\'>一波半爆特</font></font><font color=\'#008000\' style=\'margin:0px; padding:0px; font-size: 15pt; \'>【<span style='background-color: #FFFF00\'>红波</span>+绿单】</font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开<font color=\'#FF0000\'>猴45</font>准</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-
-
-
-
-
-document.writeln("	");
-document.writeln("<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("			156期<font color=\'#0000FF\'>一波半爆特</font></font><font color=\'#008000\' style=\'margin:0px; padding:0px; font-size: 15pt; \'>【红波+<span style='background-color: #FFFF00\'>蓝双</span>】</font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开<font color=\'#FF0000\'>猪42</font>准</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
 
 
 
@@ -119,59 +58,9 @@ document.writeln("				<tr style=\'box-sizing: border-box;\'>");
 document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("			153期<font color=\'#0000FF\'>一波半爆特</font></font><font color=\'#008000\' style=\'margin:0px; padding:0px; font-size: 15pt; \'>【红波+<span style='background-color: #FFFF00\'>绿双</span>】</font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开<font color=\'#FF0000\'>鸡32</font>准</font></font></p></td>");
+document.writeln("			166期<font color=\'#0000FF\'>一波半爆特</font></font><font color=\'#008000\' style=\'margin:0px; padding:0px; font-size: 15pt; \'>【红波+绿双】</font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开<font color=\'#FF0000\'>？00</font>准</font></font></p></td>");
 document.writeln("		</tr>");
 document.writeln("<!--结束-->");
-
-
-
-
-
-document.writeln("	");
-document.writeln("		<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("			152期<font color=\'#0000FF\'>一波半爆特</font></font><font color=\'#008000\' style=\'margin:0px; padding:0px; font-size: 15pt; \'>【<span style='background-color: #FFFF00\'>绿波</span>+蓝双】</font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开<font color=\'#FF0000\'>猴21</font>准</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("			151期<font color=\'#0000FF\'>一波半爆特</font></font><font color=\'#008000\' style=\'margin:0px; padding:0px; font-size: 15pt; \'>【<span style='background-color: #FFFF00\'>蓝波</span>+红双】</font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开<font color=\'#FF0000\'>蛇48</font>准</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("		<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font style=\'margin: 0px; padding: 0px; font-size:13pt\'>");
-document.writeln("			150期<font color=\'#0000FF\'>一波半爆特</font></font><font color=\'#008000\' style=\'margin:0px; padding:0px; font-size: 15pt; \'>【<span style='background-color: #FFFF00\'>绿波</span>+红单】</font><font style=\'margin: 0px; padding: 0px; font-size:13pt\'>开<font color=\'#FF0000\'>猴33</font>准</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
 
 
 
