@@ -69,7 +69,8 @@ document.writeln("	");
 
 
 
-document.writeln("167期团队十肖：牛鸡狗马虎蛇猴兔龙羊<br>");
+document.writeln("168期团队十肖：鸡鼠兔猴马羊虎狗龙蛇<br>");
+document.writeln("167期团队十肖：牛鸡狗马虎蛇猴<span style='background-color: #FFFF00\'兔</span>龙羊<br>");
 document.writeln("166期团队十肖：鼠猴蛇羊虎狗兔龙牛<span style='background-color: #FFFF00\'>鸡</span><br>");
 document.writeln("165期团队十肖：鼠猴蛇羊<span style='background-color: #FFFF00\'>虎</span>狗兔龙牛鸡<br>");
 document.writeln("164期团队十肖：鼠猴马羊虎狗兔猪龙<span style='background-color: #FFFF00\'>鸡</span><br>");
@@ -123,7 +124,8 @@ document.writeln("<br>");
 
 
 
-document.writeln("167期团队八尾：01245789<br>");
+document.writeln("168期团队八尾：12356789<br>");
+document.writeln("167期团队八尾：012<span style='background-color: #FFFF00\'>4</span>5789<br>");
 document.writeln("166期团队八尾：01<span style='background-color: #FFFF00\'>2</span>34789<br>");
 document.writeln("165期团队八尾：012<span style='background-color: #FFFF00\'>3</span>5679<br>");
 document.writeln("164期团队八尾：013<span style='background-color: #FFFF00\'>4</span>5678<br>");
@@ -163,7 +165,7 @@ document.writeln("<br>");
 
 
 
-document.writeln("167期团队四头：0234<br>");
+document.writeln("168期团队四头：1234<br>");
 document.writeln("166期团队四头：01<span style='background-color: #FFFF00\'>3</span>4<br>");
 document.writeln("165期团队四头：<span style='background-color: #FFFF00\'>0</span>123<br>");
 document.writeln("164期团队四头：012<span style='background-color: #FFFF00\'>4</span><br>");
@@ -205,7 +207,8 @@ document.writeln("");
 
 
 
-document.writeln("167期团队四行：木水火土<br>");
+document.writeln("168期团队四行：金木火土<br>");
+document.writeln("167期团队四行：<span style='background-color: #FFFF00\'>木</span>水火土<br>");
 document.writeln("166期团队四行：<span style='background-color: #FFFF00\'>金</span>木火土<br>");
 document.writeln("165期团队四行：<span style='background-color: #FFFF00\'>金</span>木水火<br>");
 document.writeln("164期团队四行：金<span style='background-color: #FFFF00\'>木</span>火土<br>");
