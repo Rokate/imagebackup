@@ -82,7 +82,7 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>167期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开兔14</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#6600CC\'>【棋逢敌手方可喜，虎狗兔猪是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>虎狗<span style='background-color: #FFFF00\'兔</span>猪</font></tr>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>虎狗<span style='background-color: #FFFF00\'>兔</span>猪</font></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

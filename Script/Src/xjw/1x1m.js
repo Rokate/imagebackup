@@ -379,7 +379,7 @@ document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("		167期一肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\"><b>");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' size=\"5\"> ");
-document.writeln("		<span style='background-color: #FFFF00\'兔</span></font></b></td> ");
+document.writeln("		<span style='background-color: #FFFF00\'>兔</span></font></b></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:兔14</font></td> ");
 document.writeln("    </tr>");
 document.writeln("    <tr height=\'31\'> ");
@@ -387,7 +387,7 @@ document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("		167期三肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
-document.writeln("		<span style='background-color: #FFFF00\'兔</span>龙蛇</font></td> ");
+document.writeln("		<span style='background-color: #FFFF00\'>兔</span>龙蛇</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:兔14</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("    <tr height=\'31\'> ");
@@ -395,7 +395,7 @@ document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("		167期五肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
-document.writeln("		<span style='background-color: #FFFF00\'兔</span>龙蛇马羊</font></td> ");
+document.writeln("		<span style='background-color: #FFFF00\'>兔</span>龙蛇马羊</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:兔14</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("    ");
@@ -404,7 +404,7 @@ document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("		167期七肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
-document.writeln("		<span style='background-color: #FFFF00\'兔</span>龙蛇马羊猴鸡</font></td> ");
+document.writeln("		<span style='background-color: #FFFF00\'>兔</span>龙蛇马羊猴鸡</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:兔14</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("    ");
@@ -413,7 +413,7 @@ document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("		167期九肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
-document.writeln("		<span style='background-color: #FFFF00\'兔</span>龙蛇马羊猴鸡狗猪</font></td> ");
+document.writeln("		<span style='background-color: #FFFF00\'>兔</span>龙蛇马羊猴鸡狗猪</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:兔14</font></td> ");
 document.writeln("    </tr> ");
 document.writeln(" ");
