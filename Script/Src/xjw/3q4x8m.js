@@ -88,7 +88,7 @@ document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' widt
 document.writeln("		<b><font face=\'微软雅黑\'>171期</font></b></td>");
 document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowspan=\'3\'>");
 document.writeln("		<strong>");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>蛇狗<span style='background-color: #FFFF00\'猴</span>鼠</span></font>");
+document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>蛇狗<span style='background-color: #FFFF00\'>猴</span>鼠</span></font>");
 document.writeln("		<font face=\'微软雅黑\' color=\'#FF0000\'>（36.48.07.31.09.21.05.41）</span></font></strong><font face=\'微软雅黑\' color=\'#FF0000\'></span></font></td>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
 document.writeln("		<font face=\'微软雅黑\'>开:牛16</font></td>");

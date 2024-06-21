@@ -122,7 +122,7 @@ document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<b>");
 document.writeln("");
 document.writeln("		<font color=\"#0000FF\">169期【玄机特码诗】猜透必中开（猴45）</font><br>");
-document.writeln("①解特九肖：蛇兔羊鸡猪牛马<span style='background-color: #FFFF00\'猴</span>狗<br>");
+document.writeln("①解特九肖：蛇兔羊鸡猪牛马<span style='background-color: #FFFF00\'>猴</span>狗<br>");
 document.writeln("②解特五肖：蛇兔羊鸡猪<br>");
 document.writeln("③解特18码：24.36.26.14.34.46.08.32.42.18.04.28.35.47.09.33.19.31</b></font></p></td>");
 document.writeln("    </tr>     ");

@@ -104,7 +104,7 @@ document.writeln("		<p>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'>169期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开猴45</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#6600CC\'>【湖光秋月三四和，狗虎猴兔是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：狗虎<span style='background-color: #FFFF00\'猴</span>兔</span></tr>	");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：狗虎<span style='background-color: #FFFF00\'>猴</span>兔</span></tr>	");
 document.writeln("");
 document.writeln("");
 

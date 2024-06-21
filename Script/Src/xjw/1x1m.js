@@ -416,7 +416,7 @@ document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("		169期九肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
-document.writeln("		蛇兔羊鸡猪牛马<span style='background-color: #FFFF00\'猴</span>狗</font></td> ");
+document.writeln("		蛇兔羊鸡猪牛马<span style='background-color: #FFFF00\'>猴</span>狗</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:猴45</font></td> ");
 document.writeln("    </tr> ");
 document.writeln(" ");
