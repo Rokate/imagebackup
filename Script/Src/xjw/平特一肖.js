@@ -21,34 +21,39 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 document.writeln("	   		");
 
 
-document.writeln("			    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>175期:【？】开<span style=\'background-color: #FFFF00\'>00</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【更新中】</td>");
-document.writeln("		</tr>");
-document.writeln("");
 
 
-
-document.writeln("			    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>174期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【羊群里跑出个骆驼—抖什么威风】</td>");
-document.writeln("		</tr>");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("	");
-document.writeln("			    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>171期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>42</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【猪脑壳—死不开窃】</td>");
-document.writeln("		</tr>");
 document.writeln("		");
+document.writeln("			    <tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<span><font size=\'4\'>177期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【更新中上】</td>");
+document.writeln("		</tr>");
+
+
+
+
+
+document.writeln("		");
+document.writeln("			    <tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<span><font size=\'4\'>176期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【更新中上】</td>");
+document.writeln("		</tr>");
+
+
+
+
+
+
+
+document.writeln("		");
+document.writeln("			    <tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<span><font size=\'4\'>175期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【兔子撵乌龟—赶得上】</td>");
+document.writeln("		</tr>");
+
 
 
 
