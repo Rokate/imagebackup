@@ -23,12 +23,14 @@ document.writeln("	   		");
 
 
 
-document.writeln("		");
-document.writeln("			    <tr>");
+document.writeln("				    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("		<span><font size=\'4\'>177期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【更新中上】</td>");
+document.writeln("		<font color=\'#FF00FF\'>【老鼠钻到风箱里—两头受气】</td>");
 document.writeln("		</tr>");
+document.writeln("		");
+document.writeln("");
+
 
 
 
@@ -36,7 +38,7 @@ document.writeln("		</tr>");
 document.writeln("                         <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>176期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<span><font size=\'4\'>176期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>28</span><br>");
 document.writeln("		<font color=\'#FF00FF\'>【牛吃卷心菜—各人心中爱】</td>");
 document.writeln("	</tr>");
 document.writeln("		");
