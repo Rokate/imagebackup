@@ -44,34 +44,17 @@ document.writeln("");
 
 
 
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("178期红色记忆【独家16码】开？00准<br>");
-document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
-document.writeln("（22.43.10.42.08.24.13.35）<br>");
-document.writeln("（26.11.01.21.44.28.04.02）</font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-
-
-
-
 
 document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("175期红色记忆【独家16码】开牛40准<br>");
+document.writeln("181期红色记忆【独家16码】开中00准<br>");
 document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
-document.writeln("（42.29.47.18.35.09.28.49）<br>");
-document.writeln("（<span style='background-color: #FFFF00\'>40</span>.13.01.22.12.33.06.30）</font></td>");
+document.writeln("（00.00.00.00.00.00.00.00）<br>");
+document.writeln("（00.00.00.00.00.00.00.00）</font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
-
-
-
 
 
 
@@ -80,14 +63,24 @@ document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("172期红色记忆【独家16码】开鸡32准<br>");
+document.writeln("180期红色记忆【独家16码】开中00准<br>");
 document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
-document.writeln("（39.23.44.15.07.27.47.38）<br>");
-document.writeln("（04.46.35.09.<span style='background-color: #FFFF00\'>32</span>.26.16.01）</font></td>");
+document.writeln("（00.00.00.00.00.00.00.00）<br>");
+document.writeln("（00.00.00.00.00.00.00.00）</font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 
 
+document.writeln("	<!----开始---->    ");
+document.writeln("<tr>");
+document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
+document.writeln("<p align=\"center\"><font size=\"4\">");
+document.writeln("179期红色记忆【独家16码】开？00准<br>");
+document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
+document.writeln("（24.02.23.25.22.11.34.08）<br>");
+document.writeln("（07.41.30.37.45.04.06.03）</font></td>");
+document.writeln("</tr>			");
+document.writeln("<!----结束----> ");
 
 
 
