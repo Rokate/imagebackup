@@ -25,24 +25,14 @@ document.writeln("		<tr style=\'box-sizing: border-box;\'>");
 document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			183期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'>0.0.0头</font>』<font color=\'#0000FF\'>开中00准</font></font></td>");
+document.writeln("			183期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'>2.3.4头</font>』<font color=\'#0000FF\'>开？00准</font></font></td>");
 document.writeln("		</tr>");
 document.writeln("");
+document.writeln("			");
 document.writeln("");
 document.writeln("");
 
 
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			182期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'>0.3.4头</font>』<font color=\'#0000FF\'>开？00准</font></font></td>");
-document.writeln("		</tr>");
-document.writeln("				");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-document.writeln("");
 
 
 
@@ -63,5 +53,5 @@ document.writeln("");
 
 document.writeln("		");
 document.writeln("<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' href=\'https://76891.com/#868627\' style=\'text-decoration: none\'><img src=/yyy123.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 15pt\'>进入澳彩网</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>76891.com</font></span></a></strong></tr></table>		");
+document.writeln("			<a target=\'_blank\' href=\'https://aa335.www76891a.com:8443/#76891\' style=\'text-decoration: none\'><img src=/yyy123.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 15pt\'>进入博彩网</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>76891.com</font></span></a></strong></tr></table>		");
 document.writeln("			</table>");
