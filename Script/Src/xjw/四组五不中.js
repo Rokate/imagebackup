@@ -43,13 +43,72 @@ document.writeln("");
 document.writeln("");
 
 
+
+
 document.writeln("   <!--开始--->");
 document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>");
-document.writeln("		183期：开00.00.00.00.00.00T00</font></font></td>");
+document.writeln("		184期：开00.00.00.00.00.00T00</font></font></td>");
+document.writeln("    </tr>");
+document.writeln("    ");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=35 bgcolor=\'#FFFFFF\' ><p><b>");
+document.writeln("		<font color=\'#FF0000\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("		【平码小娱乐：共同探讨彩界真理】</font><font color=\'#6600CC\' style=\'font-size: 12pt\' face=\'微软雅黑\'><br></font>");
+document.writeln("		<font color=\'#FF00FF\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		平特连肖：</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><Br>");
+document.writeln("		【猪狗拖猴羊】<Br>");
+document.writeln("06.42.07.31拖21.33.34.46<Br>	");
+document.writeln("	（16组2中2）<Br><Br>	");
+document.writeln("		");
+document.writeln("		");
+document.writeln("</font>");
+document.writeln("		<font color=\'#FF00FF\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		");
+document.writeln("		平特连尾：</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><Br>");
+document.writeln("	【23拖79】<br>22.32.42.03.13.23拖07.17.27.29.39.49<Br>		");
+document.writeln("	（36组2中2）<Br><Br>	");
+document.writeln("		");
+document.writeln("</font>");
+document.writeln("		<font color=\'#FF00FF\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
+document.writeln("		");
+document.writeln("		平码五不中：</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><Br>");
+document.writeln("		①【02.05.16.17.18】<BR> ②【22.30.31.32.39】<Br>");
+document.writeln("<Br>");
+document.writeln("</font></b></td>");
+document.writeln("    </tr>");
+document.writeln("");
+document.writeln("    ");
+document.writeln("    	<tr>");
+document.writeln("      <td align=\'left\' height=28 bgcolor=\'#0000FF\' ><p><b>");
+document.writeln("		<font face=\'微软雅黑\' size=\'2\'>");
+document.writeln("		<a target=\'_blank\' href=\'https://j.1999xz.com:1999/\' style=\'text-decoration: none\'>");
+document.writeln("		<font color=\'#FFFFFF\'>关注玄机网</font></font><font color=\'#FFFF00\' size=\'4\' face=\'微软雅黑\'>868680.com</font><font color=\'#FFFFFF\' face=\'微软雅黑\' size=\'2\'>最早看料</font></a><font face=\'微软雅黑\' size=\'2\'><font color=\'#FFFFFF\'> </font>  ");
+document.writeln("		</font>  ");
+document.writeln("		</b> </td>");
+document.writeln("    </tr>");
+document.writeln("    ");
+document.writeln("    <!--结束-->     ");
+
+
+
+
+
+
+
+
+document.writeln("   <!--开始--->");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>");
+document.writeln("		183期：开33.49.15.26.02.11T25</font></font></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -69,14 +128,14 @@ document.writeln("		<font color=\'#FF00FF\' style=\'font-size: 12pt\' face=\'微
 document.writeln("		");
 document.writeln("		");
 document.writeln("		平特连尾：</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><Br>");
-document.writeln("	【36拖49】<br>03.13.23.16.26.36拖04.14.24.19.29.39<Br>		");
+document.writeln("	【<span style='background-color: #FFFF00\'>36</span>拖49】<br>03.13.23.16.26.36拖04.14.24.19.29.39<Br>		");
 document.writeln("	（36组2中2）<Br><Br>	");
 document.writeln("		");
 document.writeln("</font>");
 document.writeln("		<font color=\'#FF00FF\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		平码五不中：</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><Br>");
-document.writeln("		①【05.07.16.17.18】<BR> ②【19.23.34.35.38】<Br>");
+document.writeln("		①【<span style='background-color: #FFFF00\'>05.07.16.17.18</span>】<BR> ②【<span style='background-color: #FFFF00\'>19.23.34.35.38</span>】<Br>");
 document.writeln("<Br>");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");
