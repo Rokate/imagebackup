@@ -29,7 +29,7 @@ document.writeln("</style>");
 document.writeln("");
 document.writeln("<body>");
 document.writeln("  ");
-document.writeln("<img src=\"https://tk2.ku33a.net:4949/col/186/amzy.jpg\" alt=\"\" width=\"100%\">");
+document.writeln("<img src=\"https://tk2.cgpoweredu.net:4949/col/186/amzy.jpg\" alt=\"\" width=\"100%\">");
 document.writeln("");
 document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
