@@ -35,8 +35,8 @@ document.writeln("	");
 document.writeln("			<tr style=\'box-sizing: border-box;\'>");
 document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			");
-document.writeln("<a target=\'_blank\' href=\'https://x1.xn--c2be8bbg0fl3ewb.xn--i1b6b1a6a2e:8443/#/picture/28585\'><img src=\'https://tk2.cgpoweredu.net:4949/col/187/c002.jpg\'  width=\'49%\'></a>");
-document.writeln("<a target=\'_blank\' href=\'https://x1.xn--c2be8bbg0fl3ewb.xn--i1b6b1a6a2e:8443/#/picture/209029\'><img src=\'https://tk2.cgpoweredu.net:4949/col/187/hj44.jpg\'  width=\'49%\'></a>");
+document.writeln("<a target=\'_blank\' href=\'https://x1.xn--c2be8bbg0fl3ewb.xn--i1b6b1a6a2e:8443/#/picture/28585\'><img src=\'https://tk2.cgpoweredu.net:4949/col/188/c002.jpg\'  width=\'49%\'></a>");
+document.writeln("<a target=\'_blank\' href=\'https://x1.xn--c2be8bbg0fl3ewb.xn--i1b6b1a6a2e:8443/#/picture/209029\'><img src=\'https://tk2.cgpoweredu.net:4949/col/188/hj44.jpg\'  width=\'49%\'></a>");
 document.writeln("		</td></tr>");
 document.writeln("		");
 document.writeln("		");
@@ -51,6 +51,28 @@ document.writeln("		");
 
 
 
+document.writeln("");
+document.writeln("");
+document.writeln("					<!--开始-->");
+document.writeln("				<tr style=\'box-sizing: border-box;\'>");
+document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
+document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
+document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
+document.writeln("			188期玄机网禁两肖<font color=\'#FF0000\'>【狗鸡】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
+document.writeln("			188期澳门杀两肖图<font color=\'#FF0000\'>【更新】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
+document.writeln("			188期澳门图库禁肖<font color=\'#FF0000\'>【更新】</font>特开<font color=\'#0000FF\'>？00</font>准</font></font></p></td>");
+document.writeln("		</tr>");
+document.writeln("<!--推广-->");
+document.writeln("				<tr style=\'box-sizing: border-box;\'>");
+document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\' bgcolor=\'#FFFF00\'>");
+document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
+document.writeln("			<a target=\'_blank\' href=\'https://j.1999xz.com:1999/\' style=\'text-decoration: none\'><img src=/yyy123.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 15pt\'>点击投注澳门六合彩</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>1999.cc</font></span></a></strong>");
+document.writeln("</p></td></tr>");
+document.writeln("<!--结束-->	");
+
+
+
+
 
 document.writeln("");
 document.writeln("");
@@ -61,9 +83,9 @@ document.writeln("				<tr style=\'box-sizing: border-box;\'>");
 document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			187期玄机网禁两肖<font color=\'#FF0000\'>【猴虎】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
-document.writeln("			187期澳门杀两肖图<font color=\'#FF0000\'>【牛龙】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
-document.writeln("			187期澳门图库禁肖<font color=\'#FF0000\'>【牛马】</font>特开<font color=\'#0000FF\'>？00</font>准</font></font></p></td>");
+document.writeln("			187期玄机网禁两肖<font color=\'#FF0000\'>【猴虎】</font>特开<font color=\'#0000FF\'>虎39</font>准<br>");
+document.writeln("			187期澳门杀两肖图<font color=\'#FF0000\'>【牛龙】</font>特开<font color=\'#0000FF\'>虎39</font>准<br>");
+document.writeln("			187期澳门图库禁肖<font color=\'#FF0000\'>【牛马】</font>特开<font color=\'#0000FF\'>虎39</font>准</font></font></p></td>");
 document.writeln("		</tr>");
 document.writeln("<!--推广-->");
 document.writeln("				<tr style=\'box-sizing: border-box;\'>");
