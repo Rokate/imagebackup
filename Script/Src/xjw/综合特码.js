@@ -69,7 +69,8 @@ document.writeln("	");
 
 
 
-document.writeln("188期团队十肖：鼠猴马羊虎狗兔龙牛鸡<br>");
+document.writeln("189期团队十肖：鼠猴蛇马虎狗兔猪牛鸡<br>");
+document.writeln("188期团队十肖：鼠猴马<span style='background-color: #FFFF00\'>羊</span>虎狗兔龙牛鸡<br>");
 document.writeln("187期团队十肖：鼠蛇马羊<span style='background-color: #FFFF00\'>虎</span>狗猪龙牛鸡<br>");
 document.writeln("186期团队十肖：猴蛇马猪牛龙兔狗<span style='background-color: #FFFF00\'>鼠</span>羊<br>");
 document.writeln("185期团队十肖：牛兔<span style='background-color: #FFFF00\'>猪</span>猴马羊鸡狗鼠龙<br>");
@@ -143,7 +144,8 @@ document.writeln("<br>");
 
 
 
-document.writeln("188期团队八尾：01345679<br>");
+document.writeln("189期团队八尾：02345689<br>");
+document.writeln("188期团队八尾：01345<span style='background-color: #FFFF00\'>6</span>79<br>");
 document.writeln("187期团队八尾：0145678<span style='background-color: #FFFF00\'>9</span><br>");
 document.writeln("186期团队八尾：0125678<span style='background-color: #FFFF00\'>9</span><br>");
 document.writeln("185期团队八尾：0<span style='background-color: #FFFF00\'>2</span>345789<br>");
@@ -203,7 +205,8 @@ document.writeln("<br>");
 
 
 
-document.writeln("188期团队四头：0134<br>");
+document.writeln("189期团队四头：0124<br>");
+document.writeln("188期团队四头：013<span style='background-color: #FFFF00\'>4</span><br>");
 document.writeln("187期团队四头：12<span style='background-color: #FFFF00\'>3</span>4<br>");
 document.writeln("186期团队四头：01<span style='background-color: #FFFF00\'>2</span>3<br>");
 document.writeln("185期团队四头：012<span style='background-color: #FFFF00\'>4</span><br>");
@@ -264,7 +267,8 @@ document.writeln("");
 
 
 
-document.writeln("188期团队四行：金木火土<br>");
+document.writeln("189期团队四行：金水火土<br>");
+document.writeln("188期团队四行：金木<span style='background-color: #FFFF00\'>火</span>土<br>");
 document.writeln("187期团队四行：木水<span style='background-color: #FFFF00\'>火</span>土<br>");
 document.writeln("186期团队四行：金木<span style='background-color: #FFFF00\'>水</span>火<br>");
 document.writeln("185期团队四行：金木<span style='background-color: #FFFF00\'>水</span>火<br>");
