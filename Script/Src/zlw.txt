@@ -20,7 +20,7 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("188期</font><font color=\'#FF0000\' size=\"5\">（兔蛇牛+7351尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("189期</font><font color=\'#FF0000\' size=\"5\">（虎狗鸡+6249尾）</font><font size=\'4\'>开？00</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 
@@ -58,10 +58,17 @@ document.writeln("		<tr><td height=40><p style=text-align:center><strong>");
 document.writeln("			<a target=\'_blank\' href=\'https://ghgh25.www57386a.com:8443/#62103\' style=\'text-decoration: none\'><img src=/images/33567.gif style=\'width:20px\' height=\'19\'><font style=\'font-size: 14pt\'><span style=font-family:楷体;color:#00f>进入澳门马会传真</span></font><span style=font-family:楷体;><font color=\'#FF0000\' size=\'5\'>57386</font><font color=\'#FF0000\' style=\'font-size: 16pt\'>.com</font></span></a></strong></td></tr></table>");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	188期<font color=\'#FF0000\'>（大数+0头）</font>开？00√</font></b></font></table>");
+document.writeln("	189期<font color=\'#FF0000\'>（小数+4头）</font>开？00√</font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	188期<font color=\'#FF0000\'>（<span style=\'background-color: #FFFF00\'>大数</span>+0头）</font>开羊46√</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("");
@@ -132,10 +139,12 @@ document.writeln("	<img src=/images/yh.gif style=\'width:20px\' height=\'19\'><b
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("188期：<font color=\'#0000FF\'>（野兽+牛鸡）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("189期：<font color=\'#0000FF\'>（家禽+猴龙）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+
 
 document.writeln("");
 document.writeln("<!--开始-->");
@@ -324,11 +333,20 @@ document.writeln("");
 
 
 
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>188期：</font>【<font color=\'#008000\'>单数+牛羊</font>】开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>189期：</font>【<font color=\'#008000\'>双数+龙虎</font>】开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>188期：</font>【<font color=\'#008000\'>单数+牛<span style=\'background-color: #FFFF00\'>羊</span></font>】开<font color=\'#FF0000\'>(羊46)</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("");
