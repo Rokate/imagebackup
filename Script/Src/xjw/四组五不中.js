@@ -51,7 +51,7 @@ document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>");
-document.writeln("		191期：开00.00.00.00.00.00T00</font></font></td>");
+document.writeln("		192期：开00.00.00.00.00.00T00</font></font></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -61,8 +61,8 @@ document.writeln("		【平码小娱乐：共同探讨彩界真理】</font><font
 document.writeln("		<font color=\'#FF00FF\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		平特连肖：</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><Br>");
-document.writeln("		【牛马拖鸡鼠】<Br>");
-document.writeln("04.40.47.35拖32.20.17.29	<Br>	");
+document.writeln("		【猴蛇拖马猪】<Br>");
+document.writeln("45.21.12.24拖35.47.18.30	<Br>	");
 document.writeln("	（16组2中2）<Br><Br>	");
 document.writeln("		");
 document.writeln("		");
@@ -71,14 +71,14 @@ document.writeln("		<font color=\'#FF00FF\' style=\'font-size: 12pt\' face=\'微
 document.writeln("		");
 document.writeln("		");
 document.writeln("		平特连尾：</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><Br>");
-document.writeln("	【14拖58】<br>01.21.31.24.44.14拖05.15.25.28.38.48<Br>		");
+document.writeln("	【43拖16】<br>24.34.44.03.13.23拖11.21.31.16.26.36<Br>		");
 document.writeln("	（36组2中2）<Br><Br>	");
 document.writeln("		");
 document.writeln("</font>");
 document.writeln("		<font color=\'#FF00FF\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		平码五不中：</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><Br>");
-document.writeln("		①【01.09.10.11.12】<BR> ②【24.25.26.30.38】<Br>");
+document.writeln("		①【04.05.09.10.11】<BR> ②【12.13.14.17.18】<Br>");
 document.writeln("<Br>");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");
@@ -95,6 +95,7 @@ document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("    <!--结束-->     ");
 document.writeln(" ");
+
 
 
 
