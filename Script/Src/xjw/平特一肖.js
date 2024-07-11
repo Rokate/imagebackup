@@ -20,11 +20,20 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 document.writeln("	   		");
 
+document.writeln("			    <tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<span><font size=\'4\'>194期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【狗吠月亮—少见多怪】</td>");
+document.writeln("		</tr>");
+document.writeln("");
+
+
+
 
 
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>193期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<span><font size=\'4\'>193期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>04</span><br>");
 document.writeln("		<font color=\'#FF00FF\'>【老牛上了鼻绳—跑不了】</td>");
 document.writeln("		</tr>");
 document.writeln("");
