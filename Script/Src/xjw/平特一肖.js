@@ -20,65 +20,19 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 document.writeln("	   		");
 
-document.writeln("                         <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>198期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【老虎当和尚—人面兽心】</td>");
-document.writeln("	</tr>");
-document.writeln("		");
-document.writeln("");
-
-
-
-
-
-
-
-document.writeln("	");
-document.writeln("			    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>195期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>05</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【鸡给黄鼠狼拜年—自投罗网】</td>");
-document.writeln("		</tr>");
-document.writeln("		");
-
-
-
-
-
-
 
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>193期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>04</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【老牛上了鼻绳—跑不了】</td>");
+document.writeln("		<span><font size=\'4\'>201期:【？】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【？】</td>");
 document.writeln("		</tr>");
 document.writeln("");
 
 
-
-
-
-
-
-document.writeln("				    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>190期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>41</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【老鼠钻到风箱里—两头受气】</td>");
-document.writeln("		</tr>");
-document.writeln("		");
-document.writeln("");
-
-
-
-
-
-
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>187期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>22</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【羊群里跑出个骆驼—抖什么威风】</td>");
+document.writeln("		<span><font size=\'4\'>200期:【？】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【？】</td>");
 document.writeln("		</tr>");
 document.writeln("");
 
@@ -86,104 +40,10 @@ document.writeln("");
 
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>186期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>43</span><br>");
+document.writeln("		<span><font size=\'4\'>199期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
 document.writeln("		<font color=\'#FF00FF\'>【狗吠月亮—少见多怪】</td>");
 document.writeln("		</tr>");
 document.writeln("");
-
-
-
-
-
-document.writeln("	");
-document.writeln("			    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>184期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>42</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【猪脑壳—死不开窃】</td>");
-document.writeln("		</tr>");
-document.writeln("		");
-
-
-document.writeln("	");
-document.writeln("");
-document.writeln("	    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>183期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>11</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【马槽里伸个驴头—多了一张嘴】</td>");
-document.writeln("		</tr>");
-document.writeln("	");
-document.writeln("");
-
-
-
-document.writeln("	");
-document.writeln("			    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>182期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>20</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【鸡给黄鼠狼拜年—自投罗网】</td>");
-document.writeln("		</tr>");
-document.writeln("		");
-
-
-
-
-
-
-document.writeln("			    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>180期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>28</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【老牛上了鼻绳—跑不了】</td>");
-document.writeln("		</tr>");
-document.writeln("");
-
-
-
-document.writeln("	");
-document.writeln("");
-document.writeln("	    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>179期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>35</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【马槽里伸个驴头—多了一张嘴】</td>");
-document.writeln("		</tr>");
-document.writeln("	");
-document.writeln("");
-
-
-
-
-document.writeln("				    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>177期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>17</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【老鼠钻到风箱里—两头受气】</td>");
-document.writeln("		</tr>");
-document.writeln("		");
-document.writeln("");
-
-
-
-
-
-document.writeln("                         <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>176期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>28</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【牛吃卷心菜—各人心中爱】</td>");
-document.writeln("	</tr>");
-document.writeln("		");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("		");
-document.writeln("			    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>175期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>14</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【兔子撵乌龟—赶得上】</td>");
-document.writeln("		</tr>");
-
 
 
 
