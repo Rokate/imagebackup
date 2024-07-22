@@ -49,31 +49,33 @@ document.writeln("");
 
 
 
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>205期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#6600CC\'>【红桃三月江如蓝，鼠虎猪兔是特码】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>鼠虎猪兔</font></tr>");
+document.writeln("");
+
+
+
+
+
+
 
 document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>205期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开中00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【待更新】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：待更新</span></tr>	");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>204期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>204期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开鼠05</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#6600CC\'>【趁火打劫虎出行，鼠马鸡兔是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：鼠马鸡兔</span></tr>	");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：<span style='background-color: #FFFF00\'>鼠</span>马鸡兔</span></tr>	");
 document.writeln("	");
 document.writeln("");
 document.writeln("");
