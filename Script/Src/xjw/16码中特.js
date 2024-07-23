@@ -42,6 +42,23 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
+
+
+
+document.writeln("	<!----开始---->    ");
+document.writeln("<tr>");
+document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
+document.writeln("<p align=\"center\"><font size=\"4\">");
+document.writeln("208期红色记忆【独家16码】开中00准<br>");
+document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
+document.writeln("（00.00.00.00.00.00.00.00）<br>");
+document.writeln("（00.00.00.00.00.00.00.00）</font></td>");
+document.writeln("</tr>			");
+document.writeln("<!----结束----> ");
+
+
+
+
 document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
@@ -54,32 +71,17 @@ document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 
 
-
 document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("206期红色记忆【独家16码】开中00准<br>");
+document.writeln("206期红色记忆【独家16码】开？00准<br>");
 document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
-document.writeln("（00.00.00.00.00.00.00.00）<br>");
-document.writeln("（00.00.00.00.00.00.00.00）</font></td>");
+document.writeln("（33.21.28.47.39.10.32.04）<br>");
+document.writeln("（45.19.14.40.16.42.41.31）</font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("205期红色记忆【独家16码】开？00准<br>");
-document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
-document.writeln("（24.02.23.25.22.11.34.08）<br>");
-document.writeln("（07.41.30.37.45.04.06.03）</font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
 
 
 
