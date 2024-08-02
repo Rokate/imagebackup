@@ -29,7 +29,7 @@ document.writeln("</style>");
 document.writeln("");
 document.writeln("<body>");
 document.writeln("  ");
-document.writeln("<img src=\"https://tk2.moshoushijie.net:4949/col/215/amzy.jpg\" alt=\"\" width=\"100%\">");
+document.writeln("<img src=\"https://tk2.moshoushijie.net:4949/col/216/amzy.jpg\" alt=\"\" width=\"100%\">");
 document.writeln("");
 document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
@@ -61,8 +61,27 @@ document.writeln("");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		<font color=\"#0000FF\">215期【玄机特码诗】猜透必中开（？00）</font><br>");
-document.writeln("①解特九肖：龙虎猴鼠牛猪马羊鸡<br>");
+document.writeln("		<font color=\"#0000FF\">216期【玄机特码诗】猜透必中开（？00）</font><br>");
+document.writeln("①解特九肖：鼠龙虎马猴狗蛇鸡猪<br>");
+document.writeln("②解特五肖：鼠龙虎马猴<br>");
+document.writeln("③解特18码：29.17.25.37.15.39.23.47.45.21.43.31.12.48.08.20.06.42</b></font></p></td>");
+document.writeln("    </tr>     ");
+document.writeln("     <!--结束-->");
+document.writeln("	");
+
+
+
+
+document.writeln("  <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=38 >");
+document.writeln("		<p align=\'left\'>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<b>");
+document.writeln("");
+document.writeln("		<font color=\"#0000FF\">215期【玄机特码诗】猜透必中开（鸡20）</font><br>");
+document.writeln("①解特九肖：龙虎猴鼠牛猪马羊<span style='background-color: #FFFF00\'>鸡</span><br>");
 document.writeln("②解特五肖：龙虎猴鼠牛<br>");
 document.writeln("③解特18码：25.37.15.39.21.33.29.17.40.28.06.42.11.47.22.46.08.44</b></font></p></td>");
 document.writeln("    </tr>     ");
