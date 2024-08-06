@@ -1,4 +1,4 @@
-﻿ document.writeln("");
+﻿document.writeln("");
 document.writeln("<head>");
 document.writeln("<meta http-equiv=\'Content-Language\' content=\'zh-cn\'>");
 document.writeln("<meta http-equiv=\'Content-Type\' content=\'text/html; charset=utf-8\'>");
@@ -59,8 +59,8 @@ document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
 document.writeln("			219期玄机网禁两肖<font color=\'#FF0000\'>【狗猴】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
-document.writeln("			219期澳门杀两肖图<font color=\'#FF0000\'>【更新】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
-document.writeln("			219期澳门图库禁肖<font color=\'#FF0000\'>【更新】</font>特开<font color=\'#0000FF\'>？00</font>准</font></font></p></td>");
+document.writeln("			219期澳门杀两肖图<font color=\'#FF0000\'>【蛇鼠】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
+document.writeln("			219期澳门图库禁肖<font color=\'#FF0000\'>【鼠蛇】</font>特开<font color=\'#0000FF\'>？00</font>准</font></font></p></td>");
 document.writeln("		</tr>");
 document.writeln("<!--推广-->");
 document.writeln("				<tr style=\'box-sizing: border-box;\'>");
