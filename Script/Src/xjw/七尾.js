@@ -24,6 +24,19 @@ document.writeln("");
 document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 
+document.writeln("	");
+document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<p>");
+document.writeln("		<b>");
+document.writeln("		<font size=\'4\'>");
+document.writeln("		<span>224期:<font color=\'#008000\'>无错七尾</font>【2068943】</span><font color=\'#FF0000\'>开？00</font></font></b></td></tr>");
+document.writeln("		");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+
+
 
 
 document.writeln("	");
@@ -31,7 +44,7 @@ document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>")
 document.writeln("		<p>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>223期:<font color=\'#008000\'>无错七尾</font>【3890127】</span><font color=\'#FF0000\'>开？00</font></font></b></td></tr>");
+document.writeln("		<span>223期:<font color=\'#008000\'>无错七尾</font>【389<span style='background-color: #FFFF00\'>0</span>127】</span><font color=\'#FF0000\'>开猪30</font></font></b></td></tr>");
 document.writeln("		");
 document.writeln("");
 document.writeln("");

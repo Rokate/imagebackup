@@ -33,13 +33,14 @@ document.writeln("		");
 
 
 
-document.writeln("	");
-document.writeln("			    <tr>");
+document.writeln("                         <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
 document.writeln("		<span><font size=\'4\'>224期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【更新中】</td>");
-document.writeln("		</tr>");
+document.writeln("		<font color=\'#FF00FF\'>【老虎当和尚—人面兽心】</td>");
+document.writeln("	</tr>");
 document.writeln("		");
+document.writeln("");
 
 
 
@@ -47,7 +48,7 @@ document.writeln("		");
 document.writeln("	");
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>223期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<span><font size=\'4\'>223期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>30</span><br>");
 document.writeln("		<font color=\'#FF00FF\'>【猪脑壳—死不开窃】</td>");
 document.writeln("		</tr>");
 document.writeln("		");
