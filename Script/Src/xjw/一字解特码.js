@@ -13,6 +13,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 
+
+
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("");
@@ -21,8 +23,30 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>227期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【槲】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开？00</font></span><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#006600\'>解特：02 03 04 05 06 07 16 17 18 19 20 21 31 32 33 34 35 38 41 45</td></tr>");
+document.writeln("		<span><font size=\'4\'>228期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【窜】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开？00</font></span><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#006600\'>解特：01 05 06 07 08 13 14 17 18 19 24 25 26 27 33 34 35 36 37 41</td></tr>");
+document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+
+
+
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>227期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【槲】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开鸡20</font></span><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#006600\'>解特：02 03 04 05 06 07 16 17 18 19 <span style='background-color: #FFFF00\'>20</span> 21 31 32 33 34 35 38 41 45</td></tr>");
 document.writeln("<!--结束-->");
 
 
