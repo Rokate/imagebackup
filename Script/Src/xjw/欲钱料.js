@@ -45,13 +45,24 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
+document.writeln("");
+document.writeln("");
+document.writeln("											<tr>");
+document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("			<p align=\'center\'>");
+document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>229期:<font color=\'#FF00FF\'>【欲钱买天吃贪玩的生肖】</font><font color=\'#0000FF\'>开？00中</font></td></tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+
 
 document.writeln("");
 document.writeln("");
 document.writeln("												<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("			<p align=\'center\'>");
-document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>228期:<font color=\'#FF00FF\'>【欲钱买天吃贪玩的生肖】</font><font color=\'#0000FF\'>开？00中</font></td></tr>");
+document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>228期:<font color=\'#FF00FF\'>【欲钱买天吃贪玩的生肖】</font><font color=\'#0000FF\'>开龙37中</font></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("								");
