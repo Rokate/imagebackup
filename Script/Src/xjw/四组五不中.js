@@ -43,13 +43,14 @@ document.writeln("");
 document.writeln("");
 
 
+
 document.writeln("   <!--开始--->");
 document.writeln("");
 document.writeln("	<tr>");
 document.writeln("      <td align=\'left\' height=47 bgcolor=\'#FFFFFF\' ><p>");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<font color=\'#000000\' style=\'font-size: 14pt; font-weight:700\'>");
-document.writeln("		229期：开00.00.00.00.00.00T00</font></font></td>");
+document.writeln("		230期：开00.00.00.00.00.00T00</font></font></td>");
 document.writeln("    </tr>");
 document.writeln("    ");
 document.writeln("	<tr>");
@@ -59,8 +60,8 @@ document.writeln("		【平码小娱乐：共同探讨彩界真理】</font><font
 document.writeln("		<font color=\'#FF00FF\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		平特连肖：</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><Br>");
-document.writeln("		【蛇牛拖鼠虎】<Br>");
-document.writeln("36.48.40.28拖05.17.27.39	<Br>	");
+document.writeln("		【牛马拖鸡鼠】<Br>");
+document.writeln("04.40.47.35拖32.20.17.29	<Br>	");
 document.writeln("	（16组2中2）<Br><Br>	");
 document.writeln("		");
 document.writeln("		");
@@ -69,14 +70,14 @@ document.writeln("		<font color=\'#FF00FF\' style=\'font-size: 12pt\' face=\'微
 document.writeln("		");
 document.writeln("		");
 document.writeln("		平特连尾：</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><Br>");
-document.writeln("	【38拖16】<br>13.23.33.18.28.48拖01.11.21.06.36.46<Br>		");
+document.writeln("	【14拖58】<br>01.21.31.24.44.14拖05.15.25.28.38.48<Br>		");
 document.writeln("	（36组2中2）<Br><Br>	");
 document.writeln("		");
 document.writeln("</font>");
 document.writeln("		<font color=\'#FF00FF\' style=\'font-size: 12pt\' face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		平码五不中：</font><font color=\'#000080\' style=\'font-size: 12pt\' face=\'微软雅黑\'><Br>");
-document.writeln("		①【01.07.27.28.29】<BR> ②【30.33.34.35.46】<Br>");
+document.writeln("		①【01.09.10.11.12】<BR> ②【24.25.26.30.38】<Br>");
 document.writeln("<Br>");
 document.writeln("</font></b></td>");
 document.writeln("    </tr>");
