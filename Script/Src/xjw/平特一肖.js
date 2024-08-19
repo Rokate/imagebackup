@@ -22,49 +22,21 @@ document.writeln("	   		");
 
 
 
+
+
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>232期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【老牛上了鼻绳—跑不了】</td>");
+document.writeln("		<span><font size=\'4\'>235期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【更新中】</td>");
 document.writeln("		</tr>");
 document.writeln("");
 
 
 
-
-
-
-
-document.writeln("				    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>229期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>05</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【老鼠钻到风箱里—两头受气】</td>");
-document.writeln("		</tr>");
-document.writeln("		");
-document.writeln("");
-
-
-
-
-document.writeln("                         <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>228期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>28</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【牛吃卷心菜—各人心中爱】</td>");
-document.writeln("	</tr>");
-document.writeln("		");
-document.writeln("");
-
-
-
-
-
-
-
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>226期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>34</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【羊群里跑出个骆驼—抖什么威风】</td>");
+document.writeln("		<span><font size=\'4\'>234期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【更新中】</td>");
 document.writeln("		</tr>");
 document.writeln("");
 
@@ -73,29 +45,10 @@ document.writeln("");
 
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>225期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>43</span><br>");
+document.writeln("		<span><font size=\'4\'>233期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
 document.writeln("		<font color=\'#FF00FF\'>【狗吠月亮—少见多怪】</td>");
 document.writeln("		</tr>");
 document.writeln("");
-
-
-
-
-
-
-
-document.writeln("	");
-document.writeln("			    <tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>223期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>30</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【猪脑壳—死不开窃】</td>");
-document.writeln("		</tr>");
-document.writeln("		");
-
-
-
-
-
 
 
 
