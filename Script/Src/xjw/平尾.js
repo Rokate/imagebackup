@@ -12,6 +12,19 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 
 
 
+document.writeln("			<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<b>");
+document.writeln("		<font size=\'4\'>");
+document.writeln("		<span>235期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>九天揽月</font>】</span><font color=\'#FF0000\'>开00</font></font></b></td>");
+document.writeln("		</tr>	");
+document.writeln("		");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("		");
@@ -19,7 +32,7 @@ document.writeln("			<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>234期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>三人成虎</font>】</span><font color=\'#FF0000\'>开00</font></font></b></td>");
+document.writeln("		<span>234期:<font color=\'#008000\'>四字平尾</font>【<font color=\'#0000FF\'>三人成虎</font>】</span><font color=\'#FF0000\'>开33</font></font></b></td>");
 document.writeln("		</tr>	");
 document.writeln("		");
 document.writeln("		");
