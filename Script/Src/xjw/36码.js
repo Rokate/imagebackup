@@ -44,9 +44,31 @@ document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("	");
 document.writeln("	<table style=border-collapse:collapse border=0 width=100% cellpadding=0><tbody><tr><td style=\'border:1px dotted olive\'><p style=line-height:200% align=center><span style=font-family:Verdana><strong>");
-document.writeln("		<font color=\'#FF5050\'>240期:特围36码---开:？00准</font><span style=color:maroon><br></span>");
+document.writeln("		<font color=\'#FF5050\'>241期:特围36码---开:？00准</font><span style=color:maroon><br></span>");
+document.writeln("		<span style=color:#d50000>03.04.05.06.07.08.09.10.11.12.13.14</span><br>");
+document.writeln("		<span style=color:olive>15.16.17.18.19.20.21.22.23.24.25.26</span><br>");
+document.writeln("		<span style=color:#669>27.28.29.30.31.32.33.34.35.36.37.45</span></strong></span></table>");
+document.writeln("");
+document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
+document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>865</font><font size=\'6\' color=\'#008000\'>63</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
+document.writeln("	");
+document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("");
+
+
+
+
+
+document.writeln("");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("");
+document.writeln("	");
+document.writeln("	<table style=border-collapse:collapse border=0 width=100% cellpadding=0><tbody><tr><td style=\'border:1px dotted olive\'><p style=line-height:200% align=center><span style=font-family:Verdana><strong>");
+document.writeln("		<font color=\'#FF5050\'>240期:特围36码---开:蛇24准</font><span style=color:maroon><br></span>");
 document.writeln("		<span style=color:#d50000>02.06.32.45.13.39.09.20.41.47.08.18</span><br>");
-document.writeln("		<span style=color:olive>28.49.37.44.33.24.26.19.14.04.25.11</span><br>");
+document.writeln("		<span style=color:olive>28.49.37.44.33.<span style='background-color: #FFFF00\'>24</span>.26.19.14.04.25.11</span><br>");
 document.writeln("		<span style=color:#669>15.38.29.46.40.16.10.36.12.03.43.21</span></strong></span></table>");
 document.writeln("");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
