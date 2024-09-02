@@ -20,17 +20,10 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("246期</font><font color=\'#FF0000\' size=\"5\">（兔蛇马+2037尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("247期</font><font color=\'#FF0000\' size=\"5\">（鼠兔猪+5719尾）</font><font size=\'4\'>开？00</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 
-document.writeln("");
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
-document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("244期</font><font color=\'#FF0000\' size=\"5\">（<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">虎</span></font>猪蛇+<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">3</span></font>891尾）</font><font size=\'4\'>开虎03</font></b></font></table>");
-document.writeln("		<!--结束-->");
-document.writeln("");
 
 
 
@@ -68,7 +61,12 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	246期<font color=\'#FF0000\'>（小数+3头）</font>开？00√</font></b></font></table>");
+document.writeln("	247期<font color=\'#FF0000\'>（小数+4头）</font>开？00√</font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	246期<font color=\'#FF0000\'>（<span style=\'background-color: #FFFF00\'>小数</span>+3头）</font>开虎15√</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
@@ -133,7 +131,12 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("246期：<font color=\'#0000FF\'>（野兽+牛猪）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("247期：<font color=\'#0000FF\'>（野兽+狗马）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("246期：<font color=\'#0000FF\'>（<span style=\'background-color: #FFFF00\'>野兽</span>+牛猪）</font>开<font color=\'#FF0000\'>(虎15)</font></font></b></font></table>");
 
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
@@ -197,12 +200,12 @@ document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（62827b.com）
 document.writeln("	<div class=\'bizhong555-box\'>");
 document.writeln("    	<div class=\'bizhong555-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">246期必中18码：</font><font color=\'#FF0000\' size=\'2\'>09.29.39.07.27.47.10.20.30.22.32.42.06.16.26.08.18.38</font></li>");
-document.writeln("            	<li>246期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">09.29.39.07.27.47.10.20.30.22.32.42</font></li>");
-document.writeln("            	<li>246期必中六码：<font color=\'#FF0000\' size=\'4\'>09.29.39.07.27.47</font></li>");
-document.writeln("            	<li>246期必中①码：<font color=\'#FF0000\' size=\'5\'>（9尾-09.29.39）</font></li>");
-document.writeln("            	<li>246期必中三尾：<font color=\'#FF0000\' size=\'4\'>9-7-0</font></li>");
-document.writeln("            	<li>246期必中六尾：<font color=\'#FF0000\' size=\'4\'>9-7-0-2-6-8</font></li>");
+document.writeln(" 	            <li><font size=\"2\">247期必中18码：</font><font color=\'#FF0000\' size=\'2\'>01.11.21.23.33.43.05.15.35.09.29.49.10.20.30.22.32.42</font></li>");
+document.writeln("            	<li>247期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">01.11.21.23.33.43.05.15.35.09.29.49</font></li>");
+document.writeln("            	<li>247期必中六码：<font color=\'#FF0000\' size=\'4\'>01.11.21.23.33.43</font></li>");
+document.writeln("            	<li>247期必中①码：<font color=\'#FF0000\' size=\'5\'>（9尾-01.11.21）</font></li>");
+document.writeln("            	<li>247期必中三尾：<font color=\'#FF0000\' size=\'4\'>1-3-5</font></li>");
+document.writeln("            	<li>247期必中六尾：<font color=\'#FF0000\' size=\'4\'>1-3-5-9-0-2</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
@@ -393,7 +396,16 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>246期：</font>【<font color=\'#008000\'>双数+虎狗</font>】开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>247期：</font>【<font color=\'#008000\'>单数+蛇兔</font>】开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("		<!--结束-->")
+
+
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>246期：</font>【<font color=\'#008000\'>双数+<span style=\'background-color: #FFFF00\'>虎</span>狗</font>】开<font color=\'#FF0000\'>(虎15)</font></font></b></font></table>");
 document.writeln("		<!--结束-->")
 
 
