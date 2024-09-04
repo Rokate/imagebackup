@@ -57,7 +57,7 @@ document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowsp
 document.writeln("		<strong>");
 document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>猴鼠蛇马</span><br>");
 document.writeln("		</font>");
-document.writeln("		<font face=\'微软雅黑\' color=\'#FF0000\' size=\"4\">（14.26.04.40.<span style='background-color: #FFFF00\'>03</span>.27.05.29</span>）</td>");
+document.writeln("		<font face=\'微软雅黑\' color=\'#FF0000\' size=\"4\">（14.26.04.40.03.27.05.29</span>）</td>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
 document.writeln("		<font face=\'微软雅黑\'>开:000</font></td>");
 document.writeln("		</tr>");
