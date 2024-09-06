@@ -2316,7 +2316,7 @@ document.writeln("	");
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b><font face=\'微软雅黑\'>250期</font><font color=\'#000080\' face=\'微软雅黑\'>必中平尾</font><span style=\'font-size: 14pt\'><font face=\'微软雅黑\' color=\'#FF0000\'>");
-document.writeln("	（</font><font face=\'微软雅黑\' color=\'#800080\'>8尾→8.9尾</font><font face=\'微软雅黑\' color=\'#FF0000\'>）</font></span></b><font face=\'微软雅黑\'><b>开28.19准</b></font></table>");
+document.writeln("	（</font><font face=\'微软雅黑\' color=\'#800080\'><span style=\'background-color: #FFFF00\'>8尾→8.9尾</span></font><font face=\'微软雅黑\' color=\'#FF0000\'>）</font></span></b><font face=\'微软雅黑\'><b>开28.19准</b></font></table>");
 document.writeln("	");
 
 
