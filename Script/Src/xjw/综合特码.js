@@ -73,8 +73,8 @@ document.writeln("");
 
 
 
-
-document.writeln("  252期团队十肖：鼠蛇马羊虎狗猪龙牛鸡√<br>");
+document.writeln("  253期团队十肖：鼠猴马羊虎狗兔龙牛鸡√<br>");
+document.writeln("  252期团队十肖：鼠<span style='background-color: #FFFF00\'>蛇</span>马羊虎狗猪龙牛鸡√<br>");
 document.writeln("  251期团队十肖：猴蛇马猪牛龙<span style='background-color: #FFFF00\'>兔</span>狗鼠羊√<br>");
 document.writeln("  250期团队十肖：牛兔猪猴马羊鸡狗鼠龙×<br>");
 document.writeln("  249期团队十肖：蛇牛鼠虎猪兔羊马猴<span style='background-color: #FFFF00\'>鸡</span>√<br>");
@@ -105,8 +105,8 @@ document.writeln("");
 document.writeln("");
 
 
-
-document.writeln("  252期团队八尾：01456789√<br>");
+document.writeln("  253期团队八尾：01345679√<br>");
+document.writeln("  252期团队八尾：0145<span style='background-color: #FFFF00\'>6</span>789√<br>");
 document.writeln("  251期团队八尾：01256789×<br>");
 document.writeln("  250期团队八尾：023<span style='background-color: #FFFF00\'>4</span>5789√<br>");
 document.writeln("  249期团队八尾：01<span style='background-color: #FFFF00\'>2</span>45689√<br>");
@@ -136,8 +136,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
-document.writeln("  252期团队四头：1234√<br>");
+document.writeln("  253期团队四头：0134√<br>");
+document.writeln("  252期团队四头：12<span style='background-color: #FFFF00\'>3</span>4√<br>");
 document.writeln("  251期团队四头：0<span style='background-color: #FFFF00\'>1</span>23√<br>");
 document.writeln("  250期团队四头：01<span style='background-color: #FFFF00\'>2</span>4√<br>");
 document.writeln("  249期团队四头：21<span style='background-color: #FFFF00\'>3</span>4√<br>");
@@ -158,8 +158,8 @@ document.writeln("");
 
 
 
-
-document.writeln("  252期团队四行：木水火土√<br>");
+document.writeln("  253期团队四行：金木火土√<br>");
+document.writeln("  252期团队四行：<span style='background-color: #FFFF00\'>木</span>水火土√<br>");
 document.writeln("  251期团队四行：金<span style='background-color: #FFFF00\'>木</span>水火√<br>");
 document.writeln("  250期团队四行：<span style='background-color: #FFFF00\'>金</span>木水火√<br>");
 document.writeln("  249期团队四行：<span style='background-color: #FFFF00\'>金</span>木水土√<br>");
