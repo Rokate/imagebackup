@@ -70,8 +70,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
-document.writeln("  255期团队十肖：鼠猴马羊虎狗兔猪龙鸡√<br>");
+document.writeln("  256期团队十肖：鼠猴蛇羊虎狗兔龙牛鸡√<br>");
+document.writeln("  255期团队十肖：鼠猴马羊虎狗兔<span style='background-color: #FFFF00\'>猪</span>龙鸡√<br>");
 document.writeln("  254期团队十肖：鼠猴蛇马<span style='background-color: #FFFF00\'>虎</span>狗兔猪牛鸡√<br>");
 document.writeln("  253期团队十肖：鼠猴<span style='background-color: #FFFF00\'>马</span>羊虎狗兔龙牛鸡√<br>");
 document.writeln("  252期团队十肖：鼠<span style='background-color: #FFFF00\'>蛇</span>马羊虎狗猪龙牛鸡√<br>");
@@ -105,8 +105,8 @@ document.writeln("");
 document.writeln("");
 
 
-
-document.writeln("  255期团队八尾：01345678√<br>");
+document.writeln("  256期团队八尾：01235679√<br>");
+document.writeln("  255期团队八尾：<span style='background-color: #FFFF00\'>0</span>1345678√<br>");
 document.writeln("  253期团队八尾：013456<span style='background-color: #FFFF00\'>7</span>9√<br>");
 document.writeln("  252期团队八尾：0145<span style='background-color: #FFFF00\'>6</span>789√<br>");
 document.writeln("  251期团队八尾：01256789×<br>");
@@ -138,7 +138,10 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("  255期团队四头：0124√<br>");
+
+
+document.writeln("  256期团队四头：0123√<br>");
+document.writeln("  255期团队四头：0124×<br>");
 document.writeln("  254期团队四头：01<span style='background-color: #FFFF00\'>2</span>4√<br>");
 document.writeln("  253期团队四头：013<span style='background-color: #FFFF00\'>4</span>√<br>");
 document.writeln("  252期团队四头：12<span style='background-color: #FFFF00\'>3</span>4√<br>");
@@ -159,8 +162,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
-document.writeln("  255期团队四行：金木火土√<br>");
+document.writeln("  256期团队四行：金木水火√<br>");
+document.writeln("  255期团队四行：金木<span style='background-color: #FFFF00\'>火</span>土√<br>");
 document.writeln("  254期团队四行：金水火<span style='background-color: #FFFF00\'>土</span>√<br>");
 document.writeln("  253期团队四行：金木<span style='background-color: #FFFF00\'>火</span>土√<br>");
 document.writeln("  252期团队四行：<span style='background-color: #FFFF00\'>木</span>水火土√<br>");
