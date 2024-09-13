@@ -69,7 +69,16 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("  257期团队十肖：鼠猴蛇羊虎狗兔龙牛鸡√<br>");
+
+
+
+
+
+
+
+
+document.writeln("  258期团队十肖：牛鸡狗马虎蛇猴兔龙羊√<br>");
+document.writeln("  257期团队十肖：鼠猴蛇羊虎狗兔龙牛<span style='background-color: #FFFF00\'>鸡</span>√<br>");
 document.writeln("  256期团队十肖：鼠猴蛇羊<span style='background-color: #FFFF00\'>虎</span>狗兔龙牛鸡√<br>");
 document.writeln("  255期团队十肖：鼠猴马羊虎狗兔<span style='background-color: #FFFF00\'>猪</span>龙鸡√<br>");
 document.writeln("  254期团队十肖：鼠猴蛇马<span style='background-color: #FFFF00\'>虎</span>狗兔猪牛鸡√<br>");
@@ -104,7 +113,19 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("  257期团队八尾：01234789√<br>");
+
+
+
+
+
+
+
+
+
+
+
+document.writeln("  258期团队八尾：01245789√<br>");
+document.writeln("  257期团队八尾：012347<span style='background-color: #FFFF00\'>8</span>9√<br>");
 document.writeln("  256期团队八尾：0123567<span style='background-color: #FFFF00\'>9</span>√<br>");
 document.writeln("  255期团队八尾：<span style='background-color: #FFFF00\'>0</span>1345678√<br>");
 document.writeln("  253期团队八尾：013456<span style='background-color: #FFFF00\'>7</span>9√<br>");
@@ -138,8 +159,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
-document.writeln("  257期团队四头：0134√<br>");
+document.writeln("  258期团队四头：0234√<br>");
+document.writeln("  257期团队四头：<span style='background-color: #FFFF00\'>0</span>134√<br>");
 document.writeln("  256期团队四头：012<span style='background-color: #FFFF00\'>3</span>√<br>");
 document.writeln("  255期团队四头：0124×<br>");
 document.writeln("  254期团队四头：01<span style='background-color: #FFFF00\'>2</span>4√<br>");
@@ -168,8 +189,8 @@ document.writeln("");
 
 
 
-
-document.writeln("  257期团队四行：金木火土√<br>");
+document.writeln("  258期团队四行：木水火土√<br>");
+document.writeln("  257期团队四行：金木<span style='background-color: #FFFF00\'>火</span>土√<br>");
 document.writeln("  256期团队四行：金木水<span style='background-color: #FFFF00\'>火</span>√<br>");
 document.writeln("  255期团队四行：金木<span style='background-color: #FFFF00\'>火</span>土√<br>");
 document.writeln("  254期团队四行：金水火<span style='background-color: #FFFF00\'>土</span>√<br>");
