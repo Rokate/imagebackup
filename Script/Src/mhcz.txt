@@ -5306,8 +5306,9 @@ document.writeln("<td style=\'border:10px double #800000; height: 49px;\' bgcolo
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 19pt\'><font color=\'#FFFF00\'>马会传真</font><font color=\'#FFFFFF\'>『澳门火车头』</font></font></b></table>");
 document.writeln("");
 document.writeln("<!--网址结束--");
-document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
+document.writeln("");
 document.writeln("<tr>");
+document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
 document.writeln("<p style=box-sizing:border-box;padding:0;margin:0 align=left>");
 document.writeln("<span style=box-sizing:border-box;><font face=\'微软雅黑\'><b><font color=\'#000000\'>");
 document.writeln("000期火车头:</font><font color=\'#FF0000\'>开奖日更新。</font><font color=\'#000000\'><br></font>");
@@ -5315,12 +5316,13 @@ document.writeln("<font color=\'#0000FF\'>解：关注澳门马会传真57386.co
 document.writeln("</font></font>");
 document.writeln("</tr>");
 document.writeln("<!--网址结束-->");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--网址结束-->");
-document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
 document.writeln("<tr>");
+document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
+document.writeln("");
 document.writeln("<p style=box-sizing:border-box;padding:0;margin:0 align=left>");
 document.writeln("<span style=box-sizing:border-box;><font face=\'微软雅黑\'><b><font color=\'#000000\'>");
 document.writeln("258期火车头:</font><font color=\'#FF0000\'>火烧兔。诗：虎死狗伤，好逸恶劳无不前。</font><font color=\'#000000\'><br></font>");
@@ -5328,13 +5330,14 @@ document.writeln("<font color=\'#0000FF\'>解：关注澳门马会传真57386.co
 document.writeln("</font></font>");
 document.writeln("</tr>");
 document.writeln("<!--网址结束-->");
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--网址结束-->");
-document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
 document.writeln("<tr>");
+document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
+document.writeln("");
 document.writeln("<p style=box-sizing:border-box;padding:0;margin:0 align=left>");
 document.writeln("<span style=box-sizing:border-box;><font face=\'微软雅黑\'><b><font color=\'#000000\'>");
 document.writeln("257期火车头:</font><font color=\'#FF0000\'>火烧狗。诗：鸡死龙伤，小小羊头挂前峰。</font><font color=\'#000000\'><br></font>");
@@ -5342,12 +5345,13 @@ document.writeln("<font color=\'#0000FF\'>解：特开鸡08。</font></b><font c
 document.writeln("</font></font>");
 document.writeln("</tr>");
 document.writeln("<!--网址结束-->");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--网址结束-->");
-document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
 document.writeln("<tr>");
+document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
+document.writeln("");
 document.writeln("<p style=box-sizing:border-box;padding:0;margin:0 align=left>");
 document.writeln("<span style=box-sizing:border-box;><font face=\'微软雅黑\'><b><font color=\'#000000\'>");
 document.writeln("256期火车头:</font><font color=\'#FF0000\'>火烧牛。诗：鼠死兔伤，好山好水好风光。</font><font color=\'#000000\'><br></font>");
@@ -5355,11 +5359,12 @@ document.writeln("<font color=\'#0000FF\'>解：特开虎39。</font></b><font c
 document.writeln("</font></font>");
 document.writeln("</tr>");
 document.writeln("<!--网址结束-->");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("<!--网址结束-->");
-document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
 document.writeln("<tr>");
+document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
+document.writeln("");
 document.writeln("<p style=box-sizing:border-box;padding:0;margin:0 align=left>");
 document.writeln("<span style=box-sizing:border-box;><font face=\'微软雅黑\'><b><font color=\'#000000\'>");
 document.writeln("255期火车头:</font><font color=\'#FF0000\'>火烧鸡。诗：兔死猴伤，美女江山一起得</font><font color=\'#000000\'><br></font>");
@@ -5367,10 +5372,11 @@ document.writeln("<font color=\'#0000FF\'>解：特开猪30。</font></b><font c
 document.writeln("</font></font>");
 document.writeln("</tr>");
 document.writeln("<!--网址结束-->");
-
+document.writeln("");
 document.writeln("<!--网址结束-->");
-document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
 document.writeln("<tr>");
+document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
+document.writeln("");
 document.writeln("<p style=box-sizing:border-box;padding:0;margin:0 align=left>");
 document.writeln("<span style=box-sizing:border-box;><font face=\'微软雅黑\'><b><font color=\'#000000\'>");
 document.writeln("254期火车头:</font><font color=\'#FF0000\'>火烧狗。诗：猴死猪伤，一轮红日照天边。</font><font color=\'#000000\'><br></font>");
@@ -5378,11 +5384,11 @@ document.writeln("<font color=\'#0000FF\'>解：特开虎27。</font></b><font c
 document.writeln("</font></font>");
 document.writeln("</tr>");
 document.writeln("<!--网址结束-->");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--网址结束-->");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
@@ -5393,9 +5399,9 @@ document.writeln("<font color=\'#0000FF\'>解：特开马47。</font></b><font c
 document.writeln("</font></font>");
 document.writeln("</tr>");
 document.writeln("<!--网址结束-->");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--网址结束-->");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
@@ -5406,7 +5412,7 @@ document.writeln("<font color=\'#0000FF\'>解：特开蛇36。</font></b><font c
 document.writeln("</font></font>");
 document.writeln("</tr>");
 document.writeln("<!--网址结束-->");
-
+document.writeln("");
 document.writeln("<!--网址结束-->");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
@@ -5417,7 +5423,7 @@ document.writeln("<font color=\'#0000FF\'>解：特开兔14。</font></b><font c
 document.writeln("</font></font>");
 document.writeln("</tr>");
 document.writeln("<!--网址结束-->");
-
+document.writeln("");
 document.writeln("<!--网址结束-->");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
@@ -5428,8 +5434,8 @@ document.writeln("<font color=\'#0000FF\'>解：特开蛇24。</font></b><font c
 document.writeln("</font></font>");
 document.writeln("</tr>");
 document.writeln("<!--网址结束-->");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("<!--网址结束-->");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
@@ -5440,9 +5446,9 @@ document.writeln("<font color=\'#0000FF\'>解：特开鸡32。</font></b><font c
 document.writeln("</font></font>");
 document.writeln("</tr>");
 document.writeln("<!--网址结束-->");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--网址结束-->");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
@@ -5453,8 +5459,8 @@ document.writeln("<font color=\'#0000FF\'>解：特开马11。</font></b><font c
 document.writeln("</font></font>");
 document.writeln("</tr>");
 document.writeln("<!--网址结束-->");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("<!--网址结束-->");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
@@ -5465,9 +5471,9 @@ document.writeln("<font color=\'#0000FF\'>解：特开狗31。</font></b><font c
 document.writeln("</font></font>");
 document.writeln("</tr>");
 document.writeln("<!--网址结束-->");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--网址结束-->");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40>");
@@ -5478,11 +5484,11 @@ document.writeln("<font color=\'#0000FF\'>解：特开虎15。</font></b><font c
 document.writeln("</font></font>");
 document.writeln("</tr>");
 document.writeln("<!--网址结束-->");
-
-
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--网址开始-->");
@@ -5498,6 +5504,9 @@ document.writeln("</span></font></font>");
 document.writeln("</tr>");
 document.writeln("<!--网址结束-->");
 document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("</table>");
 document.writeln("");
 document.writeln("");
 document.writeln("</tbody>");
