@@ -35,8 +35,8 @@ document.writeln("	");
 document.writeln("			<tr style=\'box-sizing: border-box;\'>");
 document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			");
-document.writeln("<a target=\'_blank\' href=\'https://x1.xn--c2be8bbg0fl3ewb.xn--i1b6b1a6a2e:8443/#/picture/28585\'><img src=\'https://ttuu.wyvogue.com:4949/col/260/c002.jpg\'  width=\'49%\'></a>");
-document.writeln("<a target=\'_blank\' href=\'https://x1.xn--c2be8bbg0fl3ewb.xn--i1b6b1a6a2e:8443/#/picture/209029\'><img src=\'https://ttuu.wyvogue.com:4949/col/260/hj44.jpg\'  width=\'49%\'></a>");
+document.writeln("<a target=\'_blank\' href=\'https://x1.xn--c2be8bbg0fl3ewb.xn--i1b6b1a6a2e:8443/#/picture/28585\'><img src=\'https://ttuu.wyvogue.com:4949/col/261/c002.jpg\'  width=\'49%\'></a>");
+document.writeln("<a target=\'_blank\' href=\'https://x1.xn--c2be8bbg0fl3ewb.xn--i1b6b1a6a2e:8443/#/picture/209029\'><img src=\'https://ttuu.wyvogue.com:4949/col/261/hj44.jpg\'  width=\'49%\'></a>");
 document.writeln("		</td></tr>");
 document.writeln("		");
 document.writeln("		");
@@ -50,17 +50,16 @@ document.writeln("");
 document.writeln("		");
 
 
-
-
 document.writeln("");
-document.writeln("												<!--开始-->");
+document.writeln("	");
+document.writeln("	<!--开始-->");
 document.writeln("				<tr style=\'box-sizing: border-box;\'>");
 document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			260期玄机网禁两肖<font color=\'#FF0000\'>【鼠牛】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
-document.writeln("			260期澳门杀两肖图<font color=\'#FF0000\'>【鸡猪】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
-document.writeln("			260期澳门图库禁肖<font color=\'#FF0000\'>【牛狗】</font>特开<font color=\'#0000FF\'>？00</font>准</font></font></p></td>");
+document.writeln("			261期玄机网禁两肖<font color=\'#FF0000\'>【羊鼠】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
+document.writeln("			261期澳门杀两肖图<font color=\'#FF0000\'>【更新】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
+document.writeln("			261期澳门图库禁肖<font color=\'#FF0000\'>【更新】</font>特开<font color=\'#0000FF\'>？00</font>准</font></font></p></td>");
 document.writeln("		</tr>");
 document.writeln("<!--推广-->");
 document.writeln("				<tr style=\'box-sizing: border-box;\'>");
@@ -70,7 +69,11 @@ document.writeln("			<a target=\'_blank\' href=\'https://j.1999xz.com:1999/\' st
 document.writeln("</p></td></tr>");
 document.writeln("<!--结束-->	");
 document.writeln("");
-document.writeln("");
+
+
+
+
+
 
 
 
