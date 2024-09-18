@@ -18,12 +18,12 @@ document.writeln("<table border=1 width=100% bgcolor=#ffffff height=\'53\'>");
 document.writeln("	<tbody>");
 document.writeln("<td style=\'border:10px double #800000; height: 47px;\' bgcolor=#800000>");
 document.writeln("<p align=center>");
-document.writeln("<b><font face=\'楷体\' style=\'font-siz: 19pt\'><font color=\'#FFFF00\'>澳门马会传真</font><font color=\'#FFFFFF\'>『一肖三码』</font></font></b></table>")e;
+document.writeln("<b><font face=\'楷体\' style=\'font-siz: 19pt\'><font color=\'#FFFF00\'>澳门马会传真</font><font color=\'#FFFFFF\'>『一肖三码』</font></font></b></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("<tr>");
 document.writeln("<td style=\'margin: 0px; border: 1px solid rgb(229, 229, 229); word-break: break-all; padding-left:2px; padding-right:2px; padding-top:3px; padding-bottom:3px\' align=\'left\' height=\'32\'>");
 document.writeln("<b><font face=\'微软雅黑\' size=\'4\' color=\'#008000\'>262期〖五肖〗</font><font face=\'微软雅黑\' size=\'4\' color=\'#0000FF\'>鸡蛇猪猴羊</font></b></td>");
@@ -51,9 +51,9 @@ document.writeln("<h2 style=\'font-family: 微软雅黑; color: rgb(255, 253, 0)
 document.writeln("<font size=\'4\'>262期: 特码开奖结果&lt;开:？00&gt;<font color=\'#00FF00\'></font></h2>");
 document.writeln("</font></td>");
 document.writeln("</tr>");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<tr>");
 document.writeln("<td style=\'margin: 0px; border: 1px solid rgb(229, 229, 229); word-break: break-all; padding-left:2px; padding-right:2px; padding-top:3px; padding-bottom:3px\' align=\'left\' height=\'32\'>");
 document.writeln("<b><font face=\'微软雅黑\' size=\'4\' color=\'#008000\'>261期〖五肖〗</font><font face=\'微软雅黑\' size=\'4\' color=\'#0000FF\'>鼠蛇牛鸡<span style=\'background-color: #FFFF00\'>龙</span></font></b></td>");
@@ -81,9 +81,9 @@ document.writeln("<h2 style=\'font-family: 微软雅黑; color: rgb(255, 253, 0)
 document.writeln("<font size=\'4\'>261期: 特码开奖结果&lt;开:龙01&gt;<font color=\'#00FF00\'></font></h2>");
 document.writeln("</font></td>");
 document.writeln("</tr>");
-
-
-
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<tr>");
 document.writeln("<td style=\'margin: 0px; border: 1px solid rgb(229, 229, 229); word-break: break-all; padding-left:2px; padding-right:2px; padding-top:3px; padding-bottom:3px\' align=\'left\' height=\'32\'>");
 document.writeln("<b><font face=\'微软雅黑\' size=\'4\' color=\'#008000\'>260期〖五肖〗</font><font face=\'微软雅黑\' size=\'4\' color=\'#0000FF\'>虎<span style=\'background-color: #FFFF00\'>牛</span>鼠羊龙</font></b></td>");
@@ -111,7 +111,7 @@ document.writeln("<h2 style=\'font-family: 微软雅黑; color: rgb(255, 253, 0)
 document.writeln("<font size=\'4\'>260期: 特码开奖结果&lt;开:牛40&gt;<font color=\'#00FF00\'></font></h2>");
 document.writeln("</font></td>");
 document.writeln("</tr>");
-
+document.writeln("");
 document.writeln("<tr>");
 document.writeln("<td style=\'margin: 0px; border: 1px solid rgb(229, 229, 229); word-break: break-all; padding-left:2px; padding-right:2px; padding-top:3px; padding-bottom:3px\' align=\'left\' height=\'32\'>");
 document.writeln("<b><font face=\'微软雅黑\' size=\'4\' color=\'#008000\'>259期〖五肖〗</font><font face=\'微软雅黑\' size=\'4\' color=\'#0000FF\'>猴鸡牛狗<span style=\'background-color: #FFFF00\'>鼠</span></font></b></td>");
@@ -139,8 +139,8 @@ document.writeln("<h2 style=\'font-family: 微软雅黑; color: rgb(255, 253, 0)
 document.writeln("<font size=\'4\'>259期: 特码开奖结果&lt;开:鼠29&gt;<font color=\'#00FF00\'></font></h2>");
 document.writeln("</font></td>");
 document.writeln("</tr>");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40><p style=box-sizing:border-box;padding:0;margin:0 align=center>");
@@ -153,8 +153,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("</tbody></table>");
-
-</script></div><div class="box"><script type="text/javascript">﻿document.writeln("<html>");
+document.writeln("");</script></div><div class="box"><script type="text/javascript">﻿document.writeln("<html>");
 document.writeln("<head>");
 document.writeln("<meta http-equiv=\'Content-Type\' content=\'text/html; charset=gb2312\'>");
 document.writeln("<title>新建网页 2</title>");
