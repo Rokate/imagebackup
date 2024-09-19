@@ -72,8 +72,8 @@ document.writeln("");
 
 
 
-document.writeln("  263期团队十肖：牛兔猪猴马羊鸡狗鼠龙<br>");
-document.writeln("  262期团队十肖：蛇牛鼠虎猪兔羊马猴<span style='background-color: #FFFF00\'>鸡</span><br>");
+document.writeln("  263期团队十肖：牛兔猪猴马羊鸡狗鼠龙√<br>");
+document.writeln("  262期团队十肖：蛇牛鼠虎猪兔羊马猴<span style='background-color: #FFFF00\'>鸡</span>√<br>");
 document.writeln("  261期团队十肖：<span style='background-color: #FFFF00\'>龙</span>鼠猪蛇猴鸡虎兔狗羊√<br>");
 document.writeln("  260期团队十肖：兔<span style='background-color: #FFFF00\'>牛</span>猪羊蛇鸡马猴鼠狗√<br>");
 document.writeln("  259期团队十肖：鸡<span style='background-color: #FFFF00\'>鼠</span>兔猴马羊虎狗龙蛇√<br>");
@@ -119,8 +119,8 @@ document.writeln("");
 
 
 
-document.writeln("  263期团队八尾：02345789<br>");
-document.writeln("  262期团队八尾：012<span style='background-color: #FFFF00\'>4</span>5689<br>");
+document.writeln("  263期团队八尾：02345789√<br>");
+document.writeln("  262期团队八尾：012<span style='background-color: #FFFF00\'>4</span>5689√<br>");
 document.writeln("  261期团队八尾：<span style='background-color: #FFFF00\'>1</span>2456789√<br>");
 document.writeln("  260期团队八尾：<span style='background-color: #FFFF00\'>0</span>1345678√<br>");
 document.writeln("  259期团队八尾：1235678<span style='background-color: #FFFF00\'>9</span>√<br>");
@@ -163,8 +163,8 @@ document.writeln("");
 
 
 
-document.writeln("  263期团队四头：0124<br>");
-document.writeln("  262期团队四头：213<span style='background-color: #FFFF00\'>4</span><br>");
+document.writeln("  263期团队四头：0124√<br>");
+document.writeln("  262期团队四头：213<span style='background-color: #FFFF00\'>4</span>√<br>");
 document.writeln("  261期团队四头：<span style='background-color: #FFFF00\'>0</span>234√<br>");
 document.writeln("  260期团队四头：012<span style='background-color: #FFFF00\'>4</span>√<br>");
 document.writeln("  259期团队四头：1<span style='background-color: #FFFF00\'>2</span>34√<br>");
@@ -193,8 +193,8 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("  263期团队四行：金木水火<br>");
-document.writeln("  262期团队四行：金<span style='background-color: #FFFF00\'>木</span>水土<br>");
+document.writeln("  263期团队四行：金木水火√<br>");
+document.writeln("  262期团队四行：金<span style='background-color: #FFFF00\'>木</span>水土√<br>");
 document.writeln("  261期团队四行：金水<span style='background-color: #FFFF00\'>火</span>土√<br>");
 document.writeln("  260期团队四行：<span style='background-color: #FFFF00\'>金</span>水火土√<br>");
 document.writeln("  259期团队四行：金木火土×<br>");
