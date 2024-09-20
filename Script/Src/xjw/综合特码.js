@@ -70,8 +70,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
-document.writeln("  264期团队十肖：猴蛇马猪牛龙兔狗鼠羊√<br>");
+document.writeln("  265期团队十肖：鼠蛇马羊虎狗猪龙牛鸡√<br>");
+document.writeln("  264期团队十肖：猴蛇马<span style='background-color: #FFFF00\'>猪</span>牛龙兔狗鼠羊√<br>");
 document.writeln("  263期团队十肖：牛兔猪猴马羊鸡狗鼠<span style='background-color: #FFFF00\'>龙</span>√<br>");
 document.writeln("  262期团队十肖：蛇牛鼠虎猪兔羊马猴<span style='background-color: #FFFF00\'>鸡</span>√<br>");
 document.writeln("  261期团队十肖：<span style='background-color: #FFFF00\'>龙</span>鼠猪蛇猴鸡虎兔狗羊√<br>");
@@ -117,8 +117,8 @@ document.writeln("");
 
 
 
-
-document.writeln("  264期团队八尾：01256789√<br>");
+document.writeln("  265期团队八尾：01456789√<br>");
+document.writeln("  264期团队八尾：<span style='background-color: #FFFF00\'>0</span>1256789√<br>");
 document.writeln("  263期团队八尾：02<span style='background-color: #FFFF00\'>3</span>45789√<br>");
 document.writeln("  262期团队八尾：012<span style='background-color: #FFFF00\'>4</span>5689√<br>");
 document.writeln("  261期团队八尾：<span style='background-color: #FFFF00\'>1</span>2456789√<br>");
@@ -148,8 +148,8 @@ document.writeln("");
 
 
 
-
-document.writeln("  264期团队四头：0123√<br>");
+document.writeln("  265期团队四头：1234√<br>");
+document.writeln("  264期团队四头：012<span style='background-color: #FFFF00\'>3</span>√<br>");
 document.writeln("  263期团队四头：0<span style='background-color: #FFFF00\'>1</span>24√<br>");
 document.writeln("  262期团队四头：213<span style='background-color: #FFFF00\'>4</span>√<br>");
 document.writeln("  261期团队四头：<span style='background-color: #FFFF00\'>0</span>234√<br>");
@@ -172,7 +172,11 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("  264期团队四行：金木水火√<br>");
+
+
+
+document.writeln("  265期团队四行：木水火土√<br>");
+document.writeln("  264期团队四行：金木水<span style='background-color: #FFFF00\'>火</span>√<br>");
 document.writeln("  263期团队四行：金木<span style='background-color: #FFFF00\'>水</span>火√<br>");
 document.writeln("  262期团队四行：金<span style='background-color: #FFFF00\'>木</span>水土√<br>");
 document.writeln("  261期团队四行：金水<span style='background-color: #FFFF00\'>火</span>土√<br>");
