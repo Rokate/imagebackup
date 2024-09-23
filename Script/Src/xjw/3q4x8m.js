@@ -53,14 +53,53 @@ document.writeln("	<!----开始---->    ");
 document.writeln("	<table border=\'1\' width=\'100%\' cellpadding=\'0\' height=\'83\' cellspacing=\'0\' bgcolor=\'#FFFFFF\' bordercolor=\'#D4D4D4\' style=\'border-collapse: collapse\'>");
 document.writeln("		<tr>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
+document.writeln("		<b><font face=\'微软雅黑\'>270期</font></b></td>");
+document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowspan=\'3\'>");
+document.writeln("		<strong>");
+document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>蛇狗虎牛<br>");
+document.writeln("		</font>");
+document.writeln("		<font face=\'微软雅黑\' color=\'#FF0000\' size=\"4\">（12.48.07.31.15.27.15.39</span>）</td>");
+document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
+document.writeln("		<font face=\'微软雅黑\'>开:0000</font></td>");
+document.writeln("		</tr>");
+document.writeln("	<tr>");
+document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
+document.writeln("		<b style=\'padding: 0px; margin: 0px; word-wrap: break-word;\'>");
+document.writeln("		<font face=\'微软雅黑\' style=\'word-wrap: break-word; margin: 0px; padding: 0px\'>");
+document.writeln("		269期</font></b></td>");
+document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
+document.writeln("		<font face=\'微软雅黑\'>开:0000</font></td>");
+document.writeln("		</tr>");
+document.writeln("	<tr>");
+document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\' style=\'height: 26px\'>");
+document.writeln("		<b style=\'padding: 0px; margin: 0px; word-wrap: break-word;\'>");
+document.writeln("		<font face=\'微软雅黑\' style=\'word-wrap: break-word; margin: 0px; padding: 0px\'>");
+document.writeln("		268期</font></b></td>");
+document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\' style=\'height: 26px\'>");
+document.writeln("		<font face=\'微软雅黑\'>开:0000</font></td>");
+document.writeln("		</tr>");
+document.writeln("		</table>");
+document.writeln("		");
+document.writeln("<!----结束----> ");
+
+
+
+
+
+
+
+document.writeln("	<!----开始---->    ");
+document.writeln("	<table border=\'1\' width=\'100%\' cellpadding=\'0\' height=\'83\' cellspacing=\'0\' bgcolor=\'#FFFFFF\' bordercolor=\'#D4D4D4\' style=\'border-collapse: collapse\'>");
+document.writeln("		<tr>");
+document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
 document.writeln("		<b><font face=\'微软雅黑\'>267期</font></b></td>");
 document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowspan=\'3\'>");
 document.writeln("		<strong>");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>蛇狗猪鸡<br>");
+document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'><span style='background-color: #FFFF00\'>蛇</span>狗猪鸡<br>");
 document.writeln("		</font>");
-document.writeln("		<font face=\'微软雅黑\' color=\'#FF0000\' size=\"4\">（12.24.07.31.30.42.20.32</span>）</td>");
+document.writeln("		<font face=\'微软雅黑\' color=\'#FF0000\' size=\"4\">（<span style='background-color: #FFFF00\'>12</span>.24.07.31.30.42.20.32</span>）</td>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
-document.writeln("		<font face=\'微软雅黑\'>开:0000</font></td>");
+document.writeln("		<font face=\'微软雅黑\'>开:蛇12</font></td>");
 document.writeln("		</tr>");
 document.writeln("	<tr>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
