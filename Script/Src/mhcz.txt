@@ -645,32 +645,21 @@ document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40><p style=box-sizing:border-box;padding:0;margin:0 align=center>");
 document.writeln("<b>");
 document.writeln("<font face=\'微软雅黑\'>");
-document.writeln("<span style=\'box-sizing:border-box; font-size:14pt\'><font color=\'#008000\'>【</font><font color=\'#000000\'>鸡主08.32</font><font color=\'#008000\'>】【</font><font color=\'#000000\'>虎主03.27</font><font color=\'#008000\'>】</font><font color=\'#000000\'><br>");
-document.writeln("</font><font color=\'#008000\'>【</font><font color=\'#000000\'>牛主16.40</font><font color=\'#008000\'>】【</font><font color=\'#000000\'>猴主21.33</font><font color=\'#008000\'>】</font><font color=\'#000000\'><br>");
-document.writeln("</font><font color=\'#0000FF\'>第274期开奖结果:</font><span style=\'background-color: #FFFF00\'><font color=\'#FF00FF\'>？00准</font></span></span></font><span style=box-sizing:border-box;font-size:14pt>");
+document.writeln("<span style=\'box-sizing:border-box; font-size:14pt\'><font color=\'#008000\'>【</font><font color=\'#000000\'>鸡主20.44</font><font color=\'#008000\'>】【</font><font color=\'#000000\'>猪主18.42</font><font color=\'#008000\'>】</font><font color=\'#000000\'><br>");
+document.writeln("</font><font color=\'#008000\'>【</font><font color=\'#000000\'>蛇主24.48</font><font color=\'#008000\'>】【</font><font color=\'#000000\'>兔主02.26</font><font color=\'#008000\'>】</font><font color=\'#000000\'><br>");
+document.writeln("</font><font color=\'#0000FF\'>第275期开奖结果:</font><span style=\'background-color: #FFFF00\'><font color=\'#FF00FF\'>？00准</font></span></span></font><span style=box-sizing:border-box;font-size:14pt>");
 document.writeln("</tr>");
 
 
+document.writeln("<!--网址结束-->");
+document.writeln("</span>");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40><p style=box-sizing:border-box;padding:0;margin:0 align=center>");
-document.writeln("<b>");
 document.writeln("<font face=\'微软雅黑\'>");
-document.writeln("<span style=\'box-sizing:border-box; font-size:14pt\'><font color=\'#008000\'>【</font><font color=\'#000000\'>蛇主36.24</font><font color=\'#008000\'>】【</font><font color=\'#000000\'><span style=\'background-color: #FFFF00\'>牛</span>主16.<span style=\'background-color: #FFFF00\'>40</span></font><font color=\'#008000\'>】</font><font color=\'#000000\'><br>");
-document.writeln("</font><font color=\'#008000\'>【</font><font color=\'#000000\'>虎主27.15</font><font color=\'#008000\'>】【</font><font color=\'#000000\'>兔主26.14</font><font color=\'#008000\'>】</font><font color=\'#000000\'><br>");
-document.writeln("</font><font color=\'#0000FF\'>第271期开奖结果:</font><span style=\'background-color: #FFFF00\'><font color=\'#FF00FF\'>牛40准</font></span></span></font><span style=box-sizing:border-box;font-size:14pt>");
-document.writeln("</tr>");
-
-
-document.writeln("<tr>");
-document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40><p style=box-sizing:border-box;padding:0;margin:0 align=center>");
-document.writeln("<b>");
-document.writeln("<font face=\'微软雅黑\'>");
-document.writeln("<span style=\'box-sizing:border-box; font-size:14pt\'><font color=\'#008000\'>【</font><font color=\'#000000\'>牛主28.40</font><font color=\'#008000\'>】【</font><font color=\'#000000\'><span style=\'background-color: #FFFF00\'>猪</span>主18.30</font><font color=\'#008000\'>】</font><font color=\'#000000\'><br>");
-document.writeln("</font><font color=\'#008000\'>【</font><font color=\'#000000\'>猴主09.33</font><font color=\'#008000\'>】【</font><font color=\'#000000\'>兔主14.38</font><font color=\'#008000\'>】</font><font color=\'#000000\'><br>");
-document.writeln("</font><font color=\'#0000FF\'>第270期开奖结果:</font><span style=\'background-color: #FFFF00\'><font color=\'#FF00FF\'>猪42准</font></span></span></font><span style=box-sizing:border-box;font-size:14pt>");
-document.writeln("</tr>");
-
-
+document.writeln("<b><span style=box-sizing:border-box;font-size:14pt>");
+document.writeln("");
+document.writeln("<img src=\'/images/yyy123.gif\' style=\'width:20px\' height=\'19\'><span style=box-sizing:border-box;><font color=\'#000000\'><a target=\'_blank\' href=\'https://der66.www86563a.com:8443/#5788\'>点击玄机网</a></font><font size=\'5\' color=\'#FF00FF\'>86</font></span></span>5<span style=box-sizing:border-box;>6<font size=\'4\' color=\'#008000\'>3</font><span style=box-sizing:border-box;font-size:14pt><font size=\'4\' color=\'#FF0000\'>.com</font></span></span><span style=box-sizing:border-box;font-size:14pt><font color=\'#000000\'>一定谨记!</font></span></b><span style=box-sizing:border-box;font-size:14pt><font color=\'#000000\'><span style=\'font-size: 14pt\'></strong></span></font></font></tr>");
+document.writeln("");
 document.writeln("</tbody>");
 document.writeln("</table>");
 document.writeln("</body>");
