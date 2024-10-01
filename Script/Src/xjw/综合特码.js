@@ -70,7 +70,9 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("  275期团队十肖：蛇牛鼠虎猪兔羊马猴鸡√<br>");
+
+document.writeln("  276期团队十肖：牛兔猪猴马羊鸡狗鼠龙√<br>");
+document.writeln("  275期团队十肖：蛇牛<span style='background-color: #FFFF00\'>鼠</span>虎猪兔羊马猴鸡√<br>");
 document.writeln("  274期团队十肖：<span style='background-color: #FFFF00\'>龙</span>鼠猪蛇猴鸡虎兔狗羊√<br>");
 document.writeln("  273期团队十肖：兔牛猪羊蛇鸡马猴<span style='background-color: #FFFF00\'>鼠</span>狗√<br>");
 document.writeln("  272期团队十肖：鸡鼠兔猴马羊虎狗龙蛇×<br>");
@@ -102,7 +104,10 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("  275期团队八尾：01245689√<br>");
+
+
+document.writeln("  276期团队八尾：02345789√<br>");
+document.writeln("  275期团队八尾：0<span style='background-color: #FFFF00\'>1</span>245689√<br>");
 document.writeln("  274期团队八尾：1245678<span style='background-color: #FFFF00\'>9</span>√<br>");
 document.writeln("  273期团队八尾：0<span style='background-color: #FFFF00\'>1</span>345678√<br>");
 document.writeln("  272期团队八尾：12356789×<br>");
@@ -140,7 +145,11 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("  275期团队四头：2134√<br>");
+
+
+
+document.writeln("  276期团队四头：0124√<br>");
+document.writeln("  275期团队四头：213<span style='background-color: #FFFF00\'>4</span>√<br>");
 document.writeln("  274期团队四头：023<span style='background-color: #FFFF00\'>4</span>√<br>");
 document.writeln("  273期团队四头：012<span style='background-color: #FFFF00\'>4</span>√<br>");
 document.writeln("  272期团队四头：12<span style='background-color: #FFFF00\'>3</span>4√<br>");
@@ -174,7 +183,10 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("  275期团队四行：金木水土√<br>");
+
+
+document.writeln("  276期团队四行：金木水火√<br>");
+document.writeln("  275期团队四行：<span style='background-color: #FFFF00\'>金</span>木水土√<br>");
 document.writeln("  274期团队四行：金水火<span style='background-color: #FFFF00\'>土</span>√<br>");
 document.writeln("  273期团队四行：<span style='background-color: #FFFF00\'>金</span>水火土√<br>");
 document.writeln("  272期团队四行：金木<span style='background-color: #FFFF00\'>火</span>土√<br>");
