@@ -51,10 +51,12 @@ document.writeln("");
 document.writeln("<font color=\'#FF0000\' style=\"font-size: 16pt\">【单双四肖】</font><br>");
 document.writeln("	<span style=\"font-size: 14pt\"><b>");
 document.writeln("	");
-document.writeln("	238期(单：狗猴马鼠)(双：兔<span style='background-color: #FFFF00\'>猪</span>鸡羊)√<br>	");
-document.writeln("	239期(单：虎龙马鼠)(双：兔蛇猪羊)×<br>	");
-document.writeln("	240期(单：虎狗猴龙)(双：猪羊<span style='background-color: #FFFF00\'>蛇</span>兔)√<br>	");
-document.writeln("	241期(单：狗虎马龙)(双：鸡羊<span style='background-color: #FFFF00\'>牛</span>兔)√<br>	");
+
+
+document.writeln("	276期(单：龙<span style='background-color: #FFFF00\'>鼠</span>狗马)(双：羊猪鸡牛)√<br>	");
+document.writeln("	277期(单：龙鼠猴虎)(双：蛇兔鸡牛)√<br>	");
+
+
 
 
 document.writeln("");
@@ -74,11 +76,11 @@ document.writeln("");
 document.writeln("<font color=\'#FF0000\' style=\"font-size: 16pt\">【家野四肖】</font><br>");
 document.writeln("");
 document.writeln("	<span style=\"font-size: 14pt\"><b>");
-document.writeln("	237期(家：牛羊马<span style='background-color: #FFFF00\'>猪</span>)(野：猴蛇虎兔)√<br>	");
-document.writeln("	238期(家：牛马<span style='background-color: #FFFF00\'>猪</span>狗)(野：龙兔猴蛇)√<br>		");
-document.writeln("	239期(家：猪<span style='background-color: #FFFF00\'>狗</span>羊马)(野：蛇猴兔虎)√<br>		");
 
 
+
+document.writeln("	276期(家：牛狗鸡马)(野：虎蛇猴龙)×<br>		");
+document.writeln("	277期(家：牛羊猪马)(野：虎蛇兔猴)√<br>		");
 
 
 
