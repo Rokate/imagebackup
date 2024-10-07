@@ -42,12 +42,13 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
+
 document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("281期六尾</font><font color=\"#FF0000\" size=\"5\">（1-8-2-6-7-0）</font><font size=\"4\"><br>");
-document.writeln("281期三尾</font><font color=\"#FF0000\" size=\"5\">（1-8-2）</font>");
+document.writeln("282期六尾</font><font color=\"#FF0000\" size=\"5\">（5-2-3-0-4-8）</font><font size=\"4\"><br>");
+document.writeln("282期三尾</font><font color=\"#FF0000\" size=\"5\">（5-2-3）</font>");
 document.writeln("</td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
