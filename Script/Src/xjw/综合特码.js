@@ -69,7 +69,12 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("  282期团队十肖：鼠猴蛇羊虎狗兔龙牛鸡√<br>");
+
+
+
+document.writeln("  283期团队十肖：鼠猴蛇羊虎狗兔龙牛鸡√<br>");
+
+document.writeln("  282期团队十肖：鼠猴蛇羊虎狗兔<span style='background-color: #FFFF00\'>龙</span>牛鸡√<br>");
 document.writeln("  281期团队十肖：鼠猴马羊虎<span style='background-color: #FFFF00\'>狗</span>兔猪龙鸡√<br>");
 document.writeln("  280期团队十肖：鼠猴蛇马虎狗兔猪牛鸡×<br>");
 document.writeln("  279期团队十肖：鼠猴马羊虎狗兔龙<span style='background-color: #FFFF00\'>牛</span>鸡√<br>");
@@ -107,7 +112,12 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("  282期团队八尾：01235679√<br>");
+
+
+
+document.writeln("  283期团队八尾：01234789√<br>");
+
+document.writeln("  282期团队八尾：012<span style='background-color: #FFFF00\'>3</span>5679√<br>");
 document.writeln("  281期团队八尾：01<span style='background-color: #FFFF00\'>3</span>45678√<br>");
 document.writeln("  280期团队八尾：0<span style='background-color: #FFFF00\'>2</span>345689√<br>");
 document.writeln("  279期团队八尾：<span style='background-color: #FFFF00\'>0</span>1345679√<br>");
@@ -152,7 +162,11 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("  282期团队四头：0123√<br>");
+
+
+document.writeln("  283期团队四头：0134√<br>");
+
+document.writeln("  282期团队四头：0<span style='background-color: #FFFF00\'>1</span>23√<br>");
 document.writeln("  281期团队四头：012<span style='background-color: #FFFF00\'>4</span>√<br>");
 document.writeln("  280期团队四头：01<span style='background-color: #FFFF00\'>2</span>4√<br>");
 document.writeln("  279期团队四头：013<span style='background-color: #FFFF00\'>4</span>√<br>");
@@ -195,8 +209,9 @@ document.writeln("");
 
 
 
+document.writeln("  283期团队四行：金木火土√<br>");
 
-document.writeln("  282期团队四行：金木水火√<br>");
+document.writeln("  282期团队四行：金木<span style='background-color: #FFFF00\'>水</span>火√<br>");
 document.writeln("  281期团队四行：金木火土×<br>");
 document.writeln("  280期团队四行：金水火土×<br>");
 document.writeln("  279期团队四行：<span style='background-color: #FFFF00\'>金</span>木火土√<br>");
