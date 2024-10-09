@@ -321,7 +321,7 @@ document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("	<td align=\'left\'><b><font face=\'华文中宋\'><font color=\'#FFFFFF\'>");
-document.writeln("	<span style=\'background-color: #008000\'>282期雷锋码报开</span><span style=\'background-color: #800000\'>（狗19）</span><span style=\'background-color: #000000\'><br></span></font>");
+document.writeln("	<span style=\'background-color: #008000\'>282期雷锋码报开</span><span style=\'background-color: #800000\'>（龙13）</span><span style=\'background-color: #000000\'><br></span></font>");
 document.writeln("	雷锋一句话：<font color=\'#FF0000\'>我命由我不由天</font><br>");
 document.writeln("	四字真言：<font color=\'#FF0000\'>狗急跳墙</font><br>");
 document.writeln("	五字波色：<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>红日</span>配蓝天</font><br>");
