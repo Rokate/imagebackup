@@ -24,8 +24,16 @@ document.writeln("");
 document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 
-
-
+document.writeln("	");
+document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<p>");
+document.writeln("		<b>");
+document.writeln("		<font size=\'4\'>");
+document.writeln("		<span>291期:<font color=\'#008000\'>无错七尾</font>【?】</span><font color=\'#FF0000\'>开中00</font></font></b></td></tr>");
+document.writeln("		");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 
 
 document.writeln("	");
@@ -33,51 +41,7 @@ document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>")
 document.writeln("		<p>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>288期:<font color=\'#008000\'>无错七尾</font>【3890127】</span><font color=\'#FF0000\'>开？00</font></font></b></td></tr>");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<p>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>285期:<font color=\'#008000\'>无错七尾</font>【<span style='background-color: #FFFF00\'>1</span>245863】</span><font color=\'#FF0000\'>开猴21</font></font></b></td></tr>");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("	");
-document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<p>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>284期:<font color=\'#008000\'>无错七尾</font>【0<span style='background-color: #FFFF00\'>7</span>45289】</span><font color=\'#FF0000\'>开虎27</font></font></b></td></tr>");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("	");
-document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<p>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>282期:<font color=\'#008000\'>无错七尾</font>【<span style='background-color: #FFFF00\'>3</span>890127】</span><font color=\'#FF0000\'>开龙13</font></font></b></td></tr>");
+document.writeln("		<span>290期:<font color=\'#008000\'>无错七尾</font>【?】</span><font color=\'#FF0000\'>开中00</font></font></b></td></tr>");
 document.writeln("		");
 document.writeln("");
 document.writeln("");
@@ -90,169 +54,11 @@ document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>")
 document.writeln("		<p>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>281期:<font color=\'#008000\'>无错七尾</font>【206894<span style='background-color: #FFFF00\'>3</span>】</span><font color=\'#FF0000\'>开狗43</font></font></b></td></tr>");
+document.writeln("		<span>289期:<font color=\'#008000\'>无错七尾</font>【2068943】</span><font color=\'#FF0000\'>开？00</font></font></b></td></tr>");
 document.writeln("		");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
-
-
-
-
-document.writeln("	");
-document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<p>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>280期:<font color=\'#008000\'>无错七尾</font>【1<span style='background-color: #FFFF00\'>2</span>68943】</span><font color=\'#FF0000\'>开羊22</font></font></b></td></tr>");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("	");
-document.writeln("								<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<p>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>279期:<font color=\'#008000\'>无错七尾</font>【<span style='background-color: #FFFF00\'>0</span>123895】</span><font color=\'#FF0000\'>开牛40</font></font></b></td></tr>");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<p>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>277期:<font color=\'#008000\'>无错七尾</font>【12458<span style='background-color: #FFFF00\'>6</span>3】</span><font color=\'#FF0000\'>开兔26</font></font></b></td></tr>");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("	");
-document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<p>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>276期:<font color=\'#008000\'>无错七尾</font>【2068<span style='background-color: #FFFF00\'>9</span>43】</span><font color=\'#FF0000\'>开鼠29</font></font></b></td></tr>");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("	");
-document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<p>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>275期:<font color=\'#008000\'>无错七尾</font>【3890<span style='background-color: #FFFF00\'>1</span>27】</span><font color=\'#FF0000\'>开鼠41</font></font></b></td></tr>");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<p>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>274期:<font color=\'#008000\'>无错七尾</font>【1<span style='background-color: #FFFF00\'>9</span>42863】</span><font color=\'#FF0000\'>开龙49</font></font></b></td></tr>");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("	");
-document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<p>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>273期:<font color=\'#008000\'>无错七尾</font>【0<span style='background-color: #FFFF00\'>1</span>27389】</span><font color=\'#FF0000\'>开鼠41</font></font></b></td></tr>");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("	");
-document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<p>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>271期:<font color=\'#008000\'>无错七尾</font>【<span style='background-color: #FFFF00\'>0</span>745289】</span><font color=\'#FF0000\'>开牛40</font></font></b></td></tr>");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<p>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>270期:<font color=\'#008000\'>无错七尾</font>【194<span style='background-color: #FFFF00\'>2</span>863】</span><font color=\'#FF0000\'>开猪42</font></font></b></td></tr>");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("	");
-document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<p>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>269期:<font color=\'#008000\'>无错七尾</font>【3890<span style='background-color: #FFFF00\'>1</span>27】</span><font color=\'#FF0000\'>开马11</font></font></b></td></tr>");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("	");
-document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<p>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>268期:<font color=\'#008000\'>无错七尾</font>【<span style='background-color: #FFFF00\'>2</span>068943】</span><font color=\'#FF0000\'>开羊22</font></font></b></td></tr>");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("	");
-document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<p>");
-document.writeln("		<b>");
-document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>267期:<font color=\'#008000\'>无错七尾</font>【1<span style='background-color: #FFFF00\'>2</span>68943】</span><font color=\'#FF0000\'>开蛇12</font></font></b></td></tr>");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
 
 
 
