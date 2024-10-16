@@ -7,10 +7,11 @@ document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color
 document.writeln("");
 document.writeln("");
 
+
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	291期<font color=\'#0000FF\'>【更新中】</font><font color=\'#FF00FF\'>开中00准</font></font></b></font></table>");
+document.writeln("	291期<font color=\'#0000FF\'>【狗虎牛鸡猴兔】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 
@@ -21,7 +22,7 @@ document.writeln("");
 document.writeln("			<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	290期<font color=\'#0000FF\'>【鼠狗马兔龙鸡】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
+document.writeln("	290期<font color=\'#0000FF\'>【鼠狗<span style='background-color: #FFFF00\'>马</span>兔龙鸡】</font><font color=\'#FF00FF\'>开马11准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 
