@@ -20,7 +20,15 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("290期</font><font color=\'#FF0000\' size=\"5\">（猴蛇虎+4651尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("291期</font><font color=\'#FF0000\' size=\"5\">（蛇鸡龙+3751尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("290期</font><font color=\'#FF0000\' size=\"5\">（猴蛇虎+465<span style=\'background-color: #FFFF00\'>1</span>尾）</font><font size=\'4\'>开马11</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 
@@ -180,12 +188,12 @@ document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（62827b.com）
 document.writeln("	<div class=\'bizhong555-box\'>");
 document.writeln("    	<div class=\'bizhong555-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">290期必中18码：</font><font color=\'#FF0000\' size=\'2\'>05.25.35.10.20.30.29.39.49.14.24.34.08.18.28.23.33.43</font></li>");
-document.writeln("            	<li>290期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">05.25.35.10.20.30.29.39.49.14.24.34</font></li>");
-document.writeln("            	<li>290期必中六码：<font color=\'#FF0000\' size=\'4\'>05.25.35.10.20.30</font></li>");
-document.writeln("            	<li>290期必中①码：<font color=\'#FF0000\' size=\'5\'>（5尾-05.25.35）</font></li>");
-document.writeln("            	<li>290期必中三尾：<font color=\'#FF0000\' size=\'4\'>5-0-9</font></li>");
-document.writeln("            	<li>290期必中六尾：<font color=\'#FF0000\' size=\'4\'>5-0-9-4-8-3</font></li>");
+document.writeln(" 	            <li><font size=\"2\">291期必中18码：</font><font color=\'#FF0000\' size=\'2\'>10.30.40.21.31.41.24.34.44.12.22.32.29.39.49.04.14.34</font></li>");
+document.writeln("            	<li>291期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">10.30.40.21.31.41.24.34.44.12.22.32</font></li>");
+document.writeln("            	<li>291期必中六码：<font color=\'#FF0000\' size=\'4\'>10.30.40.21.31.41</font></li>");
+document.writeln("            	<li>291期必中①码：<font color=\'#FF0000\' size=\'5\'>（0尾-10.30.40）</font></li>");
+document.writeln("            	<li>291期必中三尾：<font color=\'#FF0000\' size=\'4\'>0-1-4</font></li>");
+document.writeln("            	<li>291期必中六尾：<font color=\'#FF0000\' size=\'4\'>0-1-4-2-9-6</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
@@ -194,6 +202,8 @@ document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+
 
 document.writeln("");
 document.writeln("<!--必中每期开始-->");
