@@ -70,8 +70,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
-document.writeln("  291期团队十肖：鼠蛇马羊虎狗猪龙牛鸡√<br>");
+document.writeln("  292期团队十肖：鼠猴马羊虎狗兔龙牛鸡√<br>");
+document.writeln("  291期团队十肖：鼠蛇马羊虎狗猪龙牛鸡×<br>");
 document.writeln("  290期团队十肖：猴蛇<span style='background-color: #FFFF00\'>马</span>猪牛龙兔狗鼠羊√<br>");
 document.writeln("  289期团队十肖：<span style='background-color: #FFFF00\'>牛</span>兔猪猴马羊鸡狗鼠龙√<br>");
 document.writeln("  288期团队十肖：蛇牛鼠虎猪<span style='background-color: #FFFF00\'>兔</span>羊马猴鸡√<br>");
@@ -121,8 +121,8 @@ document.writeln("");
 document.writeln("");
 
 
-
-document.writeln("  291期团队八尾：01456789√<br>");
+document.writeln("  292期团队八尾：01345679√<br>");
+document.writeln("  291期团队八尾：01<span style='background-color: #FFFF00\'>4</span>56789√<br>");
 document.writeln("  290期团队八尾：0<span style='background-color: #FFFF00\'>1</span>256789√<br>");
 document.writeln("  289期团队八尾：023<span style='background-color: #FFFF00\'>4</span>5789√<br>");
 document.writeln("  288期团队八尾：01245<span style='background-color: #FFFF00\'>6</span>89√<br>");
@@ -178,8 +178,8 @@ document.writeln("");
 document.writeln("");
 
 
-
-document.writeln("  291期团队四头：1234√<br>");
+document.writeln("  292期团队四头：0134√<br>");
+document.writeln("  291期团队四头：<span style='background-color: #FFFF00\'>1</span>234√<br>");
 document.writeln("  290期团队四头：0<span style='background-color: #FFFF00\'>1</span>23√<br>");
 document.writeln("  289期团队四头：<span style='background-color: #FFFF00\'>0</span>124√<br>");
 document.writeln("  288期团队四头：<span style='background-color: #FFFF00\'>2</span>134√<br>");
@@ -230,8 +230,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
-document.writeln("  291期团队四行：木水火土√<br>");
+document.writeln("  292期团队四行：金木火土√<br>");
+document.writeln("  291期团队四行：<span style='background-color: #FFFF00\'>木</span>水火土√<br>");
 document.writeln("  290期团队四行：<span style='background-color: #FFFF00\'>金</span>木水火√<br>");
 document.writeln("  289期团队四行：金木水火×<br>");
 document.writeln("  288期团队四行：金木水<span style='background-color: #FFFF00\'>土</span>√<br>");
