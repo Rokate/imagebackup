@@ -57,7 +57,15 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	295期<font color=\'#FF0000\'>（小数+4头）</font>开？00√</font></b></font></table>");
+document.writeln("	296期<font color=\'#FF0000\'>（小数+3头）</font>开？00√</font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	295期<font color=\'#FF0000\'>（<span style=\'background-color: #FFFF00\'>小数</span>+4头）</font>开蛇24√</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 
@@ -109,12 +117,13 @@ document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#
 document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 18pt\'>特码来迟</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 18pt\'>『家野两肖』</font></b></table>");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("295期：<font color=\'#0000FF\'>（野兽+牛狗）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("296期：<font color=\'#0000FF\'>（野兽+马猪）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
 
 document.writeln("");
 document.writeln("<!--开始-->");
@@ -430,7 +439,13 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>295期：</font>【<font color=\'#008000\'>双数+龙虎</font>】开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>296期：</font>【<font color=\'#008000\'>双数+虎鼠</font>】开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("		<!--结束-->")
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>295期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>双数</span>+龙虎</font>】开<font color=\'#FF0000\'>(蛇24)</font></font></b></font></table>");
 document.writeln("		<!--结束-->")
 
 document.writeln("");
