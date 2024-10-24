@@ -3921,7 +3921,35 @@ document.writeln("		<font face=\'微软雅黑\' size=\'3\' color=\'#0000FF\'>289
 document.writeln("		<td bgcolor=\'#FFFFFF\' height=\'47\' width=\'54%\' style=\'margin: 0px; padding: 0px; border: 1px solid rgb(229, 229, 229); word-wrap: break-word;\'>");
 document.writeln("		<p align=\'center\' style=\'margin: 0px 0px 8px; padding: 0px;\'>");
 document.writeln("		<font face=\'微软雅黑\' color=\'#FF0000\'>今期买<span style=\'background-color: #FFFF00\'>510尾</span>输尽光</font></td>");
-document.writeln("		<td bgcolor=\'#FFFFFF\' height=\'47\'</script></div><div class="box"><script type="text/javascript">﻿document.writeln("<html>");
+document.writeln("		<td bgcolor=\'#FFFFFF\' height=\'47\' width=\'23%\' style=\'margin: 0px; padding: 0px; border: 1px solid rgb(229, 229, 229); word-wrap: break-word;\'>");
+document.writeln("		<p align=\'center\' style=\'margin: 0px 0px 8px; padding: 0px;\'>");
+document.writeln("		</font><font size=\'3\' face=\'微软雅黑\' color=\'#0000FF\'>开：牛04</font></td>");
+document.writeln("	</tr>");
+
+
+
+document.writeln("<!--内容结束-->");
+document.writeln("</table>");
+document.writeln("");
+document.writeln("");
+document.writeln("	<table id=\'table400900750\' border=\'1\' bordercolor=\'#ffcccc\' width=\'100%\' bgcolor=\'#ffffff\' style=\'font-family: &quot;Microsoft YaHei&quot;; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; border-bottom-style: solid; padding: 0px; margin: 0px; word-wrap: break-word; border-top-style: solid; font-size: 9pt;\' height=\'45\'>");
+document.writeln("<tbody style=\'padding: 0px; margin: 0px; word-wrap: break-word;\'>");
+document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=39><p style=box-sizing:border-box;padding:0;margin:0 align=center>");
+document.writeln("<font face=\'微软雅黑\'>");
+document.writeln("");
+document.writeln("<b><span style=box-sizing:border-box;font-size:14pt>");
+document.writeln("<img src=\'/images/yyy123.gif\' style=\'width:20px\' height=\'19\'><span style=box-sizing:border-box;><font color=\'#000000\'>澳门马会传真</font></span><span style=box-sizing:border-box;><font size=\'5\' color=\'#FF00FF\'>57386.com</font></span></span><span style=box-sizing:border-box;font-size:14pt><font color=\'#000000\'><span style=box-sizing:border-box;font-size:14pt>一定谨记!</span></font></span></b><span style=box-sizing:border-box;font-size:14pt><font color=\'#000000\'><span style=\'font-size: 14pt\'></strong>");
+document.writeln("</span></font></font>");
+document.writeln("</tr>");
+document.writeln("");
+document.writeln("</tbody>");
+document.writeln("</table>");
+document.writeln("</body>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");</script></div><div class="box"><script type="text/javascript">﻿document.writeln("<html>");
 document.writeln("<head>");
 document.writeln("<meta http-equiv=\'Content-Type\' content=\'text/html; charset=gb2312\'>");
 document.writeln("<title>新建网页 2</title>");
