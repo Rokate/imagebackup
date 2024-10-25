@@ -22,11 +22,23 @@ document.writeln("	   		");
 
 
 
+document.writeln("	");
+document.writeln("");
+document.writeln("	    <tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<span><font size=\'4\'>300期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【马槽里伸个驴头—多了一张嘴】</td>");
+document.writeln("		</tr>");
+document.writeln("	");
+document.writeln("");
+
+
+
 
 document.writeln("	");
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>299期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<span><font size=\'4\'>299期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>17</span><br>");
 document.writeln("		<font color=\'#FF00FF\'>【鸡给黄鼠狼拜年—自投罗网】</td>");
 document.writeln("		</tr>");
 document.writeln("		");
