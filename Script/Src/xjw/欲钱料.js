@@ -48,6 +48,17 @@ document.writeln("");
 
 
 
+document.writeln("");
+document.writeln("												<tr>");
+document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("			<p align=\'center\'>");
+document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>304期:<font color=\'#FF00FF\'>【欲钱买阳光灿烂的生肖】</font><font color=\'#0000FF\'>开？00中</font></td></tr>");
+document.writeln("");
+document.writeln("		");
+document.writeln("");
+
+
+
 
 document.writeln("");
 document.writeln("");
@@ -55,7 +66,7 @@ document.writeln("	");
 document.writeln("												<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("			<p align=\'center\'>");
-document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>303期:<font color=\'#FF00FF\'>【欲钱买家中卖力的生肖】</font><font color=\'#0000FF\'>开？00中</font></td></tr>");
+document.writeln("			<span style=\'vertical-align: middle\'><font size=\'4\'>303期:<font color=\'#FF00FF\'>【欲钱买家中卖力的生肖】</font><font color=\'#0000FF\'>开兔38中</font></td></tr>");
 document.writeln("");
 document.writeln("		");
 
