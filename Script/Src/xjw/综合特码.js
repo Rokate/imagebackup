@@ -70,7 +70,10 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("  304期团队十肖：鼠蛇马羊虎狗猪龙牛鸡√<br>");
+
+
+document.writeln("  305期团队十肖：鼠猴马羊虎狗兔龙牛鸡√<br>");
+document.writeln("  304期团队十肖：<span style='background-color: #FFFF00\'>鼠</span>蛇马羊虎狗猪龙牛鸡√<br>");
 document.writeln("  303期团队十肖：猴蛇马猪牛龙<span style='background-color: #FFFF00\'>兔</span>狗鼠羊√<br>");
 document.writeln("  302期团队十肖：牛兔猪猴马羊鸡狗鼠龙×<br>");
 document.writeln("  301期团队十肖：蛇<span style='background-color: #FFFF00\'>牛</span>鼠虎猪兔羊马猴鸡√<br>");
@@ -107,8 +110,8 @@ document.writeln("");
 document.writeln("");
 
 
-
-document.writeln("  291期团队八尾：41267805√<br>");
+document.writeln("  305期团队八尾：01345679√<br>");
+document.writeln("  304期团队八尾：4126<span style='background-color: #FFFF00\'>7</span>805√<br>");
 document.writeln("  303期团队八尾：012567<span style='background-color: #FFFF00\'>8</span>9√<br>");
 document.writeln("  302期团队八尾：023<span style='background-color: #FFFF00\'>4</span>5789√<br>");
 document.writeln("  301期团队八尾：01245<span style='background-color: #FFFF00\'>6</span>89√<br>");
@@ -129,8 +132,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
-document.writeln("  304期团队四头：1234√<br>");
+document.writeln("  305期团队四头：0134√<br>");
+document.writeln("  304期团队四头：<span style='background-color: #FFFF00\'>1</span>234√<br>");
 document.writeln("  303期团队四头：012<span style='background-color: #FFFF00\'>3</span>√<br>");
 document.writeln("  302期团队四头：01<span style='background-color: #FFFF00\'>2</span>4√<br>");
 document.writeln("  301期团队四头：2<span style='background-color: #FFFF00\'>1</span>34√<br>");
@@ -157,8 +160,8 @@ document.writeln("");
 document.writeln("");
 
 
-
-document.writeln("  304期团队四行：木水火土√<br>");
+document.writeln("  305期团队四行：金木火土√<br>");
+document.writeln("  304期团队四行：木水<span style='background-color: #FFFF00\'>火</span>土√<br>");
 document.writeln("  303期团队四行：金木水<span style='background-color: #FFFF00\'>火</span>√<br>");
 document.writeln("  302期团队四行：<span style='background-color: #FFFF00\'>金</span>木水火√<br>");
 
