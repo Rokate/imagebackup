@@ -20,8 +20,10 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("307期</font><font color=\'#FF0000\' size=\"5\">（牛兔马+8412尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("308期</font><font color=\'#FF0000\' size=\"5\">（猪羊猴+0723尾）</font><font size=\'4\'>开？00</font></b></font></table>");
 document.writeln("		<!--结束-->");
+
+
 
 
 
@@ -257,6 +259,26 @@ document.writeln("<!--必中start-->");
 document.writeln("<div class=\'box\'>");
 document.writeln("");
 
+document.writeln("");
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong555\'>");
+document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（62827b.com）一尾一码</div>");
+document.writeln("	<div class=\'bizhong555-box\'>");
+document.writeln("    	<div class=\'bizhong555-l\'>");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">308期必中18码：</font><font color=\'#FF0000\' size=\'2\'>08.18.28.20.30.40.22.32.42.05.15.25.11.21.31.04.14.24</font></li>");
+document.writeln("            	<li>308期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">08.18.28.20.30.40.22.32.42.05.15.25</font></li>");
+document.writeln("            	<li>308期必中六码：<font color=\'#FF0000\' size=\'4\'>08.18.28.20.30.40</font></li>");
+document.writeln("            	<li>308期必中①码：<font color=\'#FF0000\' size=\'5\'>（8尾-08.18.28）</font></li>");
+document.writeln("            	<li>308期必中三尾：<font color=\'#FF0000\' size=\'4\'>8-0-2</font></li>");
+document.writeln("            	<li>308期必中六尾：<font color=\'#FF0000\' size=\'4\'>8-0-2-5-1-4</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+document.writeln("");
 
 document.writeln("");
 document.writeln("<!--必中每期开始-->");
@@ -265,12 +287,12 @@ document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（62827b.com）
 document.writeln("	<div class=\'bizhong555-box\'>");
 document.writeln("    	<div class=\'bizhong555-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">307期必中18码：</font><font color=\'#FF0000\' size=\'2\'>03.13.33.10.20.30.22.32.42.06.16.26.07.17.47.24.34.44</font></li>");
-document.writeln("            	<li>307期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">03.13.33.10.20.30.22.32.42.06.16.26</font></li>");
-document.writeln("            	<li>307期必中六码：<font color=\'#FF0000\' size=\'4\'>03.13.33.10.20.30</font></li>");
-document.writeln("            	<li>307期必中①码：<font color=\'#FF0000\' size=\'5\'>（3尾-03.13.33）</font></li>");
-document.writeln("            	<li>307期必中三尾：<font color=\'#FF0000\' size=\'4\'>3-0-2</font></li>");
-document.writeln("            	<li>307期必中六尾：<font color=\'#FF0000\' size=\'4\'>3-0-2-6-7-4</font></li>");
+document.writeln(" 	            <li><font size=\"2\">307期必中18码：</font><font color=\'#FF0000\' size=\'2\'><span style=\'background-color: #FFFF00\'>【03】</span>.13.33.10.20.30.22.32.42.06.16.26.07.17.47.24.34.44</font></li>");
+document.writeln("            	<li>307期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\"><span style=\'background-color: #FFFF00\'>【03】</span>.13.33.10.20.30.22.32.42.06.16.26</font></li>");
+document.writeln("            	<li>307期必中六码：<font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>【03】</span>.13.33.10.20.30</font></li>");
+document.writeln("            	<li>307期必中①码：<font color=\'#FF0000\' size=\'5\'>（<span style=\'background-color: #FFFF00\'>3尾</span>-<span style=\'background-color: #FFFF00\'>【03】</span>.13.33）</font></li>");
+document.writeln("            	<li>307期必中三尾：<font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>【3】</span>-0-2</font></li>");
+document.writeln("            	<li>307期必中六尾：<font color=\'#FF0000\' size=\'4\'><span style=\'background-color: #FFFF00\'>【3】</span>-0-2-6-7-4</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
