@@ -71,8 +71,8 @@ document.writeln("");
 document.writeln("");
 
 
-
-document.writeln("  308期团队十肖：鼠猴蛇羊虎狗兔龙牛鸡√<br>");
+document.writeln("  309期团队十肖：鼠猴蛇羊虎狗兔龙牛鸡√<br>");
+document.writeln("  308期团队十肖：鼠猴蛇<span style='background-color: #FFFF00\'>羊</span>虎狗兔龙牛鸡√<br>");
 document.writeln("  307期团队十肖：鼠猴马羊<span style='background-color: #FFFF00\'>虎</span>狗兔猪龙鸡√<br>");
 document.writeln("  306期团队十肖：鼠猴蛇马虎狗兔猪牛<span style='background-color: #FFFF00\'>鸡</span>√<br>");
 document.writeln("  305期团队十肖：鼠猴马羊虎狗兔龙牛<span style='background-color: #FFFF00\'>鸡</span>√<br>");
@@ -112,8 +112,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
-document.writeln("  308期团队八尾：01235679√<br>");
+document.writeln("  309期团队八尾：01234789√<br>");
+document.writeln("  308期团队八尾：01<span style='background-color: #FFFF00\'>2</span>35679√<br>");
 document.writeln("  307期团队八尾：01<span style='background-color: #FFFF00\'>3</span>45678√<br>");
 document.writeln("  306期团队八尾：023456<span style='background-color: #FFFF00\'>8</span>9√<br>");
 document.writeln("  305期团队八尾：01345679×<br>");
@@ -138,8 +138,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
-document.writeln("  308期团队四头：0123√<br>");
+document.writeln("  309期团队四头：0134√<br>");
+document.writeln("  308期团队四头：01<span style='background-color: #FFFF00\'>2</span>3√<br>");
 document.writeln("  307期团队四头：<span style='background-color: #FFFF00\'>0</span>124√<br>");
 document.writeln("  306期团队四头：<span style='background-color: #FFFF00\'>0</span>124√<br>");
 document.writeln("  305期团队四头：01<span style='background-color: #FFFF00\'>3</span>4√<br>");
@@ -169,8 +169,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
-document.writeln("  308期团队四行：金木水火√<br>");
+document.writeln("  309期团队四行：金木火土√<br>");
+document.writeln("  308期团队四行：金<span style='background-color: #FFFF00\'>木</span>水火√<br>");
 document.writeln("  307期团队四行：<span style='background-color: #FFFF00\'>金</span>木火土√<br>");
 document.writeln("  306期团队四行：金水<span style='background-color: #FFFF00\'>火</span>土√<br>");
 document.writeln("  305期团队四行：<span style='background-color: #FFFF00\'>金</span>木火土√<br>");
