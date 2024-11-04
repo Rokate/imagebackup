@@ -3504,20 +3504,7 @@ document.writeln("						<p style=\'box-sizing: border-box; padding: 0px; margin:
 document.writeln("						<strong style=\'box-sizing: border-box;\'>");
 document.writeln("						<span style=\'box-sizing: border-box; vertical-align: middle;\'>");
 document.writeln("						<span style=\'box-sizing: border-box; font-size: 15pt; color: navy; font-family: Tahoma;\'>");
-document.writeln("						310期</span><span style=\'box-sizing: border-box; font-size: 15pt; color: rgb(255, 0, 102); font-family: Tahoma;\'>&#9773;</span><span style=\'box-sizing: border-box; font-size: 15pt; color: navy; font-family: Tahoma;\'>绝杀</span></span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: navy;\'>【</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: rgb(219, 0, 5);\'>龙猪羊鸡</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: navy;\'>】开:</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: rgb(219, 0, 5);\'>？00</span></strong></td>");
-document.writeln("					</tr>");
-document.writeln("			</table>");
-
-document.writeln("");
-document.writeln("	<table border=\'0\' width=\'100%\' cellspacing=\'0\' cellpadding=\'0\' style=\'box-sizing: border-box; border-collapse: collapse; border-spacing: 0px;\'>");
-document.writeln("				<tbody style=\'box-sizing: border-box;\'>");
-document.writeln("					<tr style=\'box-sizing: border-box;\'>");
-document.writeln("						<td align=\'center\' bgcolor=\'#ffffff\' height=\'40\' style=\'box-sizing: border-box; vertical-align: middle; border: 1px solid rgb(235, 235, 235);\'>");
-document.writeln("						<p style=\'box-sizing: border-box; padding: 0px; margin: 0px; word-spacing: 1px; line-height: 32px;\'>");
-document.writeln("						<strong style=\'box-sizing: border-box;\'>");
-document.writeln("						<span style=\'box-sizing: border-box; vertical-align: middle;\'>");
-document.writeln("						<span style=\'box-sizing: border-box; font-size: 15pt; color: navy; font-family: Tahoma;\'>");
-document.writeln("						309期</span><span style=\'box-sizing: border-box; font-size: 15pt; color: rgb(255, 0, 102); font-family: Tahoma;\'>&#9773;</span><span style=\'box-sizing: border-box; font-size: 15pt; color: navy; font-family: Tahoma;\'>绝杀</span></span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: navy;\'>【</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: rgb(219, 0, 5);\'>猪羊鼠虎</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: navy;\'>】开:</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: rgb(219, 0, 5);\'>猴09</span></strong></td>");
+document.writeln("						309期</span><span style=\'box-sizing: border-box; font-size: 15pt; color: rgb(255, 0, 102); font-family: Tahoma;\'>&#9773;</span><span style=\'box-sizing: border-box; font-size: 15pt; color: navy; font-family: Tahoma;\'>绝杀</span></span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: navy;\'>【</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: rgb(219, 0, 5);\'>猪羊鼠虎</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: navy;\'>】开:</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: rgb(219, 0, 5);\'>？00</span></strong></td>");
 document.writeln("					</tr>");
 document.writeln("			</table>");
 
