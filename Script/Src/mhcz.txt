@@ -247,6 +247,9 @@ document.writeln("<b><font face=\'楷体\' style=\'font-size: 19pt\'><font color
 document.writeln("");
 document.writeln("");
 
+
+
+
 document.writeln("<!---每期开始--->");
 document.writeln("<table id=\'table52\' border=\'1\' width=\'100%\' height=\'39\'>");
 document.writeln("");
@@ -254,7 +257,7 @@ document.writeln("		<tr>");
 document.writeln("			<td height=\'33\'>");
 document.writeln("		");
 document.writeln("			<p align=\'center\'><b>");
-document.writeln("			<font size=\'4\' color=\'#FF0000\'>309期『4肖+4码』：开？00准</font></b></td>");
+document.writeln("			<font size=\'4\' color=\'#FF0000\'>310期『4肖+4码』：开？00准</font></b></td>");
 document.writeln("		</tr>");
 document.writeln("</table>");
 document.writeln("<table id=\'table52\' border=\'1\' width=\'100%\' height=\'46\'>");
@@ -262,7 +265,29 @@ document.writeln("");
 document.writeln("		<tr>");
 document.writeln("			<td height=\'40\'>");
 document.writeln("		");
-document.writeln("			<p align=\'center\'><b><font color=\'#008000\' size=\'5\'>【猴羊龙狗+21.34.13.31】</font></b></td>");
+document.writeln("			<p align=\'center\'><b><font color=\'#008000\' size=\'5\'>【鸡鼠虎蛇+32.29.15.24】</font></b></td>");
+document.writeln("		</tr>");
+document.writeln("</tr></table>");
+document.writeln("<!---每期结束--->");
+
+
+
+document.writeln("<!---每期开始--->");
+document.writeln("<table id=\'table52\' border=\'1\' width=\'100%\' height=\'39\'>");
+document.writeln("");
+document.writeln("		<tr>");
+document.writeln("			<td height=\'33\'>");
+document.writeln("		");
+document.writeln("			<p align=\'center\'><b>");
+document.writeln("			<font size=\'4\' color=\'#FF0000\'>309期『4肖+4码』：开猴09准</font></b></td>");
+document.writeln("		</tr>");
+document.writeln("</table>");
+document.writeln("<table id=\'table52\' border=\'1\' width=\'100%\' height=\'46\'>");
+document.writeln("");
+document.writeln("		<tr>");
+document.writeln("			<td height=\'40\'>");
+document.writeln("		");
+document.writeln("			<p align=\'center\'><b><font color=\'#008000\' size=\'5\'>【<span style=\'background-color: #FFFF00\'>猴</span>羊龙狗+21.34.13.31】</font></b></td>");
 document.writeln("		</tr>");
 document.writeln("</tr></table>");
 document.writeln("<!---每期结束--->");
@@ -323,7 +348,15 @@ document.writeln("<table id=\'table52\' border=\'1\' width=\'100%\' height=\'43\
 document.writeln("					<tr>");
 document.writeln("			<td height=\'37\'>");
 document.writeln("");
-document.writeln("					<p align=\'center\'><b><font size=\'4\' color=\'#008000\'>309期：</font><font color=\'#FF00FF\' size=\'4\'>必中【大尾】</font><font color=\'#008000\' size=\'4\'>开？00准</font></b></td>");
+document.writeln("					<p align=\'center\'><b><font size=\'4\' color=\'#008000\'>310期：</font><font color=\'#FF00FF\' size=\'4\'>必中【小尾】</font><font color=\'#008000\' size=\'4\'>开？00准</font></b></td>");
+document.writeln("		</tr>");
+
+
+
+document.writeln("					<tr>");
+document.writeln("			<td height=\'37\'>");
+document.writeln("");
+document.writeln("					<p align=\'center\'><b><font size=\'4\' color=\'#008000\'>309期：</font><font color=\'#FF00FF\' size=\'4\'>必中【大尾】</font><font color=\'#008000\' size=\'4\'>开猴09准</font></b></td>");
 document.writeln("		</tr>");	
 
 
@@ -399,7 +432,13 @@ document.writeln("		");
 
 document.writeln("		<tr>");
 document.writeln("			<td height=\'39\'>");
-document.writeln("					<p align=\'center\'><b><font color=\'#008000\' size=\'4\'>309期：</font><font color=\'#FF00FF\' size=\'4\'>必中【双头】</font><font color=\'#008000\' size=\'4\'>开？00准</font></b></td>");
+document.writeln("					<p align=\'center\'><b><font color=\'#008000\' size=\'4\'>310期：</font><font color=\'#FF00FF\' size=\'4\'>必中【单头】</font><font color=\'#008000\' size=\'4\'>开？00准</font></b></td>");
+document.writeln("		</tr>");
+
+
+document.writeln("		<tr>");
+document.writeln("			<td height=\'39\'>");
+document.writeln("					<p align=\'center\'><b><font color=\'#008000\' size=\'4\'>309期：</font><font color=\'#FF00FF\' size=\'4\'>必中【双头】</font><font color=\'#008000\' size=\'4\'>开猴09准</font></b></td>");
 document.writeln("		</tr>");
 
 
