@@ -53,67 +53,17 @@ document.writeln("");
 
 
 
-
-
-
-
 document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("314期红色记忆【独家16码】开？00准<br>");
+document.writeln("315期红色记忆【独家16码】开？00准<br>");
 document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
-document.writeln("（43.10.42.08.24.13.35.06）<br>");
-document.writeln("（11.01.21.44.28.04.02.27）</font></td>");
+document.writeln("（39.23.44.15.07.27.47.38）<br>");
+document.writeln("（04.46.35.09.32.26.16.01）</font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("311期红色记忆【独家16码】开猴21准<br>");
-document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
-document.writeln("（40.13.31.01.39.49.<span style='background-color: #FFFF00\'>21</span>.43）<br>");
-document.writeln("（38.08.28.48.22.44.16.42）</font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("310期红色记忆【独家16码】开牛04准<br>");
-document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
-document.writeln("（33.21.28.47.39.10.32.<span style='background-color: #FFFF00\'>04</span>）<br>");
-document.writeln("（45.19.14.40.16.42.41.31）</font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-
-
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("308期红色记忆【独家16码】开羊22准<br>");
-document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
-document.writeln("（<span style='background-color: #FFFF00\'>22</span>.43.10.42.08.24.13.35）<br>");
-document.writeln("（26.11.01.21.44.28.04.02）</font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
 
 
 

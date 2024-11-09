@@ -567,7 +567,7 @@ document.writeln("	杀一肖：</font><font color=\'#008000\' style=\'font-size:
 document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>杀二肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>鸡<span style=\'background-color: #FFFF00\'>牛</span></font>");
 document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>杀三肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>鸡<span style=\'background-color: #FFFF00\'>牛</span>龙</font>");
 document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>");
-document.writeln("	杀平特1尾：</font><font color=\'#008000\'><span style=\'font-size: 16pt\'>七七七</span></font></font></b></font></table>");
+document.writeln("	杀平特1尾：</font><font color=\'#008000\'><span style=\'font-size: 16pt\'><span style=\'background-color: #FFFF00\'>七七七</span></span></font></font></b></font></table>");
 document.writeln("	<!--结束-->");
 
 document.writeln("<!--开始-->");
