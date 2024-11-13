@@ -14,6 +14,16 @@ document.writeln("		");
 document.writeln("		");
 
 
+	document.writeln("");
+document.writeln("						<tr>");
+document.writeln("		<td class=\'center f11 black l150\'>");
+document.writeln("	");
+document.writeln("		<p align=\'center\'>");
+document.writeln("	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>321期:<font color=\'#FF00FF\'>《中中中》</font><font color=\'#008000\'>（00 00 00）</font><font color=\'#0000FF\'>开00中</font></font></span></td></tr>");
+document.writeln("	");
+document.writeln("");
+
 
 	document.writeln("");
 document.writeln("						<tr>");
@@ -27,28 +37,15 @@ document.writeln("");
 
 
 
-	document.writeln("");
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("	");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>319期:<font color=\'#FF00FF\'>《中中中》</font><font color=\'#008000\'>（00 00 00）</font><font color=\'#0000FF\'>开00中</font></font></span></td></tr>");
-document.writeln("	");
-document.writeln("");
-
-
-
 document.writeln("");
 document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("	");
 document.writeln("		<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>318期:<font color=\'#FF00FF\'>《鼠龙马》</font><font color=\'#008000\'>（41 49 23）</font><font color=\'#0000FF\'>开？00中</font></font></span></td></tr>");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>319期:<font color=\'#FF00FF\'>《鼠龙马》</font><font color=\'#008000\'>（41 49 23）</font><font color=\'#0000FF\'>开？00中</font></font></span></td></tr>");
 document.writeln("	");
 document.writeln("");
-
 
 
 
