@@ -40,15 +40,31 @@ document.writeln("");
 
 
 
+document.writeln("");
+document.writeln("	<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>320期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【→九六两边出←】</font><font color=\'#6600CC\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>解：08鸡.09猴.10羊.05鼠.06猪.07狗</font></font></span></td></tr>");
+document.writeln("	");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+
+
 
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>319期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>319期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开鼠41</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#FF00FF\'>【→六三两边出←】</font><font color=\'#6600CC\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>解：05鼠.06猪.07狗.2兔.03虎.04牛</font></font></span></td></tr>");
+document.writeln("		</font><font color=\'#0000FF\'>解：05<span style='background-color: #FFFF00\'>鼠</span>.06猪.07狗.2兔.03虎.04牛</font></font></span></td></tr>");
 document.writeln("	");
 document.writeln("");
 document.writeln("");
