@@ -37,13 +37,12 @@ document.writeln("");
 
 
 
-
 document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><b><font size=\'4\'>320期:</font><font color=\'#0000FF\' style=\"font-size: 14pt\">【天地六码】</font></b><font size=\'4\'><b><font color=\'#FF0000\'>开？00</font></b><font color=\'#008000\'><b>准</b><br>");
+document.writeln("		<span><b><font size=\'4\'>321期:</font><font color=\'#0000FF\' style=\"font-size: 14pt\">【天地六码】</font></b><font size=\'4\'><b><font color=\'#FF0000\'>开？00</font></b><font color=\'#008000\'><b>准</b><br>");
 document.writeln("		</font></font>");
 document.writeln("		<b>");
 document.writeln("		<font style=\"font-size: 16pt\">天肖【马牛兔】<br>11.23.13.25.14.02</font></b></span></tr>	");
@@ -52,45 +51,6 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
-
-
-
-
-
-
-
-
-
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><b><font size=\'4\'>317期:</font><font color=\'#0000FF\' style=\"font-size: 14pt\">【天地六码】</font></b><font size=\'4\'><b><font color=\'#FF0000\'>开龙13</font></b><font color=\'#008000\'><b>准</b><br>");
-document.writeln("		</font></font>");
-document.writeln("		<b>");
-document.writeln("		<font style=\"font-size: 16pt\">天肖【猪牛<span style='background-color: #FFFF00\'>龙</span>】<br>18.30.04.28.<span style='background-color: #FFFF00\'>13</span>.25</font></b></span></tr>	");
-document.writeln("");
-
-
-
-
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><b><font size=\'4\'>316期:</font><font color=\'#0000FF\' style=\"font-size: 14pt\">【天地六码】</font></b><font size=\'4\'><b><font color=\'#FF0000\'>开鼠05</font></b><font color=\'#008000\'><b>准</b><br>");
-document.writeln("		</font></font>");
-document.writeln("		<b>");
-document.writeln("		<font style=\"font-size: 16pt\">地肖【鸡狗<span style='background-color: #FFFF00\'>鼠</span>】<br>20.32.19.31.<span style='background-color: #FFFF00\'>05</span>.17</font></b></span></tr>	");
-document.writeln("");
-
-
-
-
-
 
 
 

@@ -25,12 +25,11 @@ document.writeln("	   		");
 
 document.writeln("				    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>320期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<span><font size=\'4\'>321期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
 document.writeln("		<font color=\'#FF00FF\'>【老鼠钻到风箱里—两头受气】</td>");
 document.writeln("		</tr>");
 document.writeln("		");
 document.writeln("");
-
 
 
 
