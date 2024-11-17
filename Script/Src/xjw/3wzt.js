@@ -48,15 +48,12 @@ document.writeln("");
 
 
 
-
-
-
 document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("322期六尾</font><font color=\"#FF0000\" size=\"5\">（5-2-3-0-4-8）</font><font size=\"4\"><br>");
-document.writeln("322期三尾</font><font color=\"#FF0000\" size=\"5\">（5-2-3）</font>");
+document.writeln("323期六尾</font><font color=\"#FF0000\" size=\"5\">（6-0-2-4-8-7）</font><font size=\"4\"><br>");
+document.writeln("323期三尾</font><font color=\"#FF0000\" size=\"5\">（6-0-2）</font>");
 document.writeln("</td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
@@ -137,110 +134,6 @@ document.writeln("</td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 document.writeln("");
-
-
-
-
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("314期六尾</font><font color=\"#FF0000\" size=\"5\">（3-4-<span style='background-color: #FFFF00\'>8</span>-6-1-0）</font><font size=\"4\"><br>");
-document.writeln("314期三尾</font><font color=\"#FF0000\" size=\"5\">（3-4-<span style='background-color: #FFFF00\'>8</span>）</font>");
-document.writeln("</td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("312期六尾</font><font color=\"#FF0000\" size=\"5\">（2-3-1-0-4-<span style='background-color: #FFFF00\'>8</span>）</font><font size=\"4\"><br>");
-document.writeln("312期三尾</font><font color=\"#FF0000\" size=\"5\">（2-3-1）</font>");
-document.writeln("</td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("");
-
-
-
-
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("311期六尾</font><font color=\"#FF0000\" size=\"5\">（6-<span style='background-color: #FFFF00\'>1</span>-2-0-5-4）</font><font size=\"4\"><br>");
-document.writeln("311期三尾</font><font color=\"#FF0000\" size=\"5\">（6-<span style='background-color: #FFFF00\'>1</span>-2）</font>");
-document.writeln("</td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("");
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("310期六尾</font><font color=\"#FF0000\" size=\"5\">（<span style='background-color: #FFFF00\'>4</span>-6-2-0-1-3）</font><font size=\"4\"><br>");
-document.writeln("310期三尾</font><font color=\"#FF0000\" size=\"5\">（<span style='background-color: #FFFF00\'>4</span>-6-2）</font>");
-document.writeln("</td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("308期六尾</font><font color=\"#FF0000\" size=\"5\">（5-<span style='background-color: #FFFF00\'>2</span>-3-0-4-8）</font><font size=\"4\"><br>");
-document.writeln("308期三尾</font><font color=\"#FF0000\" size=\"5\">（5-<span style='background-color: #FFFF00\'>2</span>-3）</font>");
-document.writeln("</td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("306期六尾</font><font color=\"#FF0000\" size=\"5\">（4-6-2-3-<span style='background-color: #FFFF00\'>8</span>-7）</font><font size=\"4\"><br>");
-document.writeln("306期三尾</font><font color=\"#FF0000\" size=\"5\">（4-6-2）</font>");
-document.writeln("</td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("");
-
-
-
-
 
 
 
