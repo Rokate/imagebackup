@@ -16,17 +16,18 @@ document.writeln("		");
 
 
 
-document.writeln("	");
-document.writeln("");
-document.writeln("");
+
+document.writeln("		");
 document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("	");
 document.writeln("		<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>323期:<font color=\'#FF00FF\'>《鼠猴蛇》</font><font color=\'#008000\'>（05 21 24）</font><font color=\'#0000FF\'>开？00中</font></font></span></td></tr>");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>324期:<font color=\'#FF00FF\'>《牛龙兔》</font><font color=\'#008000\'>（04 13 26）</font><font color=\'#0000FF\'>开？00中</font></font></span></div>	");
 document.writeln("	");
-document.writeln("	");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
 
 
 

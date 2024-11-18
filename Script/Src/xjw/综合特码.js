@@ -74,8 +74,9 @@ document.writeln("");
 
 
    
-   
-document.writeln("  323期团队十肖：鼠猴蛇羊虎狗兔龙牛鸡√<br>");
+
+document.writeln("  324期团队十肖：牛鸡狗马虎蛇猴兔龙羊√<br>");
+document.writeln("  323期团队十肖：鼠猴蛇羊<span style='background-color: #FFFF00\'>虎</span>狗兔龙牛鸡√<br>");
 document.writeln("  322期团队十肖：鼠猴蛇羊<span style='background-color: #FFFF00\'>虎</span>狗兔龙牛鸡√<br>");
 document.writeln("  321期团队十肖：鼠猴马羊虎狗兔猪龙鸡×<br>");
 document.writeln("  320期团队十肖：鼠猴马羊虎狗兔猪龙鸡×<br>");
@@ -127,7 +128,8 @@ document.writeln("");
 
 
 
-document.writeln("  323期团队八尾：01234789√<br>");
+document.writeln("  324期团队八尾：01245789√<br>");
+document.writeln("  323期团队八尾：0123478<span style='background-color: #FFFF00\'>9</span>√<br>");
 document.writeln("  322期团队八尾：012356<span style='background-color: #FFFF00\'>7</span>9√<br>");
 document.writeln("  321期团队八尾：01345<span style='background-color: #FFFF00\'>6</span>78√<br>");
 document.writeln("  320期团队八尾：01345678×<br>");
@@ -150,7 +152,9 @@ document.writeln("");
 
 
 
-document.writeln("  323期团队四头：0134√<br>");
+
+document.writeln("  324期团队四头：0234√<br>");
+document.writeln("  323期团队四头：01<span style='background-color: #FFFF00\'>3</span>4√<br>");
 document.writeln("  322期团队四头：01<span style='background-color: #FFFF00\'>2</span>3√<br>");
 document.writeln("  321期团队四头：0124×<br>");
 document.writeln("  320期团队四头：0<span style='background-color: #FFFF00\'>1</span>24√<br>");
@@ -173,7 +177,11 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-document.writeln("  323期团队四行：金木火土√<br>");
+
+
+
+document.writeln("  324期团队四行：木水火土√<br>");
+document.writeln("  323期团队四行：金木<span style='background-color: #FFFF00\'>火</span>土√<br>");
 document.writeln("  322期团队四行：金木水火×<br>");
 document.writeln("  321期团队四行：金<span style='background-color: #FFFF00\'>木</span>火土√<br>");
 
