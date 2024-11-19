@@ -1936,6 +1936,25 @@ document.writeln("");
 
 
 
+
+
+
+document.writeln("	<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'157\'><tbody>");
+document.writeln("	");
+document.writeln("<tr><td width=100% height=40><p align=left><b><span style=\"font-size: 14pt\">325期<font color=\"#FFFFFF\"><span style=\"background-color: #0000FF\">【双波20码】</span></font></span><font color=\"#FF0000\"><span style=\"font-size: 14pt\">（开00）</span></font></b></td></tr>");
+document.writeln("");
+document.writeln("<tr><td width=100% height=38><p align=left>");
+document.writeln("	<font color=\"#008000\" style=\"font-size: 14pt\"><b>【绿波】16.17.22.21.27.28.30.33.38.39</b></font></td></tr>");
+document.writeln("");
+document.writeln("<tr><td width=100% height=44><p align=left>");
+document.writeln("	<font color=\"#FF0000\" style=\"font-size: 14pt\"><b>【红波】08.12.13.18.19.23.24.29.30.34</b></font></td></tr>");
+document.writeln("");
+document.writeln("<tr><td width=100% height=38 bgcolor=\'#FFFF99\'><p align=\'left\'><b>");
+document.writeln("	<span style=box-sizing:border-box;><font color=\'#000000\'>澳门马会传真</font><font size=\'5\' color=\'#FF00FF\'>57386.com</font></span><font color=\'#000000\'>一定谨记!</font></span> </b>");
+document.writeln("</td></tr></table>				");
+document.writeln("		<!--结束-->");
+
 document.writeln("	<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'157\'><tbody>");
 document.writeln("	");
