@@ -16,44 +16,18 @@ document.writeln("		");
 
 
 
-
-document.writeln("");
-document.writeln("		");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("	");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>329期:<font color=\'#FF00FF\'>《虎猪猴》</font><font color=\'#008000\'>（15 42 09）</font><font color=\'#0000FF\'>开？00中</font></font></span></td></tr>");
-document.writeln("			");
-document.writeln("		");
-document.writeln("");
-
-
-
-
 document.writeln("");
 document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
 document.writeln("		<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>326期:<font color=\'#FF00FF\'>《猪<span style='background-color: #FFFF00\'>狗</span>猴》</font><font color=\'#008000\'>（06 07 21）</font><font color=\'#0000FF\'>开狗19中</font></font></span></div>	");
-document.writeln("	");
-document.writeln("");
-
-
-
-
-document.writeln("		");
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>324期:<font color=\'#FF00FF\'>《牛<span style='background-color: #FFFF00\'>龙</span>兔》</font><font color=\'#008000\'>（04 13 26）</font><font color=\'#0000FF\'>开龙01中</font></font></span></div>	");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>330期:<font color=\'#FF00FF\'>《狗羊兔》</font><font color=\'#008000\'>（07 22 38）</font><font color=\'#0000FF\'>开？00中</font></font></span></div>	");
 document.writeln("	");
 document.writeln("");
 document.writeln("");
-document.writeln("");
+
+
+
 
 
 
