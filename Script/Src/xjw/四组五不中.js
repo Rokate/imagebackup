@@ -62,7 +62,9 @@ document.writeln("	328期(单：龙<span style='background-color: #FFFF00\'>鸡<
 document.writeln("	329期(单：龙鼠狗马)(双：羊猪鸡牛)×<br>	");
 document.writeln("	330期(单：龙鼠猴虎)(双：蛇兔鸡牛)×<br>	");
 document.writeln("	331期(单：龙马鼠猴)(双：蛇兔<span style='background-color: #FFFF00\'>猪</span>鸡)√<br>	");
-document.writeln("	332期(单：虎狗猴龙)(双：猪羊蛇兔)√<br>	");
+document.writeln("	332期(单：虎狗猴龙)(双：猪羊蛇兔)×<br>	");
+document.writeln("	333期(单：狗虎马龙)(双：鸡羊牛兔)√<br>	");
+
 
 
 
@@ -107,6 +109,7 @@ document.writeln("	<span style=\"font-size: 14pt\"><b>");
 
 
 
+document.writeln("	333期(家：牛猪羊马)(野：龙蛇猴虎)√<br>		");
 document.writeln("	323期(家：牛狗鸡马)(野：<span style='background-color: #FFFF00\'>虎</span>蛇猴龙)√<br>		");
 document.writeln("	324期(家：狗牛猪羊)(野：<span style='background-color: #FFFF00\'>龙</span>猴蛇鼠)√<br>		");
 document.writeln("	325期(家：鸡马猪羊)(野：兔鼠蛇鼠)×<br>		");
@@ -116,7 +119,7 @@ document.writeln("	328期(家：牛羊猪马)(野：虎兔猴龙)×<br>		");
 document.writeln("	329期(家：牛狗鸡马)(野：虎蛇猴龙)×<br>		");
 document.writeln("	330期(家：牛羊猪<span style='background-color: #FFFF00\'>马</span>)(野：虎蛇兔猴)√<br>		");
 
-document.writeln("	331期(家：牛狗鸡马)(野：龙鼠兔猴)×<br>		");
+document.writeln("	331期(家：牛狗<span style='background-color: #FFFF00\'>鸡</span>马)(野：龙鼠兔猴)×<br>		");
 document.writeln("	332期(家：牛鸡狗马)(野：龙鼠兔虎)√<br>		");
 
 
