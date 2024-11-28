@@ -21,144 +21,36 @@ document.writeln("	");
 
 
 
-
-document.writeln("	<tr style=\'box-sizing: border-box;\'>");
+document.writeln("			<tr style=\'box-sizing: border-box;\'>");
 document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			333期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'>1.3.4头</font>』<font color=\'#0000FF\'>开？00准</font></font></td>");
+document.writeln("			336期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'>？头</font>』<font color=\'#0000FF\'>开中00准</font></font></td>");
 document.writeln("		</tr>");
 document.writeln("				");
-document.writeln("		");
 document.writeln("");
 document.writeln("");
-document.writeln("");
 
-
-
-
-
-
-
-document.writeln("		<tr style=\'box-sizing: border-box;\'>");
+document.writeln("			<tr style=\'box-sizing: border-box;\'>");
 document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			330期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'><span style='background-color: #FFFF00\'>1</span>.2.4头</font>』<font color=\'#0000FF\'>开马11准</font></font></td>");
+document.writeln("			335期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'>？头</font>』<font color=\'#0000FF\'>开中00准</font></font></td>");
 document.writeln("		</tr>");
+document.writeln("				");
 document.writeln("");
 document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("		<tr style=\'box-sizing: border-box;\'>");
-document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			327期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'>2.3.<span style='background-color: #FFFF00\'>4</span>头</font>』<font color=\'#0000FF\'>开鼠41准</font></font></td>");
-document.writeln("		</tr>");
-document.writeln("");
-document.writeln("			");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("		<tr style=\'box-sizing: border-box;\'>");
-document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			325期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'>1.<span style='background-color: #FFFF00\'>2</span>.4头</font>』<font color=\'#0000FF\'>开牛28准</font></font></td>");
-document.writeln("		</tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("		<tr style=\'box-sizing: border-box;\'>");
-document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			323期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'>2.<span style='background-color: #FFFF00\'>3</span>.4头</font>』<font color=\'#0000FF\'>开虎39准</font></font></td>");
-document.writeln("		</tr>");
-document.writeln("");
-document.writeln("			");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
 
 
 document.writeln("			<tr style=\'box-sizing: border-box;\'>");
 document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			320期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'><span style='background-color: #FFFF00\'>1</span>.2.4头</font>』<font color=\'#0000FF\'>开蛇12准</font></font></td>");
+document.writeln("			334期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'>1.2.4头</font>』<font color=\'#0000FF\'>开？00准</font></font></td>");
 document.writeln("		</tr>");
 document.writeln("				");
 document.writeln("");
 document.writeln("");
-
-
-
-
-
-
-document.writeln("		<tr style=\'box-sizing: border-box;\'>");
-document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			319期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'>0.2.<span style='background-color: #FFFF00\'>4</span>头</font>』<font color=\'#0000FF\'>开鼠41准</font></font></td>");
-document.writeln("		</tr>");
-document.writeln("				");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-document.writeln("		<tr style=\'box-sizing: border-box;\'>");
-document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			318期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'>0.2.<span style='background-color: #FFFF00\'>4</span>头</font>』<font color=\'#0000FF\'>开鸡44准</font></font></td>");
-document.writeln("		</tr>");
-document.writeln("				");
-document.writeln("		");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-document.writeln("			<tr style=\'box-sizing: border-box;\'>");
-document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			317期<font color=\'#008000\'>三头中特</font>『<font color=\'#FF0000\'><span style='background-color: #FFFF00\'>1</span>.3.4头</font>』<font color=\'#0000FF\'>开龙13准</font></font></td>");
-document.writeln("		</tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
 
 
 
