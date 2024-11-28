@@ -225,6 +225,24 @@ document.writeln("<div class=\'box\'>");
 document.writeln("");
 
 
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong555\'>");
+document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（62827b.com）一尾一码</div>");
+document.writeln("	<div class=\'bizhong555-box\'>");
+document.writeln("    	<div class=\'bizhong555-l\'>");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">334期必中18码：</font><font color=\'#FF0000\' size=\'2\'>05.25.35.29.39.49.04.14.24.22.32.42.11.21.31.28.38.48</font></li>");
+document.writeln("            	<li>334期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">05.25.35.29.39.49.04.14.24.22.32.42</font></li>");
+document.writeln("            	<li>334期必中六码：<font color=\'#FF0000\' size=\'4\'>05.25.35.29.39.49</font></li>");
+document.writeln("            	<li>334期必中①码：<font color=\'#FF0000\' size=\'5\'>（5尾-05.25.35）</font></li>");
+document.writeln("            	<li>334期必中三尾：<font color=\'#FF0000\' size=\'4\'>5-9-4</font></li>");
+document.writeln("            	<li>334期必中六尾：<font color=\'#FF0000\' size=\'4\'>5-9-4-2-1-8</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
 
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong555\'>");
@@ -232,12 +250,10 @@ document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（62827b.com）
 document.writeln("	<div class=\'bizhong555-box\'>");
 document.writeln("    	<div class=\'bizhong555-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">333期必中18码：</font><font color=\'#FF0000\' size=\'2\'>16.26.36.08.18.28.27.37.47.09.29.49.12.22.32.04.14.34</font></li>");
-document.writeln("            	<li>333期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">16.26.36.08.18.28.27.37.47.09.29.49</font></li>");
-document.writeln("            	<li>333期必中六码：<font color=\'#FF0000\' size=\'4\'>16.26.36.08.18.28</font></li>");
-document.writeln("            	<li>333期必中①码：<font color=\'#FF0000\' size=\'5\'>（6尾-16.26.36）</font></li>");
+document.writeln(" 	            <li><font size=\"2\">333期必中18码：</font><font color=\'#FF0000\' size=\'2\'>16.26.36.08.18.28.27.37.47.09.29.49.12.22.32.<span style=\'background-color: #FFFF00\'>【04】</span>.14.34</font></li>");
+
 document.writeln("            	<li>333期必中三尾：<font color=\'#FF0000\' size=\'4\'>6-8-7</font></li>");
-document.writeln("            	<li>333期必中六尾：<font color=\'#FF0000\' size=\'4\'>6-8-7-9-2-4</font></li>");
+document.writeln("            	<li>333期必中六尾：<font color=\'#FF0000\' size=\'4\'>6-8-7-9-2-<span style=\'background-color: #FFFF00\'>【4】</span></font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
