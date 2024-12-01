@@ -35,8 +35,8 @@ document.writeln("	");
 document.writeln("			<tr style=\'box-sizing: border-box;\'>");
 document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			");
-document.writeln("<a target=\'_blank\' href=\'https://x1.xn--c2be8bbg0fl3ewb.xn--i1b6b1a6a2e:8443/#/picture/28585\'><img src=\'https://amo.ahhjzh.com:4949/col/336/c002.jpg\'  width=\'49%\'></a>");
-document.writeln("<a target=\'_blank\' href=\'https://x1.xn--c2be8bbg0fl3ewb.xn--i1b6b1a6a2e:8443/#/picture/209029\'><img src=\'https://amo.ahhjzh.com:4949/col/336/hj44.jpg\'  width=\'49%\'></a>");
+document.writeln("<a target=\'_blank\' href=\'https://x1.xn--c2be8bbg0fl3ewb.xn--i1b6b1a6a2e:8443/#/picture/28585\'><img src=\'https://amo.ahhjzh.com:4949/col/337/c002.jpg\'  width=\'49%\'></a>");
+document.writeln("<a target=\'_blank\' href=\'https://x1.xn--c2be8bbg0fl3ewb.xn--i1b6b1a6a2e:8443/#/picture/209029\'><img src=\'https://amo.ahhjzh.com:4949/col/337/hj44.jpg\'  width=\'49%\'></a>");
 document.writeln("		</td></tr>");
 document.writeln("		");
 document.writeln("		");
@@ -56,6 +56,21 @@ document.writeln("		");
 
 
 
+document.writeln("	");
+document.writeln("									<!--开始-->");
+document.writeln("				<tr style=\'box-sizing: border-box;\'>");
+document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
+document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
+document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
+document.writeln("			337期玄机网禁两肖<font color=\'#FF0000\'>【更新】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
+document.writeln("			337期澳门杀两肖图<font color=\'#FF0000\'>【更新】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
+document.writeln("			337期澳门图库禁肖<font color=\'#FF0000\'>【更新】</font>特开<font color=\'#0000FF\'>？00</font>准</font></font></p></td>");
+document.writeln("		</tr>");
+document.writeln("<!--结束-->	");
+document.writeln("		");
+
+
+
 
 document.writeln("	");
 document.writeln("									<!--开始-->");
@@ -63,9 +78,9 @@ document.writeln("				<tr style=\'box-sizing: border-box;\'>");
 document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			336期玄机网禁两肖<font color=\'#FF0000\'>【鸡猴】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
-document.writeln("			336期澳门杀两肖图<font color=\'#FF0000\'>【鸡羊】</font>特开<font color=\'#0000FF\'>？00</font>准<br>");
-document.writeln("			336期澳门图库禁肖<font color=\'#FF0000\'>【猪兔】</font>特开<font color=\'#0000FF\'>？00</font>准</font></font></p></td>");
+document.writeln("			336期玄机网禁两肖<font color=\'#FF0000\'>【鸡猴】</font>特开<font color=\'#0000FF\'>鼠05</font>准<br>");
+document.writeln("			336期澳门杀两肖图<font color=\'#FF0000\'>【鸡羊】</font>特开<font color=\'#0000FF\'>鼠05</font>准<br>");
+document.writeln("			336期澳门图库禁肖<font color=\'#FF0000\'>【猪兔】</font>特开<font color=\'#0000FF\'>鼠05</font>准</font></font></p></td>");
 document.writeln("		</tr>");
 document.writeln("<!--结束-->	");
 document.writeln("		");
@@ -118,163 +133,6 @@ document.writeln("			333期澳门图库禁肖<font color=\'#FF0000\'>【兔蛇�
 document.writeln("		</tr>");
 document.writeln("<!--结束-->	");
 document.writeln("		");
-
-
-document.writeln("	");
-document.writeln("									<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			332期玄机网禁两肖<font color=\'#FF0000\'>【鼠羊】</font>特开<font color=\'#0000FF\'>鸡32</font>准<br>");
-document.writeln("			332期澳门杀两肖图<font color=\'#FF0000\'>【牛鸡】</font>特开<font color=\'#0000FF\'>鸡32</font>错<br>");
-document.writeln("			332期澳门图库禁肖<font color=\'#FF0000\'>【牛猪】</font>特开<font color=\'#0000FF\'>鸡32</font>准</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->	");
-document.writeln("		");
-
-
-
-document.writeln("	");
-document.writeln("									<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			331期玄机网禁两肖<font color=\'#FF0000\'>【鼠鸡】</font>特开<font color=\'#0000FF\'>猪06</font>准<br>");
-document.writeln("			331期澳门杀两肖图<font color=\'#FF0000\'>【马猴】</font>特开<font color=\'#0000FF\'>猪06</font>准<br>");
-document.writeln("			331期澳门图库禁肖<font color=\'#FF0000\'>【马猴】</font>特开<font color=\'#0000FF\'>猪06</font>准</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->	");
-document.writeln("		");
-
-
-
-
-document.writeln("	");
-document.writeln("									<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			330期玄机网禁两肖<font color=\'#FF0000\'>【马狗】</font>特开<font color=\'#0000FF\'>马11</font>错<br>");
-document.writeln("			330期澳门杀两肖图<font color=\'#FF0000\'>【虎鼠】</font>特开<font color=\'#0000FF\'>马11</font>准<br>");
-document.writeln("			330期澳门图库禁肖<font color=\'#FF0000\'>【虎鼠】</font>特开<font color=\'#0000FF\'>马11</font>准</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->	");
-document.writeln("		");
-
-
-
-
-
-
-document.writeln("	");
-document.writeln("									<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			329期玄机网禁两肖<font color=\'#FF0000\'>【猴虎】</font>特开<font color=\'#0000FF\'>兔14</font>准<br>");
-document.writeln("			329期澳门杀两肖图<font color=\'#FF0000\'>【马鼠】</font>特开<font color=\'#0000FF\'>兔14</font>准<br>");
-document.writeln("			329期澳门图库禁肖<font color=\'#FF0000\'>【马鼠】</font>特开<font color=\'#0000FF\'>兔14</font>准</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->	");
-document.writeln("		");
-
-
-
-document.writeln("	");
-document.writeln("									<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			328期玄机网禁两肖<font color=\'#FF0000\'>【鼠猪】</font>特开<font color=\'#0000FF\'>鸡20</font>准<br>");
-document.writeln("			328期澳门杀两肖图<font color=\'#FF0000\'>【龙兔】</font>特开<font color=\'#0000FF\'>鸡20</font>准<br>");
-document.writeln("			328期澳门图库禁肖<font color=\'#FF0000\'>【龙狗】</font>特开<font color=\'#0000FF\'>鸡20</font>准</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->	");
-document.writeln("		");
-
-
-
-
-document.writeln("	");
-document.writeln("									<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			327期玄机网禁两肖<font color=\'#FF0000\'>【牛羊】</font>特开<font color=\'#0000FF\'>鼠41</font>准<br>");
-document.writeln("			327期澳门杀两肖图<font color=\'#FF0000\'>【龙兔】</font>特开<font color=\'#0000FF\'>鼠41</font>准<br>");
-document.writeln("			327期澳门图库禁肖<font color=\'#FF0000\'>【鼠兔】</font>特开<font color=\'#0000FF\'>鼠41</font>错</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->	");
-document.writeln("		");
-
-
-
-document.writeln("	");
-document.writeln("									<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			326期玄机网禁两肖<font color=\'#FF0000\'>【牛猪】</font>特开<font color=\'#0000FF\'>狗19</font>准<br>");
-document.writeln("			326期澳门杀两肖图<font color=\'#FF0000\'>【虎猴】</font>特开<font color=\'#0000FF\'>狗19</font>准<br>");
-document.writeln("			326期澳门图库禁肖<font color=\'#FF0000\'>【虎猴】</font>特开<font color=\'#0000FF\'>狗19</font>准</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->	");
-document.writeln("		");
-
-
-
-document.writeln("	");
-document.writeln("									<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			325期玄机网禁两肖<font color=\'#FF0000\'>【鸡鼠】</font>特开<font color=\'#0000FF\'>牛28</font>准<br>");
-document.writeln("			325期澳门杀两肖图<font color=\'#FF0000\'>【蛇猪】</font>特开<font color=\'#0000FF\'>牛28</font>准<br>");
-document.writeln("			325期澳门图库禁肖<font color=\'#FF0000\'>【牛猴】</font>特开<font color=\'#0000FF\'>牛28</font>错</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->	");
-document.writeln("		");
-
-
-
-document.writeln("	");
-document.writeln("									<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			324期玄机网禁两肖<font color=\'#FF0000\'>【鸡鼠】</font>特开<font color=\'#0000FF\'>龙01</font>准<br>");
-document.writeln("			324期澳门杀两肖图<font color=\'#FF0000\'>【蛇鼠】</font>特开<font color=\'#0000FF\'>龙01</font>准<br>");
-document.writeln("			324期澳门图库禁肖<font color=\'#FF0000\'>【蛇鸡】</font>特开<font color=\'#0000FF\'>龙01</font>准</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->	");
-document.writeln("		");
-
-
-document.writeln("	");
-document.writeln("									<!--开始-->");
-document.writeln("				<tr style=\'box-sizing: border-box;\'>");
-document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
-document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
-document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			323期玄机网禁两肖<font color=\'#FF0000\'>【牛猪】</font>特开<font color=\'#0000FF\'>虎39</font>准<br>");
-document.writeln("			323期澳门杀两肖图<font color=\'#FF0000\'>【鸡兔】</font>特开<font color=\'#0000FF\'>虎39</font>准<br>");
-document.writeln("			323期澳门图库禁肖<font color=\'#FF0000\'>【兔羊】</font>特开<font color=\'#0000FF\'>虎39</font>准</font></font></p></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->	");
-document.writeln("		");
-
-
-
-
 
 
 
