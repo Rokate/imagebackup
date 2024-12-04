@@ -39,13 +39,32 @@ document.writeln("");
 
 
 
+
 document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("	");
 document.writeln("	<table style=border-collapse:collapse border=0 width=100% cellpadding=0><tbody><tr><td style=\'border:1px dotted olive\'><p style=line-height:200% align=center><span style=font-family:Verdana><strong>");
-document.writeln("		<font color=\'#FF5050\'>339期:特围36码---开:？00准</font><span style=color:maroon><br></span>");
+document.writeln("		<font color=\'#FF5050\'>340期:特围36码---开:？00准</font><span style=color:maroon><br></span>");
+document.writeln("		<span style=color:#d50000>02.35.05.38.07.32.12.28.16.37.22.13</span><br>");
+document.writeln("		<span style=color:olive>46.34.23.11.48.36.27.20.44.39.14.08</span><br>");
+document.writeln("		<span style=color:#669>31.25.01.42.18.09.49.26.03.45.40.33</span></strong></span></table>");
+document.writeln("");
+document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
+document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>865</font><font size=\'6\' color=\'#008000\'>63</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
+document.writeln("	");
+document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("");
+
+
+
+document.writeln("<!--开始-->");
+document.writeln("");
+document.writeln("	");
+document.writeln("	<table style=border-collapse:collapse border=0 width=100% cellpadding=0><tbody><tr><td style=\'border:1px dotted olive\'><p style=line-height:200% align=center><span style=font-family:Verdana><strong>");
+document.writeln("		<font color=\'#FF5050\'>339期:特围36码---开:兔38准</font><span style=color:maroon><br></span>");
 document.writeln("		<span style=color:#d50000>09.42.24.10.27.44.14.49.20.48.22.45</span><br>");
-document.writeln("		<span style=color:olive>16.38.30.21.15.08.02.29.32.06.26.23</span><br>");
+document.writeln("		<span style=color:olive>16.<span style='background-color: #FFFF00\'>38</span>.30.21.15.08.02.29.32.06.26.23</span><br>");
 document.writeln("		<span style=color:#669>47.07.04.46.40.34.25.17.13.41.39.35</span></strong></span></table>");
 document.writeln("");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
