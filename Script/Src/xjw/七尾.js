@@ -34,7 +34,19 @@ document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>")
 document.writeln("		<p>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>341期:<font color=\'#008000\'>无错七尾</font>【3890127】</span><font color=\'#FF0000\'>开？00</font></font></b></td></tr>");
+document.writeln("		<span>342期:<font color=\'#008000\'>无错七尾</font>【2068943】</span><font color=\'#FF0000\'>开？00</font></font></b></td></tr>");
+document.writeln("		");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+
+document.writeln("	");
+document.writeln("							<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<p>");
+document.writeln("		<b>");
+document.writeln("		<font size=\'4\'>");
+document.writeln("		<span>341期:<font color=\'#008000\'>无错七尾</font>【3<span style='background-color: #FFFF00\'>8</span>90127】</span><font color=\'#FF0000\'>开猪18</font></font></b></td></tr>");
 document.writeln("		");
 document.writeln("");
 document.writeln("");
