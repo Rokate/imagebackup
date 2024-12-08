@@ -80,7 +80,9 @@ document.writeln("");
 
 
 
-document.writeln("  343期团队十肖：猴蛇马猪牛龙兔狗鼠羊√<br>");
+document.writeln("  344期团队十肖：鼠蛇马羊虎狗猪龙牛鸡√<br>");
+
+document.writeln("  343期团队十肖：<span style='background-color: #FFFF00\'>猴</span>蛇马猪牛龙兔狗鼠羊√<br>");
 
 document.writeln("  342期团队十肖：牛兔猪猴马羊鸡狗鼠<span style='background-color: #FFFF00\'>龙</span>√<br>");
 
@@ -155,7 +157,8 @@ document.writeln("");
 
 
 
-document.writeln("  343期团队八尾：01256789√<br>");
+document.writeln("  344期团队八尾：41267805√<br>");
+document.writeln("  343期团队八尾：012<span style='background-color: #FFFF00\'>5</span>6789√<br>");
 document.writeln("  342期团队八尾：0234578<span style='background-color: #FFFF00\'>9</span>√<br>");
 document.writeln("  341期团队八尾：012456<span style='background-color: #FFFF00\'>8</span>9√<br>");
 document.writeln("  340期团队八尾：12456<span style='background-color: #FFFF00\'>7</span>89√<br>");
@@ -200,7 +203,8 @@ document.writeln("");
 
 
 
-document.writeln("  343期团队四头：0123√<br>");
+document.writeln("  344期团队四头：1234√<br>");
+document.writeln("  343期团队四头：0123×<br>");
 
 document.writeln("  342期团队四头：012<span style='background-color: #FFFF00\'>4</span>√<br>");
 document.writeln("  341期团队四头：2<span style='background-color: #FFFF00\'>1</span>34√<br>");
@@ -249,7 +253,8 @@ document.writeln("");
 
 
 
-document.writeln("  343期团队四行：金木水火√<br>");
+document.writeln("  344期团队四行：木水火土√<br>");
+document.writeln("  343期团队四行：金<span style='background-color: #FFFF00\'>木</span>水火√<br>");
 
 document.writeln("  342期团队四行：金木水火×<br>");
 document.writeln("  341期团队四行：金木水<span style='background-color: #FFFF00\'>土</span>√<br>");
