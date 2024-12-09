@@ -5083,11 +5083,13 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("   ");
-document.writeln("<table style=\'border-collapse:collapse;color:#800000;font-weight:700;border:1px solid #800000\' border=1 width=100%>");
-document.writeln("<td style=\'text-align:center\' height=\'60\'>");
+
 document.writeln("<table border=1 width=100% bgcolor=#ffffff height=\'54\'><tbody>");
-document.writeln("<td style=\'border:10px double #800000; heigt: 48px;\'ol bgcor=#800000><p align=center>");
-document.writeln("<b><font face=\'楷体\' style=\'font-size: 19hpt\'><font color=\'#FFFF00\'>澳门马会传真</font><font color=\'#FFFFFF\'>『绝杀专区』</font></font></b></table>");
+document.writeln("<td style=\'border:10px double #800000; height: 48px;\' bgcolor=#800000><p align=center>");
+document.writeln("<b><font face=\'楷体\' style=\'font-size: 19pt\'><font color=\'#FFFF00\'>澳门马会传真</font><font color=\'#FFFFFF\'>『绝杀专区』</font></font></b></table>");
+document.writeln("<table border=\'1\' width=\'100%\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box; table-layout: fixed; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px; background-color: rgb(0, 128, 64);\' height=\'52\'><tbody style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("        <font color=\'#ff0000\' style=\'-ms-word-wrap: break-word; font-size:14pt\' size=\'3\'>    ");
