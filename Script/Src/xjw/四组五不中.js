@@ -52,9 +52,9 @@ document.writeln("<font color=\'#FF0000\' style=\"font-size: 16pt\">【单双四
 document.writeln("	<span style=\"font-size: 14pt\"><b>");
 document.writeln("	");
 
-
+document.writeln("	324期(单：狗猴虎马)(双：羊鸡猪兔)√<br>	");
 document.writeln("	323期(单：<span style='background-color: #FFFF00\'>虎</span>狗猴龙)(双：猪羊蛇兔)√<br>	");
-document.writeln("	324期(单：猴<span style='background-color: #FFFF00\'>龙</span>+马鼠)(双：蛇牛猪兔)√<br>	");
+document.writeln("	324期(单：猴<span style='background-color: #FFFF00\'>龙</span>马鼠)(双：蛇牛猪兔)√<br>	");
 document.writeln("	325期(单：狗虎马鼠)(双：羊鸡猪兔)×<br>	");
 document.writeln("	326期(单：<span style='background-color: #FFFF00\'>狗</span>虎龙猴)(双：羊鸡蛇牛)√<br>	");
 document.writeln("	327期(单：狗马虎猴)(双：羊猪羊牛)×<br>	");
