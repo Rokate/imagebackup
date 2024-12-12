@@ -79,7 +79,9 @@ document.writeln("");
 
 
 
-document.writeln("  347期团队十肖：鼠猴马羊虎狗兔猪龙鸡√<br>");
+document.writeln("  348期团队十肖：鼠猴蛇羊虎狗兔龙牛鸡√<br>");
+
+document.writeln("  347期团队十肖：鼠猴马羊虎狗兔猪龙鸡×<br>");
 
 document.writeln("  346期团队十肖：<span style='background-color: #FFFF00\'>鼠</span>猴蛇马虎狗兔猪牛鸡√<br>");
 document.writeln("  345期团队十肖：鼠猴马<span style='background-color: #FFFF00\'>羊</span>虎狗兔龙牛鸡√<br>");
@@ -161,7 +163,9 @@ document.writeln("");
 
 
 
-document.writeln("  347期团队八尾：01345678√<br>");
+document.writeln("  348期团队八尾：01235679√<br>");
+
+document.writeln("  347期团队八尾：0134567<span style='background-color: #FFFF00\'>8</span>√<br>");
 
 document.writeln("  346期团队八尾：02345689×<br>");
 document.writeln("  345期团队八尾：01345<span style='background-color: #FFFF00\'>6</span>79√<br>");
@@ -213,8 +217,9 @@ document.writeln("");
 
 
 
+document.writeln("  348期团队四头：0123√<br>");
 
-document.writeln("  347期团队四头：0124√<br>");
+document.writeln("  347期团队四头：01<span style='background-color: #FFFF00\'>2</span>4√<br>");
 
 document.writeln("  346期团队四头：012<span style='background-color: #FFFF00\'>4</span>√<br>");
 document.writeln("  345期团队四头：013<span style='background-color: #FFFF00\'>4</span>√<br>");
@@ -268,8 +273,9 @@ document.writeln("");
 
 
 
+document.writeln("  348期团队四行：金木水火√<br>");
 
-document.writeln("  347期团队四行：金木火土√<br>");
+document.writeln("  347期团队四行：金木火土×<br>");
 
 document.writeln("  346期团队四行：<span style='background-color: #FFFF00\'>金</span>水火土√<br>");
 
