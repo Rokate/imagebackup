@@ -33,73 +33,17 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 
 
 
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
+
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>349期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【红桃三月江如蓝，鼠虎猪兔是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>鼠虎猪兔</font></tr>");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("	");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>346期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开鼠41</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【快马加鞭取特码，蛇鼠羊兔是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>蛇<span style='background-color: #FFFF00\'>鼠</span>羊兔</font></tr>");
-document.writeln("");
+document.writeln("		<span><font size=\'4\'>350期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#6600CC\'>【棋逢敌手方可喜，虎狗兔猪是特码】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>虎狗兔猪</font></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
-
-
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>344期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开兔02</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【金龙飞天势还在，牛猪兔狗是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：牛猪<span style='background-color: #FFFF00\'>兔</span>狗</span></tr>	");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>343期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开猴45</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【一来二去有祥意，龙鼠兔猴是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>龙鼠兔<span style='background-color: #FFFF00\'>猴</span></font></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
 
 
 
