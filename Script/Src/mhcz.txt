@@ -3776,32 +3776,7 @@ document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:70
 document.writeln("<p style=line-height:200%>");
 document.writeln("<font size=\'4\' color=\'#0000FF\'>333期:﹝</span></font><span style=font-family:微软雅黑><font size=\'4\' color=\'#008000\'>稳中单双</font><font size=\'4\'><font color=\'#0000FF\'>﹞开:</font><font color=\'#FF0000\'>牛04</font></font></span><font color=\'#0000FF\'><font size=\'4\'><span style=font-family:微软雅黑>准</span></font><span style=font-size:13pt;font-family:微软雅黑><br>");
 document.writeln("</span></font><font size=\'5\'><span style=font-family:微软雅黑>﹝小单﹞﹝<span style=\'background-color: #FFFF00\'>小双</span>﹞﹝大双﹞</span></font></p></tr>");
-document.writeln("<!--结束-->");
-
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<tr>");
-document.writeln("<td style=\'color:#000;font-family:微软雅黑;font-weight:700;border:1px solid #000\' align=center width=100% height=50>");
-document.writeln("<p style=line-height:200%>");
-document.writeln("<font size=\'4\' color=\'#0000FF\'>332期:﹝</span></font><span style=font-family:微软雅黑><font size=\'4\' color=\'#008000\'>稳中单双</font><font size=\'4\'><font color=\'#0000FF\'>﹞开:</font><font color=\'#FF0000\'>鸡32</font></font></span><font color=\'#0000FF\'><font size=\'4\'><span style=font-family:微软雅黑>准</span></font><span style=font-size:13pt;font-family:微软雅黑><br>");
-document.writeln("</span></font><font size=\'5\'><span style=font-family:微软雅黑>﹝大单﹞﹝小双﹞﹝<span style=\'background-color: #FFFF00\'>大双</span>﹞</span></font></p></tr>");
-document.writeln("<!--结束-->");
-
-
-
-
-
-
-document.writeln("");
-document.writeln("</tbody>");
-document.writeln("</table>");
-document.writeln("</body>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("</html>");</script></div><div class="box"><script type="text/javascript">﻿document.writeln("");
+document.writeln("<!</script></div><div class="box"><script type="text/javascript">﻿document.writeln("");
 document.writeln("<html>");
 document.writeln("<head>");
 document.writeln("<meta http-equiv=\'Content-Type\' content=\'text/html; charset=gb2312\'>");
