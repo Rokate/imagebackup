@@ -77,7 +77,9 @@ document.writeln("");
 
 
 
-document.writeln("  353期团队十肖：龙鼠猪蛇猴鸡虎兔狗羊√<br>");
+document.writeln("  354期团队十肖：蛇牛鼠虎猪兔羊马猴鸡√<br>");
+
+document.writeln("  353期团队十肖：龙鼠猪蛇猴鸡虎兔狗羊×<br>");
 
 
 document.writeln("  352期团队十肖：兔牛猪<span style='background-color: #FFFF00\'>羊</span>蛇鸡马猴鼠狗√<br>");
@@ -119,8 +121,14 @@ document.writeln("");
 document.writeln("");
 
 
+  
+  
+  
+  
 
-document.writeln("  353期团队八尾：12456789√<br>");
+document.writeln("  354期团队八尾：01245689√<br>");
+
+document.writeln("  353期团队八尾：12456<span style='background-color: #FFFF00\'>7</span>89√<br>");
 
 document.writeln("  352期团队八尾：<span style='background-color: #FFFF00\'>0</span>1345678√<br>");
 document.writeln("  351期团队八尾：12356<span style='background-color: #FFFF00\'>7</span>89√<br>");
@@ -154,7 +162,9 @@ document.writeln("");
 
 
 
-document.writeln("  353期团队四头：0234√<br>");
+document.writeln("  354期团队四头：2134√<br>");
+
+document.writeln("  353期团队四头：023<span style='background-color: #FFFF00\'>4</span>√<br>");
 
 document.writeln("  352期团队四头：0<span style='background-color: #FFFF00\'>1</span>24√<br>");
 document.writeln("  351期团队四头：1<span style='background-color: #FFFF00\'>2</span>34√<br>");
@@ -185,7 +195,12 @@ document.writeln("");
 
 
 
-document.writeln("  353期团队四行：金水火土√<br>");
+
+
+
+document.writeln("  354期团队四行：金木水土√<br>");
+
+document.writeln("  353期团队四行：金水<span style='background-color: #FFFF00\'>火</span>土√<br>");
 
 document.writeln("  352期团队四行：<span style='background-color: #FFFF00\'>金</span>水火土√<br>");
 document.writeln("  351期团队四行：金木火<span style='background-color: #FFFF00\'>土</span>√<br>");
