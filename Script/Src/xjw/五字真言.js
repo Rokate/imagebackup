@@ -33,17 +33,16 @@ document.writeln("");
 
 
 
+
 document.writeln("");
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>354期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00 </font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【→五九两边出←】</font><font color=\'#6600CC\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>解：</font></font></span><font size=\'4\' color=\'#0000FF\'>05鼠.06猪.07狗.08鸡.09猴.10羊</font></td></tr>");
+document.writeln("		<span><font size=\'4\'>355期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00 </font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【→二七两边出←】</font><font color=\'#6600CC\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>解：</font></font></span><font size=\'4\' color=\'#0000FF\'>01龙.02兔.03虎.06猪.07狗.08鸡</font></td></tr>");
 document.writeln("");
 document.writeln("");
-
-
 
 
 
