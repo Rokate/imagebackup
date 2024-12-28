@@ -24,7 +24,7 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("363期</font><font color=\'#FF0000\' size=\"5\">（猴蛇鸡+7812尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("364期</font><font color=\'#FF0000\' size=\"5\">（猪猴牛+7936尾）</font><font size=\'4\'>开？00</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 
