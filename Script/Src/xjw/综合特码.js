@@ -74,7 +74,8 @@ document.writeln("");
 
 
 
-document.writeln("  363期团队十肖：牛鸡狗马虎蛇猴兔龙羊√<br>");
+document.writeln("  364期团队十肖：鸡鼠兔猴马羊虎狗龙蛇√<br>");
+document.writeln("  363期团队十肖：<span style='background-color: #FFFF00\'>牛</span>鸡狗马虎蛇猴兔龙羊√<br>");
 document.writeln("  362期团队十肖：鼠猴蛇羊虎狗<span style='background-color: #FFFF00\'>兔</span>龙牛鸡√<br>");
 document.writeln("  361期团队十肖：鼠猴蛇羊虎狗兔龙牛<span style='background-color: #FFFF00\'>鸡</span>√<br>");
 document.writeln("  360期团队十肖：鼠猴马羊虎狗<span style='background-color: #FFFF00\'>兔</span>猪龙鸡√<br>");
@@ -132,7 +133,8 @@ document.writeln("");
 
 
 
-document.writeln("  363期团队八尾：01245789√<br>");
+document.writeln("  364期团队八尾：12356789√<br>");
+document.writeln("  363期团队八尾：012<span style='background-color: #FFFF00\'>4</span>5789√<br>");
 document.writeln("  362期团队八尾：01<span style='background-color: #FFFF00\'>2</span>34789√<br>");
 document.writeln("  361期团队八尾：<span style='background-color: #FFFF00\'>0</span>1235679√<br>");
 document.writeln("  360期团队八尾：013<span style='background-color: #FFFF00\'>4</span>5678√<br>");
@@ -176,7 +178,8 @@ document.writeln("");
 
 
 
-document.writeln("  363期团队四头：0234√<br>");
+document.writeln("  364期团队四头：1234√<br>");
+document.writeln("  363期团队四头：<span style='background-color: #FFFF00\'>0</span>234√<br>");
 document.writeln("  362期团队四头：<span style='background-color: #FFFF00\'>0</span>134√<br>");
 document.writeln("  361期团队四头：01<span style='background-color: #FFFF00\'>2</span>3√<br>");
 document.writeln("  360期团队四头：0<span style='background-color: #FFFF00\'>1</span>24√<br>");
@@ -222,7 +225,8 @@ document.writeln("");
 
 
 
-document.writeln("  363期团队四行：木水火土√<br>");
+document.writeln("  364期团队四行：金木火土√<br>");
+document.writeln("  363期团队四行：木水火<span style='background-color: #FFFF00\'>土</span>√<br>");
 document.writeln("  362期团队四行：<span style='background-color: #FFFF00\'>金</span>木火土√<br>");
 document.writeln("  361期团队四行：金木<span style='background-color: #FFFF00\'>水</span>火√<br>");
 document.writeln("  360期团队四行：金<span style='background-color: #FFFF00\'>木</span>火土√<br>");

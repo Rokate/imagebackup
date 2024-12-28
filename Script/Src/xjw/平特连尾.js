@@ -36,11 +36,22 @@ document.writeln("				");
 
 
 
+document.writeln("				<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
+document.writeln("	<b>364期<font color=\'#6600CC\'>【三尾→拖59尾】开</font><font color=\'#FF6600\'>00.00.00</font>准</b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+
 document.writeln("				");
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font size=\'4\' face=\'楷体\'>");
-document.writeln("	<b>363期<font color=\'#6600CC\'>【一尾→拖28尾】开</font><font color=\'#FF6600\'>00.00.00</font>准</b></font></table>");
+document.writeln("	<b>363期<font color=\'#6600CC\'>【<span style='background-color: #FFFF00\'>一尾</span>→拖28尾】开</font><font color=\'#FF6600\'>01.00.00</font>准</b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("		");
 document.writeln("");
