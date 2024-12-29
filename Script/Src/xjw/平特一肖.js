@@ -21,12 +21,16 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 document.writeln("	   		");
 
 
+
+
+document.writeln("	");
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("		<span><font size=\'4\'>365期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【更新中】</td>");
+document.writeln("		<font color=\'#FF00FF\'>【鸡给黄鼠狼拜年—自投罗网】</td>");
 document.writeln("		</tr>");
-document.writeln("");
+document.writeln("		");
+
 
 
 
@@ -34,7 +38,7 @@ document.writeln("");
 
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>364期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<span><font size=\'4\'>364期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>43</span><br>");
 document.writeln("		<font color=\'#FF00FF\'>【狗吠月亮—少见多怪】</td>");
 document.writeln("		</tr>");
 document.writeln("");
