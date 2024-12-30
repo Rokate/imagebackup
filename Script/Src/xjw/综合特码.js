@@ -74,7 +74,8 @@ document.writeln("");
 
 
 
-document.writeln("  365期团队十肖：兔牛猪羊蛇鸡马猴鼠狗√<br>");
+document.writeln("  366期团队十肖：龙鼠猪蛇猴鸡虎兔狗羊√<br>");
+document.writeln("  365期团队十肖：兔牛<span style='background-color: #FFFF00\'>猪</span>羊蛇鸡马猴鼠狗√<br>");
 
 document.writeln("  364期团队十肖：鸡鼠兔猴马羊虎狗<span style='background-color: #FFFF00\'>龙</span>蛇√<br>");
 document.writeln("  363期团队十肖：<span style='background-color: #FFFF00\'>牛</span>鸡狗马虎蛇猴兔龙羊√<br>");
@@ -135,7 +136,8 @@ document.writeln("");
 
 
 
-document.writeln("  365期团队八尾：01345678√<br>");
+document.writeln("  366期团队八尾：12456789√<br>");
+document.writeln("  365期团队八尾：<span style='background-color: #FFFF00\'>0</span>1345678√<br>");
 
 document.writeln("  364期团队八尾：<span style='background-color: #FFFF00\'>1</span>2356789√<br>");
 document.writeln("  363期团队八尾：012<span style='background-color: #FFFF00\'>4</span>5789√<br>");
@@ -185,7 +187,8 @@ document.writeln("");
 
 
 
-document.writeln("  365期团队四头：0124√<br>");
+document.writeln("  366期团队四头：0234√<br>");
+document.writeln("  365期团队四头：0124×<br>");
 document.writeln("  364期团队四头：1234×<br>");
 document.writeln("  363期团队四头：<span style='background-color: #FFFF00\'>0</span>234√<br>");
 document.writeln("  362期团队四头：<span style='background-color: #FFFF00\'>0</span>134√<br>");
@@ -233,7 +236,8 @@ document.writeln("");
 
 
 
-document.writeln("  365期团队四行：金水火土√<br>");
+document.writeln("  366期团队四行：金水火土√<br>");
+document.writeln("  365期团队四行：金水<span style='background-color: #FFFF00\'>火</span>土√<br>");
 document.writeln("  364期团队四行：金木<span style='background-color: #FFFF00\'>火</span>土√<br>");
 document.writeln("  363期团队四行：木水火<span style='background-color: #FFFF00\'>土</span>√<br>");
 document.writeln("  362期团队四行：<span style='background-color: #FFFF00\'>金</span>木火土√<br>");

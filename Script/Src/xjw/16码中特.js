@@ -46,6 +46,24 @@ document.writeln("");
 
 
 
+document.writeln("	<!----开始---->    ");
+document.writeln("<tr>");
+document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
+document.writeln("<p align=\"center\"><font size=\"4\">");
+document.writeln("366期红色记忆【独家16码】开？00准<br>");
+document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
+document.writeln("（45.13.35.26.12.31.03.43）<br>");
+document.writeln("（16.37.11.33.08.01.28.04）</font></td>");
+document.writeln("</tr>			");
+document.writeln("<!----结束----> ");
+
+
+
+
+
+
+
+
 
 
 
@@ -54,10 +72,10 @@ document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("365期红色记忆【独家16码】开？00准<br>");
+document.writeln("365期红色记忆【独家16码】开猪30准<br>");
 document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
 document.writeln("（32.01.19.39.09.03.44.38）<br>");
-document.writeln("（11.33.07.05.30.24.14.40）</font></td>");
+document.writeln("（11.33.07.05.<span style='background-color: #FFFF00\'>30</span>.24.14.40）</font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 
