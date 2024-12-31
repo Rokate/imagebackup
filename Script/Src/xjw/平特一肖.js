@@ -23,15 +23,15 @@ document.writeln("	   		");
 
 
 
+
 document.writeln("	");
-document.writeln("");
-document.writeln("	    <tr>");
+document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>366期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
-document.writeln("		<font color=\'#FF00FF\'>【马槽里伸个驴头—多了一张嘴】</td>");
+document.writeln("		<span><font size=\'4\'>001期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【猪脑壳—死不开窃】</td>");
 document.writeln("		</tr>");
-document.writeln("	");
-document.writeln("");
+document.writeln("		");
+
 
 
 
