@@ -88,8 +88,8 @@ if __name__ == "__main__":
         #https://am49.app/forum/master/list?postCategory=71
         info = requests.get('https://h5.118z2.com:8443/tk118/h5/picture/detail/latest?pictureTypeId=28854').json()
         #qish = requests.post('https://am49.app/open/latest/single?code=71').json()['data']['nextIssueNo'][-3:]
-        qish = info['data']['period']
-        qishu = '00'+ str(qish)
+        qishu = info['data']['period']
+        qish = '00' + qishu
         #qishu = qish.lstrip('0')
         #Lday = requests.get('https://49252a.com/unite49/h5/index/lotteryTime')
         #qishu = Lday.json()['data']['list'][0]['isLotteryDay'] + 1
@@ -109,5 +109,5 @@ if __name__ == "__main__":
         print("日期更新出错了", traceback.format_exc())
     else:
         print("图片列表下载。。。")
-        asyncio.run(main(qish, qishu, qs, domain_port))
+        asyncio.run(main(qishu, qish, qs, domain_port))
         
