@@ -68,7 +68,9 @@ document.writeln("	001期(单：龙鸡虎猴)(双：<span style='background-colo
 document.writeln("	002期(单：<span style='background-color: #FFFF00\'>龙</span>鼠狗马)(双：羊猪鸡牛)√<br>	");
 document.writeln("	003期(单：龙鼠<span style='background-color: #FFFF00\'>猴</span>虎)(双：蛇兔鸡牛)√<br>	");
 document.writeln("	004期(单：龙马鼠<span style='background-color: #FFFF00\'>猴</span>)(双：蛇兔猪鸡)√<br>	");
-document.writeln("	005期(单：虎狗猴龙)(双：猪羊蛇兔)√<br>	");
+document.writeln("	005期(单：虎狗猴龙)(双：猪羊蛇兔)×<br>	");
+document.writeln("	006期(单：狗虎马龙)(双：鸡羊牛兔)√<br>	");
+
 
 
 
@@ -170,7 +172,9 @@ document.writeln("	001期(家：牛<span style='background-color: #FFFF00\'>羊<
 document.writeln("	002期(家：牛狗鸡马)(野：虎蛇猴<span style='background-color: #FFFF00\'>龙</span>)√<br>		");
 document.writeln("	003期(家：牛羊猪马)(野：虎蛇兔<span style='background-color: #FFFF00\'>猴</span>)√<br>		");
 document.writeln("	004期(家：牛狗鸡马)(野：龙鼠兔<span style='background-color: #FFFF00\'>猴</span>)√<br>		");
-document.writeln("	005期(家：牛鸡狗马)(野：龙鼠兔虎)√<br>		");
+document.writeln("	005期(家：牛<span style='background-color: #FFFF00\'>鸡</span>狗马)(野：龙鼠兔虎)√<br>		");
+document.writeln("	006期(家：牛猪羊马)(野：龙蛇猴虎)√<br>		");
+
 
 
 
