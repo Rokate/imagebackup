@@ -58,7 +58,7 @@ document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowsp
 document.writeln("		<strong>");
 document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>鼠牛虎兔</span><br>");
 document.writeln("		</font>");
-document.writeln("		<font face=\'微软雅黑\' color=\'#FF0000\' size=\"4\">（<span style='background-color: #FFFF00\'>05.17.04.40.03.27.02.26</span>）</td>");
+document.writeln("		<font face=\'微软雅黑\' color=\'#FF0000\' size=\"4\">（05.17.04.40.03.27.02.26）</td>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
 document.writeln("		<font face=\'微软雅黑\'>开:0000</font></td>");
 document.writeln("		</tr>");
@@ -76,7 +76,7 @@ document.writeln("		<b style=\'padding: 0px; margin: 0px; word-wrap: break-word;
 document.writeln("		<font face=\'微软雅黑\' style=\'word-wrap: break-word; margin: 0px; padding: 0px\'>");
 document.writeln("		013期</font></b></td>");
 document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\' style=\'height: 26px\'>");
-document.writeln("		<font face=\'微软雅黑\'>开:0000</font></td>");
+document.writeln("		<font face=\'微软雅黑\'>开:狗07</font></td>");
 document.writeln("		</tr>");
 document.writeln("		</table>");
 document.writeln("		");
