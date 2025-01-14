@@ -1,5 +1,4 @@
-﻿
-document.writeln("");
+﻿document.writeln("");
 document.writeln("<style type=\'text/css\'>");
 document.writeln(".stylei {");
 document.writeln("	color: #FFFF00;");

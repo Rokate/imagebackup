@@ -1,5 +1,4 @@
-﻿
-document.writeln("<style type=\'text/css\'>");
+﻿document.writeln("<style type=\'text/css\'>");
 document.writeln(".styleo {");
 document.writeln("	background-color: #FFFF00;");
 document.writeln("}");
