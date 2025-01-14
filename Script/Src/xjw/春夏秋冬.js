@@ -1,4 +1,5 @@
-﻿document.writeln("");
+﻿
+document.writeln("");
 document.writeln("<style type=\'text/css\'>");
 document.writeln(".stylei {");
 document.writeln("	color: #FFFF00;");
@@ -43,16 +44,16 @@ document.writeln("");
 
 
 
-
 document.writeln("		<tr style=\'box-sizing: border-box;\'>");
-document.writeln("			<td height=\'40\' style=\'box-sizing: border-box;\'>");
+document.writeln("					<td height=\'40\' style=\'box-sizing: border-box;\'>");
 document.writeln("			<p align=\'center\' style=\'box-sizing: border-box; padding: 0px; margin: 0px;\'>");
 document.writeln("			<font size=\'4\' style=\'margin: 0px; padding: 0px;\'>");
-document.writeln("			014期<font color=\'#008000\'>春夏秋冬</font>『<font color=\'#FF0000\'>夏秋冬</font>』<font color=\'#0000FF\'>开？00准</font></font></td>");
+document.writeln("			015期<font color=\'#008000\'>春夏秋冬</font>『<font color=\'#FF0000\'>夏秋冬</font>』<font color=\'#0000FF\'>开？00准</font></font></td>");
 document.writeln("		</tr>");
 document.writeln("");
 document.writeln("");
-document.writeln("");
+
+
 
 
 
