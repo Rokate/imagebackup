@@ -21,7 +21,14 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("014期</font><font color=\'#FF0000\' size=\"5\">（龙鼠虎+6430尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("015期</font><font color=\'#FF0000\' size=\"5\">（蛇虎猴+6902尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("014期</font><font color=\'#FF0000\' size=\"5\">（龙鼠<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">虎</span></font>+6430尾）</font><font size=\'4\'>开虎27</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("");
