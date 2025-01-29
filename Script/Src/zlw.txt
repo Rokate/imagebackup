@@ -17,10 +17,17 @@ document.writeln("			<a target=\'_blank\' href=\'https://xn--secaq5b.xn--0dcaaz1
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("028期</font><font color=\'#FF0000\' size=\"5\">（虎龙猪+6503尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("029期</font><font color=\'#FF0000\' size=\"5\">（虎鸡猴+2843尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("		<!--结束-->");
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("028期</font><font color=\'#FF0000\' size=\"5\">（虎龙猪+65<span style=\'background-color: #FFFF00\'>0</span>3尾）</font><font size=\'4\'>开牛40</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("");
