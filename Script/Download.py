@@ -40,7 +40,7 @@ async def main(a, b, c, d):
         [f"https://69760b.com/img/nm4x8m{qishu}.jpg", "a-nm4x8m.jpg"],
         [f"http://123186a.com/gsbtu/baoma{qishu}.jpg", "a-baoma.jpg"],
         [f"http://123186a.com/gsbtu/hdjr{qishu}.jpg", "a-hdjr.jpg"],
-        [f"https://69760b.com/img/jl3x{qishu}.jpg", "a-jl3x.jpg"],
+        [f"https://file-enc-hw.pcxfrdh.com/galleryfiles/system/amlhc/col/2025/{qish}/lmkz.jpg", "a-jl3x.jpg"],
         ["https://www.353583.com/tutu/ujcc.jpg", "a-ujcc.jpg"],
         [f"https://www.29761b.com/img/djpt{qishu}.jpg", "a-djpt.jpg"],
         [f"https://69760b.com/img/1xzt{qishu}.jpg", "a-1xzt.jpg"],
@@ -72,6 +72,7 @@ async def main(a, b, c, d):
         [f"https://tk.{urld}/col/{qs}/qlb.jpg", "x-qlb.jpg"],
 
     ]
+    #[f"https://69760b.com/img/jl3x{qishu}.jpg", "a-jl3x.jpg"]
     conn=aiohttp.TCPConnector(ssl=False)
     async with aiohttp.ClientSession(connector=conn) as session:
         tasks = []
