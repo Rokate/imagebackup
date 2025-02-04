@@ -1,0 +1,296 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport"
+			content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	</head>
+	<link rel="icon" href="data:;base64,=">
+	<style type="text/css">
+		* {
+			margin: 0;
+			padding: 0;
+		}
+
+		body {
+			background: #f0eded;
+		}
+
+		.new-KJ-TabBox-box {
+			font-size: 16px;
+			/* height: 130px; */
+			box-sizing: border-box;
+			color: #333;
+			padding: 8px;
+			font-family: 'PingFang SC', 'microsoft yahei', arial, 'helvetica neue', 'hiragino sans gb', sans-serif;
+		}
+
+		.new-KJ-TabBox-box a {
+			text-decoration: none;
+		}
+
+		.new-KJ-TabBox-box .kj-font-red {
+			color: #54BD6A !important;
+		}
+
+		.new-KJ-TabBox-box-tit {
+			display: flex;
+			align-items: center;
+			height: 17px;
+			line-height: 17px;
+			font-size: 17px;
+		}
+
+		.new-KJ-TabBox-box-tit-l {}
+
+		.new-KJ-TabBox-box-tit-m {
+			flex: 1;
+			text-align: center;
+			font-weight: bold;
+		}
+
+		.new-KJ-TabBox-box-tit-r {}
+
+		.new-KJ-TabBox-box-con {
+			display: flex;
+			margin: 8px 0;
+		}
+
+		.new-KJ-TabBox-box-con .kj-ball {
+			flex: 1;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			height: 61px;
+			text-align: center;
+			border-radius: 4px;
+			margin-right: 6px;
+			box-sizing: border-box;
+			flex-direction: column;
+			background-color: #fff;
+		}
+
+		.new-KJ-TabBox-box-con .kj-ball:last-child {
+			margin-right: 0;
+		}
+
+		.new-KJ-TabBox-box-con .kj-ball:nth-last-child(3) {
+			margin-right: 6px;
+		}
+
+		.new-KJ-TabBox-box-con .kj-ball h2 {
+			margin: 0;
+			padding: 0;
+			color: #fff;
+			line-height: 24px;
+			font-size: 28px;
+			font-weight: 900;
+			font-family: Tahoma, Geneva, sans-serif;
+		}
+
+		.new-KJ-TabBox-box-con .kj-ball .whsx {
+			display: inline-block;
+			height: 19px;
+			line-height: 19px;
+			margin-top: 6px;
+			padding: 0 6px;
+			border-radius: 2px;
+			color: #333;
+			font-size: 14px;
+			background: #fff;
+		}
+
+		.new-KJ-TabBox-box-con .kj-add {
+			display: flex;
+			align-items: center;
+			margin-right: 8px;
+			font-size: 32px;
+			font-weight: bold;
+		}
+
+		.new-KJ-TabBox-box-foot {
+			display: flex;
+			align-items: center;
+			font-size: 16px;
+		}
+
+		.new-KJ-TabBox-box-foot-l {
+			flex: 1;
+		}
+
+		.new-KJ-TabBox-box-foot-r {}
+
+		.new-KJ-TabBox-box-foot-r-sx {
+			display: inline-block;
+			width: 40px;
+			height: 20px;
+			line-height: 20px;
+			text-align: center;
+			color: #fff;
+			border-radius: 4px;
+			background: #FF9900;
+		}
+
+		@media screen and (max-width: 650px) {
+			.new-KJ-TabBox-box {
+				font-size: 14px;
+			}
+
+			.new-KJ-TabBox-box-tit {
+				font-size: 16px;
+			}
+
+			.new-KJ-TabBox-box-con .kj-ball {
+				margin-right: 4px;
+			}
+
+			.new-KJ-TabBox-box-con .kj-ball:nth-last-child(3) {
+				margin-right: 4px;
+			}
+
+			.new-KJ-TabBox-box-con .kj-ball h2 {
+				font-size: 24px;
+			}
+
+			.new-KJ-TabBox-box-con .kj-ball .whsx {
+				margin-top: 4px;
+				padding: 0 2px;
+				font-size: 12px;
+			}
+
+			.new-KJ-TabBox-box-con .kj-add {
+				margin-right: 4px;
+			}
+
+			.new-KJ-TabBox-box-con .kj-add {
+				font-size: 24px;
+			}
+
+			.new-KJ-TabBox-box-foot {
+				font-size: 15px;
+			}
+		}
+
+		#hour_show,#minute_show,#second_show{
+			width: 18px;
+			height: 18px;
+			background: linear-gradient(180deg, #54BD6A 0%, #2B9541 100%);
+			border-radius: 50%;
+			font-size: 11px;
+			color: #fff;
+		}
+
+		.next_time_html{
+			display: flex;
+			justify-content: flex-end;
+			color: #3EA754;
+		}
+		@media screen and (max-width:450px) {
+			.new-KJ-TabBox-box-tit-m .kj-lotto-tit2 span:first-child {
+				display: none;
+			}
+		}
+
+
+		.new-KJ-TabBox-box-foot {
+			flex-wrap: wrap;
+			}
+		.new-KJ-TabBox-box-foot-l {
+			white-space: nowrap;
+		}
+
+		@media screen and (max-width: 380px) {
+			.new-KJ-TabBox-box-tit, .new-KJ-TabBox-box-foot {
+				font-size: 14px;
+			}
+		}
+
+		@media screen and (max-width: 340px) {
+			.new-KJ-TabBox-box-tit {
+				font-size: 13px;
+			}
+		}
+		#m1{
+			width: 28px;
+			height: 28px;
+			background: url('http://49kj1818.com/static/imgs/red.png') no-repeat center/cover;
+			font-size: 11px;
+			text-align: center;
+			line-height: 28px;
+			color: #333;
+		}
+		#m2{
+			width: 28px;
+			height: 28px;
+			background: url('http://49kj1818.com/static/imgs/blue.png') no-repeat center/cover;
+			font-size: 11px;
+			text-align: center;
+			line-height: 28px;
+			color: #333;
+		}
+		#m3{
+			width: 28px;
+			height: 28px;
+			background: url('http://49kj1818.com/static/imgs/green.png') no-repeat center/cover;
+			font-size: 11px;
+			text-align: center;
+			line-height: 28px;
+			color: #333;
+		}
+		#m1x{
+			width: 36px;
+			height: 15px;
+			border-radius: 22px;
+			background: linear-gradient(32.32deg, #D63422 13.84%, #FF6453 88.88%);
+			color: #fff;
+			line-height: 15px;
+		}
+		#m2x{
+			width: 36px;
+			height: 15px;
+			border-radius: 22px;
+			background: linear-gradient(32.32deg, #28A5FD 13.84%, #57C8FE 88.88%);
+			color: #fff;
+			line-height: 15px;
+		}
+		#m3x{
+			width: 36px;
+			height: 15px;
+			border-radius: 22px;
+			background: linear-gradient(32.32deg, #00A962 13.84%, #24DD84 88.88%);
+			color: #fff;
+			line-height: 15px;
+		}
+		#m9{
+			width: 28px;
+			height: 28px;
+			background: url('http://49kj1818.com/static/imgs/white.png') no-repeat center/cover;
+			font-size: 11px;
+			text-align: center;
+			line-height: 28px;
+			color: #333;
+		}
+		#m9x{
+			width: 36px;
+			height: 15px;
+			border-radius: 22px;
+			background: linear-gradient(32.32deg, #ead2d2 13.84%, #ebc2c2 88.88%);
+			color: #fff;
+			line-height: 15px;
+		}
+	</style>
+	</head>
+
+	<body onselectstart="javascript:return(false);" oncontextmenu="javascript:return(false);">
+		<noscript><iframe src="*.htm"></iframe></noscript>
+		<textarea readonly id=shareInfo name=shareInfo style="position:absolute;top:-9999px;"></textarea>
+		<div class="new-KJ-TabBox-box">
+		</div>
+		<div id=tmpinfo style="display:none;"></div>
+		<script src="http://49kj1818.com/static/js/jquery.min.js"></script>
+		<script src="http://49kj1818.com/static/js/util.js"></script>
+		<script src="http://49kj1818.com/static/js/amkj.js"></script>
+	</body>
+</html>
