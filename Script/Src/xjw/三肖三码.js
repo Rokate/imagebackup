@@ -84,34 +84,3 @@ document.writeln("");
 
 
 
-
-document.writeln("");
-document.writeln("");
-document.writeln("	");
-document.writeln("");
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>034期:<font color=\'#FF00FF\'>《马<span style='background-color: #FFFF00\'>羊</span>鸡》</font><font color=\'#008000\'>（35 46 08）</font><font color=\'#0000FF\'>开羊23中</font></font></span></div>	");
-document.writeln("	");
-document.writeln("");
-document.writeln("	");
-
-
-
-
-
-document.writeln("");
-document.writeln("		");
-document.writeln("	");
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>032期:<font color=\'#FF00FF\'>《羊<span style='background-color: #FFFF00\'>兔</span>猴》</font><font color=\'#008000\'>（35 <span style='background-color: #FFFF00\'>39</span> 46）</font><font color=\'#0000FF\'>开兔39中</font></font></span></div>	");
-document.writeln("	");
-document.writeln("");
-document.writeln("");
-
-

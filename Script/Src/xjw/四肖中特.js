@@ -60,20 +60,6 @@ document.writeln("");
 
 
 
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>038期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开狗20</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【湖光秋月三四和，狗虎猴兔是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：<span style='background-color: #FFFF00\'>狗</span>虎猴兔</span></tr>	");
-document.writeln("");
-document.writeln("");
-
-
-
-
 
 
 
