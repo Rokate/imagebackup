@@ -48,13 +48,15 @@ document.writeln("");
 
 
 
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("	");
 document.writeln("	<table style=border-collapse:collapse border=0 width=100% cellpadding=0><tbody><tr><td style=\'border:1px dotted olive\'><p style=line-height:200% align=center><span style=font-family:Verdana><strong>");
-document.writeln("		<font color=\'#FF5050\'>042期:特围36码---开:？00准</font><span style=color:maroon><br></span>");
+document.writeln("		<font color=\'#FF5050\'>043期:特围36码---开:？00准</font><span style=color:maroon><br></span>");
 document.writeln("		<span style=color:#d50000>03.04.05.09.10.11.12.13.14.18.19.20</span><br>");
 document.writeln("		<span style=color:olive>21.22.23.24.25.26.27.29.30.31.32.33</span><br>");
 document.writeln("		<span style=color:#669>34.35.36.37.38.39.40.41.46.47.48.49</span></strong></span></table>");
@@ -64,6 +66,10 @@ document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000
 document.writeln("	");
 document.writeln("<!--结束-->");
 document.writeln("");
+
+
+
+
 
 
 
