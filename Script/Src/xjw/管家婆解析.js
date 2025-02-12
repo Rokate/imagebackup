@@ -28,10 +28,9 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 document.writeln("<tr><td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("<p align=\'left\'>");
 document.writeln("<span><font size=\'4\'>043期:<font color=\'#008000\'>【精解管家婆一句赢大钱】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("</font><font color=\'#6600CC\'>精解九肖：虎羊兔马鸡猪猴狗鼠<br></font></font>");
-document.writeln("<font color=\'#FF0000\' size=\'4\'>精解18码：</font><font color=\'#0000FF\' size=\'4\'>40.28.11.47.15.39.12.48.09.33.31.43.22.46.08.44.06.30<br></font>");
+document.writeln("</font><font color=\'#6600CC\'>精解九肖：龙蛇马羊猴狗鸡猪鼠<br></font></font>");
+document.writeln("<font color=\'#FF0000\' size=\'4\'>精解18码：</font><font color=\'#0000FF\' size=\'4\'>14.26.25.37.12.24.35.47.34.46.08.20.45.21.43.31.42.18<br></font>");
 document.writeln("</td></tr>");
-
 
 
 

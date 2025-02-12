@@ -42,7 +42,6 @@ document.writeln("");
 
 
 
-
 document.writeln("	<!--gavc-->										");
 document.writeln("	<tr>");
 document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
@@ -52,7 +51,6 @@ document.writeln("网红双波<font color=\"#FF0000\">【蓝波红波】</font>�
 document.writeln("	</tr>");
 document.writeln("	<!--结束-->	");
 document.writeln("");
-
 
 
 

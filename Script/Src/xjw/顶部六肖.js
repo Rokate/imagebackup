@@ -6,10 +6,7 @@ document.writeln("");
 document.writeln("");
 
 
-
-
 document.writeln("");
-document.writeln(" ");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -23,26 +20,26 @@ document.writeln("		<tr style=\'padding: 0px; margin: 0px; border: 0px; box-sizi
 document.writeln("			<td width=\'100%\' height=\'33\' bordercolor=\'#DEDEDE\' bgcolor=\'#FFFFFF\' style=\'padding: 0px; margin: 0px; border: 1px solid rgb(101, 101, 101); box-sizing: border-box; text-overflow: ellipsis; font-size: 16px; color: rgb(0, 0, 0); text-align: left;\'>");
 document.writeln("			<b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
 document.writeln("			<font color=\'#000000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			六肖:</font></b><b style=\'box-sizing: border-box\'><font color=\'#FF0000\' style=\'box-sizing: border-box\'>虎羊狗牛兔鼠</font></b></td>");
+document.writeln("			六肖:</font></b><b style=\'box-sizing: border-box\'><font color=\'#FF0000\' style=\'box-sizing: border-box\'>龙虎鼠猴马狗</font></b></td>");
 document.writeln("		</tr>");
 document.writeln("		</tr>");
 document.writeln("		<tr style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box; height: 30px;\'>");
 document.writeln("			<td width=\'100%\' height=\'30\' bordercolor=\'#DEDEDE\' bgcolor=\'#FFFFFF\' style=\'padding: 0px; margin: 0px; border: 1px solid rgb(101, 101, 101); box-sizing: border-box; text-overflow: ellipsis; font-size: 16px; color: rgb(0, 0, 0); text-align: left;\'>");
 document.writeln("			<b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
 document.writeln("			<font color=\'#000000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			三肖:</font></b><b style=\'box-sizing: border-box\'><font color=\'#FF0000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>虎羊狗</font></b><b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'><font color=\'#FF0000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>(</font><font color=\'#FF00FF\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>快!</font><font color=\'#008000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>稳!</font><font color=\'#800000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>准!</font><font color=\'#FF0000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>)</font></b></td>");
+document.writeln("			三肖:</font></b><b style=\'box-sizing: border-box\'><font color=\'#FF0000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>龙虎鼠</font></b><b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'><font color=\'#FF0000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>(</font><font color=\'#FF00FF\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>快!</font><font color=\'#008000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>稳!</font><font color=\'#800000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>准!</font><font color=\'#FF0000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>)</font></b></td>");
 document.writeln("		</tr>");
 document.writeln("		<tr style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box; height: 30px;\'>");
 document.writeln("			<td width=\'100%\' height=\'30\' bordercolor=\'#DEDEDE\' bgcolor=\'#FFFFFF\' style=\'padding: 0px; margin: 0px; border: 1px solid rgb(101, 101, 101); box-sizing: border-box; text-overflow: ellipsis; font-size: 16px; color: rgb(0, 0, 0); text-align: left;\'>");
 document.writeln("			<b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
 document.writeln("			<font color=\'#000000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			12码:</font><font color=\'#FF0000\'></span>04 40 47 35 32 20 17 29 15 27 18 42</font></b></td>");
+document.writeln("			12码:</font><font color=\'#FF0000\'></span>14 02 28 40 18 06 46 22 36 48 08 20</font></b></td>");
 document.writeln("		</tr>");
 document.writeln("				<tr style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box; height: 30px;\'>");
 document.writeln("			<td width=\'100%\' height=\'30\' bordercolor=\'#DEDEDE\' bgcolor=\'#FFFFFF\' style=\'padding: 0px; margin: 0px; border: 1px solid rgb(101, 101, 101); box-sizing: border-box; text-overflow: ellipsis; font-size: 16px; color: rgb(0, 0, 0); text-align: left;\'>");
 document.writeln("			<b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
 document.writeln("			<font color=\'#000000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			六码:</font><font color=\'#FF0000\'></span>04 40 47 35 32 20</font></b></td>");
+document.writeln("			六码:</font><font color=\'#FF0000\'></span>14 02 28 40 18 06</font></b></td>");
 document.writeln("		</tr>");
 document.writeln("");
 document.writeln("		<tr style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box; height: 30px;\'>");
@@ -51,7 +48,7 @@ document.writeln("");
 document.writeln("			<td width=\'100%\' height=\'30\' bordercolor=\'#DEDEDE\' bgcolor=\'#FFFFFF\' style=\'padding: 0px; margin: 0px; border: 1px solid rgb(101, 101, 101); box-sizing: border-box; text-overflow: ellipsis; font-size: 16px; color: rgb(0, 0, 0); text-align: left;\'>");
 document.writeln("			<b style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
 document.writeln("			<font color=\'#000000\' style=\'padding: 0px; margin: 0px; border: 0px; box-sizing: border-box;\'>");
-document.writeln("			三码:</font></b><font color=\'#FF0000\'>04 40 47</span></font></td>");
+document.writeln("			三码:</font></b><font color=\'#FF0000\'>14 02 28</span></font></td>");
 document.writeln("		</table>");
 document.writeln("		");
 document.writeln("		");
@@ -59,16 +56,18 @@ document.writeln("		");
 document.writeln(" ");
 document.writeln("		");
 document.writeln("		");
-document.writeln(" ");
-document.writeln("		");
-document.writeln("		");
 document.writeln("		");
 document.writeln(" ");
 document.writeln("		");
 document.writeln(" ");
+document.writeln("		");
+document.writeln("		");
+document.writeln("		");
+document.writeln(" ");
+document.writeln("		");
+document.writeln("		");
+document.writeln("		");
 document.writeln("");
-
-
 
 
 

@@ -30,7 +30,7 @@ document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 
 
-document.writeln("");
+
 document.writeln("");
 document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
@@ -39,11 +39,10 @@ document.writeln("		<p align=\'left\'>");
 document.writeln("	");
 document.writeln("		<span><font size=\'4\'><strong>043期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开？00</strong></font><font color=\'#008000\'><strong><br>");
 document.writeln("		</strong>");
-document.writeln("		</font><font color=\'#FF00FF\'><strong>天生我材必有用，千金散尽还复来</strong></font><strong><br>");
+document.writeln("		</font><font color=\'#FF00FF\'><strong>花开不并百花丛,独立疏篱趣未穷</strong></font><strong><br>");
 document.writeln("		</strong><strong><font color=\'#6600CC\'>");
-document.writeln("		解:天解天肖，兔马猴猪牛龙，金解金肖，猴鸡。<br>");
-document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>兔马猴猪鸡龙</span></strong></font></td></tr>");
-document.writeln("");
+document.writeln("		解:句中大意菊花盛开在秋天，从不与百花为伍，独立在稀疏的篱笆旁，情操意趣并未衰穷。独解独肖鼠牛虎兔马羊。<br>");
+document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>鼠牛虎兔马羊</span></strong></font></td></tr>");
 document.writeln("");
 document.writeln("");
 
