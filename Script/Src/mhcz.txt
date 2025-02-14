@@ -1767,7 +1767,16 @@ document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=42><p style=box-sizing:border-box;padding:0;margin:0 align=center>");
 document.writeln("<span style=box-sizing:border-box;font-size:14pt><font face=\'微软雅黑\'><b>");
 document.writeln("<span style=box-sizing:border-box;><font color=\'#008000\'>");
-document.writeln("045期<img src=\'/images/kou.png\' style=\'width:20px\' height=\'15\'></font><font color=\'#000000\'>【0-2-3】头</font> <font color=\'#0000FF\'>开:？00准</font></span></b><font color=\'#000000\'><span style=\'font-size: 14pt\'></strong>");
+document.writeln("046期<img src=\'/images/kou.png\' style=\'width:20px\' height=\'15\'></font><font color=\'#000000\'>【2-3-4】头</font> <font color=\'#0000FF\'>开:？00准</font></span></b><font color=\'#000000\'><span style=\'font-size: 14pt\'></strong>");
+document.writeln("</span></font></font>");
+document.writeln("</tr>");
+
+
+document.writeln("<tr>");
+document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=42><p style=box-sizing:border-box;padding:0;margin:0 align=center>");
+document.writeln("<span style=box-sizing:border-box;font-size:14pt><font face=\'微软雅黑\'><b>");
+document.writeln("<span style=box-sizing:border-box;><font color=\'#008000\'>");
+document.writeln("045期<img src=\'/images/kou.png\' style=\'width:20px\' height=\'15\'></font><font color=\'#000000\'>【0-2-<span style=\'background-color: #FFFF00\'>3</span>】头</font> <font color=\'#0000FF\'>开:鼠30准</font></span></b><font color=\'#000000\'><span style=\'font-size: 14pt\'></strong>");
 document.writeln("</span></font></font>");
 document.writeln("</tr>");
 
