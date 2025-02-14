@@ -16,17 +16,17 @@ document.writeln("		");
 
 
 
+
+
 document.writeln("");
 document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("	");
 document.writeln("		<p align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>045期:<font color=\'#FF00FF\'>《鸡猴龙》</font><font color=\'#008000\'>（21 10 02）</font><font color=\'#0000FF\'>开？00中</font></font></span></td></tr>");
+document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>046期:<font color=\'#FF00FF\'>《狗牛虎》</font><font color=\'#008000\'>（20 05 04）</font><font color=\'#0000FF\'>开？00中</font></font></span></div>	");
 document.writeln("	");
 document.writeln("");
-
-
+document.writeln("");
 
 
 

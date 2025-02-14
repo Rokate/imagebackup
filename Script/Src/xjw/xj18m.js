@@ -29,7 +29,7 @@ document.writeln("</style>");
 document.writeln("");
 document.writeln("<body>");
 document.writeln("  ");
-document.writeln("<img src=\"https://amo.phseo1.com:4949/col/45/amzy.jpg\" alt=\"\" width=\"100%\">");
+document.writeln("<img src=\"https://amo.phseo1.com:4949/col/46/amzy.jpg\" alt=\"\" width=\"100%\">");
 document.writeln("");
 document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
@@ -60,10 +60,31 @@ document.writeln("");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		<font color=\"#0000FF\">045期【玄机特码诗】猜透必中开（？00）</font><br>");
-document.writeln("①解特九肖：鼠狗虎猪猴蛇兔龙鸡<br>");
-document.writeln("②解特五肖：鼠狗虎猪猴<br>");
-document.writeln("③解特18码：30.42.08.20.04.16.31.43.10.22.13.25.03.15.14.26.21.33</b></font></p></td>");
+document.writeln("		<font color=\"#0000FF\">046期【玄机特码诗】猜透必中开（？00）</font><br>");
+document.writeln("①解特九肖：猴兔龙猪蛇鸡马鼠虎<br>");
+document.writeln("②解特五肖：猴兔龙猪蛇<br>");
+document.writeln("③解特18码：22.10.15.03.14.26.31.43.13.25.21.33.12.24.30.42.04.16</b></font></p></td>");
+document.writeln("    </tr>     ");
+document.writeln("     <!--结束-->");
+document.writeln("	");
+document.writeln("");
+
+
+
+
+
+document.writeln("  <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=38 >");
+document.writeln("		<p align=\'left\'>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<b>");
+document.writeln("");
+document.writeln("		<font color=\"#0000FF\">045期【玄机特码诗】猜透必中开（鼠30）</font><br>");
+document.writeln("①解特九肖：<span style='background-color: #FFFF00\'>鼠</span>狗虎猪猴蛇兔龙鸡<br>");
+document.writeln("②解特五肖：<span style='background-color: #FFFF00\'>鼠</span>狗虎猪猴<br>");
+document.writeln("③解特18码：<span style='background-color: #FFFF00\'>30</span>.42.08.20.04.16.31.43.10.22.13.25.03.15.14.26.21.33</b></font></p></td>");
 document.writeln("    </tr>     ");
 document.writeln("     <!--结束-->");
 document.writeln("	");

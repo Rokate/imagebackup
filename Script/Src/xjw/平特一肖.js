@@ -23,10 +23,20 @@ document.writeln("	   		");
 
 
 
+
+document.writeln("			    <tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<span><font size=\'4\'>046期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【虎落平阳—被犬欺】</td>");
+document.writeln("		</tr>");
+document.writeln("");
+
+
+
 document.writeln("		");
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>045期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<span><font size=\'4\'>045期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>30</span><br>");
 document.writeln("		<font color=\'#FF00FF\'>【出洞的老鼠—东张西望】</td>");
 document.writeln("		</tr>");
 

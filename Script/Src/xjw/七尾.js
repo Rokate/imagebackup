@@ -26,15 +26,16 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 
 
 
-document.writeln("	");
-document.writeln("								<td class=\'center f11 black l150\' align=\'center\'>");
+
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("		<p>");
 document.writeln("		<b>");
 document.writeln("		<font size=\'4\'>");
-document.writeln("		<span>045期:<font color=\'#008000\'>无错七尾</font>【2413967】</span><font color=\'#FF0000\'>开？00</font></font></b></td></tr>");
+document.writeln("		<span>046期:<font color=\'#008000\'>无错七尾</font>【7209184】</span><font color=\'#FF0000\'>开？00</font></font></b></td></tr>");
 document.writeln("		");
 document.writeln("");
 document.writeln("");
+
 
 
 

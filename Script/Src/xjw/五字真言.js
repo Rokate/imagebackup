@@ -31,17 +31,20 @@ document.writeln("");
 
 
 
+
+
+document.writeln("");
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>045期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【→一二两头出←】</font><font color=\'#6600CC\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>解：11羊.02龙.20狗.03兔.04虎.05牛</font></font></span></td></tr>");
+document.writeln("		<span><font size=\'4\'>046期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【→二八一边出←】</font><font color=\'#6600CC\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>解：11羊.14龙.13蛇.12马.03兔.30鼠</font></font></span></td></tr>");
 document.writeln("	");
 document.writeln("");
 document.writeln("");
+
 
 
 

@@ -43,14 +43,38 @@ document.writeln("");
 
 
 
+document.writeln("<!--开始-->");
+document.writeln("");
+document.writeln("	");
+document.writeln("	<table style=border-collapse:collapse border=0 width=100% cellpadding=0><tbody><tr><td style=\'border:1px dotted olive\'><p style=line-height:200% align=center><span style=font-family:Verdana><strong>");
+document.writeln("		<font color=\'#FF5050\'>046期:特围36码---开:？00准</font><span style=color:maroon><br></span>");
+document.writeln("		<span style=color:#d50000>19.17.35.31.28.37.20.49.11.30.47.38</span><br>");
+document.writeln("		<span style=color:olive>10.26.05.41.12.09.32.48.45.02.14.39</span><br>");
+document.writeln("		<span style=color:#669>34.43.13.44.25.46.06.29.03.21.33.40</span></strong></span></table>");
+document.writeln("");
+document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
+document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>865</font><font size=\'6\' color=\'#008000\'>63</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
+document.writeln("	");
+document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("");
+
+
+
+
+
+
+
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("	");
 document.writeln("	<table style=border-collapse:collapse border=0 width=100% cellpadding=0><tbody><tr><td style=\'border:1px dotted olive\'><p style=line-height:200% align=center><span style=font-family:Verdana><strong>");
-document.writeln("		<font color=\'#FF5050\'>045期:特围36码---开:？00准</font><span style=color:maroon><br></span>");
-document.writeln("		<span style=color:#d50000>36.46.32.35.20.30.14.05.07.44.19.42</span><br>");
+document.writeln("		<font color=\'#FF5050\'>045期:特围36码---开:鼠30准</font><span style=color:maroon><br></span>");
+document.writeln("		<span style=color:#d50000>36.46.32.35.20.<span style='background-color: #FFFF00\'>30</span>.14.05.07.44.19.42</span><br>");
 document.writeln("		<span style=color:olive>29.47.38.16.15.22.17.06.26.01.13.31</span><br>");
 document.writeln("		<span style=color:#669>21.03.12.48.28.45.23.39.02.41.40.34</span></strong></span></table>");
 document.writeln("");
