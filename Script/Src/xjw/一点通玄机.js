@@ -34,17 +34,36 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 
 
 
+document.writeln("");
+document.writeln("");
 document.writeln("						<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p align=\'left\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'><strong>046期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开？00</strong></font><font color=\'#008000\'><strong><br>");
+document.writeln("		<span><font size=\'4\'><strong>047期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开？00</strong></font><font color=\'#008000\'><strong><br>");
+document.writeln("		</strong>");
+document.writeln("		</font><font color=\'#FF00FF\'><strong>铺天盖地蛇化龙，金屋藏娇定富贵</strong></font><strong><br>");
+document.writeln("		</strong><strong><font color=\'#6600CC\'>");
+document.writeln("		解:天解天肖，兔马猴猪牛龙，金解金肖，猴鸡。<br>");
+document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>兔马猴猪鸡龙</span></strong></font></td></tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+
+
+document.writeln("						<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p align=\'left\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'><strong>046期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开马12</strong></font><font color=\'#008000\'><strong><br>");
 document.writeln("		</strong>");
 document.writeln("		</font><font color=\'#FF00FF\'><strong>森林大火两边起，生禽猛兽四处窜。</strong></font><strong><br>");
 document.writeln("		</strong><strong><font color=\'#6600CC\'>");
 document.writeln("		解：森林大火，（火）蛇马，生禽猛兽，野肖:鼠虎兔龙蛇猴。<br>");
-document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>蛇马鼠虎兔猴。</span></strong></font></td></tr>");
+document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>蛇<span style='background-color: #FFFF00\'>马</span>鼠虎兔猴。</span></strong></font></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("");

@@ -35,20 +35,27 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 
 
 
+
+
+
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("	<tr>");
+document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>046期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【四授官资元七品，五湖烟月一扁舟】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>虎鸡猴鼠</font></tr>");
+document.writeln("		<p>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>047期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#6600CC\'>【猴子捞月水中花，鼠目寸光一点点】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：牛猪兔狗</span></tr>	");
+document.writeln("	");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+
+
+
+
 
 
 
