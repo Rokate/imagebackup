@@ -31,18 +31,20 @@ document.writeln("");
 
 
 
-
-
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("		<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>047期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00 </font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【→二九上下开←】</font><font color=\'#6600CC\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>解：</font></font></span><font size=\'4\' color=\'#0000FF\'>10猴.33鸡.20狗.04虎.14龙.30鼠</font></td></tr>");
+document.writeln("		<span><font size=\'4\'>048期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00 </font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【→一九上下遇←】</font><font color=\'#6600CC\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>解：</font></font></span><font size=\'4\' color=\'#0000FF\'>10猴.07猪.30鼠.20狗.16虎.03兔</font></td></tr>");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+
+
+
 
 
 document.writeln("");

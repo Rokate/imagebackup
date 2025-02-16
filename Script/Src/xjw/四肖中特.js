@@ -37,21 +37,18 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 
 
 
-
 document.writeln("");
-document.writeln("				<tr>");
+document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>047期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【猴子捞月水中花，鼠目寸光一点点】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：牛猪兔狗</span></tr>	");
-document.writeln("	");
+document.writeln("		<span><font size=\'4\'>048期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#6600CC\'>【夜来砧杵六宫秋，书司曹佐走如牛】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>羊狗猪鼠</font></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+
 
 
 

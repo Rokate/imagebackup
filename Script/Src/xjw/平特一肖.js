@@ -21,12 +21,21 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 document.writeln("	   		");
 
 
+document.writeln("			    <tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("		<span><font size=\'4\'>048期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【回老家蛇吃黄鳝—比长短】</td>");
+document.writeln("		</tr>");
+document.writeln("");
+
+
+
 
 
 
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>047期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<span><font size=\'4\'>047期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>12</span><br>");
 document.writeln("		<font color=\'#FF00FF\'>【马尾巴搓绳—不合股】</td>");
 document.writeln("		</tr>");
 document.writeln("");

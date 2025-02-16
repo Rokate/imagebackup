@@ -77,7 +77,8 @@ document.writeln("");
 
 
 
-document.writeln("  047期团队十肖：鸡虎狗猪鼠龙羊兔马牛√<br>");
+document.writeln("  048期团队十肖：马猴龙鸡猪蛇兔牛狗鼠√<br>");
+document.writeln("  047期团队十肖：鸡虎狗猪鼠龙羊兔<span style='background-color: #FFFF00\'>马</span>牛√<br>");
 document.writeln("  046期团队十肖：牛羊虎猴蛇狗鸡兔猪<span style='background-color: #FFFF00\'>马</span>√<br>");
 document.writeln("  045期团队十肖：狗猴牛兔马龙虎蛇猪羊×<br>");
 document.writeln("  044期团队十肖：鼠猴马羊虎狗兔龙牛鸡×<br>");
@@ -134,7 +135,8 @@ document.writeln("");
 
 
 
-document.writeln("  047期团队八尾：76394285√<br>");
+document.writeln("  048期团队八尾：14679028√<br>");
+document.writeln("  047期团队八尾：76394<span style='background-color: #FFFF00\'>2</span>85√<br>");
 document.writeln("  046期团队八尾：078641<span style='background-color: #FFFF00\'>2</span>3√<br>");
 document.writeln("  045期团队八尾：9<span style='background-color: #FFFF00\'>0</span>143685√<br>");
 document.writeln("  044期团队八尾：013456<span style='background-color: #FFFF00\'>7</span>9√<br>");
@@ -179,7 +181,8 @@ document.writeln("");
 
 
 
-document.writeln("  047期团队四头：4320√<br>");
+document.writeln("  048期团队四头：1043√<br>");
+document.writeln("  047期团队四头：4320×<br>");
 document.writeln("  046期团队四头：42<span style='background-color: #FFFF00\'>1</span>3√<br>");
 document.writeln("  045期团队四头：0214×<br>");
 document.writeln("  044期团队四头：<span style='background-color: #FFFF00\'>0</span>134√<br>");
@@ -209,7 +212,8 @@ document.writeln("");
 
 
 
-document.writeln("  047期团队四行：水火金木√<br>");
+document.writeln("  048期团队四行：木水金火√<br>");
+document.writeln("  047期团队四行：水火<span style='background-color: #FFFF00\'>金</span>木√<br>");
 document.writeln("  046期团队四行：水<span style='background-color: #FFFF00\'>金</span>火木√<br>");
 document.writeln("  045期团队四行：木土火金×<br>");
 document.writeln("  044期团队四行：金<span style='background-color: #FFFF00\'>木</span>火土√<br>");
