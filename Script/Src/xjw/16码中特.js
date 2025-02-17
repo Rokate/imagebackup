@@ -51,16 +51,20 @@ document.writeln("");
 
 
 
+
+
+
 document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("048期红色记忆【独家16码】开？00准<br>");
+document.writeln("049期红色记忆【独家16码】开？00准<br>");
 document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
-document.writeln("（13.40.05.31.48.37.36.01）<br>");
-document.writeln("（03.20.12.33.47.10.19.06）</font></td>");
+document.writeln("（43.27.06.15.10.39.07.18）<br>");
+document.writeln("（03.46.47.14.16.09.02.17）</font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
+
 
 
 

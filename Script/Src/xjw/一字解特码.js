@@ -18,6 +18,7 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 
 
 
+
 document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("	<tr>");
@@ -25,12 +26,12 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>048期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【欲】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开？00</font></span><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#006600\'>解特： 25 41 36 33 07 32 24 15 37 14 23 34 39 11 09 46 47 16 43</font></font></span></td></tr>");
+document.writeln("		<span><font size=\'4\'>049期:<font color=\'#0000FF\'>一字解特码</font></font><font color=\'#FF00FF\' style=\'font-size: 20pt\'>【畜】</font><font size=\'4\'><span style=\'background-color: #FFFF00\'><font color=\'#0000FF\'>开？00</font></span><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#006600\'>解特：22 45 48 44 05 07 20 10 40 49 46 01 17 06 47 16 12 34 37 24</td></tr>");
 document.writeln("<!--结束-->");
 document.writeln("");
-document.writeln("");
-document.writeln("");
+
+
 
 
 
