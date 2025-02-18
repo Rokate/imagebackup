@@ -58,7 +58,7 @@ document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowsp
 document.writeln("		<strong>");
 document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>猴虎鸡猪<br>");
 document.writeln("		</font>");
-document.writeln("		<font face=\'微软雅黑\' color=\'#FF0000\' size=\"4\">（10.22.04.16.21.33.+19.31）</td>");
+document.writeln("		<font face=\'微软雅黑\' color=\'#FF0000\' size=\"4\">（10.22.04.16.21.33.19.31）</td>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
 document.writeln("		<font face=\'微软雅黑\'>开:鼠18</font></td>");
 document.writeln("		</tr>");
