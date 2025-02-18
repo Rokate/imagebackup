@@ -33,15 +33,29 @@ document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspaci
 
 
 
+document.writeln("");
+document.writeln("				<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>050期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#6600CC\'>【无云世界秋三五，新丰老翁八十八】<br></font></font>");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：龙猪马羊</span></tr>	");
+document.writeln("	");
+document.writeln("");
+
+
+
 
 document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>049期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
+document.writeln("		<span><font size=\'4\'>049期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开猪43</font><font color=\'#008000\'><br>");
 document.writeln("		</font><font color=\'#6600CC\'>【难得糊涂一只猪，寒冬料峭天来助】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：猴马兔猪</span></tr>	");
+document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：猴马兔<span style='background-color: #FFFF00\'>猪</span></span></tr>	");
 document.writeln("");
 document.writeln("");
 
