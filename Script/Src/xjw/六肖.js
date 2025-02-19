@@ -11,10 +11,19 @@ document.writeln("");
 
 
 
+
 document.writeln("		<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	050期<font color=\'#0000FF\'>【狗鸡蛇虎龙牛】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
+document.writeln("	051期<font color=\'#0000FF\'>【牛蛇龙鸡马兔】</font><font color=\'#FF00FF\'>开？00准</font></font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
+
+
+document.writeln("		<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	050期<font color=\'#0000FF\'>【狗鸡蛇虎龙<span style='background-color: #FFFF00\'>牛</span>】</font><font color=\'#FF00FF\'>开牛05准</font></font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 
