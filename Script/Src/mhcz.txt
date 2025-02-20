@@ -1618,10 +1618,8 @@ document.writeln("");
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 style=\'border-style: solid; border-width: 1px\'>");
-document.writeln("<b><font size=\'4\'>051期<font color=\'#0000FF\'>男女中特</font>【<font color=\'#FF0000\'>男肖</font>】开<font color=\'#008000\'>？00准</font></font></b></td>");
+document.writeln("<b><font size=\'4\'>052期<font color=\'#0000FF\'>男女中特</font>【<font color=\'#FF0000\'>女肖</font>】开<font color=\'#008000\'>？00准</font></font></b></td>");
 document.writeln("</tr>");
-
-
 
 document.writeln("<tr>");
 document.writeln("<td align=\'center\' height=40 style=\'border-style: solid; border-width: 1px\'>");
