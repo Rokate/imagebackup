@@ -40,14 +40,40 @@ document.writeln("");
 
 
 
+
+
+
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("	");
 document.writeln("	<table style=border-collapse:collapse border=0 width=100% cellpadding=0><tbody><tr><td style=\'border:1px dotted olive\'><p style=line-height:200% align=center><span style=font-family:Verdana><strong>");
-document.writeln("		<font color=\'#FF5050\'>051期:特围36码---开:？00准</font><span style=color:maroon><br></span>");
+document.writeln("		<font color=\'#FF5050\'>052期:特围36码---开:？00准</font><span style=color:maroon><br></span>");
+document.writeln("		<span style=color:#d50000>36.45.38.35.05.34.41.28.08.03.20.39</span><br>");
+document.writeln("		<span style=color:olive>13.43.48.24.11.15.19.26.37.32.42.04</span><br>");
+document.writeln("		<span style=color:#669>49.23.22.33.40.09.18.29.27.06.21.30</span></strong></span></table>");
+document.writeln("");
+document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
+document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>865</font><font size=\'6\' color=\'#008000\'>63</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");
+document.writeln("	");
+document.writeln("<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+
+
+
+
+document.writeln("<!--开始-->");
+document.writeln("");
+document.writeln("	");
+document.writeln("	<table style=border-collapse:collapse border=0 width=100% cellpadding=0><tbody><tr><td style=\'border:1px dotted olive\'><p style=line-height:200% align=center><span style=font-family:Verdana><strong>");
+document.writeln("		<font color=\'#FF5050\'>051期:特围36码---开:蛇49准</font><span style=color:maroon><br></span>");
 document.writeln("		<span style=color:#d50000>25.06.33.05.01.44.10.13.19.45.14.03</span><br>");
 document.writeln("		<span style=color:olive>15.34.42.46.28.11.43.36.26.47.35.02</span><br>");
-document.writeln("		<span style=color:#669>31.08.12.22.32.20.18.04.07.41.48.49</span></strong></span></table>");
+document.writeln("		<span style=color:#669>31.08.12.22.32.20.18.04.07.41.48.<span style='background-color: #FFFF00\'>49</span></span></strong></span></table>");
 document.writeln("");
 document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
 document.writeln("			<img src=/img/569.gif width=20 height=19><font color=\'#000080\' size=\'4\'><span style=font-family:楷体;>澳门玄机网</span></font><span style=font-family:楷体;><font size=\'6\' color=\'#FF00FF\'>865</font><font size=\'6\' color=\'#008000\'>63</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>.com</font></span></strong></tr></table>");

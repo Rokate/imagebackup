@@ -23,11 +23,22 @@ document.writeln("	   		");
 
 
 
+document.writeln("                         <tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<span><font size=\'4\'>052期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<font color=\'#FF00FF\'>【出洞的老鼠—东张西望】</td>");
+document.writeln("	</tr>");
+document.writeln("		");
+document.writeln("");
+
+
+
 
 document.writeln("	");
 document.writeln("			    <tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("		<span><font size=\'4\'>051期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>00</span><br>");
+document.writeln("		<span><font size=\'4\'>051期:【歇后语解平特】开<span style=\'background-color: #FFFF00\'>18</span><br>");
 document.writeln("		<font color=\'#FF00FF\'>【被追打的老鼠—见洞就钻】</td>");
 document.writeln("		</tr>");
 document.writeln("		");

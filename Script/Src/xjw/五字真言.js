@@ -36,9 +36,9 @@ document.writeln("");
 document.writeln("	<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
-document.writeln("		<span><font size=\'4\'>051期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00 </font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#FF00FF\'>【→四七前后来←】</font><font color=\'#6600CC\'><br>");
-document.writeln("		</font><font color=\'#0000FF\'>解：</font></font></span><font size=\'4\' color=\'#0000FF\'>17牛.19猪.12马.09鸡.04虎.11羊</font></td></tr>");
+document.writeln("		<span><font size=\'4\'>052期:<font color=\'#008000\'>【正版五字真言】</font><font color=\'#FF0000\'>开？00 </font><font color=\'#008000\'><br>");
+document.writeln("		</font><font color=\'#FF00FF\'>【→二五左右找←】</font><font color=\'#6600CC\'><br>");
+document.writeln("		</font><font color=\'#0000FF\'>解：</font></font></span><font size=\'4\' color=\'#0000FF\'>30鼠.03兔.04虎.12马.08狗.09鸡</font></td></tr>");
 document.writeln("");
 document.writeln("");
 
