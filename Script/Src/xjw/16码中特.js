@@ -49,59 +49,19 @@ document.writeln("");
 
 
 
-
-
-
-
-
 document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("052期红色记忆【独家16码】开？00准<br>");
+document.writeln("053期红色记忆【独家16码】开？00准<br>");
 document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
-document.writeln("（48.24.12.34.37.06.15.19）<br>");
-document.writeln("（07.17.18.01.33.41.29.43）</font></td>");
+document.writeln("（07.17.49.31.14.30.47.36）<br>");
+document.writeln("（04.26.13.32.21.41.12.34）</font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 
 
 
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("049期红色记忆【独家16码】开猪43准<br>");
-document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
-document.writeln("（<span style='background-color: #FFFF00\'>43</span>.27.06.15.10.39.07.18）<br>");
-document.writeln("（03.46.47.14.16.09.02.17）</font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-
-
-
-
-
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("046期红色记忆【独家16码】开马12准<br>");
-document.writeln("</font><font color=\"#FF0000\" size=\"5\">");
-document.writeln("（19.<span style='background-color: #FFFF00\'>12</span>.24.49.29.23.20.14）<br>");
-document.writeln("（41.31.06.36.26.11.27.10）</font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
 
 
 
