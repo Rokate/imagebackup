@@ -54,10 +54,10 @@ document.writeln("	<!----开始---->    ");
 document.writeln("	<table border=\'1\' width=\'100%\' cellpadding=\'0\' height=\'83\' cellspacing=\'0\' bgcolor=\'#FFFFFF\' bordercolor=\'#D4D4D4\' style=\'border-collapse: collapse\'>");
 document.writeln("		<tr>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
-document.writeln("		<b><font face=\'微软雅黑\'>049-051期</font></b></td>");
+document.writeln("		<b><font face=\'微软雅黑\'>052-054期</font></b></td>");
 document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowspan=\'3\'>");
 document.writeln("		<strong>");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>虎（<span style='background-color: #FFFF00\'>04.16.28）</font></strong></td>");
+document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>牛（<span style='background-color: #FFFF00\'>05.17.29）</font></strong></td>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
 document.writeln("		<font face=\'微软雅黑\'>000期中</font></td>");
 document.writeln("		</tr>");
@@ -68,70 +68,6 @@ document.writeln("		");
 document.writeln("");
 
 
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("	<table border=\'1\' width=\'100%\' cellpadding=\'0\' height=\'83\' cellspacing=\'0\' bgcolor=\'#FFFFFF\' bordercolor=\'#D4D4D4\' style=\'border-collapse: collapse\'>");
-document.writeln("		<tr>");
-document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
-document.writeln("		<b><font face=\'微软雅黑\'>046-048期</font></b></td>");
-document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowspan=\'3\'>");
-document.writeln("		<strong>");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>羊（<span style='background-color: #FFFF00\'>11.<span style='background-color: #FFFF00\'>23</span>.47）</font></strong></td>");
-document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
-document.writeln("		<font face=\'微软雅黑\'>048期中</font></td>");
-document.writeln("		</tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("		</table>");
-document.writeln("		");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("	<table border=\'1\' width=\'100%\' cellpadding=\'0\' height=\'83\' cellspacing=\'0\' bgcolor=\'#FFFFFF\' bordercolor=\'#D4D4D4\' style=\'border-collapse: collapse\'>");
-document.writeln("		<tr>");
-document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
-document.writeln("		<b><font face=\'微软雅黑\'>043-045期</font></b></td>");
-document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowspan=\'3\'>");
-document.writeln("		<strong>");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>虎（<span style='background-color: #FFFF00\'>04</span>.16.28）</font></strong></td>");
-document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
-document.writeln("		<font face=\'微软雅黑\'>043期中</font></td>");
-document.writeln("		</tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("		</table>");
-document.writeln("		");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("	<table border=\'1\' width=\'100%\' cellpadding=\'0\' height=\'83\' cellspacing=\'0\' bgcolor=\'#FFFFFF\' bordercolor=\'#D4D4D4\' style=\'border-collapse: collapse\'>");
-document.writeln("		<tr>");
-document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
-document.writeln("		<b><font face=\'微软雅黑\'>040-042期</font></b></td>");
-document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowspan=\'3\'>");
-document.writeln("		<strong>");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>羊（11.23.<span style='background-color: #FFFF00\'>35</span>）</font></strong></td>");
-document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
-document.writeln("		<font face=\'微软雅黑\'>041期中</font></td>");
-document.writeln("		</tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("		</table>");
-document.writeln("		");
-document.writeln("");
 
 
 
