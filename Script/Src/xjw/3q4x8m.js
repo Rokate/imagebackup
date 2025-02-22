@@ -56,7 +56,7 @@ document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' widt
 document.writeln("		<b><font face=\'微软雅黑\'>054期</font></b></td>");
 document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowspan=\'3\'>");
 document.writeln("		<strong>");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>猪蛇虎羊</span><br>");
+document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>猪蛇虎<span style='background-color: #FFFF00\'>羊</span></span><br>");
 document.writeln("		</font>");
 document.writeln("		<font face=\'微软雅黑\' color=\'#FF0000\' size=\"4\">（07.19.13.25.16.40.23.47）</td>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
@@ -68,7 +68,7 @@ document.writeln("		<b style=\'padding: 0px; margin: 0px; word-wrap: break-word;
 document.writeln("		<font face=\'微软雅黑\' style=\'word-wrap: break-word; margin: 0px; padding: 0px\'>");
 document.writeln("		053期</font></b></td>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
-document.writeln("		<font face=\'微软雅黑\'>开:？00</font></td>");
+document.writeln("		<font face=\'微软雅黑\'>开:羊11</font></td>");
 document.writeln("		</tr>");
 document.writeln("	<tr>");
 document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\' style=\'height: 26px\'>");
