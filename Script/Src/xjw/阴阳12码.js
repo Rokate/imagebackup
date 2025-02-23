@@ -41,15 +41,30 @@ document.writeln("	");
 
 
  
+
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
+document.writeln("	<font color=\'#008000\'>055期</font><font color=\'#FF0000\'>☆【特爆六肖12码】☆</font></b></font></table>");
+document.writeln("");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>阳肖【牛虎兔羊猴鸡】</font></b></font></table>");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>05.41.28.04.15.27.11.35.10.46.09.33</font></b></font></table>");
+document.writeln("		");
+document.writeln("	<!--结束-->");
+document.writeln("");
+
+
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'楷体\' size=\'4\'><b>");
 document.writeln("	<font color=\'#008000\'>054期</font><font color=\'#FF0000\'>☆【特爆六肖12码】☆</font></b></font></table>");
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>阴肖【鼠龙蛇马狗猪】</font></b></font></table>");
+document.writeln("	<td width=100% height=40><p align=center><b><font size=\'4\' face=\'楷体\'>阴肖【鼠龙蛇<span style='background-color: #FFFF00\'>蛇</span>马狗猪】</font></b></font></table>");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>30.42.14.38.13.25.24.48.08.44.07.31</font></b></font></table>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>30.42.14.38.13.<span style='background-color: #FFFF00\'>25</span>.24.48.08.44.07.31</font></b></font></table>");
 document.writeln("		");
 document.writeln("	<!--结束-->");
 document.writeln("");
