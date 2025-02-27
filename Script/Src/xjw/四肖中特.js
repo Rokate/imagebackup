@@ -81,27 +81,6 @@ document.writeln("");
 
 
 
-document.writeln("");
-document.writeln("");
-document.writeln("	");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>053期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开羊11</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【快马加鞭取特码，蛇鼠羊兔是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>蛇鼠<span style='background-color: #FFFF00\'>羊</span>兔</font></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-
-
 
 
 document.writeln("<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
