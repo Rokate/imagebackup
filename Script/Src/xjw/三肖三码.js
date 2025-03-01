@@ -1,36 +1,6 @@
-﻿
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
-document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
-document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>澳门玄机86563</font><font color=\'#FFFFFF\'>『三肖三码』</font></font></b></table>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		");
-document.writeln("		");
-document.writeln("		");
-
-
-
-
-
-
-document.writeln("	");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\'>");
-document.writeln("	");
-document.writeln("		<p align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span style=\'vertical-align: middle\'><font size=\'4\'>060期:<font color=\'#FF00FF\'>《虎兔鸡》</font><font color=\'#008000\'>（28 03 33）</font><font color=\'#0000FF\'>开？00中</font></font></span></td></tr>");
-document.writeln("	");
-document.writeln("	");
-
-
-
-
-
-
-
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Service Unavailable</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Service Unavailable</h2>
+<hr><p>HTTP Error 503. The service is unavailable.</p>
+</BODY></HTML>
