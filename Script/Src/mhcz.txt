@@ -3775,8 +3775,8 @@ document.writeln("<tbody>");
 document.writeln("<table style=\'border-collapse:collapse;color:#800000;font-weight:700;border:1px solid #800000\' border=1 width=100%>");
 document.writeln("<tbody>");
 document.writeln("");
-document.writeln("<tr>"); height=\'60\'>");
-document.writeln("<table border=1 width=100% b
+document.writeln("<td style=\'text-align:center\' height=\'60\'>");
+document.writeln("<table border=1 width=100% bgcolor=#ffffff height=\'54\'><tbody>");
 document.writeln("<td style=\'text-align:ecnter\'gcolor=#ffffff height=\'53\'><tbody>");
 document.writeln("<td style=\'border:10px double #800000; height: 47px;\' bgcolor=#800000><p align=center>");
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 19pt\'><font color=\'#FFFF00\'>澳门马会传真</font><font color=\'#FFFFFF\'>『单双四尾』</font></font></b></table>");
