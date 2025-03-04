@@ -47,19 +47,16 @@ document.writeln("");
 
 
 
-
-
 document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("063期六尾</font><font color=\"#FF0000\" size=\"5\">（5-1-2-0-6-7）</font><font size=\"4\"><br>");
-document.writeln("063期三尾</font><font color=\"#FF0000\" size=\"5\">（5-1-2）</font>");
+document.writeln("064期六尾</font><font color=\"#FF0000\" size=\"5\">（2-3-5-6-9-0）</font><font size=\"4\"><br>");
+document.writeln("064期三尾</font><font color=\"#FF0000\" size=\"5\">（2-3-5）</font>");
 document.writeln("</td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 document.writeln("");
-
 
 
 
