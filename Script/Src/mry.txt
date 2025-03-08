@@ -1610,8 +1610,10 @@ document.writeln("</head>");
 document.writeln("");
 document.writeln("<body>");
 document.writeln("");
-document.writeln("<img src=\"https://myx.wyvogue.com:4949/col/66/ampm.jpg\" width=\"100%\"></img>");
+document.writeln("<img src=\"https://myx.wyvogue.com:4949/col/67/ampm.jpg\" width=\"100%\"></img>");
 document.writeln("");
+
+
 
 
 document.writeln("  <tr>");
