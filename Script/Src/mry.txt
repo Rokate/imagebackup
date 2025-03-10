@@ -2536,19 +2536,7 @@ document.writeln("			<p style=\'box-sizing: border-box; padding: 0px; margin: 0p
 document.writeln("			<strong style=\'box-sizing: border-box;\'>");
 document.writeln("			<span style=\'box-sizing: border-box; vertical-align: middle;\'>");
 document.writeln("			<span style=\'box-sizing: border-box; font-size: 15pt; color: navy; font-family: Tahoma;\'>");
-document.writeln("			070期</span><span style=\'box-sizing: border-box; font-size: 15pt; color: rgb(255, 0, 102); font-family: Tahoma;\'>&#9773;</span><span style=\'box-sizing: border-box; font-size: 15pt; color: navy; font-family: Tahoma;\'>绝杀</span></span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: navy;\'>【</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: rgb(219, 0, 5);\'>39-49</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: navy;\'>】开:</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: rgb(219, 0, 5);\'>00</span></strong></td>		</tr>");
-document.writeln("</table>");
-document.writeln("");
-
-document.writeln("<table border=\'0\' width=\'100%\' cellspacing=\'0\' cellpadding=\'0\' style=\'box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; color: rgb(58, 88, 95); font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 微软雅黑, Arial, sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>");
-document.writeln("	<tbody style=\'box-sizing: border-box;\'>");
-document.writeln("		<tr style=\'box-sizing: border-box;\'>");
-document.writeln("			<td align=\'center\' bgcolor=\'#ffffff\' height=\'40\' style=\'box-sizing: border-box; vertical-align: middle; border: 1px solid rgb(235, 235, 235);\'>");
-document.writeln("			<p style=\'box-sizing: border-box; padding: 0px; margin: 0px; word-spacing: 1px; line-height: 32px;\'>");
-document.writeln("			<strong style=\'box-sizing: border-box;\'>");
-document.writeln("			<span style=\'box-sizing: border-box; vertical-align: middle;\'>");
-document.writeln("			<span style=\'box-sizing: border-box; font-size: 15pt; color: navy; font-family: Tahoma;\'>");
-document.writeln("			069期</span><span style=\'box-sizing: border-box; font-size: 15pt; color: rgb(255, 0, 102); font-family: Tahoma;\'>&#9773;</span><span style=\'box-sizing: border-box; font-size: 15pt; color: navy; font-family: Tahoma;\'>绝杀</span></span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: navy;\'>【</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: rgb(219, 0, 5);\'>39-49</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: navy;\'>】开:</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: rgb(219, 0, 5);\'>29</span></strong></td>		</tr>");
+document.writeln("			069期</span><span style=\'box-sizing: border-box; font-size: 15pt; color: rgb(255, 0, 102); font-family: Tahoma;\'>&#9773;</span><span style=\'box-sizing: border-box; font-size: 15pt; color: navy; font-family: Tahoma;\'>绝杀</span></span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: navy;\'>【</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: rgb(219, 0, 5);\'>39-49</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: navy;\'>】开:</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 15pt; color: rgb(219, 0, 5);\'>00</span></strong></td>		</tr>");
 document.writeln("</table>");
 document.writeln("");
 
