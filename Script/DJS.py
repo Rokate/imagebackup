@@ -31,7 +31,8 @@ async def dlxjw(session, url, sem, filepath):
 #获取dihzi url+/yjjy/wenzhang.js
 async def MHCZ():
     print("mhcz下载。。。")
-    mhczurl = "https://67292c.com"
+    mhczurl = "https://xn--3dcs9bto1bp5c8a.xn--0dcaaz1ff5bzcvdxdtb1af.xn--gecrj9c:8443/"
+    # mhczurl = "https://67292c.com" 57386.com
     jscontent = (
         '<!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"><meta name="applicable-device" content="mobile"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta http-equiv="X-UA-Compatible" content="ie=edge"><title>澳门图片</title></head><body><style type="text/css">.box{margin:5px 0;border-radius: 5px;overflow: hidden;background: #FFF;filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#99000000, endcolorstr=#99000000);}</style><h1 align="center" style="color:red ; font-size:50px">'
         + f'<a href="{mhczurl}">澳门马会传真</a></h1>'
