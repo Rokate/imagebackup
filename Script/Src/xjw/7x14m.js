@@ -44,142 +44,29 @@ document.writeln("");
 
 
 
+
 document.writeln("<!--开始 -->");
 document.writeln("        <table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' class=\'qxtable\' id=\'table1661\'>");
 document.writeln("			<tr>");
 document.writeln("				<td style=\'text-align:center; background: #FFFFFF;\' width=\'100%\'>");
-document.writeln("				<b><font size=\'5\'>071期</font><font color=\"#FF00FF\">七肖中特 86563.com长期跟踪</font></b></td>");
+document.writeln("				<b><font size=\'5\'>072期</font><font color=\"#FF00FF\">七肖中特 86563.com长期跟踪</font></b></td>");
 document.writeln("			</tr>");
 document.writeln("						<tr>");
 document.writeln("				<td style=\'text-align: center\' bgcolor=\'#FFFFFF\'>");
 document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(7.)肖特:</font><font color=\'#00CC66\' style=\"font-size: 14pt\">虎猴鸡兔羊牛狗</font></b></td>");
+document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(7.)肖特:</font><font color=\'#00CC66\' style=\"font-size: 14pt\">牛鼠马羊鸡兔蛇</font></b></td>");
 document.writeln("			</tr>");
 document.writeln("			");
 document.writeln("			<tr>");
 document.writeln("				<td style=\'text-align: center\' bgcolor=\'#FFFFFF\'>");
 document.writeln("				<b>");
 document.writeln("				<font color=\'#000080\'>稳赚特码（14码）<BR></font>");
-document.writeln("				<font color=\'#00CC66\' style=\"font-size: 13pt\">04.16.10.22.21.33.03.15.11.23.05.17.20.32</font></b></td>");
+document.writeln("				<font color=\'#00CC66\' style=\"font-size: 13pt\">05.17.30.42.12.36.11.23.21.33.03.15.13.25</font></b></td>");
 document.writeln("			</tr>					");
 document.writeln("</table> 			");
 document.writeln("<!--结束 -->");
 document.writeln("");
-
-
-
-
-
-
-
-document.writeln("<!--开始 -->");
-document.writeln("        <table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' class=\'qxtable\' id=\'table1661\'>");
-document.writeln("			<tr>");
-document.writeln("				<td style=\'text-align:center; background: #FFFFFF;\' width=\'100%\'>");
-document.writeln("				<b><font size=\'5\'>068期</font><font color=\"#FF00FF\">七肖中特 86563.com长期跟踪</font></b></td>");
-document.writeln("			</tr>");
-document.writeln("						<tr>");
-document.writeln("				<td style=\'text-align: center\' bgcolor=\'#FFFFFF\'>");
-document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(7.)肖特:</font><font color=\'#00CC66\' style=\"font-size: 14pt\">牛马<span style='background-color: #FFFF00\'>狗</span>猪鼠蛇猴</font></b></td>");
-document.writeln("			</tr>");
-document.writeln("			");
-document.writeln("			<tr>");
-document.writeln("				<td style=\'text-align: center\' bgcolor=\'#FFFFFF\'>");
-document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\'>稳赚特码（14码）<BR></font>");
-document.writeln("				<font color=\'#00CC66\' style=\"font-size: 13pt\">05.17.12.36.20.32.07.31.30.42.13.25.10.22</font></b></td>");
-document.writeln("			</tr>					");
-document.writeln("</table> 			");
-document.writeln("<!--结束 -->");
-
-
-
-
-
-
-
-
-document.writeln("<!--开始 -->");
-document.writeln("        <table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' class=\'qxtable\' id=\'table1661\'>");
-document.writeln("			<tr>");
-document.writeln("				<td style=\'text-align:center; background: #FFFFFF;\' width=\'100%\'>");
-document.writeln("				<b><font size=\'5\'>067期</font><font color=\"#FF00FF\">七肖中特 86563.com长期跟踪</font></b></td>");
-document.writeln("			</tr>");
-document.writeln("						<tr>");
-document.writeln("				<td style=\'text-align: center\' bgcolor=\'#FFFFFF\'>");
-document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(7.)肖特:</font><font color=\'#00CC66\' style=\"font-size: 14pt\">兔鼠虎<span style='background-color: #FFFF00\'>狗</span>牛鸡猴</font></b></td>");
-document.writeln("			</tr>");
-document.writeln("			");
-document.writeln("			<tr>");
-document.writeln("				<td style=\'text-align: center\' bgcolor=\'#FFFFFF\'>");
-document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\'>稳赚特码（14码）<BR></font>");
-document.writeln("				<font color=\'#00CC66\' style=\"font-size: 13pt\">03.15.30.42.16.28.20.32.05.17.21.33.10.22</font></b></td>");
-document.writeln("			</tr>					");
-document.writeln("</table> 			");
-document.writeln("<!--结束 -->");
 document.writeln("");
-
-
-
-
-document.writeln("<!--开始 -->");
-document.writeln("        <table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' class=\'qxtable\' id=\'table1661\'>");
-document.writeln("			<tr>");
-document.writeln("				<td style=\'text-align:center; background: #FFFFFF;\' width=\'100%\'>");
-document.writeln("				<b><font size=\'5\'>066期</font><font color=\"#FF00FF\">七肖中特 86563.com长期跟踪</font></b></td>");
-document.writeln("			</tr>");
-document.writeln("						<tr>");
-document.writeln("				<td style=\'text-align: center\' bgcolor=\'#FFFFFF\'>");
-document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(7.)肖特:</font><font color=\'#00CC66\' style=\"font-size: 14pt\">兔龙羊猴狗<span style='background-color: #FFFF00\'>马</span>猪</font></b></td>");
-document.writeln("			</tr>");
-document.writeln("			");
-document.writeln("			<tr>");
-document.writeln("				<td style=\'text-align: center\' bgcolor=\'#FFFFFF\'>");
-document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\'>稳赚特码（14码）<BR></font>");
-document.writeln("				<font color=\'#00CC66\' style=\"font-size: 13pt\">03.15.14.26.11.23.10.22.20.32.<span style='background-color: #FFFF00\'>12</span>.36.07.31</font></b></td>");
-document.writeln("			</tr>					");
-document.writeln("</table> 			");
-document.writeln("<!--结束 -->");
-document.writeln("");
-
-
-
-
-
-
-
-document.writeln("<!--开始 -->");
-document.writeln("        <table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' class=\'qxtable\' id=\'table1661\'>");
-document.writeln("			<tr>");
-document.writeln("				<td style=\'text-align:center; background: #FFFFFF;\' width=\'100%\'>");
-document.writeln("				<b><font size=\'5\'>065期</font><font color=\"#FF00FF\">七肖中特 86563.com长期跟踪</font></b></td>");
-document.writeln("			</tr>");
-document.writeln("						<tr>");
-document.writeln("				<td style=\'text-align: center\' bgcolor=\'#FFFFFF\'>");
-document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\' style=\"font-size: 14pt\">(7.)肖特:</font><font color=\'#00CC66\' style=\"font-size: 14pt\">龙蛇<span style='background-color: #FFFF00\'>马</span>羊猴鸡狗</font></b></td>");
-document.writeln("			</tr>");
-document.writeln("			");
-document.writeln("			<tr>");
-document.writeln("				<td style=\'text-align: center\' bgcolor=\'#FFFFFF\'>");
-document.writeln("				<b>");
-document.writeln("				<font color=\'#000080\'>稳赚特码（14码）<BR></font>");
-document.writeln("				<font color=\'#00CC66\' style=\"font-size: 13pt\">26.38.25.37.12.24.35.47.34.46.09.33.08.32</font></b></td>");
-document.writeln("			</tr>					");
-document.writeln("</table> 			");
-document.writeln("<!--结束 -->");
-document.writeln("");
-
-
-
-
-
-
 
 
 
