@@ -1,4 +1,4 @@
-﻿// document.writeln("");
+﻿document.writeln("");
 document.writeln("<style>");
 document.writeln("");
 document.writeln("<!--");
