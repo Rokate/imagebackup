@@ -47,7 +47,16 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("			<td align=\'center\' height=42><b>");
-document.writeln("			<font style=\'font-size: 12pt\'>076期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(兔39-蛇25-狗44-鼠18-牛05-猴34)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开？00</font></b></td>");
+document.writeln("			<font style=\'font-size: 12pt\'>077期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(狗20-鼠42-马24-龙02-虎16-羊23)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开？00</font></b></td>");
+document.writeln("</tr>");
+document.writeln("");
+
+
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("			<td align=\'center\' height=42><b>");
+document.writeln("			<font style=\'font-size: 12pt\'>076期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(<span style='background-color: #FFFF00\'>兔39</span>-蛇25-狗44-鼠18-牛05-猴34)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开兔39</font></b></td>");
 document.writeln("</tr>");
 document.writeln("");
 
