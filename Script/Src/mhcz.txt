@@ -3996,8 +3996,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
-document.writeln("<table border=1 width=100% bgcdocument.writeln("<td style=\'text-align:center\' height=\'63\'>");
-olor=#ffffff><tbody>");
+document.writeln("<td style=\'text-align:center\' height=\'60\'>");
+document.writeln("<table border=1 width=100% bgcolor=#ffffff heigh=\'53\'><tbody>");
 document.writeln("<td style=\'border:10px double #800000; height: 50px;\' bgcolor=#800000><p align=center>");
 document.writeln("<b><font face=\'楷体\' style=\'font-size: 19pt\'><font color=\'#FFFF00\'>澳门马会传真</font><font color=\'#FFFFFF\'>『⑨肖中特』</font></font></b></table>");
 
