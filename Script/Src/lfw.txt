@@ -1724,20 +1724,6 @@ document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 16pt\'>ߡ<br>߻</f
 document.writeln("	</table>");
 
 
-document.writeln("		");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody>");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'\'>");
-document.writeln("	<span style=\'font-size: 13pt\'>103</span></font><span style=\'font-size: 13pt\'><font color=\'#008000\'>ƽͶ</font><font color=\'#800000\'>{00.00.00}</font>׼</span></b><span style=\'font-size: 13pt\'></font></span></td></tr>");
-document.writeln("	<tr>");
-document.writeln("	<td width=100% height=40><p align=center><font face=\'\'><b>");
-document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 16pt\'><br>ߡ</font></b></font></td></tr>");
-document.writeln("	</table>");
-
-
-
-
 
 
 
