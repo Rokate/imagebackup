@@ -231,7 +231,28 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("<!--开始-->");
 document.writeln("");
+document.writeln("<tr>");
+document.writeln("	<td align=\'left\'><b><font face=\'华文中宋\'><font color=\'#FFFFFF\'>");
+document.writeln("	<span style=\'background-color: #008000\'>106期雷锋码报开</span><span style=\'background-color: #800000\'>（？00）</span><span style=\'background-color: #000000\'><br></span></font>");
+document.writeln("	雷锋一句话：<font color=\'#FF0000\'>一个巴掌拍不响</font><br>");
+document.writeln("	四字真言：<font color=\'#FF0000\'>贪蛇忘尾</font><br>");
+document.writeln("	五字波色：<font color=\'#FF0000\'>蓝天配绿地</font><br>");
+document.writeln("	");
+document.writeln("	送平一肖：<font color=\'#FF0000\'>【猪】</font><br>");
+document.writeln("		<font color=\'#FFFFFF\'><span style=\'background-color: #FF0000\'>");
+document.writeln("	解释：</span></font>");
+document.writeln("");
+document.writeln("一个巴掌拍不响【解释】：比喻事情不会是单方面引起的。【出自】：清·曹雪芹《红楼梦》第五十八回：“袭人道：‘一个巴掌拍不响’，老的也太不公些，小的也太可恶些。”解狗虎龙马猴鼠。四字贪蛇忘尾【解释】：【解释】：比喻只图眼前利益而不考虑后果。【出自】：宋·文莹《玉壶清话》：“贪蛇前行，必忘其尾。”解得一肖蛇。 </font></b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
+document.writeln("	综合解特：狗虎龙马猴鼠蛇<br>");
+document.writeln("	主特五肖：狗虎龙马猴<br>");
+document.writeln("	主特四肖：狗虎龙马</font></b></td></b>");
+document.writeln("</font>");
+document.writeln("</font>		</tr>");
+document.writeln("");
+document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -240,10 +261,10 @@ document.writeln("");
 document.writeln("<tr>");
 document.writeln("	<td align=\'left\'><b><font face=\'华文中宋\'><font color=\'#FFFFFF\'>");
 document.writeln("	<span style=\'background-color: #008000\'>105期雷锋码报开</span><span style=\'background-color: #800000\'>（");
-document.writeln("	？00）</span><span style=\'background-color: #000000\'><br></span></font>");
+document.writeln("	龙26）</span><span style=\'background-color: #000000\'><br></span></font>");
 document.writeln("	雷锋一句话：<font color=\'#FF0000\'>人心不足蛇吞象</font><br>");
 document.writeln("	四字真言：<font color=\'#FF0000\'>肥猪拱门</font><br>");
-document.writeln("	五字波色：<font color=\'#FF0000\'>红日配蓝天</font><br>");
+document.writeln("	五字波色：<font color=\'#FF0000\'>红日配<span style=\'background-color: #FFFF00\'>蓝天</span></font><br>");
 document.writeln("	");
 document.writeln("	送平一肖：<font color=\'#FF0000\'>【龙】</font><br>");
 document.writeln("		<font color=\'#FFFFFF\'><span style=\'background-color: #FF0000\'>");
@@ -251,16 +272,16 @@ document.writeln("	解释：</span></font>");
 document.writeln("");
 document.writeln("人心不足蛇吞象【解释】：比喻人贪心不足，就象蛇想吞食大象一样。【出自】：《山海经·海内南经》：“巴蛇食象，三岁而出其骨。”战国楚·屈原《天问》：“一蛇吞象，厥大何如？”解贪心的野兽虎龙兔蛇鼠猴。四字肥猪拱门【解释】：谓自己送物上门，使人意外得财。《儿女英雄传》第五回:“我看你肥猪拱门的这片孝心怪可怜见儿的，给你留个囫圇尸首，给你口药酒儿喝，叫你糊里糊涂的死了就完了事了。”解一肖猪。</font></b><br>");
 document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	综合解特：虎龙兔蛇鼠猴猪<br>");
-document.writeln("	主特五肖：虎龙兔蛇鼠<br>");
-document.writeln("	主特四肖：虎龙兔蛇</font></b></td></b>");
+document.writeln("	综合解特：虎<span style=\'background-color: #FFFF00\'>龙</span>兔蛇鼠猴猪<br>");
+document.writeln("	主特五肖：虎<span style=\'background-color: #FFFF00\'>龙</span>兔蛇鼠<br>");
+document.writeln("	主特四肖：虎<span style=\'background-color: #FFFF00\'>龙</span>兔蛇</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
 document.writeln("		<!--结束-->	");
 document.writeln("");
 document.writeln("");
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
@@ -364,8 +385,8 @@ document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
-
+document.writeln("");
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("</table>");
@@ -492,15 +513,35 @@ document.writeln("		 结束-->	");
 
 
 
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>108期红字暗码：【更新中】</font><font face=\'华文中宋\'><br>");
+document.writeln("	解释：更新中</font></b><br>");
+document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
+document.writeln("	<b>红字解六肖：更新中</b></font></td></b>");
+document.writeln("</font>");
+document.writeln("</font>		</tr>");
+document.writeln("");
 
 
 
 document.writeln("");
 document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>105期红字暗码：【鼓腹含哺08 11 27 46】</font><font face=\'华文中宋\'><br>");
-document.writeln("	解释：是汉语中的一则成语，出自《庄子·马蹄》。这则成语意思是口含食物，手拍肚子；形容太平时代无忧无虑的生活。</font></b><br>");
+document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>107期红字暗码：【更新中】</font><font face=\'华文中宋\'><br>");
+document.writeln("	解释：更新中</font></b><br>");
 document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	<b>红字解六肖：羊猪鸡鼠兔马</b></font></td></b>");
+document.writeln("	<b>红字解六肖：更新中</b></font></td></b>");
+document.writeln("</font>");
+document.writeln("</font>		</tr>");
+document.writeln("");
+
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>106期红字暗码：【藏头露毛02 17 35 41】</font><font face=\'华文中宋\'><br>");
+document.writeln("	解释：藏头露尾是汉语成语，该成语最早出自于元·张可久《点绛唇·翻归去来辞》。藏头露尾的意思是藏起了头，露出了尾，形容说话躲躲闪闪，不把真实情况全部讲出来；该成语在句中作谓语、状语。</font></b><br>");
+document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
+document.writeln("	<b>红字解六肖：龙虎羊鼠猴蛇</b></font></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
@@ -517,84 +558,6 @@ document.writeln("	<b>红字解六肖：猪鸡兔羊<span style=\'background-col
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
-
-
-
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>101期红字暗码：【一本正经04 19 24 33】</font><font face=\'华文中宋\'><br>");
-document.writeln("	解释：原指一部合乎道德规范的经典。后用以形容态度庄重严肃，郑重其事。有时含讽刺意味。出自《抱朴子·百家》。</font></b><br>");
-document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	<b>红字解六肖：猴龙<span style=\'background-color: #FFFF00\'>蛇</span>牛猪狗</b></font></td></b>");
-document.writeln("</font>");
-document.writeln("</font>		</tr>");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>100期红字暗码：【引吭高歌06 21 34 47】</font><font face=\'华文中宋\'><br>");
-document.writeln("	解释：指放开嗓子大声歌唱，亦作“啭喉高歌”，出自《禽经》。</font></b><br>");
-document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	<b>红字解六肖：牛羊<span style=\'background-color: #FFFF00\'>鼠</span>猴龙蛇</b></font></td></b>");
-document.writeln("</font>");
-document.writeln("</font>		</tr>");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>098期红字暗码：【火树银化03 26 31 42】</font><font face=\'华文中宋\'><br>");
-document.writeln("	解释：意思是形容张灯结彩或大放焰火的灿烂夜景。出自《正月十五夜》。近义词:张灯结彩，反义词:黑灯瞎火。</font></b><br>");
-document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	<b>红字解六肖：蛇猪<span style=\'background-color: #FFFF00\'>兔</span>鼠猴鸡</b></font></td></b>");
-document.writeln("</font>");
-document.writeln("</font>		</tr>");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>097期红字暗码：【无出其右07 12 37 46】</font><font face=\'华文中宋\'><br>");
-document.writeln("	解释：最早出自于西汉·司马迁《史记·田叔列传》。无出其右（出：超出；右：上，古代以右为上）指在某方面居领先地位，没有能超过他的。</font></b><br>");
-document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	<b>红字解六肖：<span style=\'background-color: #FFFF00\'>猪</span>蛇鸡兔虎狗</b></font></td></b>");
-document.writeln("</font>");
-document.writeln("</font>		</tr>");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>095期红字暗码：【濠濮间想07 12 33 42】</font><font face=\'华文中宋\'><br>");
-document.writeln("	解释：濠：濠水，在今安徽凤阳县东北。濮：濮水，源出河南封丘县，流入山东境内。想：遐想。意思是指闲适无为、逍遥脱俗的情趣。</font></b><br>");
-document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	<b>红字解六肖：牛<span style=\'background-color: #FFFF00\'>狗</span>龙马鼠鸡</b></font></td></b>");
-document.writeln("</font>");
-document.writeln("</font>		</tr>");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>094期红字暗码：【困兽犹斗06 19 26 37】</font><font face=\'华文中宋\'><br>");
-document.writeln("	解释：是一则汉语成语，出自春秋·左丘明《左传·宣公十二年》。这个成语原意是被围困的野兽，还要挣扎、搏斗，比喻身处绝境仍要拼命抵抗。</font></b><br>");
-document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	<b>红字解六肖：马鼠<span style=\'background-color: #FFFF00\'>鸡</span>猴狗牛</b></font></td></b>");
-document.writeln("</font>");
-document.writeln("</font>		</tr>");
-document.writeln("");
-
 
 
 
@@ -727,9 +690,9 @@ document.writeln("	结束-->");
 
 
 document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\'><font color=\'#FF0000\'>105期管家婆解梦:一条小母蛇</font><br>");
-document.writeln("		解释：一条小母蛇，解女肖羊兔鸡猪蛇</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：羊兔鸡猪蛇</font></b></td></b>");
+document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\'><font color=\'#FF0000\'>106期管家婆解梦:阳湖育鼠蛇</font><br>");
+document.writeln("		解释：阳湖育鼠蛇，解阳肖牛虎兔羊猴鸡</font></b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：牛虎兔羊猴鸡</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 
@@ -988,32 +951,32 @@ document.writeln("						");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=left>");
 document.writeln("	<b><font face=\'宋体\' color=\'#FFFFFF\'>");
-document.writeln("	<span style=\'background-color: #000000\'>105期平特玄机</span></font>:</b><font color=\'#008000\'><b>三九千古五绝唱，称兄弟</b></font></td></tr>");
+document.writeln("	<span style=\'background-color: #000000\'>106期平特玄机</span></font>:</b><font color=\'#008000\'><b>元帅西征平叛乱，不稀奇</b></font></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr><td width=100% height=40><p align=left><b>");
-document.writeln("		<font face=\'宋体\'>推荐解析:</font></b><font color=\'#FF0000\'><b>三九千古五绝唱，03兔，09鸡，05牛</b></font></td></tr>");
+document.writeln("		<font face=\'宋体\'>推荐解析:</font></b><font color=\'#FF0000\'><b>元帅西征平叛乱，解西肖猴鸡狗</b></font></td></tr>");
 document.writeln("");
 document.writeln("<tr><td width=100% height=37><p align=left><b>");
-document.writeln("		<font face=\'宋体\'>平特一肖:</font><font color=\'#FF0000\'>兔兔兔</font><font face=\'宋体\' color=\'#FF0000\'>（</font><font color=\'#FF0000\'>03.15.27</font><font face=\'宋体\' color=\'#FF0000\'>）</font></b></td></tr>");
+document.writeln("		<font face=\'宋体\'>平特一肖:</font></b><font color=\'#FF0000\'><b>猴猴猴</b></font><b><font face=\'宋体\' color=\'#FF0000\'>（</font><font color=\'#FF0000\'>22.34.46</font><font face=\'宋体\' color=\'#FF0000\'>）</font></b></td></tr>");
 document.writeln("		");
 document.writeln("<tr><td width=100% height=47><p align=left><b>");
 document.writeln("		<font face=\'宋体\'>");
-document.writeln("		<font size=\'3\'>平特二连:</font><font color=\'#FF0000\'>（</font></font><font color=\'#FF0000\'>兔鸡</font><font color=\'#FF0000\' face=\'宋体\'>）（</font><font color=\'#FF0000\'>鸡牛</font><font color=\'#FF0000\' face=\'宋体\'>）（</font><font color=\'#FF0000\'>牛龙</font><font color=\'#FF0000\' face=\'宋体\'>）</font></b></td></tr>");
+document.writeln("		<font size=\'3\'>平特二连:</font><font color=\'#FF0000\'>（</font></font></b><font color=\'#FF0000\'><b>猴鸡</b></font><b><font color=\'#FF0000\' face=\'宋体\'>）（</font></b><font color=\'#FF0000\'><b>鸡狗</b></font><b><font color=\'#FF0000\' face=\'宋体\'>）（</font></b><font color=\'#FF0000\'><b>狗马</b></font><b><font color=\'#FF0000\' face=\'宋体\'>）</font></b></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr><td width=100% height=36><p align=left><b>");
-document.writeln("		<font face=\'宋体\'>复式连肖:</font><font color=\'#FF0000\'>兔鸡牛龙</font></b></td></tr>");
+document.writeln("		<font face=\'宋体\'>复式连肖:</font></b><font color=\'#FF0000\'><b>猴鸡狗马</b></font></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr><td width=100% height=40><p align=left><b>");
 document.writeln("		<font size=\'3\'>");
 document.writeln("		<font face=\'宋体\'>");
-document.writeln("		复式连码:</font><font color=\'#FF0000\'>03.15.27.21.33.05.17.02.14</font></font></b></td></tr>");
+document.writeln("		复式连码:</font></font></b><font color=\'#FF0000\'><b>22.34.46.21.33.32.44.12.24</b></font></td></tr>");
 document.writeln("");
 document.writeln(" ");
 document.writeln("<tr><td width=100% height=40 bgcolor=\'#FFFF99\'><p align=\'center\'><b>");
-document.writeln("	<font size=\'2\'>105期开奖结果：00.00.00.00.00.00T00</font></td></tr></table>");
+document.writeln("	<font size=\'2\'>106期开奖结果：00.00.00.00.00.00T00</font></td></tr></table>");
 document.writeln("	");
 document.writeln("											");
 document.writeln("							");
@@ -1073,7 +1036,7 @@ document.writeln("	结束-->");
 document.writeln("	");
 document.writeln("");
 document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'69\'><b><font color=\'#FF0000\' face=\'华文中宋\'>108期藏宝图曾道人玄机：更新中");
+document.writeln("	<td align=\'left\' height=\'69\'><b><font color=\'#FF0000\' face=\'华文中宋\'>109期藏宝图曾道人玄机：更新中");
 document.writeln("	</font><br>");
 document.writeln("	解释：更新中</b><br>");
 document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>解特肖：更新中</font></b></td></b>");
@@ -1081,6 +1044,18 @@ document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
 
+
+
+document.writeln("	");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("	<td align=\'left\' height=\'69\'><b><font color=\'#FF0000\' face=\'华文中宋\'>108期藏宝图曾道人玄机：更新中");
+document.writeln("	</font><br>");
+document.writeln("	解释：更新中</b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>解特肖：更新中</font></b></td></b>");
+document.writeln("</font>");
+document.writeln("</font>		</tr>");
+document.writeln("");
 
 
 document.writeln("	");
@@ -1094,25 +1069,13 @@ document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
 
-
 document.writeln("	");
 document.writeln("");
 document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'69\'><b><font color=\'#FF0000\' face=\'华文中宋\'>106期藏宝图曾道人玄机：更新中");
+document.writeln("	<td align=\'left\' height=\'69\'><b><font color=\'#FF0000\' face=\'华文中宋\'>106期藏宝图曾道人玄机：看好特码你有缘");
 document.writeln("	</font><br>");
-document.writeln("	解释：更新中</b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>解特肖：更新中</font></b></td></b>");
-document.writeln("</font>");
-document.writeln("</font>		</tr>");
-document.writeln("");
-
-document.writeln("	");
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'69\'><b><font color=\'#FF0000\' face=\'华文中宋\'>105期藏宝图曾道人玄机：金土送出中特码");
-document.writeln("	</font><br>");
-document.writeln("	解释：金土送出中特码，金土送出，金土肖猴鸡牛龙羊狗</b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>解特肖：猴鸡牛龙羊狗</font></b></td></b>");
+document.writeln("	解释：看好特码你有缘，解蛇狗虎鸡鼠牛</b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>解特肖：蛇狗虎鸡鼠牛</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
@@ -1772,68 +1735,48 @@ document.writeln("	结束-->	");
 
 
 
-
-
-
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>");
-document.writeln("	105期澳门正版蛇蛋图：贪污!<br>");
-document.writeln("	</font><font face=\'华文中宋\'>解释：贪污，解丑肖虎狗牛猪猴鼠</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：虎狗牛猪猴鼠</font></b></td></b>");
+document.writeln("	109期澳门正版蛇蛋图：更新中<br>");
+document.writeln("	</font><font face=\'华文中宋\'>解释：更新中</font></b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：更新中</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
 
 
-
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>");
-document.writeln("	102期澳门正版蛇蛋图：许可证<br>");
-document.writeln("	</font><font face=\'华文中宋\'>解释：许可证，解吉肖龙马羊兔鸡蛇</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：<span style=\'background-color: #FFFF00\'>龙</span>马羊兔鸡蛇</font></b></td></b>");
+document.writeln("	108期澳门正版蛇蛋图：更新中<br>");
+document.writeln("	</font><font face=\'华文中宋\'>解释：更新中</font></b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：更新中</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
 
 
-
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>");
-document.writeln("	101期澳门正版蛇蛋图：托举<br>");
-document.writeln("	</font><font face=\'华文中宋\'>解释：托举，解地肖鼠虎狗鸡羊蛇</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：鼠虎狗鸡羊<span style=\'background-color: #FFFF00\'>蛇</span></font></b></td></b>");
+document.writeln("	107期澳门正版蛇蛋图：更新中<br>");
+document.writeln("	</font><font face=\'华文中宋\'>解释：更新中</font></b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：更新中</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
 
 
-
-
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>");
-document.writeln("	100期澳门正版蛇蛋图：白条<br>");
-document.writeln("	</font><font face=\'华文中宋\'>解释：白条，解白肖鼠虎牛鸡狗猪</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：<span style=\'background-color: #FFFF00\'>鼠</span>虎牛鸡狗猪</font></b></td></b>");
+document.writeln("	106期澳门正版蛇蛋图：白猫<br>");
+document.writeln("	</font><font face=\'华文中宋\'>解释：白猫，解白肖鼠虎牛鸡狗猪</font></b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：鼠虎牛鸡狗猪</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>");
-document.writeln("	099期澳门正版蛇蛋图：骆驼<br>");
-document.writeln("	</font><font face=\'华文中宋\'>解释：骆驼，解家禽牛鸡猪狗马羊</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：牛鸡猪<span style=\'background-color: #FFFF00\'>狗</span>马羊</font></b></td></b>");
-document.writeln("</font>");
-document.writeln("</font>		</tr>");
-document.writeln("");
-
 
 
 
@@ -2364,9 +2307,9 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>106期今日闲情暗语：更新中<br>");
-document.writeln("	</font><font face=\'华文中宋\'>解释：更新中</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合取肖：更新中</font></b></td></b>");
+document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>106期今日闲情暗语：饭碗<br>");
+document.writeln("	</font><font face=\'华文中宋\'>解释：饭碗，解地肖虎狗鸡羊蛇鼠</font></b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合取肖：虎狗鸡羊蛇鼠</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
@@ -2377,7 +2320,7 @@ document.writeln("");
 document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>105期今日闲情暗语：创业<br>");
 document.writeln("	</font><font face=\'华文中宋\'>解释：创业，解美肖鸡龙马蛇羊兔</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合取肖：鸡龙马蛇羊兔</font></b></td></b>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合取肖：鸡<span style=\'background-color: #FFFF00\'>龙</span>马蛇羊兔</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
@@ -2537,7 +2480,7 @@ document.writeln("<tr>");
 document.writeln("		<td class=\'center f13 black l150\' style=\'border-color: #D0FFFF; \' align=\'center\' bgcolor=#FFFFFF>");
 document.writeln("		  ");
 document.writeln("         	<b>");
-document.writeln("         <font color=\'#008000\' face=\'黑体\' size=\'4\'>以下统计至2020-067-2025-105期（错402）</font></b></td>");
+document.writeln("         <font color=\'#008000\' face=\'黑体\' size=\'4\'>以下统计至2020-067-2025-106期（错402）</font></b></td>");
 document.writeln("	</tr></table>");
 document.writeln("	");
 document.writeln("	<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' style=\'border: 1px solid #E70012;\' height=\'36\'>	");
@@ -2545,7 +2488,7 @@ document.writeln("<tr>");
 document.writeln("		<td class=\'center f13 black l150\' style=\'border-color: #D0FFFF; \' align=\'center\' bgcolor=#FFFFFF>");
 document.writeln("		  ");
 document.writeln("         	<b><font color=\'#000000\' face=\'黑体\'>");
-document.writeln("			<span style=\'background-color: #FFFF00\'>105上期开鼠:</span></font><span style=\'background-color: #FFFF00\'><font face=\'黑体\' size=\'4\'><font color=\'#FF0000\'>羊牛虎猪鸡龙狗兔鼠</font><font color=\'#0000FF\'>(错35)</font></font></span><span style=\'background-color: #FFFFFF\'> ");
+document.writeln("			<span style=\'background-color: #FFFFFF\'>上期开鼠:</span></font><span style=\'background-color: #FFFFFF\'><font face=\'黑体\' size=\'4\'><font color=\'#FF0000\'>羊牛虎猪鸡龙狗兔鼠</font><font color=\'#0000FF\'>(错35)</font></font> ");
 document.writeln("			</font> ");
 document.writeln("			</span> ");
 document.writeln("			</b> </td>");
@@ -2585,7 +2528,7 @@ document.writeln("<tr>");
 document.writeln("		<td class=\'center f13 black l150\' style=\'border-color: #D0FFFF; \' align=\'center\' bgcolor=#FFFFFF>");
 document.writeln("		  ");
 document.writeln("         	<b><font color=\'#000000\' face=\'黑体\'>");
-document.writeln("			<span style=\'background-color: #FFFFFF\'>上期开龙:</span></font><span style=\'background-color: #FFFFFF\'><font face=\'黑体\' size=\'4\'><font color=\'#FF0000\'>龙兔虎羊蛇猴马牛狗</font><font color=\'#0000FF\'>(错40)</font></font> ");
+document.writeln("			<span style=\'background-color: #FFFF00\'>106上期开龙:</span></font><span style=\'background-color: #FFFF00\'><font face=\'黑体\' size=\'4\'><font color=\'#FF0000\'>龙兔虎羊蛇猴马牛狗</font><font color=\'#0000FF\'>(错40)</font></font> ");
 document.writeln("			</font> ");
 document.writeln("			</span> ");
 document.writeln("			</b> </td>");
