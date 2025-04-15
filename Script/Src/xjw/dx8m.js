@@ -250,34 +250,6 @@ document.writeln("	");
 
 
 
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("089期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开龙14准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>小数</span>++26.28.30.42.46.48.44.34</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("088期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开兔15准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>小数</span>+41.42.48.45.49.46.43.33</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
 
 
 

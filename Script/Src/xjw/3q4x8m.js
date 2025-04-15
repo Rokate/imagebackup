@@ -57,7 +57,7 @@ document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' widt
 document.writeln("		<b><font face=\'微软雅黑\'>105期</font></b></td>");
 document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowspan=\'3\'>");
 document.writeln("		<strong>");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'><span style='background-color: #FFFF00\'>猪牛龙<span style='background-color: #FFFF00\'>狗</span></span><br>");
+document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>猪牛龙<span style='background-color: #FFFF00\'>狗</span></span><br>");
 document.writeln("		</font>");
 document.writeln("		<font face=\'微软雅黑\' color=\'#FF0000\' size=\"4\">（07.19.05.17.02.26.20.<span style='background-color: #FFFF00\'>32</span></span>）</td>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
