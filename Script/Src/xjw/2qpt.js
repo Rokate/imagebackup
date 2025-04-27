@@ -111,4 +111,10 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
-document.writeln("		</table
+document.writeln("		</table>");
+document.writeln("		");
+document.writeln("<!----结束----> ");
+document.writeln("	");
+document.writeln("");
+document.writeln("		");
+document.writeln("</body>");
