@@ -29,7 +29,7 @@ document.writeln("</style>");
 document.writeln("");
 document.writeln("<body>");
 document.writeln("  ");
-document.writeln("<img src=\"https://amo.yaoan-learn.com:4949/col/124/amzy.jpg\" alt=\"\" width=\"100%\">");
+document.writeln("<img src=\"https://amo.yaoan-learn.com:4949/col/125/amzy.jpg\" alt=\"\" width=\"100%\">");
 document.writeln("");
 document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
@@ -58,10 +58,33 @@ document.writeln("");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		<font color=\"#0000FF\">124期【玄机特码诗】猜透必中开（？00）</font><br>");
-document.writeln("①解特九肖：马鼠龙羊蛇猴牛狗虎<br>");
+document.writeln("		<font color=\"#0000FF\">125期【玄机特码诗】猜透必中开（？00）</font><br>");
+document.writeln("①解特九肖：猴猪马牛鸡虎蛇狗龙<br>");
+document.writeln("②解特五肖：猴猪马牛鸡<br>");
+document.writeln("③解特18码：10.22.31.43.12.36.05.17.21.33.04.16.13.25.20.32.14.26</b></font></p></td>");
+document.writeln("    </tr>     ");
+document.writeln("     <!--结束-->");
+document.writeln("	");
+document.writeln("");
+
+
+
+
+
+
+
+document.writeln("  <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=38 >");
+document.writeln("		<p align=\'left\'>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<b>");
+document.writeln("");
+document.writeln("		<font color=\"#0000FF\">124期【玄机特码诗】猜透必中开（猴10）</font><br>");
+document.writeln("①解特九肖：马鼠龙羊蛇<span style='background-color: #FFFF00\'>猴</span>牛狗虎<br>");
 document.writeln("②解特五肖：马鼠龙羊蛇<br>");
-document.writeln("③解特18码：12.36.30.42.14.26.11.23.13.25.10.22.05.17.20.32.04.16</b></font></p></td>");
+document.writeln("③解特18码：12.36.30.42.14.26.11.23.13.25.<span style='background-color: #FFFF00\'>10</span>.22.05.17.20.32.04.16</b></font></p></td>");
 document.writeln("    </tr>     ");
 document.writeln("     <!--结束-->");
 document.writeln("	");
