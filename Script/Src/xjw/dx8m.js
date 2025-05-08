@@ -43,202 +43,39 @@ document.writeln("");
 document.writeln("");
 
 
-
-
 document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("128期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开？00准</font><br>");
+document.writeln("131期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开中00准</font><br>");
 document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("大数+21.11.01.07.03.05.06.04</span></font></td>");
+document.writeln("中中+00.00.00.00.000.00.00.00</span></font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 document.writeln("	");
 
 
 
-
-
-
 document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("126期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开龙02准</font><br>");
+document.writeln("130期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开中00准</font><br>");
 document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>小数</span>++36.38.30.42.46.48.44.34</span></font></td>");
+document.writeln("中中+00.00.00.00.000.00.00.00</span></font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 document.writeln("	");
 
 
 
-
-
-
 document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("125期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开蛇49准</font><br>");
+document.writeln("129期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开？00准</font><br>");
 document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>大数</span>+01.02.08.05.19.16.13.11</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("124期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开猴10准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>小数</span>+31.35.39.37.41.46.49.47</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("123期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开鸡45准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>大数</span>+01.02.05.07.12.15.14.19</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("122期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开鸡33准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("小数+28.30.<span style='background-color: #FFFF00\'>33</span>.35.42.44.46.48</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("121期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开马24准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>小数</span>+38.39.40.41.42.43.44.46</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("119期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开龙38准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>大数</span>+02.07.08.09.11.13.19.22</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("118期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开马36准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>大数</span>+03.05.08.11.13.14.15.18</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("117期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开羊47准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>大数</span>+01.03.05.06.12.15.17.19</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("116期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开羊23准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("大数+02.14.15.16.20.<span style='background-color: #FFFF00\'>23</span>.24.25</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("114期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开龙38准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("小数+31.32.34.36.<span style='background-color: #FFFF00\'>38</span>.39.41.45</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("113期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开猴46准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>大数</span>+01.03.05.07.11.13.15.17</span></font></td>");
+document.writeln("大数+21.23.05.07.11.13.15.17</span></font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 document.writeln("	");
