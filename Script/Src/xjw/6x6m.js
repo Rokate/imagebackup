@@ -41,31 +41,30 @@ document.writeln("		");
 document.writeln("");
 
 
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("			<td align=\'center\' height=42><b>");
-document.writeln("			<font style=\'font-size: 12pt\'>130期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(中00-中00-中00-中00-中00-中00)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开中00</font></b></td>");
-document.writeln("</tr>");
-document.writeln("");
 
 
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("			<td align=\'center\' height=42><b>");
-document.writeln("			<font style=\'font-size: 12pt\'>129期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(猪07-马48-猴34-蛇25-龙28-牛05)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开？00</font></b></td>");
+document.writeln("			<font style=\'font-size: 12pt\'>132期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(中00-中00-中00-中00-中00-中00)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开中00</font></b></td>");
 document.writeln("</tr>");
 document.writeln("");
 
 
 
-
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("			<td align=\'center\' height=42><b>");
+document.writeln("			<font style=\'font-size: 12pt\'>131期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(中00-中00-中00-中00-中00-中00)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开中00</font></b></td>");
+document.writeln("</tr>");
+document.writeln("");
 
 
 
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("			<td align=\'center\' height=42><b>");
-document.writeln("			<font style=\'font-size: 12pt\'>127期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(狗20-<span style='background-color: #FFFF00\'>蛇</span>25-鼠30-虎04-牛05-马12)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开蛇49</font></b></td>");
+document.writeln("			<font style=\'font-size: 12pt\'>130期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(猪07-鸡45-马48-蛇13-鸡45-狗20)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开？00</font></b></td>");
 document.writeln("</tr>");
 document.writeln("");
 
