@@ -43,13 +43,15 @@ document.writeln("");
 document.writeln("");
 
 
+
+
 document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("131期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开中00准</font><br>");
+document.writeln("131期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开？00准</font><br>");
 document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("中中+00.00.00.00.000.00.00.00</span></font></td>");
+document.writeln("大数+01.02.03.04.11.22.15.17</span></font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 document.writeln("	");
@@ -59,13 +61,15 @@ document.writeln("	");
 
 
 
+
+
 document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("130期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开？00准</font><br>");
+document.writeln("130期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开羊23准</font><br>");
 document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("小数+31.42.34.26.28.29.41.45</span></font></td>");
+document.writeln("<span style='background-color: #FFFF00\'>小数</span>+31.42.34.26.28.29.41.45</span></font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 document.writeln("	");
