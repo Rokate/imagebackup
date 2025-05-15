@@ -48,89 +48,84 @@ document.writeln("");
 
 
 
-
-
-
-
-
 document.writeln("");
 document.writeln(" <!----开始---->");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'99%\' colspan=\'3\' bgcolor=\'#D4D4D4\'>");
 document.writeln("		<p align=\"center\"><font face=\'Arial Black\' size=\'4\' color=\'#000000\'> ");
-document.writeln("		135期A级大公开;准确率100%!</font></td> ");
+document.writeln("		136期A级大公开;准确率100%!</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		135期一码</font></td> ");
-document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\"><font size=\'4\' color=\'#0000FF\'>重拳出击-</font><b><font color=\'#FF0000\' face=\'Arial\' size=\"5\">06</font></b><font size=\'4\' color=\'#0000FF\'>-信心十足</font></td> ");
+document.writeln("		136期一码</font></td> ");
+document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\"><font size=\'4\' color=\'#0000FF\'>重拳出击-</font><b><font color=\'#FF0000\' face=\'Arial\' size=\"5\">16</font></b><font size=\'4\' color=\'#0000FF\'>-信心十足</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:？00</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		135期三码</font></td> ");
+document.writeln("		136期三码</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'>");
-document.writeln("		06.18.41</font></td> ");
+document.writeln("		16.40.19</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:？00</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		135期06码</font></td> ");
+document.writeln("		136期06码</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
-document.writeln("		06.18.41.17.04.40</font></td> ");
+document.writeln("		16.40.19.43.47.23</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:？00</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		135期18码</font></td> ");
+document.writeln("		136期18码</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\"> ");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'>");
-document.writeln("		06.18.41.17.04.40.45.33.44<br>");
-document.writeln("		32.43.19.36.48.35.47.10.34</font></td> ");
+document.writeln("		16.40.19.43.47.23.34.22.06<br>");
+document.writeln("		42.15.39.14.02.09.33.20.32</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:？00</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("        <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		135期一肖</font></td> ");
+document.writeln("		136期一肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\"><b>");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' size=\"5\"> ");
-document.writeln("		鼠</font></b></td> ");
+document.writeln("		虎</font></b></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:？00</font></td> ");
 document.writeln("    </tr>");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		135期三肖</font></td> ");
+document.writeln("		136期三肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
-document.writeln("		鼠牛虎</font></td> ");
+document.writeln("		虎猪羊</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:？00</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		135期五肖</font></td> ");
+document.writeln("		136期五肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
-document.writeln("		鼠牛虎鸡狗</font></td> ");
+document.writeln("		虎猪羊猴鼠</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:？00</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("    ");
 document.writeln("        <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		135期七肖</font></td> ");
+document.writeln("		136期七肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
-document.writeln("		鼠牛虎鸡狗猪马</font></td> ");
+document.writeln("		虎猪羊猴鼠兔龙</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:？00</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("    ");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		135期九肖</font></td> ");
+document.writeln("		136期九肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
-document.writeln("		鼠牛虎鸡狗猪马羊猴</font></td> ");
+document.writeln("		虎猪羊猴鼠兔龙鸡狗</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:？00</font></td> ");
 document.writeln("    </tr> ");
 document.writeln(" ");
@@ -141,6 +136,7 @@ document.writeln("    </tr> ");
 document.writeln("<!----结束---->    ");
 document.writeln("   ");
 document.writeln("   ");
+
 
 
 
