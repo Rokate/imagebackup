@@ -41,7 +41,8 @@ async def main(a, b, c, d):
         #[f"http://123186a.com/gsbtu/baoma{qishu}.jpg", "a-baoma.jpg"],
         [f"https://www.752626.com/img/sxlm{qishu}.jpg", "a-baoma.jpg"],
         [f"http://123186a.com/gsbtu/hdjr{qishu}.jpg", "a-hdjr.jpg"],
-        [f"https://file-enc-hw.pcxfrdh.com/galleryfiles/system/amlhc/col/2025/{qish}/lmkz.jpg", "a-jl3x.jpg"],
+        #[f"https://file-enc-hw.pcxfrdh.com/galleryfiles/system/amlhc/col/2025/{qish}/lmkz.jpg", "a-jl3x.jpg"],
+        [f"https://file-cf.114tu.com/galleryfiles/system/amlhc/col/2025/{qish}/lmkz.jpg", "a-jl3x.jpg"],
         ["https://www.353583.com/tutu/ujcc.jpg", "a-ujcc.jpg"],
         [f"https://www.29761b.com/img/djpt{qishu}.jpg", "a-djpt.jpg"],
         [f"https://69760b.com/img/1xzt{qishu}.jpg", "a-1xzt.jpg"],
@@ -72,6 +73,8 @@ async def main(a, b, c, d):
         [f"https://tk.{urld}/col/{qs}/b008.jpg", "x-b008.jpg"],
         [f"https://tk.{urld}/col/{qs}/j11.jpg", "x-j11.jpg"],
         [f"https://tk.{urld}/col/{qs}/qlb.jpg", "x-qlb.jpg"],
+        [f"https://file-cf.114tu.com/galleryfiles/system/xglhc/col/2025/{qs}/lmkz1.jpg", "x-lmkz.jpg"],
+        
 
     ]
     #[f"https://69760b.com/img/jl3x{qishu}.jpg", "a-jl3x.jpg"]
