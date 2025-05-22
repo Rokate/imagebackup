@@ -29,7 +29,7 @@ document.writeln("</style>");
 document.writeln("");
 document.writeln("<body>");
 document.writeln("  ");
-document.writeln("<img src=\"https://amo.yaoan-learn.com:4949/col/142/amzy.jpg\" alt=\"\" width=\"100%\">");
+document.writeln("<img src=\"https://amo.yaoan-learn.com:4949/col/143/amzy.jpg\" alt=\"\" width=\"100%\">");
 document.writeln("");
 document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
@@ -48,7 +48,6 @@ document.writeln("");
 
 
 
-
 document.writeln("  <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=38 >");
@@ -57,15 +56,17 @@ document.writeln("");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		<font color=\"#0000FF\">142期【玄机特码诗】猜透必中开（？00）</font><br>");
-document.writeln("①解特九肖：牛鸡蛇马猪羊龙鼠兔<br>");
-document.writeln("②解特五肖：牛鸡蛇马猪<br>");
-document.writeln("③解特18码：05.17.21.33.13.25.12.36.31.43.11.23.14.26.30.42.15.27</b></font></p></td>");
+document.writeln("		<font color=\"#0000FF\">143期【玄机特码诗】猜透必中开（？00）</font><br>");
+document.writeln("①解特九肖：兔马鼠鸡猴牛虎龙蛇 <br>");
+document.writeln("②解特五肖：兔马鼠鸡猴<br>");
+document.writeln("③解特18码：15.27.24.36.18.30.21.33.34.46.17.29.04.16.26.38.01.13</b></font></p></td>");
 document.writeln("    </tr>     ");
 document.writeln("     <!--结束-->");
 document.writeln("	");
 document.writeln("	");
-document.writeln("");
+
+
+
 
 
 
