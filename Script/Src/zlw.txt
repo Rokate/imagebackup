@@ -17,12 +17,16 @@ document.writeln("			<a target=\'_blank\' href=\'https://x2.xn--3dcs9bto1bp5c8a.
 document.writeln("");
 document.writeln("");
 
-
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("149期</font><font color=\'#FF0000\' size=\"5\">（猴虎马+8795尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("		<!--结束-->");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("148期</font><font color=\'#FF0000\' size=\"5\">（蛇鸡羊+5271尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("148期</font><font color=\'#FF0000\' size=\"5\">（蛇鸡羊+5<span style=\'background-color: #FFFF00\'>2</span>71尾）</font><font size=\'4\'>开龙02</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 document.writeln("<!--开始-->");
@@ -367,12 +371,28 @@ document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（准准准！�
 document.writeln("	<div class=\'bizhong555-box\'>");
 document.writeln("    	<div class=\'bizhong555-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">148期必中18码：</font><font color=\'#FF0000\' size=\'2\'>09.29.39.13.23.43.11.21.31.26.36.46.07.17.27.02.32.42</font></li>");
-document.writeln("            	<li>148期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">09.29.39.13.23.43.11.21.31.26.36.46</font></li>");
-document.writeln("            	<li>148期必中六码：<font color=\'#FF0000\' size=\'4\'>09.29.39.13.23.43</font></li>");
-document.writeln("            	<li>148期必中①码：<font color=\'#FF0000\' size=\'5\'>（9尾-09.29.39）</font></li>");
+document.writeln(" 	            <li><font size=\"2\">149期必中18码：</font><font color=\'#FF0000\' size=\'2\'>12.22.32.20.30.40.27.37.47.09.29.49.06.26.36.05.35.45</font></li>");
+document.writeln("            	<li>149期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">12.22.32.20.30.40.27.37.47.09.29.49</font></li>");
+document.writeln("            	<li>149期必中六码：<font color=\'#FF0000\' size=\'4\'>12.22.32.20.30.40</font></li>");
+document.writeln("            	<li>149期必中①码：<font color=\'#FF0000\' size=\'5\'>（2尾-12.22.32）</font></li>");
+document.writeln("            	<li>149期必中三尾：<font color=\'#FF0000\' size=\'4\'>2-0-7</font></li>");
+document.writeln("            	<li>149期必中六尾：<font color=\'#FF0000\' size=\'4\'>2-0-7-9-6-5</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong555\'>");
+document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（准准准！）一尾一码</div>");
+document.writeln("	<div class=\'bizhong555-box\'>");
+document.writeln("    	<div class=\'bizhong555-l\'>");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">148期必中18码：</font><font color=\'#FF0000\' size=\'2\'>09.29.39.13.23.43.11.21.31.26.36.46.07.17.27.<span style=\'background-color: #FFFF00\'>【02】</span>.32.42</font></li>");
+
 document.writeln("            	<li>148期必中三尾：<font color=\'#FF0000\' size=\'4\'>9-3-1</font></li>");
-document.writeln("            	<li>148期必中六尾：<font color=\'#FF0000\' size=\'4\'>9-3-1-6-7-2</font></li>");
+document.writeln("            	<li>148期必中六尾：<font color=\'#FF0000\' size=\'4\'>9-3-1-6-7-<span style=\'background-color: #FFFF00\'>【2】</span></font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
