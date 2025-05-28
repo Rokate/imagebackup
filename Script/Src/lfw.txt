@@ -1355,15 +1355,13 @@ document.writeln("</tr>");
 document.writeln("");
 document.writeln("		 结束-->	");
 document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
+
+
+
+
+
+
+
 document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
@@ -1372,35 +1370,26 @@ document.writeln("	解释：打仗的时候，先用强大的声势来挫伤敌�
 document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
 document.writeln("	<b>红字解六肖：马兔蛇狗龙猴</b></font></td></b>");
 document.writeln("</tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
+
+
+
+
 document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>147期红字暗码：【南柯一梦02 16 23 46】</font><font face=\'华文中宋\'><br>");
-document.writeln("	解释：意为南面的一棵大树，也就是梦中的\'南柯郡\'。取自成语南柯一梦 </font></b><br>");
+document.writeln("	解释：意为南面的一棵大树，也就是梦中的南柯郡。取自成语南柯一梦 </font></b><br>");
 document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
 document.writeln("	<b>红字解六肖：鸡猪猴羊蛇<span style=\'background-color: #FFFF00\'>狗</span></b></font></td></b>");
 document.writeln("</tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
+
+
 document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>145期红字暗码：【乘高决水07 13 26 35】</font><font face=\'华文中宋\'><br>");
 document.writeln("	解释：意思是凭借地势居高临下，决口放水；比喻费力小，收效大。出自《言为治所先上殿札子》。</font></b><br>");
 document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
 document.writeln("	<b>红字解六肖：鼠兔<span style=\'background-color: #FFFF00\'>牛</span>龙鸡猪</b></font></td></b>");
 document.writeln("</tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
+
+
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>141期红字暗码：【力大无穷06 11 20 33】</font><font face=\'华文中宋\'><br>");
@@ -1740,7 +1729,7 @@ document.writeln("</font>		</tr>");
 document.writeln("");
 document.writeln("</table>					");
 document.writeln("		");
-document.writeln("　</body>");
+document.writeln("</body>");
 document.writeln("</html>");</script></div><div><script type="text/javascript" charset="gb2312">﻿document.writeln("<!doctype html>");
 document.writeln("<html>");
 document.writeln("<head>");
