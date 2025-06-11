@@ -43,13 +43,11 @@ document.writeln("");
 
 
 
-
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("			<td align=\'center\' height=42><b>");
-document.writeln("			<font style=\'font-size: 12pt\'>162期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(兔27-狗32-猴34-牛29-虎40-鼠30)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开？00</font></b></td>");
+document.writeln("			<font style=\'font-size: 12pt\'>163期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(狗32-牛23-鸡21-虎28-猴34-羊11)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开？00</font></b></td>");
 document.writeln("</tr>");
-document.writeln("");
 
 
 
