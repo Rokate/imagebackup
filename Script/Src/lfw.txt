@@ -2913,18 +2913,9 @@ document.writeln("	结束-->");
 
 
 document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\'><font color=\'#FF0000\'>169期管家婆解梦:邻家三姐妹</font><br>");
-document.writeln("		解释：邻家三姐妹，解女肖羊兔鸡猪蛇</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：羊兔鸡猪蛇</font></b></td></b>");
-document.writeln("</font>");
-document.writeln("</font>		</tr>");
-
-
-
-document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\'><font color=\'#FF0000\'>168期管家婆解梦:虎狗闯东南</font><br>");
 document.writeln("		解释：虎狗闯东南，解东南肖兔虎龙蛇马羊</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：兔<span style=\'background-color: #FFFF00\'>虎</span>龙蛇马羊</font></b></td></b>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：兔虎龙蛇马羊</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 
