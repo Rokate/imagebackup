@@ -29,7 +29,7 @@ document.writeln("</style>");
 document.writeln("");
 document.writeln("<body>");
 document.writeln("  ");
-document.writeln("<img src=\"https://amo.sanyiyuntong.com:4949/col/173/amzy.jpg\" alt=\"\" width=\"100%\">");
+document.writeln("<img src=\"https://amo.sanyiyuntong.com:4949/col/174/amzy.jpg\" alt=\"\" width=\"100%\">");
 document.writeln("");
 document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
@@ -56,8 +56,30 @@ document.writeln("");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		<font color=\"#0000FF\">173期【玄机特码诗】猜透必中开（？00）</font><br>");
-document.writeln("①解特九肖：蛇狗羊兔牛鸡猪龙马<br>");
+document.writeln("		<font color=\"#0000FF\">174期【玄机特码诗】猜透必中开（？00）</font><br>");
+document.writeln("①解特九肖：蛇兔鸡牛虎鼠羊猴狗<br>");
+document.writeln("②解特五肖：蛇兔鸡牛虎<br>");
+document.writeln("③解特18码：25.37.15.39.21.33.29.17.40.28.06.42.11.47.22.46.08.44</b></font></p></td>");
+document.writeln("    </tr>     ");
+document.writeln("     <!--结束-->");
+document.writeln("	");
+document.writeln("	");
+document.writeln("");
+
+
+
+
+
+document.writeln("  <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=38 >");
+document.writeln("		<p align=\'left\'>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<b>");
+document.writeln("");
+document.writeln("		<font color=\"#0000FF\">173期【玄机特码诗】猜透必中开（龙38）</font><br>");
+document.writeln("①解特九肖：蛇狗羊兔牛鸡猪<span style='background-color: #FFFF00\'>龙</span>马<br>");
 document.writeln("②解特五肖：蛇狗羊兔牛<br>");
 document.writeln("③解特18码：01.13.20.32.35.47.27.39.05.17.33.45.19.31.04.16.24.36</b></font></p></td>");
 document.writeln("    </tr>     ");
