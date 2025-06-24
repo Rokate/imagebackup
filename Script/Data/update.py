@@ -55,5 +55,5 @@ for ltl in LotterytypeList:
     print(f"已获取Type：{ltl}")
     
     # 将结果保存到一个文本文件中
-    with open(f"{ltl}-2025results.txt", "w", encoding="utf-8") as file:
+    with open(f"./Script/Data/{ltl}-2025results.txt", "w", encoding="utf-8") as file:
         file.write(result_json)
