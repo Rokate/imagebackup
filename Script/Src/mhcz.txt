@@ -1846,33 +1846,14 @@ document.writeln("    <!--结束-->  ");
 document.writeln("    <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=40 align=\'center\' ><b><font color=\'#0000FF\' face=\'微软雅黑\' size=\'4\'>");
-document.writeln("		174期:</font><font color=\'#FF00FF\' face=\'微软雅黑\' size=\'4\'>&#9755;主四肖博八码&#9754;</font><font color=\'#0000FF\' face=\'微软雅黑\' size=\'4\'>(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
+document.writeln("		175期:</font><font color=\'#FF00FF\' face=\'微软雅黑\' size=\'4\'>&#9755;主四肖博八码&#9754;</font><font color=\'#0000FF\' face=\'微软雅黑\' size=\'4\'>(？00)中</font><font face=\'隶书\' size=\'5\' color=\'#000000\'><br>");
 document.writeln("		</font>  ");
 document.writeln("		<font face=\'华文楷体\' size=\'5\'>");
-document.writeln("		特肖：小肖（猴鼠兔龙鸡蛇）<br>	");
-document.writeln("				主四肖：猴鼠兔龙<br>			");
-document.writeln("        <span style=\'font-weight: 400\'>博8码：10.22.30.42.03.15.02.38</span></font></b></td>");
+document.writeln("		特肖：大肖（牛虎马羊狗猪）<br>	");
+document.writeln("				主四肖：马羊猪牛<br>			");
+document.writeln("        <span style=\'font-weight: 400\'>博8码：24.36.11.35.07.31.29.41</span></font></b></td>");
 document.writeln("    </tr>      ");
 document.writeln("    <!--结束--> ");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2201,7 +2182,7 @@ document.writeln("	<font face=\'楷体\' style=\'font-size: 16pt\'>174期<font c
 document.writeln("	</font><font face=\'方正粗黑宋简体\'><font color=\'#FF0000\' style=\'font-size: 16pt\'>");
 document.writeln("	杀一肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>虎</font>");
 document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>杀二肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>虎蛇</font>");
-document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>杀三肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>虎蛇猴</font>");
+document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>杀三肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>虎蛇<span style=\'background-color: #FFFF00\'>猴</span></font>");
 document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>");
 document.writeln("	杀平特1尾：</font><font color=\'#008000\'><span style=\'font-size: 16pt\'><span style=\'background-color: #FFFF00\'>四四四</span></span></font></font></b></font></table>");
 document.writeln("	<!--结束-->");
@@ -2309,136 +2290,7 @@ document.writeln("	<!--结束-->");
 
 
 document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 16pt\'>166期<font color=\'#0000FF\'>杀</font></font><font color=\'#FF00FF\' style=\'font-size: 16pt\'>平特</font><font face=\'楷体\' style=\'font-size: 16pt\'><font color=\'#0000FF\'>（3肖/2肖/1肖/1尾）</font></span><br>");
-document.writeln("	</font><font face=\'方正粗黑宋简体\'><font color=\'#FF0000\' style=\'font-size: 16pt\'>");
-document.writeln("	杀一肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>马</font>");
-document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>杀二肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>马<span style=\'background-color: #FFFF00\'>龙</span></font>");
-document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>杀三肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>马<span style=\'background-color: #FFFF00\'>龙</span>猴</font>");
-document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>");
-document.writeln("	杀平特1尾：</font><font color=\'#008000\'><span style=\'font-size: 16pt\'><span style=\'background-color: #FFFF00\'>二二二</span></span></font></font></b></font></table>");
-document.writeln("	<!--结束-->");
-
-
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 16pt\'>165期<font color=\'#0000FF\'>杀</font></font><font color=\'#FF00FF\' style=\'font-size: 16pt\'>平特</font><font face=\'楷体\' style=\'font-size: 16pt\'><font color=\'#0000FF\'>（3肖/2肖/1肖/1尾）</font></span><br>");
-document.writeln("	</font><font face=\'方正粗黑宋简体\'><font color=\'#FF0000\' style=\'font-size: 16pt\'>");
-document.writeln("	杀一肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>龙</font>");
-document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>杀二肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>龙狗</font>");
-document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>杀三肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>龙狗牛</font>");
-document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>");
-document.writeln("	杀平特1尾：</font><font color=\'#008000\'><span style=\'font-size: 16pt\'>五五五</span></font></font></b></font></table>");
-document.writeln("	<!--结束-->");
-
-
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 16pt\'>164期<font color=\'#0000FF\'>杀</font></font><font color=\'#FF00FF\' style=\'font-size: 16pt\'>平特</font><font face=\'楷体\' style=\'font-size: 16pt\'><font color=\'#0000FF\'>（3肖/2肖/1肖/1尾）</font></span><br>");
-document.writeln("	</font><font face=\'方正粗黑宋简体\'><font color=\'#FF0000\' style=\'font-size: 16pt\'>");
-document.writeln("	杀一肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>龙</font>");
-document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>杀二肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>龙马</font>");
-document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>杀三肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'>龙马鼠</font>");
-document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>");
-document.writeln("	杀平特1尾：</font><font color=\'#008000\'><span style=\'font-size: 16pt\'>一一一</span></font></font></b></font></table>");
-document.writeln("	<!--结束-->");
-
-
-
-
-
-
-
-
-
-
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 16pt\'>160期<font color=\'#0000FF\'>杀</font></font><font color=\'#FF00FF\' style=\'font-size: 16pt\'>平特</font><font face=\'楷体\' style=\'font-size: 16pt\'><font color=\'#0000FF\'>（3肖/2肖/1肖/1尾）</font></span><br>");
-document.writeln("	</font><font face=\'方正粗黑宋简体\'><font color=\'#FF0000\' style=\'font-size: 16pt\'>");
-document.writeln("	杀一肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'><span style=\'background-color: #FFFF00\'>猴</span></font>");
-document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>杀二肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'><span style=\'background-color: #FFFF00\'>猴</span>蛇</font>");
-document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>杀三肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'><span style=\'background-color: #FFFF00\'>猴</span>蛇鸡</font>");
-document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>");
-document.writeln("	杀平特1尾：</font><font color=\'#008000\'><span style=\'font-size: 16pt\'>四四四</span></font></font></b></font></table>");
-document.writeln("	<!--结束-->");
-
-
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b>");
-document.writeln("	<font face=\'楷体\' style=\'font-size: 16pt\'>159期<font color=\'#0000FF\'>杀</font></font><font color=\'#FF00FF\' style=\'font-size: 16pt\'>平特</font><font face=\'楷体\' style=\'font-size: 16pt\'><font color=\'#0000FF\'>（3肖/2肖/1肖/1尾）</font></span><br>");
-document.writeln("	</font><font face=\'方正粗黑宋简体\'><font color=\'#FF0000\' style=\'font-size: 16pt\'>");
-document.writeln("	杀一肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'><span style=\'background-color: #FFFF00\'>猴</span></font>");
-document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>杀二肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'><span style=\'background-color: #FFFF00\'>猴</span>牛</font>");
-document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>杀三肖：</font><font color=\'#008000\' style=\'font-size: 16pt\'><span style=\'background-color: #FFFF00\'>猴</span>牛鼠</font>");
-document.writeln("	<font color=\'#FF0000\' style=\'font-size: 16pt\'><br>");
-document.writeln("	杀平特1尾：</font><font color=\'#008000\'><span style=\'font-size: 16pt\'>七七七</span></font></font></b></font></table>");
-document.writeln("	<!--结束-->");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-document.writeln("	");
-document.writeln("");
-document.writeln("			");
-document.writeln("<!--推广开始-->");
-document.writeln("		<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' href=\'https://xn--1dc8d6a.xn--0dc龙14z1ff5bzcvdxdtb1af.xn--gecrj9c:8443/\' style=\'text-decoration: none\'><img src=/images/yyy123.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 15pt\'></font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#000000\'>澳门马会传真</font><font color=\'#FF00FF\'>57265a.com</font></span></a></strong></tr></table>");
-document.writeln("");
-document.writeln("		");
-document.writeln("</tbody>");
-document.writeln("</table>");
-document.writeln("</body>");
-document.writeln("");
-document.writeln("</html> ");</script></div><div class="box"><script type="text/javascript"><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff></script></div><div class="box"><script type="text/javascript"><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
