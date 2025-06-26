@@ -36,11 +36,13 @@ for ltl in LotterytypeList:
     
         # 处理每一条记录
         for record in record_list:
+            period = record['period']
             lottery_time = record['lotteryTime']
             number_list = record['numberList']
         
             # 将 lotteryTime 和 numberList 拼接成一个字典
             result = {
+            "period": period,
             "lotteryTime": lottery_time,
             "numberList": number_list
             }
