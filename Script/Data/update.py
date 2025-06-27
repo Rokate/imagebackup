@@ -49,7 +49,14 @@ for ltl in LotterytypeList:
         
             # 添加到结果列表
             result_list.append(result)
-
+    # 整合数组结果
+    resultlist = []
+    for i in result_list:
+      result = []
+      result = [item["number"] for item in i["numberList"]]
+      resultlist.append(result)
+    with open(f"./Script/Data/{ltl}-2025resultlist.txt", "w", encoding="utf-8") as file:
+        file.write(resultlist)
     # 将结果转换为 JSON 格式
     result_json = json.dumps(result_list, ensure_ascii=False, indent=4)
 
