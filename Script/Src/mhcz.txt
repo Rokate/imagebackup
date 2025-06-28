@@ -6045,7 +6045,37 @@ document.writeln("		</tr>");
 
 
 document.writeln("      <tr>");
-document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>125期<font c</script></div><div class="box"><script type="text/javascript">﻿document.writeln("<html>");
+document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>125期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖蓝双〗</font><font color=\'#008000\'>开蛇49准</font></font></b></td>");
+document.writeln("		</tr>");
+
+
+document.writeln("      <tr>");
+document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>124期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖蓝单〗</font><font color=\'#008000\'>开猴10准</font></font></b></td>");
+document.writeln("		</tr>");
+
+
+
+
+document.writeln("      <tr>");
+document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>123期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖蓝双〗</font><font color=\'#008000\'>开鸡45准</font></font></b></td>");
+document.writeln("		</tr>");
+
+
+
+
+document.writeln("      <tr>");
+document.writeln("			<td align=\'center\' height=40><b><font size=\'4\'>122期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖红单〗</font><font color=\'#008000\'>开鸡33准</font></font></b></td>");
+document.writeln("		</tr>");
+
+
+
+
+
+
+
+document.writeln("</tbody>");
+document.writeln("</table>");
+document.writeln("");</script></div><div class="box"><script type="text/javascript">﻿document.writeln("<html>");
 document.writeln("");
 document.writeln("<head>");
 document.writeln("<meta http-equiv=\'Content-Type\' content=\'text/html; charset=gb2312\'>");
