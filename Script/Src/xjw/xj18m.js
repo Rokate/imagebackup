@@ -29,7 +29,7 @@ document.writeln("</style>");
 document.writeln("");
 document.writeln("<body>");
 document.writeln("  ");
-document.writeln("<img src=\"https://amo.sanyiyuntong.com:4949/col/185/amzy.jpg\" alt=\"\" width=\"100%\">");
+document.writeln("<img src=\"https://amo.sanyiyuntong.com:4949/col/186/amzy.jpg\" alt=\"\" width=\"100%\">");
 document.writeln("");
 document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
@@ -54,8 +54,27 @@ document.writeln("");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		<font color=\"#0000FF\">185期【玄机特码诗】猜透必中开（？00）</font><br>");
-document.writeln("①解特九肖：猴马猪虎鼠羊龙牛兔<br>");
+document.writeln("		<font color=\"#0000FF\">186期【玄机特码诗】猜透必中开（？00）</font><br>");
+document.writeln("①解特九肖：虎牛猴马蛇鸡狗羊猪<br>");
+document.writeln("②解特五肖：虎牛猴马蛇<br>");
+document.writeln("③解特18码：16.28.05.17.22.46.24.36.01.13.21.33.32.44.23.35.19.31</b></font></p></td>");
+document.writeln("    </tr>     ");
+document.writeln("     <!--结束-->");
+document.writeln("	");
+document.writeln("	");
+
+
+
+document.writeln("  <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=38 >");
+document.writeln("		<p align=\'left\'>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<b>");
+document.writeln("");
+document.writeln("		<font color=\"#0000FF\">185期【玄机特码诗】猜透必中开（牛05）</font><br>");
+document.writeln("①解特九肖：猴马猪虎鼠羊龙<span style='background-color: #FFFF00\'>牛</span>兔<br>");
 document.writeln("②解特五肖：猴马猪虎鼠<br>");
 document.writeln("③解特18码：10.34.24.48.19.31.16.28.18.30.23.35.26.38.29.41.03.15</b></font></p></td>");
 document.writeln("    </tr>     ");
@@ -345,126 +364,6 @@ document.writeln("    </tr>     ");
 document.writeln("     <!--结束-->");
 document.writeln("	");
 document.writeln("	");
-
-
-
-document.writeln("  <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=38 >");
-document.writeln("		<p align=\'left\'>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<b>");
-document.writeln("");
-document.writeln("		<font color=\"#0000FF\">165期【玄机特码诗】猜透必中开（羊47）</font><br>");
-document.writeln("①解特九肖：兔<span style='background-color: #FFFF00\'>羊</span>鸡牛龙鼠马虎猪<br>");
-document.writeln("②解特五肖：兔<span style='background-color: #FFFF00\'>羊</span>鸡牛龙<br>");
-document.writeln("③解特18码：03.15.11.23.21.33.05.17.14.26.30.42.36.48.04.16.07.31</b></font></p></td>");
-document.writeln("    </tr>     ");
-document.writeln("     <!--结束-->");
-document.writeln("	");
-document.writeln("	");
-
-
-
-
-document.writeln("  <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=38 >");
-document.writeln("		<p align=\'left\'>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<b>");
-document.writeln("");
-document.writeln("		<font color=\"#0000FF\">163期【玄机特码诗】猜透必中开（羊23）</font><br>");
-document.writeln("①解特九肖：龙牛猴鼠狗蛇鸡马<span style='background-color: #FFFF00\'>羊</span> <br>");
-document.writeln("②解特五肖：龙牛猴鼠狗<br>");
-document.writeln("③解特18码：26.14.05.29.34.46.06.18.20.32.13.25.21.33.24.36.35.47  </b></font></p></td>");
-document.writeln("    </tr>     ");
-document.writeln("     <!--结束-->");
-document.writeln("	");
-document.writeln("	");
-
-
-
-document.writeln("  <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=38 >");
-document.writeln("		<p align=\'left\'>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<b>");
-document.writeln("");
-document.writeln("		<font color=\"#0000FF\">162期【玄机特码诗】猜透必中开（蛇01）</font><br>");
-document.writeln("①解特九肖：牛鸡龙猪兔猴马<span style='background-color: #FFFF00\'>蛇</span>羊<br>");
-document.writeln("②解特五肖：牛鸡龙猪兔<br>");
-document.writeln("③解特18码：05.17.21.33.14.26.19.31.15.27.10.22.24.36.13.25.23.35</b></font></p></td>");
-document.writeln("    </tr>     ");
-document.writeln("     <!--结束-->");
-document.writeln("	");
-document.writeln("	");
-
-
-
-
-
-
-document.writeln("  <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=38 >");
-document.writeln("		<p align=\'left\'>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<b>");
-document.writeln("");
-document.writeln("		<font color=\"#0000FF\">160期【玄机特码诗】猜透必中开（羊11）</font><br>");
-document.writeln("①解特九肖：鼠兔<span style='background-color: #FFFF00\'>羊</span>虎鸡龙马猴猪<br>");
-document.writeln("②解特五肖：鼠兔<span style='background-color: #FFFF00\'>羊</span>虎鸡<br>");
-document.writeln("③解特18码：30.42.03.15.<span style='background-color: #FFFF00\'>11</span>.23.04.16.21.33.14.26.12.36.10.22.07.31</b></font></p></td>");
-document.writeln("    </tr>     ");
-document.writeln("     <!--结束-->");
-
-
-
-document.writeln("  <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=38 >");
-document.writeln("		<p align=\'left\'>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<b>");
-document.writeln("");
-document.writeln("		<font color=\"#0000FF\">159期【玄机特码诗】猜透必中开（猪31）</font><br>");
-document.writeln("①解特九肖：兔牛狗猴马龙<span style='background-color: #FFFF00\'>猪</span>鼠虎<br>");
-document.writeln("②解特五肖：兔牛狗猴马<br>");
-document.writeln("③解特18码：03.15.17.29.20.32.22.34.12.24.26.38.19.<span style='background-color: #FFFF00\'>31</span>.18.30.04.40</b></font></p></td>");
-document.writeln("    </tr>     ");
-document.writeln("     <!--结束-->");
-document.writeln("	");
-document.writeln("	");
-
-
-
-document.writeln("  <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=38 >");
-document.writeln("		<p align=\'left\'>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<b>");
-document.writeln("");
-document.writeln("		<font color=\"#0000FF\">158期【玄机特码诗】猜透必中开（牛05）</font><br>");
-document.writeln("①解特九肖：狗鸡虎<span style='background-color: #FFFF00\'>牛</span>兔蛇马羊猴 <br>");
-document.writeln("②解特五肖：狗鸡虎<span style='background-color: #FFFF00\'>牛</span>兔<br>");
-document.writeln("③解特18码：20.32.21.33.16.28.17.29.15.27.13.25.12.24.11.23.10.22  </b></font></p></td>");
-document.writeln("    </tr>     ");
-document.writeln("     <!--结束-->");
-document.writeln("	");
-document.writeln("	");
-
-
-
-
 
 
 

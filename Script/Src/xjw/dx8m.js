@@ -48,12 +48,16 @@ document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("185期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开？00准</font><br>");
+document.writeln("186期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开？00准</font><br>");
 document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("大数+01.04.08.12.14.17.21.22</span></font></td>");
+document.writeln("小数+32.34.38.39.42.43.46.49</span></font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 document.writeln("	");
+
+
+
+
 
 
 document.writeln("	<!----开始---->    ");
@@ -228,86 +232,6 @@ document.writeln("	");
 
 
 
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("164期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开蛇13准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>小数</span>+28.29.31.36.38.42.45.46</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("163期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开羊23准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("大数+01.03.11.12.17.18.21.<span style='background-color: #FFFF00\'>23</span></span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("162期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开蛇01准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>小数</span>+27.29.32.36.38.44.45.47</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("161期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开虎16准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>小数</span>+31.32.34.36.38.39.41.45</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("160期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开羊11准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("大数+01.03.05.07.<span style='background-color: #FFFF00\'>11</span>.13.15.17</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("158期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开牛05准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("大数+<span style='background-color: #FFFF00\'>05</span>.08.11.15.16.18.20.21</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
 
 
 
