@@ -49,6 +49,8 @@ for ltl in LotterytypeList:
         
             # 添加到结果列表
             result_list.append(result)
+
+    '''
     # 整合数组结果
     resultlist = []
     for i in result_list:
@@ -57,6 +59,7 @@ for ltl in LotterytypeList:
       resultlist.append(result)
     with open(f"./Script/Data/{ltl}-2025resultlist.txt", "w", encoding="utf-8") as file:
         file.write(str(resultlist))
+    '''
     # 将结果转换为 JSON 格式
     result_json = json.dumps(result_list, ensure_ascii=False, indent=4)
 
