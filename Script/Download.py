@@ -92,9 +92,11 @@ if __name__ == "__main__":
     try:
         #amcode = {"code": "71"} site:lh49.app
         #https://am49.app/forum/master/list?postCategory=71
-        info = requests.get('https://h5.118z2.com:8443/tk118/h5/picture/detail/latest?pictureTypeId=28854').json()
+        #info = requests.get('https://h5.118z2.com:8443/tk118/h5/picture/detail/latest?pictureTypeId=28854').json()
         #qish = requests.post('https://am49.app/open/latest/single?code=71').json()['data']['nextIssueNo'][-3:]
-        qish = info['data']['period']
+        info = requests.get('https://123tkapi-ali.uvcy88.com/gallerynew/app/index/lastLotteryRecord?lotteryType=2').json()
+        #qish = info['data']['period']
+        qish = info['data']['nextLotteryNumber']
         qishu = f'{qish:0>3}'
         #qishu = '00' + qish
         #qishu = qish.lstrip('0')
