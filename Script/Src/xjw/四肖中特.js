@@ -1,105 +1,29 @@
-﻿
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<head>");
-document.writeln("<style type=\'text/css\'>");
-document.writeln(".stylec {");
-document.writeln("	background-color: #FFFF00;");
-document.writeln("	color: #FF0000;");
-document.writeln("}");
-document.writeln(".stylesx {");
-document.writeln("	background-color: #FFFF00;");
-document.writeln("}");
-document.writeln("</style>");
-document.writeln("</head>");
-document.writeln("");
-document.writeln("");
-document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
-document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
-document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>澳门玄机86563</font><font color=\'#FFFFFF\'>『四肖中特』</font></font></b></table>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
-
-
-
-
-
-
-document.writeln("");
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>060期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开？00</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【十八投军在北方，鸡牛猴鼠是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：鸡牛猴鼠</span></tr>	");
-document.writeln("	");
-document.writeln("");
-
-
-
-
-
-
-
-document.writeln("");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>058期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开猪31</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【金玉水灵尘地间，鸡猪龙马是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>鸡<span style='background-color: #FFFF00\'>猪</span>龙马</font></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>057期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开狗20</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【棋逢敌手方可喜，虎狗兔猪是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'>虎<span style='background-color: #FFFF00\'>狗</span>兔猪</font></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("	<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'>056期:<font color=\'#008000\'>【四肖中特诗】</font><font color=\'#FF0000\'>开鼠42</font><font color=\'#008000\'><br>");
-document.writeln("		</font><font color=\'#6600CC\'>【红桃三月江如蓝，鼠虎猪兔是特码】<br></font></font>");
-document.writeln("		<font color=\'#0000FF\' size=\'4\'>解：</font></span><font size=\'4\' color=\'#0000FF\'><span style='background-color: #FFFF00\'>鼠</span>虎猪兔</font></tr>");
-document.writeln("");
-
-
-
-
-
-
-
-
-
-document.writeln("<table style=border-collapse:collapse border=0 width=100%><tbody><tr><td height=40><p style=text-align:center><strong>");
-document.writeln("			<a target=\'_blank\' href=\'https://aa335.www76891a.com:8443/#76891\' style=\'text-decoration: none\'><img src=/yyy123.gif style=\'width:20px\' height=\'19\'><span style=font-family:楷体;color:#00f><font style=\'font-size: 15pt\'>进入博彩网</font></span><span style=font-family:楷体;font-size:17pt;><font color=\'#FF0000\'>76891.com</font></span></a></strong></tr></table>		");
-document.writeln("	</table>");
-document.writeln("</div>	");
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>404 - File or directory not found.</title>
+<style type="text/css">
+<!--
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+fieldset{padding:0 15px 10px 15px;} 
+h1{font-size:2.4em;margin:0;color:#FFF;}
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+background-color:#555555;}
+#content{margin:0 0 0 2%;position:relative;}
+.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+-->
+</style>
+</head>
+<body>
+<div id="header"><h1>Server Error</h1></div>
+<div id="content">
+ <div class="content-container"><fieldset>
+  <h2>404 - File or directory not found.</h2>
+  <h3>The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.</h3>
+ </fieldset></div>
+</div>
+</body>
+</html>

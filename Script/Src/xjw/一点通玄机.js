@@ -1,87 +1,29 @@
-﻿document.writeln("");
-document.writeln("<head>");
-document.writeln("<meta http-equiv=\'Content-Language\' content=\'zh-cn\'>");
-document.writeln("<meta http-equiv=\'Content-Type\' content=\'text/html; charset=utf-8\'>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<style type=\'text/css\'>");
-document.writeln(".style1 {");
-document.writeln("	color: #008000;");
-document.writeln("}");
-document.writeln(".style2 {");
-document.writeln("	color: #0000FF;");
-document.writeln("}");
-document.writeln(".style3 {");
-document.writeln("	background-color: #FFFF00;");
-document.writeln("}");
-document.writeln("</style>");
-document.writeln("</head>");
-document.writeln("");
-document.writeln("");
-document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
-document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
-document.writeln("<b><font face=\'楷体\' style=\'font-size: 20pt\'><font color=\'#FFFF00\'>澳门玄机86563</font><font color=\'#FFFFFF\'>『一点通玄机』</font></font></b></table>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
-
-
-
-
-
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p align=\'left\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'><strong>060期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开？00</strong></font><font color=\'#008000\'><strong><br>");
-document.writeln("		</strong>");
-document.writeln("		</font><font color=\'#FF00FF\'><strong>举眼风光长寂寞，满朝官职独蹉跎</strong></font><strong><br>");
-document.writeln("		</strong><strong><font color=\'#6600CC\'>");
-document.writeln("		解:风解风肖，虎龙兔；独解独肖，鼠牛虎兔马羊。<br>");
-document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>虎龙兔鼠牛马</span></strong></font></td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-
-document.writeln("						<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p align=\'left\'>");
-document.writeln("	");
-document.writeln("		<span><font size=\'4\'><strong>058期:</strong><font color=\'#008000\'><strong>【澳门玄机一点通】</strong></font><font color=\'#FF0000\'><strong>开猪31</strong></font><font color=\'#008000\'><strong><br>");
-document.writeln("		</strong>");
-document.writeln("		</font><font color=\'#FF00FF\'><strong>映日荷花别样红,淡妆浓抹总相宜</strong></font><strong><br>");
-document.writeln("		</strong><strong><font color=\'#6600CC\'>");
-document.writeln("		解:荷花解荷花牛,样解羊,妆解女肖蛇羊兔鸡猪。<br>");
-document.writeln("		</font><span class=\'style1\'>综合生肖：</span><span class=\'style2\'>牛蛇羊兔鸡<span style='background-color: #FFFF00\'>猪</span></span></strong></font></td></tr>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-
-
-
-
-document.writeln("");
-document.writeln("");
-document.writeln("");
-document.writeln("");
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>404 - File or directory not found.</title>
+<style type="text/css">
+<!--
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+fieldset{padding:0 15px 10px 15px;} 
+h1{font-size:2.4em;margin:0;color:#FFF;}
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+background-color:#555555;}
+#content{margin:0 0 0 2%;position:relative;}
+.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+-->
+</style>
+</head>
+<body>
+<div id="header"><h1>Server Error</h1></div>
+<div id="content">
+ <div class="content-container"><fieldset>
+  <h2>404 - File or directory not found.</h2>
+  <h3>The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.</h3>
+ </fieldset></div>
+</div>
+</body>
+</html>
