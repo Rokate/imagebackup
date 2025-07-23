@@ -816,7 +816,7 @@ document.writeln("						<td align=\'center\' bgcolor=\'#ffffff\' height=\'40\' s
 document.writeln("						<p style=\'box-sizing: border-box; padding: 0px; margin: 0px; word-spacing: 1px; line-height: 32px;\' align=\'left\'>");
 document.writeln("						<font color=\'#0000FF\' style=\'box-sizing: border-box; margin: 0px; padding: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &#930;&#65533;&#65533;&#65533;&#378;&#65533;, Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;\'>");
 document.writeln("						<b style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>");
-document.writeln("						204期挂牌《更新中》<br style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>");
+document.writeln("						205期挂牌《更新中》<br style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>");
 document.writeln("解释：更新中<br style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>");
 document.writeln("解：更新中。<br style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>");
 document.writeln("						<br style=\'box-sizing: border-box; margin: 0px; padding: 0px;\'>");
@@ -827,7 +827,6 @@ document.writeln("                       七肖：更新中。<br>");
 document.writeln("                       主特：更新中。</span></p>");
 document.writeln("					</tr>");
 document.writeln("</table>");
-
 
 document.writeln("			<table border=\'0\' width=\'100%\' cellpadding=\'0\' style=\'box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; color: rgb(58, 88, 95); font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 微软雅黑, Arial, sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>");
 document.writeln("				<tbody style=\'box-sizing: border-box;\'>");
@@ -2177,7 +2176,19 @@ document.writeln("			<td align=\'center\' bgcolor=\'#ffffff\' height=\'40\' styl
 document.writeln("			<p style=\'box-sizing: border-box; padding: 0px; margin: 0px; word-spacing: 1px; line-height: 32px;\'>");
 document.writeln("			<strong style=\'box-sizing: border-box;\'>");
 document.writeln("			<span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 14pt; background-color: rgb(255, 255, 255);\'>");
-document.writeln("			<span style=\'box-sizing: border-box; color: navy;\'>204期&#9992;</span><span style=\'box-sizing: border-box; color: rgb(255, 0, 102);\'>传奇家野</span><span style=\'box-sizing: border-box; color: navy;\'>&#9992;【</span></span><span style=\'box-sizing: border-box; color: navy;\'><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 14pt; \'>野兽</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 14pt; background-color: rgb(255, 255, 255);\'>+</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 14pt; \'>马狗</span></span><span style=\'box-sizing: border-box; color: navy; font-family: Tahoma; font-size: 14pt; background-color: rgb(255, 255, 255)\'>】特:</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 14pt; color: rgb(255, 0, 102);\'>猫</span></strong></td>");
+document.writeln("			<span style=\'box-sizing: border-box; color: navy;\'>205期&#9992;</span><span style=\'box-sizing: border-box; color: rgb(255, 0, 102);\'>传奇家野</span><span style=\'box-sizing: border-box; color: navy;\'>&#9992;【</span></span><span style=\'box-sizing: border-box; color: navy;\'><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 14pt; \'>家禽</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 14pt; background-color: rgb(255, 255, 255);\'>+</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 14pt; \'>龙兔</span></span><span style=\'box-sizing: border-box; color: navy; font-family: Tahoma; font-size: 14pt; background-color: rgb(255, 255, 255)\'>】特:</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 14pt; color: rgb(255, 0, 102);\'>猫</span></strong></td>");
+document.writeln("		</tr>");
+document.writeln("</table>");
+
+document.writeln("	");
+document.writeln("			<table border=\'0\' width=\'100%\' cellpadding=\'0\' style=\'box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; color: rgb(58, 88, 95); font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 微软雅黑, Arial, sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\'>");
+document.writeln("	<tbody style=\'box-sizing: border-box;\'>");
+document.writeln("		<tr style=\'box-sizing: border-box;\'>");
+document.writeln("			<td align=\'center\' bgcolor=\'#ffffff\' height=\'40\' style=\'box-sizing: border-box; border: 1px solid rgb(235, 235, 235);\'>");
+document.writeln("			<p style=\'box-sizing: border-box; padding: 0px; margin: 0px; word-spacing: 1px; line-height: 32px;\'>");
+document.writeln("			<strong style=\'box-sizing: border-box;\'>");
+document.writeln("			<span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 14pt; background-color: rgb(255, 255, 255);\'>");
+document.writeln("			<span style=\'box-sizing: border-box; color: navy;\'>204期&#9992;</span><span style=\'box-sizing: border-box; color: rgb(255, 0, 102);\'>传奇家野</span><span style=\'box-sizing: border-box; color: navy;\'>&#9992;【</span></span><span style=\'box-sizing: border-box; color: navy;\'><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 14pt; \'><span style=\"background-color: #FFFF00\">野兽</span></span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 14pt; background-color: rgb(255, 255, 255);\'>+</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 14pt; \'>马狗</span></span><span style=\'box-sizing: border-box; color: navy; font-family: Tahoma; font-size: 14pt; background-color: rgb(255, 255, 255)\'>】特:</span><span style=\'box-sizing: border-box; font-family: Tahoma; font-size: 14pt; color: rgb(255, 0, 102);\'>鼠</span></strong></td>");
 document.writeln("		</tr>");
 document.writeln("</table>");
 
