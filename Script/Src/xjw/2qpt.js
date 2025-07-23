@@ -73,7 +73,7 @@ document.writeln("        <td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\'
 document.writeln("        <strong>");
 document.writeln("        <font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>猴（22.46.34）</font></strong></td>");
 document.writeln("        <td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
-document.writeln("        <font face=\'微软雅黑\'>000中</font></td>");
+document.writeln("        <font face=\'微软雅黑\'>203中</font></td>");
 document.writeln("        </tr>");
 document.writeln("");
 document.writeln("");
