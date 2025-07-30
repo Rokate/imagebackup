@@ -69,7 +69,7 @@ document.writeln("        <td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\
 document.writeln("        <b><font face=\'微软雅黑\'>210-212期</font></b></td>");
 document.writeln("        <td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowspan=\'3\'>");
 document.writeln("        <strong>");
-document.writeln("        <font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>虎（04.16.<span style='background-color: #FFFF00\'>400</span>）</font></strong></td>");
+document.writeln("        <font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>虎（04.16.<span style='background-color: #FFFF00\'>40</span>）</font></strong></td>");
 document.writeln("        <td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
 document.writeln("        <font face=\'微软雅黑\'>210中</font></td>");
 document.writeln("        </tr>");
