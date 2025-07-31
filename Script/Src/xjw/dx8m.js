@@ -47,9 +47,23 @@ document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("212期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开？00准</font><br>");
+document.writeln("213期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开？00准</font><br>");
 document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("小数+28.29.31.36.38.42.45.46</span></font></td>");
+document.writeln("小数+28.29.31.36.39.42.45.48</span></font></td>");
+document.writeln("</tr>			");
+document.writeln("<!----结束----> ");
+document.writeln("	");
+
+
+
+
+document.writeln("	<!----开始---->    ");
+document.writeln("<tr>");
+document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
+document.writeln("<p align=\"center\"><font size=\"4\">");
+document.writeln("212期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开鼠18准</font><br>");
+document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
+document.writeln("<span style='background-color: #FFFF00\'>小数</span>+28.29.31.36.38.42.45.46</span></font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 document.writeln("	");
@@ -190,174 +204,6 @@ document.writeln("<!----结束----> ");
 document.writeln("	");
 
 
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("196期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开龙14准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>小数</span>+30.28.31.35.40.42.45.48</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("193期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开马24准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>小数</span>+36.33.31.39.40.41.45.46</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("192期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开鸡45准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>大数</span>+02.05.12.14.17.18.19.20</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("191期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开牛29准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>大数</span>+03.05.08.11.13.14.15.18</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("190期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开鼠18准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>小数</span>+28.32.34.35.42.44.46.48</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("189期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开牛17准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>小数</span>+28.31.33.36.40.45.46.47</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("188期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开兔15准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>小数</span>+29.32.33.38.41.46.47.49</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("187期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开鸡45准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("小数+27.31.33.35.41.<span style='background-color: #FFFF00\'>45</span>.47.48</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("186期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开狗08准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>小数</span>+32.34.38.39.42.43.46.49</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("184期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开虎28准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("小数+<span style='background-color: #FFFF00\'>28</span>.30.33.37.40.45.46.48</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("182期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开鼠42准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>大数</span>+02.03.04.12.14.19.24.22</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
-
-
-
-document.writeln("	<!----开始---->    ");
-document.writeln("<tr>");
-document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
-document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("181期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开羊23准</font><br>");
-document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("<span style='background-color: #FFFF00\'>小数</span>+32.35.36.39.40.42.46.49</span></font></td>");
-document.writeln("</tr>			");
-document.writeln("<!----结束----> ");
-document.writeln("	");
 
 
 
