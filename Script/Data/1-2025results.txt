@@ -5725,5 +5725,74 @@
                 "wuXing": "火"
             }
         ]
+    },
+    {
+        "period": 84,
+        "lotteryTime": "2025年08月02日",
+        "numberList": [
+            {
+                "color": 3,
+                "count": null,
+                "daXiao": "大",
+                "danShuang": "双",
+                "number": "44",
+                "shengXiao": "狗",
+                "wuXing": "水"
+            },
+            {
+                "color": 1,
+                "count": null,
+                "daXiao": "大",
+                "danShuang": "双",
+                "number": "34",
+                "shengXiao": "猴",
+                "wuXing": "金"
+            },
+            {
+                "color": 2,
+                "count": null,
+                "daXiao": "小",
+                "danShuang": "双",
+                "number": "10",
+                "shengXiao": "猴",
+                "wuXing": "火"
+            },
+            {
+                "color": 2,
+                "count": null,
+                "daXiao": "小",
+                "danShuang": "双",
+                "number": "14",
+                "shengXiao": "龙",
+                "wuXing": "水"
+            },
+            {
+                "color": 3,
+                "count": null,
+                "daXiao": "小",
+                "danShuang": "单",
+                "number": "21",
+                "shengXiao": "鸡",
+                "wuXing": "水"
+            },
+            {
+                "color": 1,
+                "count": null,
+                "daXiao": "小",
+                "danShuang": "双",
+                "number": "18",
+                "shengXiao": "鼠",
+                "wuXing": "火"
+            },
+            {
+                "color": 1,
+                "count": null,
+                "daXiao": "小",
+                "danShuang": "双",
+                "number": "24",
+                "shengXiao": "马",
+                "wuXing": "木"
+            }
+        ]
     }
 ]
