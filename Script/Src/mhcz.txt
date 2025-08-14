@@ -1935,10 +1935,7 @@ document.writeln("37.38.13.02.28.49.10.47.24.14.25.35.44</tr>");
 document.writeln("</tr>");
 
 
-document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>225期</font><img src=\'/images/zzzz.gif\'style=\'width:20px\' height=\'15\'><font color=\'#FF0000\'>【万兽妖王13码】<img src=\'/images/zzzz.gif\' style=\'width:20px\' height=\'15\'></font><font color=\'#0000FF\'>开：狗32</font>准<br>");
-document.writeln("44.35.24.20.38.47.02.43.29.49.10.41.03</tr>");
-document.writeln("</tr>");
+
 
 
 
@@ -6836,7 +6833,7 @@ document.writeln("</tr>");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=35><p style=box-sizing:border-box;padding:0;margin:0 align=center>");
 document.writeln("<span style=box-sizing:border-box;font-size:14pt><font face=\'微软雅黑\'><b><span style=box-sizing:border-box;><font color=\'#000000\'>");
-document.writeln("225期</font><font color=\'#008000\'>菜肉草肖</font><font color=\'#FF0000\'>【吃菜<span style=\'background-color: #FFFF00\'>肉</span>吃】</font><font color=\'#000000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF00FF\'>狗32</font></span><font color=\'#000000\'>准</font></span></b><font color=\'#000000\'><span style=\'font-size: 14pt\'></strong>");
+document.writeln("225期</font><font color=\'#008000\'>菜肉草肖</font><font color=\'#FF0000\'>【吃菜<span style=\'background-color: #FFFF00\'>吃肉</span>】</font><font color=\'#000000\'>开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF00FF\'>狗32</font></span><font color=\'#000000\'>准</font></span></b><font color=\'#000000\'><span style=\'font-size: 14pt\'></strong>");
 document.writeln("</span></font></font>");
 document.writeln("</tr>");
 
