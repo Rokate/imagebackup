@@ -29,7 +29,7 @@ document.writeln("</style>");
 document.writeln("");
 document.writeln("<body>");
 document.writeln("  ");
-document.writeln("<img src=\"https://amo.sanyiyuntong.com:4949/col/255/amzy.jpg\" alt=\"\" width=\"100%\">");
+document.writeln("<img src=\"https://amo.sanyiyuntong.com:4949/col/256/amzy.jpg\" alt=\"\" width=\"100%\">");
 document.writeln("");
 document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
@@ -47,6 +47,25 @@ document.writeln("");
 
 
 
+document.writeln("  <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=38 >");
+document.writeln("		<p align=\'left\'>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<b>");
+document.writeln("");
+document.writeln("		<font color=\"#0000FF\">256期【玄机特码诗】猜透必中开（？00）</font><br>");
+document.writeln("①解特九肖：兔牛狗猴马龙猪鼠虎<br>");
+document.writeln("②解特五肖：兔牛狗猴马<br>");
+document.writeln("③解特18码：03.15.17.29.20.32.22.34.12.24.26.38.19.31.18.30.04.40</b></font></p></td>");
+document.writeln("    </tr>     ");
+document.writeln("     <!--结束-->");
+document.writeln("	");
+document.writeln("	");
+
+
+
 
 document.writeln("  <!--开始-->  ");
 document.writeln("    	<tr>");
@@ -56,9 +75,9 @@ document.writeln("");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		<font color=\"#0000FF\">255期【玄机特码诗】猜透必中开（？00）</font><br>");
-document.writeln("①解特九肖：龙牛猴鼠狗蛇鸡马羊 <br>");
-document.writeln("②解特五肖：龙牛猴鼠狗<br>");
+document.writeln("		<font color=\"#0000FF\">255期【玄机特码诗】猜透必中开（鼠42）</font><br>");
+document.writeln("①解特九肖：龙牛猴<span style='background-color: #FFFF00\'>鼠</span>狗蛇鸡马羊 <br>");
+document.writeln("②解特五肖：龙牛猴<span style='background-color: #FFFF00\'>鼠</span>狗<br>");
 document.writeln("③解特18码：26.14.05.29.34.46.06.18.20.32.13.25.21.33.24.36.35.47  </b></font></p></td>");
 document.writeln("    </tr>     ");
 document.writeln("     <!--结束-->");
