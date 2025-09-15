@@ -1892,8 +1892,10 @@ document.writeln("</head>");
 document.writeln("");
 document.writeln("<body>");
 document.writeln("");
-document.writeln("<img src=\"https://amo.sanyiyuntong.com:4949/col/257/ampm.jpg\" width=\"100%\"></img>");
+document.writeln("<img src=\"https://amo.sanyiyuntong.com:4949/col/258/ampm.jpg\" width=\"100%\"></img>");
 document.writeln("");
+
+
 
 
 document.writeln("  <tr>");
