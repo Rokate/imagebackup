@@ -607,20 +607,10 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>261期红字暗码：【应天顺时03 10 33 48】</font><font face=\'华文中宋\'><br>");
-document.writeln("	解释：出自唐代《晋书·元帝纪》。成语本义指顺应天命和时势，多用于形容政权建立或更迭时合乎天道与时局需求的政治行为。</font></b><br>");
-document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	<b>红字解六肖：龙猪马牛猴狗</b></font></td></b>");
-document.writeln("</tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>260期红字暗码：【狗窦大开05 15 20 31】</font><font face=\'华文中宋\'><br>");
 document.writeln("	解释：本义为狗洞大开，引申为讥讽他人牙齿缺失的喻称。该成语出自南朝宋刘义庆《世说新语·排调》，记载张玄幼年缺齿被戏称口中开狗窦的典故。</font></b><br>");
 document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	<b>红字解六肖：羊牛猪<span style=\'background-color: #FFFF00\'>兔</span>鸡鼠</b></font></td></b>");
+document.writeln("	<b>红字解六肖：羊牛猪兔鸡鼠</b></font></td></b>");
 document.writeln("</tr>");
 document.writeln("");
 
