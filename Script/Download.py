@@ -77,7 +77,7 @@ async def main(a, b, c, d):
         
 
     ]
-    #[f"https://69760b.com/img/jl3x{qishu}.jpg", "a-jl3x.jpg"]
+    
     conn=aiohttp.TCPConnector(ssl=False)
     async with aiohttp.ClientSession(connector=conn) as session:
         tasks = []
@@ -88,30 +88,16 @@ async def main(a, b, c, d):
         await asyncio.gather(*tasks)
 
 if __name__ == "__main__":
-    #a6.003123.club
+    
     try:
-        #amcode = {"code": "71"} site:lh49.app
-        #https://am49.app/forum/master/list?postCategory=71
+        
         info = requests.get('https://h5.118z2.com:8443/tk118/h5/picture/detail/latest?pictureTypeId=28854').json()
-        #qish = requests.post('https://am49.app/open/latest/single?code=71').json()['data']['nextIssueNo'][-3:]
-        #info = requests.get('https://123tkapi-ali.uvcy88.com/gallerynew/app/index/lastLotteryRecord?lotteryType=2').json()
         qish = info['data']['period']
-        #qish = info['data']['nextLotteryNumber']
         qishu = f'{qish:0>3}'
-        #qishu = '00' + qish
-        #qishu = qish.lstrip('0')
-        #Lday = requests.get('https://49252a.com/unite49/h5/index/lotteryTime')
-        #qishu = Lday.json()['data']['list'][0]['isLotteryDay'] + 1
-        #qish = str(qishu).zfill(3)
-        #118tk.com https://118z1.com/#/ https://49tkapp.com/
-        #url = requests.get('https://49252a.com/unite49/h5/picture/detail/latest?pictureTypeId=28854').json()['data']['largePictureUrl']
         url = info['data']['largePictureUrl']
         pattern = re.compile("https://tk2.(.*?)/")
         match = re.findall(pattern, url)
         domain_port = match[0]
-        
-        #xgcode = {"code": "28"} https://am49.app/forum/master/list?postCategory=28
-        #qs = requests.post('https://am49.app/open/latest?code=28').json()['data']['nextIssueNo'][-3:].lstrip('0')
         qs = requests.get('https://h5.118z2.com:8443/tk118/h5/picture/detail/latest?pictureTypeId=10870').json()['data']['period']
         
     except Exception as e:
