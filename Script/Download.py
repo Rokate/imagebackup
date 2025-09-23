@@ -23,12 +23,30 @@ async def download_image(session, url, filepath):
         print("下载出错:\t", url, repr(e))
 
 
-async def main(a, b, c, d):
-    qishu = a
-    qish = b
-    qs = c
-    urld = d
-    urls = [
+async def main(urls):
+    
+    conn=aiohttp.TCPConnector(ssl=False)
+    async with aiohttp.ClientSession(connector=conn) as session:
+        tasks = []
+        for i, url in enumerate(urls):
+            filename = "./Script/Src/" + url[1]
+            task = asyncio.create_task(download_image(session, url[0], filename))
+            tasks.append(task)
+        await asyncio.gather(*tasks)
+
+if __name__ == "__main__":
+    
+    try:
+        
+        info = requests.get('https://h5.118z2.com:8443/tk118/h5/picture/detail/latest?pictureTypeId=28854').json()
+        qish = info['data']['period']
+        qishu = f'{qish:0>3}'
+        url = info['data']['largePictureUrl']
+        pattern = re.compile("https://tk2.(.*?)/")
+        match = re.findall(pattern, url)
+        urld = match[0]
+        qs = requests.get('https://h5.118z2.com:8443/tk118/h5/picture/detail/latest?pictureTypeId=10870').json()['data']['period']
+        urls = [
         ["https://www.353583.com/tutu/faf.jpg", "a-faf.jpg"],
         ["https://www.353583.com/tutu/fgmc.jpg", "a-fgmc.jpg"],
         ["https://www.353583.com/tutu/6i12m.jpg", "a-6i12m.jpg"],
@@ -74,35 +92,10 @@ async def main(a, b, c, d):
         [f"https://tk.{urld}/col/{qs}/j11.jpg", "x-j11.jpg"],
         [f"https://tk.{urld}/col/{qs}/qlb.jpg", "x-qlb.jpg"],
         [f"https://file-cf.114tu.com/galleryfiles/system/xglhc/col/2025/{qs}/lmkz1.jpg", "x-lmkz.jpg"],
-        
-
-    ]
-    
-    conn=aiohttp.TCPConnector(ssl=False)
-    async with aiohttp.ClientSession(connector=conn) as session:
-        tasks = []
-        for i, url in enumerate(urls):
-            filename = "./Script/Src/" + url[1]
-            task = asyncio.create_task(download_image(session, url[0], filename))
-            tasks.append(task)
-        await asyncio.gather(*tasks)
-
-if __name__ == "__main__":
-    
-    try:
-        
-        info = requests.get('https://h5.118z2.com:8443/tk118/h5/picture/detail/latest?pictureTypeId=28854').json()
-        qish = info['data']['period']
-        qishu = f'{qish:0>3}'
-        url = info['data']['largePictureUrl']
-        pattern = re.compile("https://tk2.(.*?)/")
-        match = re.findall(pattern, url)
-        domain_port = match[0]
-        qs = requests.get('https://h5.118z2.com:8443/tk118/h5/picture/detail/latest?pictureTypeId=10870').json()['data']['period']
-        
+        ]
     except Exception as e:
         print("日期更新出错了", traceback.format_exc())
     else:
         print("图片列表下载。。。")
-        asyncio.run(main(qishu, qish, qs, domain_port))
+        asyncio.run(main(urls))
         
