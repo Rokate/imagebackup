@@ -46,8 +46,20 @@ document.writeln("	<!--gavc-->										");
 document.writeln("	<tr>");
 document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
 document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">266期 网红一波<font color=\"#FF0000\">【蓝波】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【蓝波红波】</font>开？00</span></td>");
+document.writeln("<span style=\"font-size: 16pt\">267期 网红一波<font color=\"#FF0000\">【绿波】</font><BR>");
+document.writeln("网红双波<font color=\"#FF0000\">【绿波红波】</font>开？00</span></td>");
+document.writeln("	</tr>");
+document.writeln("	<!--结束-->	");
+document.writeln("");
+
+
+
+document.writeln("	<!--gavc-->										");
+document.writeln("	<tr>");
+document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
+document.writeln("		");
+document.writeln("<span style=\"font-size: 16pt\">266期 网红一波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>蓝波</span>】</font><BR>");
+document.writeln("网红双波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>蓝波</span>红波】</font>开牛41</span></td>");
 document.writeln("	</tr>");
 document.writeln("	<!--结束-->	");
 document.writeln("");
@@ -190,180 +202,6 @@ document.writeln("网红双波<font color=\"#FF0000\">【<span style='background
 document.writeln("	</tr>");
 document.writeln("	<!--结束-->	");
 document.writeln("");
-
-
-
-
-document.writeln("	<!--gavc-->										");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
-document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">250期 网红一波<font color=\"#FF0000\">【绿波】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【绿波<span style='background-color: #FFFF00\'>红波</span>】</font>开马12</span></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--结束-->	");
-document.writeln("");
-
-
-document.writeln("	<!--gavc-->										");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
-document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">249期 网红一波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>红波</span>】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【蓝波<span style='background-color: #FFFF00\'>红波</span>】</font>开龙02</span></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--结束-->	");
-document.writeln("");
-
-
-
-document.writeln("	<!--gavc-->										");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
-document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">248期 网红一波<font color=\"#FF0000\">【绿波】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【绿波<span style='background-color: #FFFF00\'>红波</span>】</font>开马12</span></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--结束-->	");
-document.writeln("");
-
-
-
-
-
-
-
-document.writeln("	<!--gavc-->										");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
-document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">245期 网红一波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>绿波</span>】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>绿波</span>蓝波】</font>开狗44</span></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--结束-->	");
-document.writeln("");
-
-document.writeln("	<!--gavc-->										");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
-document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">244期 网红一波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>红波</span>】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【绿波<span style='background-color: #FFFF00\'>红波</span>】</font>开马24</span></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--结束-->	");
-document.writeln("");
-
-
-
-
-document.writeln("	<!--gavc-->										");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
-document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">242期 网红一波<font color=\"#FF0000\">【蓝波】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【蓝波<span style='background-color: #FFFF00\'>红波</span>】</font>开猴34</span></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--结束-->	");
-document.writeln("");
-
-
-
-document.writeln("	<!--gavc-->										");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
-document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">241期 网红一波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>红波</span>】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>红波</span>蓝波】</font>开蛇01</span></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--结束-->	");
-document.writeln(""); 
-
-
-
-document.writeln("	<!--gavc-->										");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
-document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">240期 网红一波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>绿波</span>】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>绿波</span>蓝波】</font>开虎28</span></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--结束-->	");
-document.writeln(""); 
-
-
-
-
-document.writeln("	<!--gavc-->										");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
-document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">239期 网红一波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>蓝波</span>】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>蓝波</span>红波】</font>开虎04</span></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--结束-->	");
-document.writeln("");
-
-
-document.writeln("	<!--gavc-->										");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
-document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">238期 网红一波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>红波</span>】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【绿波<span style='background-color: #FFFF00\'>红波</span>】</font>开猴46</span></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--结束-->	");
-document.writeln(""); 
-
-
-
-document.writeln("	<!--gavc-->										");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
-document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">237期 网红一波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>红波</span>】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>红波</span>绿波】</font>开龙02</span></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--结束-->	");
-document.writeln(""); 
-
-
-
-
-document.writeln("	<!--gavc-->										");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
-document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">234期 网红一波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>红波</span>】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>红波</span>蓝波】</font>开蛇13</span></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--结束-->	");
-document.writeln("");
-
-
-
-document.writeln("	<!--gavc-->										");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
-document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">233期 网红一波<font color=\"#FF0000\">【红波】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【红波<span style='background-color: #FFFF00\'>蓝波</span>】</font>开蛇37</span></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--结束-->	");
-document.writeln("");
-
-
-
-document.writeln("	<!--gavc-->										");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
-document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">232期 网红一波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>蓝波</span>】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>蓝波</span>绿波】</font>开鼠42</span></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--结束-->	");
-document.writeln("");
-
-
 
 
 
