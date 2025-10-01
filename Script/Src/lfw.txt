@@ -3527,18 +3527,7 @@ document.writeln("结束-->");
 
 document.writeln("                <table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>");
-document.writeln("	275期</font><font color=\'#000080\' face=\'微软雅黑\'>九肖</font><font color=\'#FF00FF\' face=\'仿宋\' style=\'font-size: 14pt\'>猴马羊虎狗猪兔牛鸡</font><font face=\'仿宋\' style=\'font-size: 14pt\'>开？00准</font></b></table>                                                                   ");
-document.writeln("       ");
-
-
-
-
-
-
-
-document.writeln("                <table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>");
-document.writeln("	274期</font><font color=\'#000080\' face=\'微软雅黑\'>九肖</font><font color=\'#FF00FF\' face=\'仿宋\' style=\'font-size: 14pt\'>鼠蛇羊猴鸡马<span style=\'background-color: #FFFF00\'>狗</span>兔虎</font><font face=\'仿宋\' style=\'font-size: 14pt\'>开狗44准</font></b></table>                                                                   ");
+document.writeln("	274期</font><font color=\'#000080\' face=\'微软雅黑\'>九肖</font><font color=\'#FF00FF\' face=\'仿宋\' style=\'font-size: 14pt\'>鼠蛇羊猴鸡马狗兔虎</font><font face=\'仿宋\' style=\'font-size: 14pt\'>开？00准</font></b></table>                                                                   ");
 document.writeln("       ");
 
 
