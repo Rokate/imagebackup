@@ -402,7 +402,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>277期红字暗码：【生龙活虎06 23 24 38】</font><font face=\'华文中宋\'><br>");
-document.writeln("	解释：生龙活虎是由生龙活虎四字构成的联合式成语，其核心含义通过富有生气的蛟龙与充满活力的猛虎的比喻组合，生龙活虎是由生龙活虎四字构成的联合式成语，其核心含义通过富有生气的蛟龙与充满活力的猛虎的比喻组合，</font></b><br>");
+document.writeln("	解释：生龙活虎是由生龙活虎四字构成的联合式成语，其核心含义通过富有生气的蛟龙与充满活力的猛虎的比喻组合，</font></b><br>");
 document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
 document.writeln("	<b>红字解六肖：马<span style=\'background-color: #FFFF00\'>虎</span>龙羊鼠蛇鸡</b></font></td></b>");
 document.writeln("</tr>");
@@ -2431,9 +2431,7 @@ document.writeln("</font>		</tr>");
 document.writeln("");
 
 
-document.writeln("		");
-document.writeln("							");
-document.writeln("	<!--开始");
+
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>279期今日闲情暗语：轻吻<br>");
