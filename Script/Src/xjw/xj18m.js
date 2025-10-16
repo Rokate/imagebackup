@@ -47,6 +47,7 @@ document.writeln("");
 
 
 
+
 document.writeln("  <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=38 >");
@@ -55,9 +56,28 @@ document.writeln("");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		<font color=\"#0000FF\">289期【玄机特码诗】猜透必中开（？00）</font><br>");
-document.writeln("①解特九肖：虎猴牛鸡鼠猪马蛇龙<br>");
-document.writeln("②解特五肖：虎猴牛鸡鼠<br>");
+document.writeln("		<font color=\"#0000FF\">290期【玄机特码诗】猜透必中开（？00）</font><br>");
+document.writeln("①解特九肖：狗蛇羊鸡鼠猴龙猪牛 <br>");
+document.writeln("②解特五肖：狗蛇羊鸡鼠<br>");
+document.writeln("③解特18码：32.44.01.13.35.47.09.21.18.30.10.22.02.14.19.31.17.29  </b></font></p></td>");
+document.writeln("    </tr>     ");
+document.writeln("     <!--结束-->");
+document.writeln("	");
+document.writeln("	");
+
+
+
+document.writeln("  <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=38 >");
+document.writeln("		<p align=\'left\'>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<b>");
+document.writeln("");
+document.writeln("		<font color=\"#0000FF\">289期【玄机特码诗】猜透必中开（鼠42）</font><br>");
+document.writeln("①解特九肖：虎猴牛鸡<span style='background-color: #FFFF00\'>鼠</span>猪马蛇龙<br>");
+document.writeln("②解特五肖：虎猴牛鸡<span style='background-color: #FFFF00\'>鼠</span><br>");
 document.writeln("③解特18码：04.16.34.46.17.29.09.33.06.30.19.31.12.48.01.13.14.26</b></font></p></td>");
 document.writeln("    </tr>     ");
 document.writeln("     <!--结束-->");
