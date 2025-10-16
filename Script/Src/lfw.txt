@@ -225,24 +225,54 @@ document.writeln("<table width=\'100%\' class=\'duilianpt\' id=\'table400922120\
 document.writeln("");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("	<td align=\'left\'><b><font face=\'华文中宋\'><font color=\'#FFFFFF\'>");
-document.writeln("	<span style=\'background-color: #008000\'>289期雷锋码报开</span><span style=\'background-color: #800000\'>（？00）</span><span style=\'background-color: #000000\'><br></span></font>");
-document.writeln("	雷锋一句话：<font color=\'#FF0000\'>洞在清溪何处边</font><br>");
-document.writeln("	四字真言：<font color=\'#FF0000\'>小巧玲珑</font><br>");
+document.writeln("	<span style=\'background-color: #008000\'>290期雷锋码报开</span><span style=\'background-color: #800000\'>（？00）</span><span style=\'background-color: #000000\'><br></span></font>");
+document.writeln("	雷锋一句话：<font color=\'#FF0000\'>君子不夺人之好</font><br>");
+document.writeln("	四字真言：<font color=\'#FF0000\'>蛇行狗走</font><br>");
 document.writeln("	五字波色：<font color=\'#FF0000\'>红日配蓝天</font><br>");
 document.writeln("	");
-document.writeln("	送平一肖：<font color=\'#FF0000\'>【马】</font><br>");
+document.writeln("	送平一肖：<font color=\'#FF0000\'>【猪】</font><br>");
+document.writeln("		<font color=\'#FFFFFF\'><span style=\'background-color: #FF0000\'>");
+document.writeln("	解释：</span></font>");
+document.writeln("");
+document.writeln("君子不夺人之好【解释】：意思是君子不侵夺别人所喜爱的东西，。【出自】：元·马致远《任风子》四：君子，解男肖狗龙马猴鼠牛虎。四字蛇行狗走【解释】：蜿蜒曲折的爬行方式，象征灵活，解得蛇狗。</font></b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
+document.writeln("	综合解特：狗龙马猴鼠牛虎<br>");
+document.writeln("	主特五肖：狗龙马猴鼠<br>");
+document.writeln("	主特四肖：狗龙马猴</font></b></td></b>");
+document.writeln("</font>");
+document.writeln("</font>		</tr>");
+document.writeln("");
+document.writeln("		<!--结束-->");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("<!--开始-->");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("	<td align=\'left\'><b><font face=\'华文中宋\'><font color=\'#FFFFFF\'>");
+document.writeln("	<span style=\'background-color: #008000\'>289期雷锋码报开</span><span style=\'background-color: #800000\'>（鼠42）</span><span style=\'background-color: #000000\'><br></span></font>");
+document.writeln("	雷锋一句话：<font color=\'#FF0000\'>洞在清溪何处边</font><br>");
+document.writeln("	四字真言：<font color=\'#FF0000\'>小巧玲珑</font><br>");
+document.writeln("	五字波色：<font color=\'#FF0000\'>红日配<span style=\'background-color: #FFFF00\'>蓝天</span></font><br>");
+document.writeln("	");
+document.writeln("	送平一肖：<font color=\'#FF0000\'>【<span style=\'background-color: #FFFF00\'>马</span>】</font><br>");
 document.writeln("		<font color=\'#FFFFFF\'><span style=\'background-color: #FF0000\'>");
 document.writeln("	解释：</span></font>");
 document.writeln("");
 document.writeln("洞在清溪何处边【解释】：抒写一种向往世外桃源，追求美好生活的心情。【出自】：唐代张旭的《桃花溪》：洞在，解洞肖蛇狗兔鼠，清溪，解水肖鼠猪。四字小巧玲珑【解释】：意思是形容东西小而精致。解小肖蛇鸡猴龙鼠兔。</font></b><br>");
 document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	综合解特：蛇狗兔鼠鸡猴龙<br>");
-document.writeln("	主特五肖：蛇狗兔鼠鸡<br>");
-document.writeln("	主特四肖：蛇狗兔鼠</font></b></td></b>");
+document.writeln("	综合解特：蛇狗兔<span style=\'background-color: #FFFF00\'>鼠</span>鸡猴龙<br>");
+document.writeln("	主特五肖：蛇狗兔<span style=\'background-color: #FFFF00\'>鼠</span>鸡<br>");
+document.writeln("	主特四肖：蛇狗兔<span style=\'background-color: #FFFF00\'>鼠</span></font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
@@ -494,57 +524,30 @@ document.writeln("");
 
 
 
-
-
-
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>292期红字暗码：【更新中】</font><font face=\'华文中宋\'><br>");
+document.writeln("	解释：更新中</font></b><br>");
+document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
+document.writeln("	<b>红字解六肖：更新中</b></font></td></b>");
+document.writeln("</tr>");
+document.writeln("");
 
 document.writeln("");
 document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>289期红字暗码：【五谷飘香06 21 40 43】</font><font face=\'华文中宋\'><br>");
-document.writeln("	解释：“五谷飘香”并非传统成语，而是一个现代常用的四字短语，用于形容粮食丰收时谷物散发香气的景象。</font></b><br>");
+document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>291期红字暗码：【更新中】</font><font face=\'华文中宋\'><br>");
+document.writeln("	解释：更新中</font></b><br>");
+document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
+document.writeln("	<b>红字解六肖：更新中</b></font></td></b>");
+document.writeln("</tr>");
+document.writeln("");
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>290期红字暗码：【千沟万壑09 13 28 41】</font><font face=\'华文中宋\'><br>");
+document.writeln("	解释：是汉语成语，包含两层含义：一是指自然地貌特征，形容地面上存在大量沟壑的地形；二是引申为比喻人生道路或事物发展过程中充满艰难险阻。</font></b><br>");
 document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
 document.writeln("	<b>红字解六肖：虎猴蛇兔狗牛</b></font></td></b>");
-document.writeln("</tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>287期红字暗码：【勤以立身09 26 37 44】</font><font face=\'华文中宋\'><br>");
-document.writeln("	解释：意为勤俭才能生存下去。该成语可作宾语、定语使用。成语内涵强调以勤勉为根基实现自我成长。</font></b><br>");
-document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	<b>红字解六肖：鸡马狗牛虎<span style=\'background-color: #FFFF00\'>猴</span></b></font></td></b>");
-document.writeln("</tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>285期红字暗码：【根壮叶茂12 25 41 48】</font><font face=\'华文中宋\'><br>");
-document.writeln("	解释：根壮叶茂通常被解读为生肖牛或猪，亦有观点指向龙、马等生肖，其成语本义指根基牢固方能蓬勃发展。</font></b><br>");
-document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	<b>红字解六肖：兔<span style=\'background-color: #FFFF00\'>马</span>狗龙蛇虎</b></font></td></b>");
-document.writeln("</tr>");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>283期红字暗码：【取长补短04 21 38 42】</font><font face=\'华文中宋\'><br>");
-document.writeln("	解释：取别人的长处，来弥补自己的不足之处。也泛指在同类事物中吸取这个的长处来弥补那个的短处。</font></b><br>");
-document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	<b>红字解六肖：蛇羊猪兔狗<span style=\'background-color: #FFFF00\'>鸡</span></b></font></td></b>");
-document.writeln("</tr>");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>282期红字暗码：【隔岸观火08 19 34 37】</font><font face=\'华文中宋\'><br>");
-document.writeln("	解释：比喻置身事外,采取旁观的态度。军事上指交战者火并时，第三方采取坐山观虎斗的态度，等待时机，从中获利。</font></b><br>");
-document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	<b>红字解六肖：<span style=\'background-color: #FFFF00\'>牛</span>蛇猪虎兔鼠</b></font></td></b>");
 document.writeln("</tr>");
 document.writeln("");
 
@@ -709,67 +712,38 @@ document.writeln("	结束-->");
 
 
 
-
 document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\'><font color=\'#FF0000\'>289期管家婆解梦:龙凤胎转世</font><br>");
-document.writeln("		解释：龙凤胎转世，解吉肖蛇鸡龙马羊兔</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：蛇鸡龙马羊兔</font></b></td></b>");
+document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\'><font color=\'#FF0000\'>293期管家婆解梦:更新中</font><br>");
+document.writeln("		解释：更新中</font></b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：更新中</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 
 
 
-
-
 document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\'><font color=\'#FF0000\'>287期管家婆解梦:龙凤两成双</font><br>");
-document.writeln("		解释：龙凤两成双，解双肖虎龙狗猴鼠马</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：虎龙狗<span style=\'background-color: #FFFF00\'>猴</span>鼠马</font></b></td></b>");
+document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\'><font color=\'#FF0000\'>292期管家婆解梦:更新中</font><br>");
+document.writeln("		解释：更新中</font></b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：更新中</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 
 
-
-
 document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\'><font color=\'#FF0000\'>284期管家婆解梦:两个单身狗</font><br>");
-document.writeln("		解释：两个单身狗，解单肖羊兔鸡猪蛇牛</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：羊兔鸡猪蛇<span style=\'background-color: #FFFF00\'>牛</span></font></b></td></b>");
+document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\'><font color=\'#FF0000\'>291期管家婆解梦:更新中</font><br>");
+document.writeln("		解释：更新中</font></b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：更新中</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 
 
-
-
-
 document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\'><font color=\'#FF0000\'>283期管家婆解梦:湖中有地蛇</font><br>");
-document.writeln("		解释：湖中有地蛇，解地肖鼠虎狗鸡羊蛇</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：鼠虎狗<span style=\'background-color: #FFFF00\'>鸡</span>羊蛇</font></b></td></b>");
+document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\'><font color=\'#FF0000\'>290期管家婆解梦:前方龙抢地</font><br>");
+document.writeln("		解释：前方龙抢地，解地肖鼠虎狗鸡羊蛇</font></b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：鼠虎狗鸡羊蛇</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 
-
-
-
-
-document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\'><font color=\'#FF0000\'>282期管家婆解梦:夜黑母狗归</font><br>");
-document.writeln("		解释：夜黑母狗归，解夜肖鼠牛虎鸡狗猪</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：鼠<span style=\'background-color: #FFFF00\'>牛</span>虎鸡狗猪</font></b></td></b>");
-document.writeln("</font>");
-document.writeln("</font>		</tr>");
-
-
-
-
-
-document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\'><font color=\'#FF0000\'>281期管家婆解梦:喜事传八方</font><br>");
-document.writeln("		解释：喜事传八方，解吉肖蛇鸡龙马羊兔</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：蛇鸡龙马<span style=\'background-color: #FFFF00\'>羊</span>兔</font></b></td></b>");
-document.writeln("</font>");
-document.writeln("</font>		</tr>");
 
 
 
@@ -972,7 +946,7 @@ document.writeln("	");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=left>");
 document.writeln("	<b><font face=\'宋体\' color=\'#FFFFFF\'>");
-document.writeln("	<span style=\'background-color: #000000\'>111期平特玄机</span></font>:</b><font color=\'#008000\'><b>更新中</b></font></td></tr>");
+document.writeln("	<span style=\'background-color: #000000\'>112期平特玄机</span></font>:</b><font color=\'#008000\'><b>更新中</b></font></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr><td width=100% height=40><p align=left><b>");
@@ -996,7 +970,7 @@ document.writeln("		<font size=\'3\'>复式连码:</font></font><font color=\'#F
 document.writeln("");
 document.writeln(" ");
 document.writeln("<tr><td width=100% height=40 bgcolor=\'#FFFF99\'><p align=\'center\'><b>");
-document.writeln("	<font size=\'2\'>111期开奖结果：00.00.00.00.00.00T00</font></td></tr></table>");
+document.writeln("	<font size=\'2\'>112期开奖结果：00.00.00.00.00.00T00</font></td></tr></table>");
 document.writeln("	");
 document.writeln("	");
 document.writeln("	");
@@ -1011,32 +985,32 @@ document.writeln("						");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=left>");
 document.writeln("	<b><font face=\'宋体\' color=\'#FFFFFF\'>");
-document.writeln("	<span style=\'background-color: #000000\'>289期平特玄机</span></font>:</b><font color=\'#008000\'><b>太监阴险害忠良，二三肖</b></font></td></tr>");
+document.writeln("	<span style=\'background-color: #000000\'>290期平特玄机</span></font>:</b><font color=\'#008000\'><b>二三组合有玄机，有财气</b></font></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr><td width=100% height=40><p align=left><b>");
-document.writeln("		<font face=\'宋体\'>推荐解析:</font></b><font color=\'#FF0000\'><b>二三肖，02龙，03兔，23羊</b></font></td></tr>");
+document.writeln("		<font face=\'宋体\'>推荐解析:</font></b><font color=\'#FF0000\'><b>二三组合有玄机，02龙，03兔，23羊</b></font></td></tr>");
 document.writeln("");
 document.writeln("<tr><td width=100% height=37><p align=left><b>");
 document.writeln("		<font face=\'宋体\'>平特一肖:</font></b><font color=\'#FF0000\'><b>龙龙龙</b></font><b><font face=\'宋体\' color=\'#FF0000\'>（</font><font color=\'#FF0000\'>02.14.26</font><font face=\'宋体\' color=\'#FF0000\'>）</font></b></td></tr>");
 document.writeln("		");
 document.writeln("<tr><td width=100% height=47><p align=left><b>");
 document.writeln("		<font face=\'宋体\'>");
-document.writeln("		<font size=\'3\'>平特二连:</font><font color=\'#FF0000\'>（</font></font></b><font color=\'#FF0000\'><b>龙兔</b></font><b><font color=\'#FF0000\' face=\'宋体\'>）（</font></b><font color=\'#FF0000\'><b>兔羊</b></font><b><font color=\'#FF0000\' face=\'宋体\'>）（</font></b><font color=\'#FF0000\'><b>羊马</b></font><b><font color=\'#FF0000\' face=\'宋体\'>）</font></b></td></tr>");
+document.writeln("		<font size=\'3\'>平特二连:</font><font color=\'#FF0000\'>（</font></font><font color=\'#FF0000\'>龙兔</font><font color=\'#FF0000\' face=\'宋体\'>）（</font><font color=\'#FF0000\'>兔羊</font><font color=\'#FF0000\' face=\'宋体\'>）（</font><font color=\'#FF0000\'>羊鼠</font><font color=\'#FF0000\' face=\'宋体\'>）</font></b></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr><td width=100% height=34><p align=left><b>");
-document.writeln("		<font face=\'宋体\'>复式连肖:</font></b><font color=\'#FF0000\'><b>龙兔羊马</b></font></td></tr>");
+document.writeln("		<font face=\'宋体\'>复式连肖:</font><font color=\'#FF0000\'>龙兔羊鼠</font></b></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr><td width=100% height=42><p align=left><b>");
 document.writeln("		<font size=\'3\'>");
 document.writeln("		<font face=\'宋体\'>");
-document.writeln("		复式连码:</font><font color=\'#FF0000\'>02.14.26.03.15.11.23.36.48</font></font></b></td></tr>");
+document.writeln("		复式连码:</font><font color=\'#FF0000\'>02.14.26.03.15.11.23.</font></font></b><font color=\'#FF0000\'><b>30.42</b></font></td></tr>");
 document.writeln("");
 document.writeln(" ");
 document.writeln("<tr><td width=100% height=40 bgcolor=\'#FFFF99\'><p align=\'center\'><b>");
-document.writeln("	<font size=\'2\'>289期开奖结果：00.00.00.00.00.00T00</font></td></tr></table>");
+document.writeln("	<font size=\'2\'>290期开奖结果：00.00.00.00.00.00T00</font></td></tr></table>");
 document.writeln("	");
 document.writeln("																																		");
 document.writeln("			");
@@ -1206,10 +1180,10 @@ document.writeln("	结束-->");
 document.writeln("	");
 document.writeln("");
 document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'69\'><b><font color=\'#FF0000\' face=\'华文中宋\'>289期藏宝图曾道人玄机：三四出码开二二");
+document.writeln("	<td align=\'left\' height=\'69\'><b><font color=\'#FF0000\' face=\'华文中宋\'>290期藏宝图曾道人玄机：春到人间万物苏");
 document.writeln("	</font><br>");
-document.writeln("	解释：三四出码开二二，03兔，04虎，02龙，22猴</b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>解特肖：兔虎龙猴牛马</font></b></td></b>");
+document.writeln("	解释：人间，解家禽牛鸡猪羊马狗</b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>解特肖：牛鸡猪羊马狗</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
@@ -2047,8 +2021,8 @@ document.writeln("	结束-->	");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>");
-document.writeln("	289期澳门正版蛇蛋图：新发型<br>");
-document.writeln("	</font><font face=\'华文中宋\'>解释：新发型，解美肖马羊兔蛇鸡龙</font></b><br>");
+document.writeln("	290期澳门正版蛇蛋图：宣传<br>");
+document.writeln("	</font><font face=\'华文中宋\'>解释：宣传，解美肖马羊兔蛇鸡龙</font></b><br>");
 document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：马羊兔蛇鸡龙</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
@@ -2857,13 +2831,24 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>292期今日闲情暗语：更新中<br>");
+document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>293期今日闲情暗语：更新中<br>");
 document.writeln("	</font><font face=\'华文中宋\'>解释：更新中</font></b><br>");
 document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合取肖：更新中</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
 
+
+
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>292期今日闲情暗语：更新中<br>");
+document.writeln("	</font><font face=\'华文中宋\'>解释：更新中</font></b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合取肖：更新中</font></b></td></b>");
+document.writeln("</font>");
+document.writeln("</font>		</tr>");
+document.writeln("");
 
 
 
@@ -2880,19 +2865,8 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>290期今日闲情暗语：更新中<br>");
-document.writeln("	</font><font face=\'华文中宋\'>解释：更新中</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合取肖：更新中</font></b></td></b>");
-document.writeln("</font>");
-document.writeln("</font>		</tr>");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>289期今日闲情暗语：西游记<br>");
-document.writeln("	</font><font face=\'华文中宋\'>解释：西游记，解家禽马牛鸡猪狗羊</font></b><br>");
+document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>290期今日闲情暗语：自行车<br>");
+document.writeln("	</font><font face=\'华文中宋\'>解释：自行车，解家禽马牛鸡猪狗羊</font></b><br>");
 document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合取肖：马牛鸡猪狗羊</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
@@ -3069,7 +3043,7 @@ document.writeln("<tr>");
 document.writeln("		<td class=\'center f13 black l150\' style=\'border-color: #D0FFFF; \' align=\'center\' bgcolor=#FFFFFF>");
 document.writeln("		  ");
 document.writeln("         	<b>");
-document.writeln("         <font color=\'#008000\' face=\'黑体\' size=\'4\'>以下统计至2020-067-2025-289期（错435）</font></b></td>");
+document.writeln("         <font color=\'#008000\' face=\'黑体\' size=\'4\'>以下统计至2020-067-2025-290期（错436）</font></b></td>");
 document.writeln("	</tr></table>");
 document.writeln("	");
 document.writeln("	<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' style=\'border: 1px solid #E70012;\' height=\'36\'>	");
@@ -3077,7 +3051,7 @@ document.writeln("<tr>");
 document.writeln("		<td class=\'center f13 black l150\' style=\'border-color: #D0FFFF; \' align=\'center\' bgcolor=#FFFFFF>");
 document.writeln("		  ");
 document.writeln("         	<b><font color=\'#000000\' face=\'黑体\'>");
-document.writeln("			<span style=\'background-color: #FFFFFF\'>上期开鼠:</span></font><span style=\'background-color: #FFFFFF\'><font face=\'黑体\' size=\'4\'><font color=\'#FF0000\'>羊牛虎猪鸡龙狗兔鼠</font><font color=\'#0000FF\'>(错40)</font></font> ");
+document.writeln("			<span style=\'background-color: #FFFF00\'>290上期开鼠:</span></font><span style=\'background-color: #FFFF00\'><font face=\'黑体\' size=\'4\'><font color=\'#FF0000\'>羊牛虎猪鸡龙狗兔鼠</font><font color=\'#0000FF\'>(错40)</font></font> ");
 document.writeln("			</font> ");
 document.writeln("			</span> ");
 document.writeln("			</b> </td>");
@@ -3117,7 +3091,7 @@ document.writeln("<tr>");
 document.writeln("		<td class=\'center f13 black l150\' style=\'border-color: #D0FFFF; \' align=\'center\' bgcolor=#FFFFFF>");
 document.writeln("		  ");
 document.writeln("         	<b><font color=\'#000000\' face=\'黑体\'>");
-document.writeln("			<span style=\'background-color: #FFFF00\'>289上期开龙:</span></font><span style=\'background-color: #FFFF00\'><font face=\'黑体\' size=\'4\'><font color=\'#FF0000\'>龙兔虎羊蛇猴马牛狗</font><font color=\'#0000FF\'>(错44)</font></font></span><span style=\'background-color: #FFFFFF\'> ");
+document.writeln("			<span style=\'background-color: #FFFFFF\'>上期开龙:</span></font><span style=\'background-color: #FFFFFF\'><font face=\'黑体\' size=\'4\'><font color=\'#FF0000\'>龙兔虎羊蛇猴马牛狗</font><font color=\'#0000FF\'>(错45)</font></font> ");
 document.writeln("			</font> ");
 document.writeln("			</span> ");
 document.writeln("			</b> </td>");
