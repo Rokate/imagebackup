@@ -47,25 +47,22 @@ document.writeln("");
 
 
 
-
-
-
 document.writeln("");
 document.writeln(" <!----开始---->");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'99%\' colspan=\'3\' bgcolor=\'#D4D4D4\'>");
 document.writeln("		<p align=\"center\"><font face=\'Arial Black\' size=\'4\' color=\'#000000\'> ");
-document.writeln("		291期A级大公开;准确率100%!</font></td> ");
+document.writeln("		292期A级大公开;准确率100%!</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		291期一码</font></td> ");
+document.writeln("		292期一码</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\"><font size=\'4\' color=\'#0000FF\'>重拳出击-</font><b><font color=\'#FF0000\' face=\'Arial\' size=\"5\">05</font></b><font size=\'4\' color=\'#0000FF\'>-信心十足</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:？00</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		291期三码</font></td> ");
+document.writeln("		292期三码</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'>");
 document.writeln("		05.17.21</font></td> ");
@@ -73,7 +70,7 @@ document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("    </tr> ");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		291期06码</font></td> ");
+document.writeln("		292期06码</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
 document.writeln("		05.17.21.33.14.26</font></td> ");
@@ -81,16 +78,16 @@ document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("    </tr> ");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		291期18码</font></td> ");
+document.writeln("		292期18码</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\"> ");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'>");
-document.writeln("		05.17.21.33.14.26.19.31.15 <br>");
+document.writeln("		05.17.21.33.14.26.19.31.15<br>");
 document.writeln("		27.10.22.24.36.13.25.23.35</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:？00</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("        <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		291期一肖</font></td> ");
+document.writeln("		292期一肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\"><b>");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' size=\"5\"> ");
 document.writeln("		牛</font></b></td> ");
@@ -98,7 +95,7 @@ document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("    </tr>");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		291期三肖</font></td> ");
+document.writeln("		292期三肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
 document.writeln("		牛鸡龙</font></td> ");
@@ -106,7 +103,7 @@ document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("    </tr> ");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		291期五肖</font></td> ");
+document.writeln("		292期五肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
 document.writeln("		牛鸡龙猪兔</font></td> ");
@@ -115,7 +112,7 @@ document.writeln("    </tr> ");
 document.writeln("    ");
 document.writeln("        <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		291期七肖</font></td> ");
+document.writeln("		292期七肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
 document.writeln("		牛鸡龙猪兔猴马</font></td> ");
@@ -124,7 +121,7 @@ document.writeln("    </tr> ");
 document.writeln("    ");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		291期九肖</font></td> ");
+document.writeln("		292期九肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
 document.writeln("		牛鸡龙猪兔猴马蛇羊</font></td> ");
