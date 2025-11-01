@@ -1219,7 +1219,7 @@ document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40><p s
 document.writeln("<b>");
 document.writeln("<font face=\'微软雅黑\'>");
 document.writeln("<span style=\'box-sizing:border-box; font-size:14pt\'><font color=\'#008000\'>【</font><font color=\'#000000\'>猴主10.22</font><font color=\'#008000\'>】【</font><font color=\'#000000\'>兔主15.39</font><font color=\'#008000\'>】</font><font color=\'#000000\'><br>");
-document.writeln("</font><font color=\'#008000\'>【</font><font color=\'#000000\'>猪主31.07</font><font color=\'#008000\'>】【</font><font color=\'#000000'>羊主11.23</font><font color=\'#008000\'>】</font><font color=\'#000000\'><br>");\
+document.writeln("</font><font color=\'#008000\'>【</font><font color=\'#000000\'>猪主31.07</font><font color=\'#008000\'>】【</font><font color=\'#000000'>羊主11.23</font><font color=\'#008000\'>】</font><font color=\'#000000\'><br>");
 document.writeln("</font><font color=\'#0000FF\'>第305期开奖结果:</font><span style=\'background-color: #FFFF00\'><font color=\'#FF00FF\'>？00准</font></span></span></font><span style=box-sizing:border-box;font-size:14pt>");
 document.writeln("</tr>");
 
