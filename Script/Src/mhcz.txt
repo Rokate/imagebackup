@@ -4031,7 +4031,12 @@ document.writeln("");
 
 
 document.writeln("      <tr>");
-document.writeln("		<td align=\'center\' height=40><b><font size=\'4\'>312期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖蓝单〗</font><font color=\'#008000\'>开？00准</font></font></b></td>");
+document.writeln("		<td align=\'center\' height=40><b><font size=\'4\'>313期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖蓝双〗</font><font color=\'#008000\'>开？00准</font></font></b></td>");
+document.writeln("		</tr>");
+
+
+document.writeln("      <tr>");
+document.writeln("		<td align=\'center\' height=40><b><font size=\'4\'>312期<font color=\'#800080\'>绝杀半波</font><font color=\'#FF0000\'>〖蓝单〗</font><font color=\'#008000\'>开龙14准</font></font></b></td>");
 document.writeln("		</tr>");
 
 
