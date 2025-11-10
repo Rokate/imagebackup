@@ -10262,7 +10262,7 @@ document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=39><p s
 document.writeln("<b>");
 document.writeln("<font face=\'微软雅黑\'>");
 document.writeln("<span style=\'box-sizing:border-box; font-size:14pt\'><font color=\'#008000\'>313期【</font><font color=\'#FF0000\'>单:7513</font><font color=\'#008000\'>】</font><font color=\'#000000\'>尾</font><font color=\'#008000\'> ");
-document.writeln("【</font><font color=\'#FF0000\'>双:<span style=\'background-color: #FFFF00\'>4</span>26</font><font color=\'#008000\'>】</font><font color=\'#000000\'>开龙38准 ");
+document.writeln("【</font><font color=\'#FF0000\'>双:<span style=\'background-color: #FFFF00\'>4</span>206</font><font color=\'#008000\'>】</font><font color=\'#000000\'>开龙38准 ");
 document.writeln("</font></span></font>");
 document.writeln("</tr>");
 
