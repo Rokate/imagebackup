@@ -17,12 +17,17 @@ document.writeln("			<a target=\'_blank\' href=\'https://x2.xn--3dcs9bto1bp5c8a.
 document.writeln("");
 document.writeln("");
 
-
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("322期</font><font color=\'#FF0000\' size=\"5\">（羊虎牛+6208尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("321期</font><font color=\'#FF0000\' size=\"5\">（羊狗猪+9358尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("321期</font><font color=\'#FF0000\' size=\"5\">（<span style=\'background-color: #FFFF00\'>羊</span>狗猪+9<span style=\'background-color: #FFFF00\'>3</span>58尾）</font><font size=\'4\'>开羊23</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 
@@ -403,25 +408,25 @@ document.writeln("<!--必中start-->");
 document.writeln("<div class=\'box\'>");
 document.writeln("");
 
-
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong555\'>");
 document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（准准准！）一尾一码</div>");
 document.writeln("	<div class=\'bizhong555-box\'>");
 document.writeln("    	<div class=\'bizhong555-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">321期必中18码：</font><font color=\'#FF0000\' size=\'2\'>16.26.36.22.32.42.04.24.44.27.37.47.05.15.45.10.20.30</font></li>");
-document.writeln("            	<li>321期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">16.26.36.22.32.42.04.24.44.27.37.47</font></li>");
-document.writeln("            	<li>321期必中六码：<font color=\'#FF0000\' size=\'4\'>16.26.36.22.32.42</font></li>");
-document.writeln("            	<li>321期必中①码：<font color=\'#FF0000\' size=\'5\'>（6尾-16.26.36）</font></li>");
-document.writeln("            	<li>321期必中三尾：<font color=\'#FF0000\' size=\'4\'>6-2-4</font></li>");
-document.writeln("            	<li>321期必中六尾：<font color=\'#FF0000\' size=\'4\'>6-2-4-7-5-0</font></li>");
+document.writeln(" 	            <li><font size=\"2\">322期必中18码：</font><font color=\'#FF0000\' size=\'2\'>01.21.31.25.35.45.10.20.30.22.32.42.26.36.46.14.24.34</font></li>");
+document.writeln("            	<li>322期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">01.21.31.25.35.45.10.20.30.22.32.42</font></li>");
+document.writeln("            	<li>322期必中六码：<font color=\'#FF0000\' size=\'4\'>01.21.31.25.35.45</font></li>");
+document.writeln("            	<li>322期必中①码：<font color=\'#FF0000\' size=\'5\'>（1尾-01.21.31）</font></li>");
+document.writeln("            	<li>322期必中三尾：<font color=\'#FF0000\' size=\'4\'>1-5-0</font></li>");
+document.writeln("            	<li>322期必中六尾：<font color=\'#FF0000\' size=\'4\'>1-5-0-2-6-4</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
+
 
 
 
