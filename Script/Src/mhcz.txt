@@ -621,7 +621,13 @@ document.writeln("");
 
 document.writeln("		<tr>");
 document.writeln("			<td height=\'39\'>");
-document.writeln("					<p align=\'center\'><b><font color=\'#008000\' size=\'4\'>324期：</font><font color=\'#FF00FF\' size=\'4\'>必中【单头】</font><font color=\'#008000\' size=\'4\'>开？00准</font></b></td>");
+document.writeln("					<p align=\'center\'><b><font color=\'#008000\' size=\'4\'>325期：</font><font color=\'#FF00FF\' size=\'4\'>必中【单头】</font><font color=\'#008000\' size=\'4\'>开？00准</font></b></td>");
+document.writeln("		</tr>");
+
+
+document.writeln("		<tr>");
+document.writeln("			<td height=\'39\'>");
+document.writeln("					<p align=\'center\'><b><font color=\'#008000\' size=\'4\'>324期：</font><font color=\'#FF00FF\' size=\'4\'>必中【单头】</font><font color=\'#008000\' size=\'4\'>开兔15准</font></b></td>");
 document.writeln("		</tr>");
 
 
