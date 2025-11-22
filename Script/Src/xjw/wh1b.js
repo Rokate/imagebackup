@@ -47,8 +47,20 @@ document.writeln("	<!--gavc-->										");
 document.writeln("	<tr>");
 document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
 document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">326期 网红一波<font color=\"#FF0000\">【红波】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【绿波红波】</font>开？00</span></td>");
+document.writeln("<span style=\"font-size: 16pt\">327期 网红一波<font color=\"#FF0000\">【蓝波】</font><BR>");
+document.writeln("网红双波<font color=\"#FF0000\">【蓝波红波】</font>开？00</span></td>");
+document.writeln("	</tr>");
+document.writeln("	<!--结束-->	");
+document.writeln("");
+
+
+
+document.writeln("	<!--gavc-->										");
+document.writeln("	<tr>");
+document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
+document.writeln("		");
+document.writeln("<span style=\"font-size: 16pt\">326期 网红一波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>红波</span>】</font><BR>");
+document.writeln("网红双波<font color=\"#FF0000\">【绿波<span style='background-color: #FFFF00\'>红波</span>】</font>开猪19</span></td>");
 document.writeln("	</tr>");
 document.writeln("	<!--结束-->	");
 document.writeln(""); 
