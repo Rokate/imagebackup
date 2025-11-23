@@ -19,14 +19,14 @@ document.writeln("");
 
 
 
-
-
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("327期</font><font color=\'#FF0000\' size=\"5\">（鸡兔蛇+6293尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("328期</font><font color=\'#FF0000\' size=\"5\">（狗兔鼠+0436尾）</font><font size=\'4\'>开？00</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
+
 
 
 
@@ -122,12 +122,16 @@ document.writeln("");
 
 
 
-
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	328期<font color=\'#FF0000\'>（大数+1头）</font>开？00√</font></b></font></table>");
+document.writeln("		<!--结束-->");
 
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	327期<font color=\'#FF0000\'>（小数+3头）</font>开？00√</font></b></font></table>");
+document.writeln("	327期<font color=\'#FF0000\'>（小数+<span style=\'background-color: #FFFF00\'>3头</span>）</font>开蛇37√</font></b></font></table>");
 document.writeln("		<!--结束-->");
 
 
@@ -377,12 +381,16 @@ document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#
 document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 18pt\'>特码来迟</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 18pt\'>『家野两肖』</font></b></table>");
 
 
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("328期：<font color=\'#0000FF\'>（野兽+马羊）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
 
 
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("327期：<font color=\'#0000FF\'>（野兽+牛羊）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("327期：<font color=\'#0000FF\'>（<span style=\'background-color: #FFFF00\'>野兽</span>+牛羊）</font>开<font color=\'#FF0000\'>(蛇37)</font></font></b></font></table>");
 
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
@@ -500,7 +508,12 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>327期：</font>【<font color=\'#008000\'>双数+蛇羊</font>】开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>328期：</font>【<font color=\'#008000\'>单数+龙马</font>】开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("		<!--结束-->")
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>327期：</font>【<font color=\'#008000\'>双数+<span style=\'background-color: #FFFF00\'>蛇</span>羊</font>】开<font color=\'#FF0000\'>(蛇37)</font></font></b></font></table>");
 document.writeln("		<!--结束-->")
 
 document.writeln("<!--开始-->");
