@@ -29,7 +29,7 @@ document.writeln("</style>");
 document.writeln("");
 document.writeln("<body>");
 document.writeln("  ");
-document.writeln("<img src=\"https://amo.sanyiyuntong.com:4949/col/330/amzy.jpg\" alt=\"\" width=\"100%\">");
+document.writeln("<img src=\"https://amo.sanyiyuntong.com:4949/col/331/amzy.jpg\" alt=\"\" width=\"100%\">");
 document.writeln("");
 document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
@@ -46,6 +46,7 @@ document.writeln("");
 
 
 
+
 document.writeln("  <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=38 >");
@@ -54,9 +55,27 @@ document.writeln("");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		<font color=\"#0000FF\">330期【玄机特码诗】猜透必中开（？00）</font><br>");
-document.writeln("①解特九肖：猴马猪虎鼠羊龙牛兔<br>");
-document.writeln("②解特五肖：猴马猪虎鼠<br>");
+document.writeln("		<font color=\"#0000FF\">331期【玄机特码诗】猜透必中开（？00）</font><br>");
+document.writeln("①解特九肖：鼠猪鸡龙猴羊狗蛇马 <br>");
+document.writeln("②解特五肖：鼠猪鸡龙猴<br>");
+document.writeln("③解特18码：18.30.19.31.21.33.26.38.34.46.11.23.20.32.25.37.24.36 </b></font></p></td>");
+document.writeln("    </tr>     ");
+document.writeln("     <!--结束-->");
+document.writeln("	");
+document.writeln("	");
+
+
+document.writeln("  <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=38 >");
+document.writeln("		<p align=\'left\'>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<b>");
+document.writeln("");
+document.writeln("		<font color=\"#0000FF\">330期【玄机特码诗】猜透必中开（马36）</font><br>");
+document.writeln("①解特九肖：猴<span style='background-color: #FFFF00\'>马</span>猪虎鼠羊龙牛兔<br>");
+document.writeln("②解特五肖：猴<span style='background-color: #FFFF00\'>马</span>猪虎鼠<br>");
 document.writeln("③解特18码：10.34.24.48.19.31.16.28.18.30.23.35.26.38.29.41.03.15</b></font></p></td>");
 document.writeln("    </tr>     ");
 document.writeln("     <!--结束-->");
