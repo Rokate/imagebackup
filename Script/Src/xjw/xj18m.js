@@ -29,7 +29,7 @@ document.writeln("</style>");
 document.writeln("");
 document.writeln("<body>");
 document.writeln("  ");
-document.writeln("<img src=\"https://amo.sanyiyuntong.com:4949/col/336/amzy.jpg\" alt=\"\" width=\"100%\">");
+document.writeln("<img src=\"https://amo.sanyiyuntong.com:4949/col/337/amzy.jpg\" alt=\"\" width=\"100%\">");
 document.writeln("");
 document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
@@ -55,8 +55,27 @@ document.writeln("");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		<font color=\"#0000FF\">336期【玄机特码诗】猜透必中开（？00）</font><br>");
-document.writeln("①解特九肖：猴龙羊马虎狗牛蛇鸡<br>");
+document.writeln("		<font color=\"#0000FF\">337期【玄机特码诗】猜透必中开（？00）</font><br>");
+document.writeln("①解特九肖：虎猴牛鸡鼠猪马蛇龙<br>");
+document.writeln("②解特五肖：虎猴牛鸡鼠<br>");
+document.writeln("③解特18码：04.16.34.46.17.29.09.33.06.30.19.31.12.48.01.13.14.26</b></font></p></td>");
+document.writeln("    </tr>     ");
+document.writeln("     <!--结束-->");
+document.writeln("	");
+document.writeln("	");
+
+
+
+document.writeln("  <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=38 >");
+document.writeln("		<p align=\'left\'>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<b>");
+document.writeln("");
+document.writeln("		<font color=\"#0000FF\">336期【玄机特码诗】猜透必中开（牛17）</font><br>");
+document.writeln("①解特九肖：猴龙羊马虎狗<span style='background-color: #FFFF00\'>牛</span>蛇鸡<br>");
 document.writeln("②解特五肖：猴龙羊马虎<br>");
 document.writeln("③解特18码：10.34.02.14.23.35.12.24.16.28.08.20.29.41.13.25.09.21</b></font></p></td>");
 document.writeln("    </tr>     ");
