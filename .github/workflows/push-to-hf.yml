@@ -23,7 +23,10 @@ jobs:
         run: |
           git config --global user.name "Rokate"
           git config --global user.email "77772464+Rokate@users.noreply.github.com"
-          git clone https://$HF_TOKEN@huggingface.co/spaces/$HF_USER/$HF_SPACE hf-repo
+
+          echo "machine huggingface.co login $HF_TOKEN" > ~/.netrc
+          chmod 600 ~/.netrc
+          git clone https://huggingface.co/spaces//$HF_USER/$HF_SPACE hf-repo
           
           mkdir -p hf-repo/data
           cp Script/Data/1-2025results.txt hf-repo/data/
