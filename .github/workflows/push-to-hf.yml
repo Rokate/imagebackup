@@ -18,14 +18,12 @@ jobs:
       - name: Push to HF
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-          HF_USER: ${{ secrets.HF_USER }}
-          HF_SPACE: ${{ secrets.HF_SPACE }}
         run: |
           git config --global user.name "Rokate"
           git config --global user.email "77772464+Rokate@users.noreply.github.com"
           
           # 克隆 HF space 仓库
-          git clone https://huggingface.co/spaces/$HF_USER/$HF_SPACE hf-repo
+          git clone https://huggingface.co/spaces/Keron/xamdata hf-repo
           
           # 创建目标目录（如果不存在）
           mkdir -p hf-repo/data
@@ -39,4 +37,4 @@ jobs:
           cd hf-repo
           git add data/1-2025results.txt data/2-2025results.txt data/5-2025results.txt
           git commit -m "Update results files from GitHub Actions"
-          git push https://$HF_USER:$HF_TOKEN@huggingface.co/spaces/$HF_USER/$HF_SPACE main
+          git push https://Keron:$HF_TOKEN@huggingface.co/spaces/Keron/xamdata main
