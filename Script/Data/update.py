@@ -50,7 +50,11 @@ local_files = [
     "./Script/Data/2-2025results.txt",
 ]
 
-repo_files = ["data/1-2025results.txt", "data/2-2025results.txt","data/5-2025results.txt"]
+repo_files = [
+    "data/1-2025results.txt",
+    "data/2-2025results.txt",
+    "data/5-2025results.txt",
+]
 for file_path, repo_path in zip(local_files, repo_files):
     try:
         # 检查本地文件是否存在
