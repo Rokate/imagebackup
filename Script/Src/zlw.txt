@@ -239,24 +239,28 @@ document.writeln("<!--必中start-->");
 document.writeln("<div class=\'box\'>");
 document.writeln("");
 
+
+
+
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong555\'>");
 document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（准准准！）一尾一码</div>");
 document.writeln("	<div class=\'bizhong555-box\'>");
 document.writeln("    	<div class=\'bizhong555-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">337期必中18码：</font><font color=\'#FF0000\' size=\'2\'>15.25.45.04.14.34.11.21.31.10.20.30.23.33.43.08.18.48</font></li>");
-document.writeln("            	<li>337期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">15.25.45.04.14.34.11.21.31.10.20.30</font></li>");
-document.writeln("            	<li>337期必中六码：<font color=\'#FF0000\' size=\'4\'>15.25.45.04.14.34</font></li>");
-document.writeln("            	<li>337期必中①码：<font color=\'#FF0000\' size=\'5\'>（5尾-15.25.45）</font></li>");
-document.writeln("            	<li>337期必中三尾：<font color=\'#FF0000\' size=\'4\'>5-4-1</font></li>");
-document.writeln("            	<li>337期必中六尾：<font color=\'#FF0000\' size=\'4\'>5-4-1-0-3-8</font></li>");
+document.writeln(" 	            <li><font size=\"2\">338期必中18码：</font><font color=\'#FF0000\' size=\'2\'>16.26.36.07.27.37.13.23.33.10.20.30.29.39.49.05.15.45</font></li>");
+document.writeln("            	<li>338期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">16.26.36.07.27.37.13.23.33.10.20.30</font></li>");
+document.writeln("            	<li>338期必中六码：<font color=\'#FF0000\' size=\'4\'>16.26.36.07.27.37</font></li>");
+document.writeln("            	<li>338期必中①码：<font color=\'#FF0000\' size=\'5\'>（6尾-16.26.36）</font></li>");
+document.writeln("            	<li>338期必中三尾：<font color=\'#FF0000\' size=\'4\'>6-7-3</font></li>");
+document.writeln("            	<li>338期必中六尾：<font color=\'#FF0000\' size=\'4\'>6-7-3-0-9-5</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
 document.writeln("");
 document.writeln("</div>");
 document.writeln("<!--必中每期开始-->");
+
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong555\'>");
 document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（准准准！）一尾一码</div>");
