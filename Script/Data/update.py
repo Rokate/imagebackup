@@ -39,10 +39,10 @@ for ltl in LotterytypeList:
         ) as file:
             file.write(result_json)
 
+
+token = os.getenv("HF_TOKEN")
 if token is None:
-    token = os.getenv("HF_TOKEN")
-    if token is None:
-        raise ValueError("请提供 Hugging Face token 或设置 HF_TOKEN 环境变量")
+    raise ValueError("请提供 Hugging Face token 或设置 HF_TOKEN 环境变量")
 api = HfApi()
 local_files = [
     "./Script/Data/1-2025results.txt",
