@@ -29,6 +29,8 @@ jobs:
       run: sudo timedatectl set-timezone 'Asia/Shanghai'
     
     - name: Updata
+      env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
       run: |
         python ./Script/Data/update.py
         
