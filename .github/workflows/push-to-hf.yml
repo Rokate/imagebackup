@@ -26,7 +26,7 @@ jobs:
 
           echo "machine huggingface.co login $HF_TOKEN" > ~/.netrc
           chmod 600 ~/.netrc
-          git clone https://huggingface.co/spaces//$HF_USER/$HF_SPACE hf-repo
+          git clone https://huggingface.co/spaces/$HF_USER/$HF_SPACE hf-repo
           
           mkdir -p hf-repo/data
           cp Script/Data/1-2025results.txt hf-repo/data/
