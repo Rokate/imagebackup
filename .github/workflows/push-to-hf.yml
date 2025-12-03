@@ -28,21 +28,21 @@ jobs:
           from huggingface_hub import HfApi
           api = HfApi()
           api.upload_file(
-              path_or_fileobj='Script/Data/1-2025results.txt',
+              path_or_fileobj='./Script/Data/1-2025results.txt',
               path_in_repo='data/1-2025results.txt',
               repo_id='Keron/xamdata',
               repo_type='space',
               token='$HF_TOKEN'
           )
           api.upload_file(
-              path_or_fileobj='Script/Data/2-2025results.txt',
+              path_or_fileobj='./Script/Data/2-2025results.txt',
               path_in_repo='data/2-2025results.txt',
               repo_id='Keron/xamdata',
               repo_type='space',
               token='$HF_TOKEN'
           )
           api.upload_file(
-              path_or_fileobj='Script/Data/5-2025results.txt',
+              path_or_fileobj='./Script/Data/5-2025results.txt',
               path_in_repo='data/5-2025results.txt',
               repo_id='Keron/xamdata',
               repo_type='space',
