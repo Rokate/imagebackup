@@ -47,7 +47,7 @@ api = HfApi()
 local_files = [
     "./Script/Data/1-2025results.txt",
     "./Script/Data/2-2025results.txt",
-    "./Script/Data/2-2025results.txt",
+    "./Script/Data/5-2025results.txt",
 ]
 
 repo_files = [
