@@ -43,14 +43,27 @@ document.writeln("");
 document.writeln("");
 
 
+document.writeln("	<!----开始---->    ");
+document.writeln("<tr>");
+document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
+document.writeln("<p align=\"center\"><font size=\"4\">");
+document.writeln("341期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开？00准</font><br>");
+document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
+document.writeln("小数+26.28.30.33.35.38.44.48</span></font></td>");
+document.writeln("</tr>			");
+document.writeln("<!----结束----> ");
+document.writeln("	");
+
+
+
 
 document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("340期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开？00准</font><br>");
+document.writeln("340期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开虎16准</font><br>");
 document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("大数+05.08.11.15.16.18.20.21</span></font></td>");
+document.writeln("大数+05.08.11.15.<span style='background-color: #FFFF00\'>16</span>.18.20.21</span></font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 document.writeln("	");
