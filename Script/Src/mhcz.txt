@@ -2205,7 +2205,7 @@ document.writeln("	font-size: 18px;");
 document.writeln("	font-family:微软雅黑;");
 document.writeln("}");
 document.writeln("");
-【document.writeln("</style>");
+document.writeln("</style>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
