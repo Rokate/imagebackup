@@ -23941,5 +23941,74 @@
                 "wuXing": "金"
             }
         ]
+    },
+    {
+        "period": 348,
+        "lotteryTime": "2025年12月14日",
+        "numberList": [
+            {
+                "color": 1,
+                "count": null,
+                "daXiao": "小",
+                "danShuang": "单",
+                "number": "19",
+                "shengXiao": "猪",
+                "wuXing": "土"
+            },
+            {
+                "color": 3,
+                "count": null,
+                "daXiao": "大",
+                "danShuang": "双",
+                "number": "28",
+                "shengXiao": "虎",
+                "wuXing": "土"
+            },
+            {
+                "color": 2,
+                "count": null,
+                "daXiao": "大",
+                "danShuang": "双",
+                "number": "36",
+                "shengXiao": "马",
+                "wuXing": "土"
+            },
+            {
+                "color": 2,
+                "count": null,
+                "daXiao": "小",
+                "danShuang": "双",
+                "number": "10",
+                "shengXiao": "猴",
+                "wuXing": "火"
+            },
+            {
+                "color": 1,
+                "count": null,
+                "daXiao": "小",
+                "danShuang": "双",
+                "number": "24",
+                "shengXiao": "马",
+                "wuXing": "木"
+            },
+            {
+                "color": 3,
+                "count": null,
+                "daXiao": "大",
+                "danShuang": "双",
+                "number": "38",
+                "shengXiao": "龙",
+                "wuXing": "木"
+            },
+            {
+                "color": 3,
+                "count": null,
+                "daXiao": "小",
+                "danShuang": "单",
+                "number": "17",
+                "shengXiao": "牛",
+                "wuXing": "火"
+            }
+        ]
     }
 ]
