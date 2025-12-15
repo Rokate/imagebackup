@@ -17,12 +17,17 @@ document.writeln("			<a target=\'_blank\' href=\'https://x2.xn--3dcs9bto1bp5c8a.
 document.writeln("");
 document.writeln("");
 document.writeln("");
-
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("350期</font><font color=\'#FF0000\' size=\"5\">（猴虎马+8795尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("		<!--结束-->");
+document.writeln("");
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("349期</font><font color=\'#FF0000\' size=\"5\">（猪马兔+9278尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("349期</font><font color=\'#FF0000\' size=\"5\">（猪马兔+9<font color=\'#FF0000\' size=\'5\'><span style=\"background-color: #FFFF00\">2</span></font>78尾）</font><font size=\'4\'>开猴22</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
 
@@ -286,18 +291,37 @@ document.writeln("");
 
 
 
+
 document.writeln("<!--必中每期开始-->");
 document.writeln("<div class=\'bizhong555\'>");
 document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（准准准！）一尾一码</div>");
 document.writeln("	<div class=\'bizhong555-box\'>");
 document.writeln("    	<div class=\'bizhong555-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">349期必中18码：</font><font color=\'#FF0000\' size=\'2\'>10.20.30.24.34.44.11.21.31.25.35.45.22.32.42.03.23.33</font></li>");
-document.writeln("            	<li>349期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">10.20.30.24.34.44.11.21.31.25.35.45</font></li>");
-document.writeln("            	<li>349期必中六码：<font color=\'#FF0000\' size=\'4\'>10.20.30.24.34.44</font></li>");
-document.writeln("            	<li>349期必中①码：<font color=\'#FF0000\' size=\'5\'>（0尾-10.20.30）</font></li>");
+document.writeln(" 	            <li><font size=\"2\">350期必中18码：</font><font color=\'#FF0000\' size=\'2\'>12.22.32.20.30.40.27.37.47.09.29.49.06.26.36.05.35.45</font></li>");
+document.writeln("            	<li>350期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">12.22.32.20.30.40.27.37.47.09.29.49</font></li>");
+document.writeln("            	<li>350期必中六码：<font color=\'#FF0000\' size=\'4\'>12.22.32.20.30.40</font></li>");
+document.writeln("            	<li>350期必中①码：<font color=\'#FF0000\' size=\'5\'>（2尾-12.22.32）</font></li>");
+document.writeln("            	<li>350期必中三尾：<font color=\'#FF0000\' size=\'4\'>2-0-7</font></li>");
+document.writeln("            	<li>350期必中六尾：<font color=\'#FF0000\' size=\'4\'>2-0-7-9-6-5</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
+
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong555\'>");
+document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（准准准！）一尾一码</div>");
+document.writeln("	<div class=\'bizhong555-box\'>");
+document.writeln("    	<div class=\'bizhong555-l\'>");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">349期必中18码：</font><font color=\'#FF0000\' size=\'2\'>10.20.30.24.34.44.11.21.31.25.35.45.<span style=\'background-color: #FFFF00\'>22</span>.32.42.03.23.33</font></li>");
+
 document.writeln("            	<li>349期必中三尾：<font color=\'#FF0000\' size=\'4\'>0-4-1</font></li>");
-document.writeln("            	<li>349期必中六尾：<font color=\'#FF0000\' size=\'4\'>0-4-1-5-2-3</font></li>");
+document.writeln("            	<li>349期必中六尾：<font color=\'#FF0000\' size=\'4\'>0-4-1-5-<span style=\'background-color: #FFFF00\'>2</span>-3</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
