@@ -29,7 +29,7 @@ document.writeln("</style>");
 document.writeln("");
 document.writeln("<body>");
 document.writeln("  ");
-document.writeln("<img src=\"https://amo.sanyiyuntong.com:4949/col/351/amzy.jpg\" alt=\"\" width=\"100%\">");
+document.writeln("<img src=\"https://amo.sanyiyuntong.com:4949/col/352/amzy.jpg\" alt=\"\" width=\"100%\">");
 document.writeln("");
 document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
@@ -46,6 +46,24 @@ document.writeln("");
 
 
 
+document.writeln("  <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=38 >");
+document.writeln("		<p align=\'left\'>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<b>");
+document.writeln("");
+document.writeln("		<font color=\"#0000FF\">352期【玄机特码诗】猜透必中开（？00）</font><br>");
+document.writeln("①解特九肖：蛇狗羊兔牛鸡猪龙马<br>");
+document.writeln("②解特五肖：蛇狗羊兔牛<br>");
+document.writeln("③解特18码：01.13.20.32.35.47.27.39.05.17.33.45.19.31.04.16.24.36</b></font></p></td>");
+document.writeln("    </tr>     ");
+document.writeln("     <!--结束-->");
+document.writeln("	");
+document.writeln("	");
+
+
 
 
 document.writeln("  <!--开始-->  ");
@@ -56,8 +74,8 @@ document.writeln("");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		<font color=\"#0000FF\">351期【玄机特码诗】猜透必中开（？00）</font><br>");
-document.writeln("①解特九肖：羊牛猴龙狗兔马鸡虎<br>");
+document.writeln("		<font color=\"#0000FF\">351期【玄机特码诗】猜透必中开（虎04）</font><br>");
+document.writeln("①解特九肖：羊牛猴龙狗兔马鸡<span style='background-color: #FFFF00\'>虎</span><br>");
 document.writeln("②解特五肖：羊牛猴龙狗<br>");
 document.writeln("③解特18码：23.47.17.29.22.34.02.38.32.44.27.39.12.24.21.45.03.15</b></font></p></td>");
 document.writeln("    </tr>     ");
