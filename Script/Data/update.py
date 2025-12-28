@@ -4,16 +4,17 @@ import os
 from huggingface_hub import HfApi
 
 LotterytypeList = [1, 2, 5]
+Year = 2025
 for ltl in LotterytypeList:
 
     url = "https://123tkapi-ali.uvcy88.com/gallerynew/app/lottery/search"
     headers = {"Lotterytype": f"{ltl}"}  # 2-la 5-xa 1-xg
 
-    params = {"pageNum": 1, "year": 2025, "sort": 1}
+    params = {"pageNum": 1, "year": Year, "sort": 1}
     response = requests.get(url, headers=headers, params=params).json()
     reslen = response["data"]["pager"]["totalCount"]
 
-    with open(f"./Script/Data/{ltl}-2025results.txt", "r", encoding="utf-8") as f:
+    with open(f"./Script/Data/{ltl}-{Year}results.txt", "r", encoding="utf-8") as f:
         filedata = json.load(f)
     filelen = len(filedata)
 
@@ -35,7 +36,7 @@ for ltl in LotterytypeList:
         print(f"已获取Type：{ltl}")
 
         with open(
-            f"./Script/Data/{ltl}-2025results.txt", "w", encoding="utf-8"
+            f"./Script/Data/{ltl}-{Year}results.txt", "w", encoding="utf-8"
         ) as file:
             file.write(result_json)
 
@@ -45,15 +46,15 @@ if token is None:
     raise ValueError("请提供 Hugging Face token 或设置 HF_TOKEN 环境变量")
 api = HfApi()
 local_files = [
-    "./Script/Data/1-2025results.txt",
-    "./Script/Data/2-2025results.txt",
-    "./Script/Data/5-2025results.txt",
+    f"./Script/Data/1-{Year}results.txt",
+    f"./Script/Data/2-{Year}results.txt",
+    f"./Script/Data/5-{Year}results.txt",
 ]
 
 repo_files = [
-    "data/1-2025results.txt",
-    "data/2-2025results.txt",
-    "data/5-2025results.txt",
+    f"data/1-{Year}results.txt",
+    f"data/2-{Year}results.txt",
+    f"data/5-{Year}results.txt",
 ]
 for file_path, repo_path in zip(local_files, repo_files):
     try:
