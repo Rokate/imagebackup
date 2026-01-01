@@ -43,16 +43,18 @@ document.writeln("");
 document.writeln("");
 
 
+
 document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("001期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开？00准</font><br>");
+document.writeln("002期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开？00准</font><br>");
 document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("小数+28.31.33.36.40.45.46.47</span></font></td>");
+document.writeln("小数+28.32.34.35.42.44.46.48</span></font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 document.writeln("	");
+
 
 
 
