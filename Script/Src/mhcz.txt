@@ -282,23 +282,24 @@ document.writeln("<!--网址开始-->");
 
 
 
+
 document.writeln("<!--网址开始-->");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40 bordercolor=\'#C0C0C0\'>");
 document.writeln("<p style=box-sizing:border-box;padding:0;margin:0 align=left>");
 document.writeln("<font face=\'微软雅黑\'><b><span style=\'box-sizing:border-box; \'>");
 document.writeln("<font color=\'#0000FF\' size=\'4\'>");
-document.writeln("001期澳门马会传真：</font><font color=\'#000000\' size=\'4\'>开奖日更新</font><font color=\'#0000FF\' size=\'4\'><br></font>");
+document.writeln("001期澳门马会传真：</font><font color=\'#000000\' size=\'4\'>今期生肖五六开，牛郎七夕鹊桥会。画蛇添足反类犬，绿波有望出旺码。六合六码中特奖，财来四方喜洋洋。一中多有灵码来，银花有焰万家春。摇头摆尾</font><font color=\'#0000FF\' size=\'4\'><br></font>");
 document.writeln("<font color=\'#008000\' size=\'4\'>");
 document.writeln("<span style=\'font-weight: 400\'>");
-document.writeln("解释：开奖日更新</span><br>");
+document.writeln("解释：今期生肖五六开，牛郎七夕鹊桥会。五六解牛鼠，七解猪，明肖牛。 画蛇添足反类犬，绿波有望出旺码。明肖蛇狗，绿波， 六合六码中特奖，财来四方喜洋洋。明肖羊，六解鼠。 一中多有灵码来，银花有焰万家春。春肖兔虎龙。</span><br>");
 document.writeln("</font>");
 document.writeln("</span>");
 document.writeln("<font color=\'#008000\' size=\'4\'>");
 document.writeln("<font color=\'#FF00FF\' size=\'4\'><span style=\'box-sizing:border-box; \'>");
-document.writeln("综合特肖：开奖日更新<br>综合六肖：开奖日更新<br>综合三肖：开奖日更新<br>");
-document.writeln("综合一肖：开奖日更新<br>");
-document.writeln("综合特码：开奖日更新</span></font></font></b></font></tr>");
+document.writeln("综合特肖：牛鼠猪蛇狗羊虎兔龙<br>综合六肖：牛鼠猪蛇狗羊<br>综合三肖：牛鼠猪<br>");
+document.writeln("综合一肖：牛<br>");
+document.writeln("综合特码：29.41.06.30.31.43.01.13.20.32.11.23.04.16.15.27.02.38</span></font></font></b></font></tr>");
 document.writeln("<!--网址开始-->");
 
 
