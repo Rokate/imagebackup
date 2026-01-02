@@ -48,9 +48,22 @@ document.writeln("	<!----开始---->    ");
 document.writeln("<tr>");
 document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
 document.writeln("<p align=\"center\"><font size=\"4\">");
-document.writeln("002期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开？00准</font><br>");
+document.writeln("003期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开？00准</font><br>");
 document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
-document.writeln("小数+28.32.34.35.42.44.46.48</span></font></td>");
+document.writeln("大数+02.05.12.14.17.18.19.20</span></font></td>");
+document.writeln("</tr>			");
+document.writeln("<!----结束----> ");
+document.writeln("	");
+
+
+
+document.writeln("	<!----开始---->    ");
+document.writeln("<tr>");
+document.writeln("<td height=40 class=\'stylelxz\' align=\"center\">");
+document.writeln("<p align=\"center\"><font size=\"4\">");
+document.writeln("002期玄机出版<font color=\"#0000FF\">【大小+8码】</font>开猴22准</font><br>");
+document.writeln("<font color=\"#FF00FF\"><span style=\"font-size: 16pt\">");
+document.writeln("<span style='background-color: #FFFF00\'>小数</span>+28.32.34.35.42.44.46.48</span></font></td>");
 document.writeln("</tr>			");
 document.writeln("<!----结束----> ");
 document.writeln("	");
