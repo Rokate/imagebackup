@@ -42,14 +42,13 @@ document.writeln("");
 
 
 
-
-
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("			<td align=\'center\' height=42><b>");
-document.writeln("			<font style=\'font-size: 12pt\'>004期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(虎04-兔27-羊35-蛇49-龙02-羊11)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开？00</font></b></td>");
+document.writeln("			<font style=\'font-size: 12pt\'>005期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(龙26-鸡45-羊35-兔39-蛇49-鼠18)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开？00</font></b></td>");
 document.writeln("</tr>");
 document.writeln("");
+
 
 
 
