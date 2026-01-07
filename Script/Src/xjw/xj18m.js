@@ -29,7 +29,7 @@ document.writeln("</style>");
 document.writeln("");
 document.writeln("<body>");
 document.writeln("  ");
-document.writeln("<img src=\"https://amo.jlidesign.com:4949/col/7/amzy.jpg\" alt=\"\" width=\"100%\">");
+document.writeln("<img src=\"https://amo.jlidesign.com:4949/col/8/amzy.jpg\" alt=\"\" width=\"100%\">");
 document.writeln("");
 document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
@@ -46,6 +46,25 @@ document.writeln("");
 
 
 
+document.writeln("  <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=38 >");
+document.writeln("		<p align=\'left\'>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<b>");
+document.writeln("");
+document.writeln("		<font color=\"#0000FF\">008期【玄机特码诗】猜透必中开（？00）</font><br>");
+document.writeln("①解特九肖：龙狗羊猴兔虎猪马蛇 <br>");
+document.writeln("②解特五肖：龙狗羊猴兔<br>");
+document.writeln("③解特18码：02.14.32.44.23.35.10.22.15.27.28.40.31.43.12.24.25.37</b></font></p></td>");
+document.writeln("    </tr>     ");
+document.writeln("     <!--结束-->");
+document.writeln("	");
+document.writeln("	");
+
+
+
 
 document.writeln("  <!--开始-->  ");
 document.writeln("    	<tr>");
@@ -55,9 +74,9 @@ document.writeln("");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		<font color=\"#0000FF\">007期【玄机特码诗】猜透必中开（？00）</font><br>");
-document.writeln("①解特九肖：羊牛猴龙狗兔马鸡虎 <br>");
-document.writeln("②解特五肖：羊牛猴龙狗<br>");
+document.writeln("		<font color=\"#0000FF\">007期【玄机特码诗】猜透必中开（牛41）</font><br>");
+document.writeln("①解特九肖：羊<span style='background-color: #FFFF00\'>牛</span>猴龙狗兔马鸡虎 <br>");
+document.writeln("②解特五肖：羊<span style='background-color: #FFFF00\'>牛</span>猴龙狗<br>");
 document.writeln("③解特18码：23.47.17.29.22.34.02.38.32.44.27.39.12.24.21.45.03.15</b></font></p></td>");
 document.writeln("    </tr>     ");
 document.writeln("     <!--结束-->");
