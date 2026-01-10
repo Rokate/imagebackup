@@ -424,7 +424,7 @@ document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("	<td align=\'left\'><b><font face=\'华文中宋\'><font color=\'#FFFFFF\'>");
-document.writeln("	<span style=\'background-color: #008000\'>005期雷锋码报开</span><span style=\'background-color: #800000\'>（");
+document.writeln("	<span style=\'background-color: #008000\'>004期雷锋码报开</span><span style=\'background-color: #800000\'>（");
 document.writeln("	鸡45）</span><span style=\'background-color: #000000\'><br></span></font>");
 document.writeln("	雷锋一句话：<font color=\'#FF0000\'>月落乌啼霜满天</font><br>");
 document.writeln("	四字真言：<font color=\'#FF0000\'>马到成功</font><br>");
