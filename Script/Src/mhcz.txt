@@ -206,23 +206,24 @@ document.writeln("<!--网址开始-->");
 
 
 
+
 document.writeln("<!--网址开始-->");
 document.writeln("<tr>");
 document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40 bordercolor=\'#C0C0C0\'>");
 document.writeln("<p style=box-sizing:border-box;padding:0;margin:0 align=left>");
 document.writeln("<font face=\'微软雅黑\'><b><span style=\'box-sizing:border-box; \'>");
 document.writeln("<font color=\'#0000FF\' size=\'4\'>");
-document.writeln("020期澳门马会传真：</font><font color=\'#000000\' size=\'4\'>开奖日更新</font><font color=\'#0000FF\' size=\'4\'><br></font>");
+document.writeln("020期澳门马会传真：</font><font color=\'#000000\' size=\'4\'>今有生肖三十开，六七一起称兄弟。零一三头有特猜，眼花绦乱色彩艳。虽然很四人话题，宝马一匹值千金。龙马同事发大财，山林无虎是老大。半斤八两</font><font color=\'#0000FF\' size=\'4\'><br></font>");
 document.writeln("<font color=\'#008000\' size=\'4\'>");
 document.writeln("<span style=\'font-weight: 400\'>");
-document.writeln("解释：开奖日更新</span><br>");
+document.writeln("解释：今有生肖三十开，六七一起称兄弟。三十解鼠，六七解鼠猪， 零一三头有特猜，眼花绦乱色彩艳。013头， 虽然很四人话题，宝马一匹值千金。四解虎，明肖马，金肖猴鸡， 龙马同事发大财，山林无虎是老大。明肖龙马虎。</span><br>");
 document.writeln("</font>");
 document.writeln("</span>");
 document.writeln("<font color=\'#008000\' size=\'4\'>");
 document.writeln("<font color=\'#FF00FF\' size=\'4\'><span style=\'box-sizing:border-box; \'>");
-document.writeln("综合特肖：开奖日更新<br>综合六肖：开奖日更新<br>综合三肖：开奖日更新<br>");
-document.writeln("综合一肖：开奖日更新<br>");
-document.writeln("综合特码：开奖日更新</span></font></font></b></font></tr>");
+document.writeln("综合特肖：鼠猪虎马猴鸡龙狗兔<br>综合六肖：鼠猪虎马猴鸡<br>综合三肖：鼠猪虎<br>");
+document.writeln("综合一肖：鼠<br>");
+document.writeln("综合特码：06.30.31.43.04.16.12.36.22.34.21.33.02.38.20.32.03.15</span></font></font></b></font></tr>");
 document.writeln("<!--网址开始-->");
 
 
