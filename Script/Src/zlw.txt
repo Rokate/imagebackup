@@ -250,12 +250,30 @@ document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（准准准！�
 document.writeln("	<div class=\'bizhong555-box\'>");
 document.writeln("    	<div class=\'bizhong555-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">022期必中18码：</font><font color=\'#FF0000\' size=\'2\'>04.14.24.21.31.41.05.15.25.22.32.42.08.18.28.29.39.49</font></li>");
-document.writeln("            	<li>022期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">04.14.24.21.31.41.05.15.25.22.32.42</font></li>");
-document.writeln("            	<li>022期必中六码：<font color=\'#FF0000\' size=\'4\'>04.14.24.21.31.41</font></li>");
-document.writeln("            	<li>022期必中①码：<font color=\'#FF0000\' size=\'5\'>（4尾-04.14.24）</font></li>");
+document.writeln(" 	            <li><font size=\"2\">023期必中18码：</font><font color=\'#FF0000\' size=\'2\'>16.26.36.22.32.42.04.24.44.27.37.47.05.15.45.10.20.30</font></li>");
+document.writeln("            	<li>023期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">16.26.36.22.32.42.04.24.44.27.37.47</font></li>");
+document.writeln("            	<li>023期必中六码：<font color=\'#FF0000\' size=\'4\'>16.26.36.22.32.42</font></li>");
+document.writeln("            	<li>023期必中①码：<font color=\'#FF0000\' size=\'5\'>（6尾-16.26.36）</font></li>");
+document.writeln("            	<li>023期必中三尾：<font color=\'#FF0000\' size=\'4\'>6-2-4</font></li>");
+document.writeln("            	<li>023期必中六尾：<font color=\'#FF0000\' size=\'4\'>6-2-4-7-5-0</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
+
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong555\'>");
+document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（准准准！）一尾一码</div>");
+document.writeln("	<div class=\'bizhong555-box\'>");
+document.writeln("    	<div class=\'bizhong555-l\'>");
+document.writeln("        	<ul>");
+document.writeln(" 	            <li><font size=\"2\">022期必中18码：</font><font color=\'#FF0000\' size=\'2\'>04.14.24.21.31.41.05.15.25.22.32.42.08.<span style=\'background-color: #FFFF00\'>18</span>.28.29.39.49</font></li>");
+
 document.writeln("            	<li>022期必中三尾：<font color=\'#FF0000\' size=\'4\'>4-1-5</font></li>");
-document.writeln("            	<li>022期必中六尾：<font color=\'#FF0000\' size=\'4\'>4-1-5-2-8-9</font></li>");
+document.writeln("            	<li>022期必中六尾：<font color=\'#FF0000\' size=\'4\'>4-1-5-2-<span style=\'background-color: #FFFF00\'>8</span>-9</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
