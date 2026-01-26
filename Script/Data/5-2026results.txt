@@ -1723,5 +1723,74 @@
                 "wuXing": "木"
             }
         ]
+    },
+    {
+        "period": 26,
+        "lotteryTime": "2026年01月26日",
+        "numberList": [
+            {
+                "color": 3,
+                "count": null,
+                "daXiao": "大",
+                "danShuang": "双",
+                "number": "44",
+                "shengXiao": "狗",
+                "wuXing": "水"
+            },
+            {
+                "color": 1,
+                "count": null,
+                "daXiao": "大",
+                "danShuang": "双",
+                "number": "34",
+                "shengXiao": "猴",
+                "wuXing": "金"
+            },
+            {
+                "color": 1,
+                "count": null,
+                "daXiao": "小",
+                "danShuang": "双",
+                "number": "24",
+                "shengXiao": "马",
+                "wuXing": "木"
+            },
+            {
+                "color": 1,
+                "count": null,
+                "daXiao": "小",
+                "danShuang": "单",
+                "number": "13",
+                "shengXiao": "蛇",
+                "wuXing": "水"
+            },
+            {
+                "color": 2,
+                "count": null,
+                "daXiao": "大",
+                "danShuang": "单",
+                "number": "37",
+                "shengXiao": "蛇",
+                "wuXing": "木"
+            },
+            {
+                "color": 2,
+                "count": null,
+                "daXiao": "大",
+                "danShuang": "双",
+                "number": "42",
+                "shengXiao": "鼠",
+                "wuXing": "金"
+            },
+            {
+                "color": 1,
+                "count": null,
+                "daXiao": "小",
+                "danShuang": "单",
+                "number": "19",
+                "shengXiao": "猪",
+                "wuXing": "土"
+            }
+        ]
     }
 ]
