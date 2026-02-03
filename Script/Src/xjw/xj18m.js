@@ -29,7 +29,7 @@ document.writeln("</style>");
 document.writeln("");
 document.writeln("<body>");
 document.writeln("  ");
-document.writeln("<img src=\"https://amo.jlidesign.com:4949/col/34/amzy.jpg\" alt=\"\" width=\"100%\">");
+document.writeln("<img src=\"https://amo.jlidesign.com:4949/col/35/amzy.jpg\" alt=\"\" width=\"100%\">");
 document.writeln("");
 document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
@@ -46,6 +46,7 @@ document.writeln("");
 
 
 
+
 document.writeln("  <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=38 >");
@@ -54,10 +55,29 @@ document.writeln("");
 document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		<b>");
 document.writeln("");
-document.writeln("		<font color=\"#0000FF\">034期【玄机特码诗】猜透必中开（？00）</font><br>");
-document.writeln("①解特九肖：猴马猪虎鼠羊龙牛兔<br>");
-document.writeln("②解特五肖：猴马猪虎鼠<br>");
-document.writeln("③解特18码：10.34.24.48.19.31.16.28.18.30.23.35.26.38.29.41.03.15</b></font></p></td>");
+document.writeln("		<font color=\"#0000FF\">035期【玄机特码诗】猜透必中开（？00）</font><br>");
+document.writeln("①解特九肖：狗鼠猴猪龙牛马羊虎<br>");
+document.writeln("②解特五肖：狗鼠猴猪龙<br>");
+document.writeln("③解特18码：44.32.18.30.10.34.19.31.02.14.05.17.24.36.11.23.28.40</b></font></p></td>");
+document.writeln("    </tr>     ");
+document.writeln("     <!--结束-->");
+document.writeln("	");
+document.writeln("	");
+
+
+
+document.writeln("  <!--开始-->  ");
+document.writeln("    	<tr>");
+document.writeln("      <td height=38 >");
+document.writeln("		<p align=\'left\'>");
+document.writeln("");
+document.writeln("		<font face=\'微软雅黑\'>");
+document.writeln("		<b>");
+document.writeln("");
+document.writeln("		<font color=\"#0000FF\">034期【玄机特码诗】猜透必中开（猪19）</font><br>");
+document.writeln("①解特九肖：猴马<span style='background-color: #FFFF00\'>猪</span>虎鼠羊龙牛兔<br>");
+document.writeln("②解特五肖：猴马<span style='background-color: #FFFF00\'>猪</span>虎鼠<br>");
+document.writeln("③解特18码：10.34.24.48.<span style='background-color: #FFFF00\'>19</span>.31.16.28.18.30.23.35.26.38.29.41.03.15</b></font></p></td>");
 document.writeln("    </tr>     ");
 document.writeln("     <!--结束-->");
 document.writeln("	");
