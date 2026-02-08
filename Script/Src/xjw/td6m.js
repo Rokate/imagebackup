@@ -18,7 +18,7 @@ document.writeln("</head>");
 document.writeln("");
 document.writeln("  <table border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("<td style=\'border:10px double #8bafaf\' bgcolor=#8bafaf height=50><p align=center>");
-document.writeln("<b><font face=\'楷体\' style=\'font-size: 18pt\'><font color=\'#FFFF00\'>澳门玄机86957</font><font color=\'#FFFFFF\'>『天地六码』</font></font></b></table>");
+document.writeln("<b><font face=\'楷体\' style=\'font-size: 18pt\'><font color=\'#FFFF00\'>澳门玄机86281</font><font color=\'#FFFFFF\'>『天地六码』</font></font></b></table>");
 document.writeln("");
 document.writeln("");
 document.writeln("<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
