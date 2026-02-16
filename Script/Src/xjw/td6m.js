@@ -30,35 +30,16 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
-
-
 document.writeln("				<tr>");
 document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><b><font size=\'4\'>047期:</font><font color=\'#0000FF\' style=\"font-size: 14pt\">【天地六码】</font></b><font size=\'4\'><b><font color=\'#FF0000\'>开？00</font></b><font color=\'#008000\'><b>准</b><br>");
+document.writeln("		<span><b><font size=\'4\'>050期:</font><font color=\'#0000FF\' style=\"font-size: 14pt\">【天地六码】</font></b><font size=\'4\'><b><font color=\'#FF0000\'>开中00</font></b><font color=\'#008000\'><b>准</b><br>");
 document.writeln("		</font></font>");
 document.writeln("		<b>");
-document.writeln("		<font style=\"font-size: 16pt\">地肖【蛇羊鸡】<br>25.37.23.35.33.45</font></b></span></tr>	");
+document.writeln("		<font style=\"font-size: 16pt\">中中【中中中】<br>.00.00.00.00.00.00</font></b></span></tr>	");
 document.writeln("");
-
-
-
-
-
-
-document.writeln("				<tr>");
-document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
-document.writeln("	");
-document.writeln("		<p>");
-document.writeln("	");
-document.writeln("		<span><b><font size=\'4\'>044期:</font><font color=\'#0000FF\' style=\"font-size: 14pt\">【天地六码】</font></b><font size=\'4\'><b><font color=\'#FF0000\'>开猪19</font></b><font color=\'#008000\'><b>准</b><br>");
-document.writeln("		</font></font>");
-document.writeln("		<b>");
-document.writeln("		<font style=\"font-size: 16pt\">天肖【猴<span style='background-color: #FFFF00\'>猪</span>牛】<br>10.22.<span style='background-color: #FFFF00\'>19</span>.43.17.29</font></b></span></tr>	");
-document.writeln("");
-
 
 
 
@@ -67,24 +48,24 @@ document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
 document.writeln("	");
 document.writeln("		<p>");
 document.writeln("	");
-document.writeln("		<span><b><font size=\'4\'>042期:</font><font color=\'#0000FF\' style=\"font-size: 14pt\">【天地六码】</font></b><font size=\'4\'><b><font color=\'#FF0000\'>开虎16</font></b><font color=\'#008000\'><b>准</b><br>");
+document.writeln("		<span><b><font size=\'4\'>049期:</font><font color=\'#0000FF\' style=\"font-size: 14pt\">【天地六码】</font></b><font size=\'4\'><b><font color=\'#FF0000\'>开中00</font></b><font color=\'#008000\'><b>准</b><br>");
 document.writeln("		</font></font>");
 document.writeln("		<b>");
-document.writeln("		<font style=\"font-size: 16pt\">地肖【<span style='background-color: #FFFF00\'>虎</span>蛇羊】<br><span style='background-color: #FFFF00\'>16</span>.28.13.25.11.23</font></b></span></tr>	");
+document.writeln("		<font style=\"font-size: 16pt\">中中【中中中】<br>.00.00.00.00.00.00</font></b></span></tr>	");
 document.writeln("");
 
 
 
-
-
-
-
-
-
-
-
-
-
+document.writeln("				<tr>");
+document.writeln("		<td class=\'center f11 black l150\' align=\'center\'>");
+document.writeln("	");
+document.writeln("		<p>");
+document.writeln("	");
+document.writeln("		<span><b><font size=\'4\'>048期:</font><font color=\'#0000FF\' style=\"font-size: 14pt\">【天地六码】</font></b><font size=\'4\'><b><font color=\'#FF0000\'>开？00</font></b><font color=\'#008000\'><b>准</b><br>");
+document.writeln("		</font></font>");
+document.writeln("		<b>");
+document.writeln("		<font style=\"font-size: 16pt\">天肖【兔马猴】<br>16.28.25.37.23.35</font></b></span></tr>	");
+document.writeln("");
 
 
 
