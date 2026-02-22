@@ -30,12 +30,10 @@ jobs:
       run: sudo timedatectl set-timezone 'Asia/Shanghai'
     
     - name: Download
-      env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
       run: |
         python ./Script/Download.py
         python ./Script/DJS.py
-        python ./Script/Data/update.py
+        
         
     - name: Push
       run: |
