@@ -4,7 +4,7 @@ on:
   schedule:
     # - cron: '0 3,12 * * *'
     # 表达式生成  https://crontab.guru/
-    - cron: '50 13 * * *'
+    - cron: '45 14,21 * * *'
   workflow_dispatch:
 
 
@@ -13,9 +13,10 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
-
+    env:
+      TZ: Asia/Shanghai 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
@@ -25,8 +26,6 @@ jobs:
         python -m pip install --upgrade requests
         pip install huggingface_hub
         
-    - name: Timezone
-      run: sudo timedatectl set-timezone 'Asia/Shanghai'
     
     - name: Updata
       env:
