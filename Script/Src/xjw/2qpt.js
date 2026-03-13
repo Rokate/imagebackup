@@ -43,6 +43,22 @@ document.writeln("");
 document.writeln("");
 
 
+document.writeln("    <!----开始---->    ");
+document.writeln("    <table border=\'1\' width=\'100%\' cellpadding=\'0\' height=\'83\' cellspacing=\'0\' bgcolor=\'#FFFFFF\' bordercolor=\'#D4D4D4\' style=\'border-collapse: collapse\'>");
+document.writeln("        <tr>");
+document.writeln("        <td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
+document.writeln("        <b><font face=\'微软雅黑\'>073-075期</font></b></td>");
+document.writeln("        <td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowspan=\'3\'>");
+document.writeln("        <strong>");
+document.writeln("        <font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>牛（42.06.18）</font></strong></td>");
+document.writeln("        <td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
+document.writeln("        <font face=\'微软雅黑\'>000中</font></td>");
+document.writeln("        </tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("        </table>");
+document.writeln("        ");
+document.writeln("");
 
 document.writeln("    <!----开始---->    ");
 document.writeln("    <table border=\'1\' width=\'100%\' cellpadding=\'0\' height=\'83\' cellspacing=\'0\' bgcolor=\'#FFFFFF\' bordercolor=\'#D4D4D4\' style=\'border-collapse: collapse\'>");
@@ -51,9 +67,9 @@ document.writeln("        <td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\
 document.writeln("        <b><font face=\'微软雅黑\'>072-074期</font></b></td>");
 document.writeln("        <td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowspan=\'3\'>");
 document.writeln("        <strong>");
-document.writeln("        <font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>马（01.25.49）</font></strong></td>");
+document.writeln("        <font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>马（<span style='background-color: #FFFF00\'>01.25</span>.49）</font></strong></td>");
 document.writeln("        <td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
-document.writeln("        <font face=\'微软雅黑\'>000中</font></td>");
+document.writeln("        <font face=\'微软雅黑\'>072中</font></td>");
 document.writeln("        </tr>");
 document.writeln("");
 document.writeln("");
