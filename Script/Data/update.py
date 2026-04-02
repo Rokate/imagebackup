@@ -7,7 +7,7 @@ LotterytypeList = [1, 2, 5]
 Year = 2026
 
 for ltl in LotterytypeList:
-    url = "https://123tkapi-ali.uvcy88.com/gallerynew/app/lottery/search"
+    url = "https://a6tkapi1.com/gallerynew/app/lottery/search"
     headers = {"Lotterytype": f"{ltl}"}  # 2-la 5-xa 1-xg
     params = {"pageNum": 1, "year": Year, "sort": 1}
 
