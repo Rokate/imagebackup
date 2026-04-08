@@ -42,6 +42,24 @@ document.writeln("");
 document.writeln("");
 document.writeln("");
 
+document.writeln("	<!----开始---->    ");
+document.writeln("	<table border=\'1\' width=\'100%\' cellpadding=\'0\' height=\'83\' cellspacing=\'0\' bgcolor=\'#FFFFFF\' bordercolor=\'#D4D4D4\' style=\'border-collapse: collapse\'>");
+document.writeln("		<tr>");
+document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
+document.writeln("		<b><font face=\'微软雅黑\'>099-101期</font></b></td>");
+document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowspan=\'3\'>");
+document.writeln("		<strong>");
+document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>羊（48.24.02）</font></strong></td>");
+document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
+document.writeln("		<font face=\'微软雅黑\'>000期中</font></td>");
+document.writeln("		</tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("		</table>");
+document.writeln("		");
+document.writeln("");
+
+
 
 document.writeln("	<!----开始---->    ");
 document.writeln("	<table border=\'1\' width=\'100%\' cellpadding=\'0\' height=\'83\' cellspacing=\'0\' bgcolor=\'#FFFFFF\' bordercolor=\'#D4D4D4\' style=\'border-collapse: collapse\'>");
@@ -50,9 +68,9 @@ document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' widt
 document.writeln("		<b><font face=\'微软雅黑\'>098-100期</font></b></td>");
 document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowspan=\'3\'>");
 document.writeln("		<strong>");
-document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>猪（44.08.32）</font></strong></td>");
+document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>猪（44.08.<span style='background-color: #FFFF00\'>32</span>）</font></strong></td>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
-document.writeln("		<font face=\'微软雅黑\'>000期中</font></td>");
+document.writeln("		<font face=\'微软雅黑\'>098期中</font></td>");
 document.writeln("		</tr>");
 document.writeln("");
 document.writeln("");
