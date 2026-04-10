@@ -24,6 +24,63 @@ document.writeln("<table id=\'wuxiao\' width=\'100%\' border=\'dashed 2px yellow
 
 
 
+document.writeln("      <!--开始-->	    ");
+document.writeln("");
+document.writeln("    			</span>");
+document.writeln("			");
+document.writeln("			");
+document.writeln("			");
+document.writeln("	          <tr class=\'firstRow\' >");
+document.writeln("            <td bgcolor=\'#FFFF00\' style=\'margin: 0px; padding: 3px 2px; border-color: rgb(229, 229, 229); word-break: break-all;\'class=\'style1\' height=\'38\'>");
+document.writeln("                <p style=\'align=\'left\' >");
+document.writeln("                    <font face=\'微软雅黑\'>");
+document.writeln("					<span style=\'background-color: \'#FFFF00\'>");
+document.writeln("					<strong> 收藏澳门雷锋心水网<font size=\'5\' color=\'#FF00FF\'>p.29769.com</font></strong></span></font></p>");
+document.writeln("            </td>");
+document.writeln("        </tr>		");
+document.writeln("");
+document.writeln("      ");
+document.writeln("                              <!--开始-->	    ");
+document.writeln("");
+document.writeln("    		<tr>");
+document.writeln("		<td style=\'BORDER-BOTTOM: rgb(229,229,229) 1px solid; BORDER-LEFT: rgb(229,229,229) 1px solid; PADDING-BOTTOM: 3px; ");
+document.writeln("");
+document.writeln("MARGIN: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; WORD-BREAK: break-all; BORDER-TOP: rgb(229,229,229) 1px solid; BORDER-RIGHT: rgb");
+document.writeln("");
+document.writeln("(229,229,229) 1px solid; PADDING-TOP: 3px\'  align=\'left\' height=\'34\'>");
+document.writeln("		<span style=\'FONT-SIZE: 11pt\'><b><font face=\'微软雅黑\' color=\'#003366\'>");
+document.writeln("		101期稳中⑤肖:</font><font face=\'微软雅黑\' style=\'font-size: 11pt\' color=\'#FF0000\'>狗羊牛虎马</font></b></td>");
+document.writeln("	  </tr></span>");
+document.writeln("			<tr>");
+document.writeln("		<td style=\'BORDER-BOTTOM: rgb(229,229,229) 1px solid; BORDER-LEFT: rgb(229,229,229) 1px solid; PADDING-BOTTOM: 3px; ");
+document.writeln("");
+document.writeln("MARGIN: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; WORD-BREAK: break-all; BORDER-TOP: rgb(229,229,229) 1px solid; BORDER-RIGHT: rgb");
+document.writeln("");
+document.writeln("(229,");
+document.writeln("229,229) 1px solid; PADDING-TOP: 3px\'  align=\'left\' height=\'38\'>");
+document.writeln("		<span style=\'FONT-SIZE: 11pt\'><b><font face=\'微软雅黑\' color=\'#003366\'>");
+document.writeln("		101期稳中③肖:</font></span><font face=\'微软雅黑\' style=\'font-size: 11pt\' color=\'#FF0000\'>狗羊牛</font></b></td>");
+document.writeln("			</tr>");
+document.writeln("			<tr>");
+document.writeln("		<td style=\'BORDER-BOTTOM: rgb(229,229,229) 1px solid; BORDER-LEFT: rgb(229,229,229) 1px solid; PADDING-BOTTOM: 3px; ");
+document.writeln("");
+document.writeln("MARGIN: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; WORD-BREAK: break-all; BORDER-TOP: rgb(229,229,229) 1px solid; BORDER-RIGHT: rgb");
+document.writeln("");
+document.writeln("(229,229,229) 1px solid; PADDING-TOP: 3px\'  align=\'left\'>");
+document.writeln("		<span style=\'FONT-SIZE: 11pt\'><b><font face=\'微软雅黑\' color=\'#003366\'>");
+document.writeln("		101期稳中①肖:</font></span><font face=\'微软雅黑\' style=\'font-size: 11pt\' color=\'#FF0000\'>狗</font></b></td>");
+document.writeln("			</tr>");
+document.writeln("			<tr>");
+document.writeln("		<td style=\'BORDER-BOTTOM: rgb(229,229,229) 1px solid; BORDER-LEFT: rgb(229,229,229) 1px solid; PADDING-BOTTOM: 3px; ");
+document.writeln("");
+document.writeln("MARGIN: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; WORD-BREAK: break-all; BORDER-TOP: rgb(229,229,229) 1px solid; BORDER-RIGHT: rgb");
+document.writeln("");
+document.writeln("(229,229,229) 1px solid; PADDING-TOP: 3px\'  align=\'left\'>");
+document.writeln("		<span style=\'FONT-SIZE: 11pt\'><b><font face=\'微软雅黑\' color=\'#003366\'>");
+document.writeln("		101期稳中⑩码:</font></span><font face=\'微软雅黑\' style=\'font-size: 11pt\' color=\'#FF0000\'>21.33.12.24.06.18.05.17.13.25</font></b></td>");
+document.writeln("			</tr>");
+document.writeln("			");
+
 
 
 
@@ -52,7 +109,7 @@ document.writeln("MARGIN: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; WORD-BREAK
 document.writeln("");
 document.writeln("(229,229,229) 1px solid; PADDING-TOP: 3px\'  align=\'left\' height=\'34\'>");
 document.writeln("		<span style=\'FONT-SIZE: 11pt\'><b><font face=\'微软雅黑\' color=\'#003366\'>");
-document.writeln("		100期稳中⑤肖:</font><font face=\'微软雅黑\' style=\'font-size: 11pt\' color=\'#FF0000\'>鼠狗虎马牛</font></b></td>");
+document.writeln("		100期稳中⑤肖:</font><font face=\'微软雅黑\' style=\'font-size: 11pt\' color=\'#FF0000\'>鼠<span style=\'background-color: #FFFF00\'>狗</span>虎马牛</font></b></td>");
 document.writeln("	  </tr></span>");
 document.writeln("			<tr>");
 document.writeln("		<td style=\'BORDER-BOTTOM: rgb(229,229,229) 1px solid; BORDER-LEFT: rgb(229,229,229) 1px solid; PADDING-BOTTOM: 3px; ");
@@ -62,7 +119,7 @@ document.writeln("");
 document.writeln("(229,");
 document.writeln("229,229) 1px solid; PADDING-TOP: 3px\'  align=\'left\' height=\'38\'>");
 document.writeln("		<span style=\'FONT-SIZE: 11pt\'><b><font face=\'微软雅黑\' color=\'#003366\'>");
-document.writeln("		100期稳中③肖:</font></span><font face=\'微软雅黑\' style=\'font-size: 11pt\' color=\'#FF0000\'>鼠狗虎</font></b></td>");
+document.writeln("		100期稳中③肖:</font></span><font face=\'微软雅黑\' style=\'font-size: 11pt\' color=\'#FF0000\'>鼠<span style=\'background-color: #FFFF00\'>狗</span>虎</font></b></td>");
 document.writeln("			</tr>");
 document.writeln("			<tr>");
 document.writeln("		<td style=\'BORDER-BOTTOM: rgb(229,229,229) 1px solid; BORDER-LEFT: rgb(229,229,229) 1px solid; PADDING-BOTTOM: 3px; ");
@@ -80,7 +137,7 @@ document.writeln("MARGIN: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; WORD-BREAK
 document.writeln("");
 document.writeln("(229,229,229) 1px solid; PADDING-TOP: 3px\'  align=\'left\'>");
 document.writeln("		<span style=\'FONT-SIZE: 11pt\'><b><font face=\'微软雅黑\' color=\'#003366\'>");
-document.writeln("		100期稳中⑩码:</font></span><font face=\'微软雅黑\' style=\'font-size: 11pt\' color=\'#FF0000\'>07.19.21.33.05.17.13.25.30.42</font></b></td>");
+document.writeln("		100期稳中⑩码:</font></span><font face=\'微软雅黑\' style=\'font-size: 11pt\' color=\'#FF0000\'>07.19.21.<span style=\'background-color: #FFFF00\'>33</span>.05.17.13.25.30.42</font></b></td>");
 document.writeln("			</tr>");
 document.writeln("			");
 
@@ -302,31 +359,37 @@ document.writeln("");
 document.writeln("<table width=\'100%\' class=\'duilianpt\' id=\'table400922120\' bordercolor=\'#ffffff\' bordercolorlight=\'#ffffff\' bordercolordark=\'#ffffff\' style=\'border-collapse: collapse;\' bgcolor=\'#ffffff\' border=\'1\' cellspacing=\'0\' cellpadding=\'2\'>");
 document.writeln("");
 document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("	<td align=\'left\'><b><font face=\'华文中宋\'><font color=\'#FFFFFF\'>");
-document.writeln("	<span style=\'background-color: #008000\'>100期雷锋码报开</span><span style=\'background-color: #800000\'>（？00）</span><span style=\'background-color: #000000\'><br></span></font>");
-document.writeln("	雷锋一句话：<font color=\'#FF0000\'>山雨欲来风满楼</font><br>");
-document.writeln("	四字真言：<font color=\'#FF0000\'>顺手牵羊</font><br>");
-document.writeln("	五字波色：<font color=\'#FF0000\'>蓝天配绿地</font><br>");
+document.writeln("	<span style=\'background-color: #008000\'>101期雷锋码报开</span><span style=\'background-color: #800000\'>（？00）</span><span style=\'background-color: #000000\'><br></span></font>");
+document.writeln("	雷锋一句话：<font color=\'#FF0000\'>天下乌鸦一般黑</font><br>");
+document.writeln("	四字真言：<font color=\'#FF0000\'>狐假虎威</font><br>");
+document.writeln("	五字波色：<font color=\'#FF0000\'>红花配绿叶</font><br>");
 document.writeln("	");
-document.writeln("	送平一肖：<font color=\'#FF0000\'>【鸡】</font><br>");
+document.writeln("	送平一肖：<font color=\'#FF0000\'>【鼠】</font><br>");
 document.writeln("		<font color=\'#FFFFFF\'><span style=\'background-color: #FF0000\'>");
 document.writeln("	解释：</span></font>");
 document.writeln("");
-document.writeln("山雨欲来风满楼【解释】：欲：将要。比喻局势将有重大变化前夕的迹象和气氛。【出自】：唐·许浑《咸阳城东楼》诗“溪云初起日沉阁，山雨欲来风满楼。”解雨肖猪鼠牛，风肖兔虎龙。四字顺手牵羊【解释】：顺手把人家的羊牵走。比喻趁势将敌手捉住或乘机利用别人。现比喻乘机拿走别人的东西。解得一肖羊。</font></b><br>");
+document.writeln("天下乌鸦一般黑【解释】：比喻不管哪个地方的剥削者压迫者都是一样的坏。【出自】：清·曹雪芹《红楼梦》第五十七回：“这更奇了，天下乌鸦一般黑，岂有两样的。”解天肖龙马牛猪猴兔。四字狐假虎威【解释】：假：借。 狐狸假借老虎的威势。比喻依仗别人的势力欺压人。解得一肖虎。</font></b><br>");
 document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	综合解特：猪鼠牛兔虎龙羊<br>");
-document.writeln("	主特五肖：猪鼠牛兔虎<br>");
-document.writeln("	主特四肖：猪鼠牛兔</font></b></td></b>");
+document.writeln("	综合解特：龙马牛猪猴兔虎<br>");
+document.writeln("	主特五肖：龙马牛猪猴<br>");
+document.writeln("	主特四肖：龙马牛猪</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
 document.writeln("		<!--结束-->");
 document.writeln("");
+document.writeln("");
+document.writeln("");
 
-
+document.writeln("");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -360,12 +423,10 @@ document.writeln("结束-->");
 
 
 
-
-
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=left><b><font size=\'3\' face=\'黑体\'>");
-document.writeln("	100期雷锋密码玄机:</font><font face=\'方正毡笔黑繁体\' color=\'#FF0000\' size=\'5\'>【湖】（4-6-8）</font></b></td></tr>");
+document.writeln("	101期雷锋密码玄机:</font><font face=\'方正毡笔黑繁体\' color=\'#FF0000\' size=\'5\'>【战】（0-2-4）</font></b></td></tr>");
 document.writeln("");
 document.writeln("<tr><td width=100% height=41><p align=left><font face=\'黑体\'><b>");
 document.writeln("		<font color=\'#0000FF\' style=\'font-size: 11pt\'>");
@@ -526,6 +587,18 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("<tr>");
+document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>103期红字暗码：【更新中】</font><font face=\'华文中宋\'><br>");
+document.writeln("	解释：更新中</font></b><br>");
+document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
+document.writeln("	<b>红字解六肖：更新中</b></font></td></b>");
+document.writeln("</tr>");
+document.writeln("");
+
+
+
+
+document.writeln("");
+document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>102期红字暗码：【更新中】</font><font face=\'华文中宋\'><br>");
 document.writeln("	解释：更新中</font></b><br>");
 document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
@@ -536,25 +609,13 @@ document.writeln("");
 
 
 
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>101期红字暗码：【更新中】</font><font face=\'华文中宋\'><br>");
-document.writeln("	解释：更新中</font></b><br>");
-document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	<b>红字解六肖：更新中</b></font></td></b>");
-document.writeln("</tr>");
-document.writeln("");
-
-
-
-
 
 document.writeln("");
 document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>100期红字暗码：【零丁孤苦03 04 12 47】</font><font face=\'华文中宋\'><br>");
-document.writeln("	解释：谓无依无靠，孤独困苦。</font></b><br>");
+document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>101期红字暗码：【老调重谈06 11 20 39】</font><font face=\'华文中宋\'><br>");
+document.writeln("	解释：比喻把说过多次的理论、主张重新搬出来，也指把搁置很久的技艺重新做起来，出自邹韬奋《无政府与民主政治》。‌</font></b><br>");
 document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	<b>红字解六肖：兔虎蛇鸡猴马</b></font></td></b>");
+document.writeln("	<b>红字解六肖：马狗龙虎鸡猴</b></font></td></b>");
 document.writeln("</tr>");
 document.writeln("");
 
@@ -603,7 +664,7 @@ document.writeln("	结束-->");
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>");
-document.writeln("	100期<font color=\'#FF0000\' size=\'4\'>【龙27.牛18.马25.鼠43】</font>开");
+document.writeln("	101期<font color=\'#FF0000\' size=\'4\'>【蛇14.龙27.兔40.牛42】</font>开");
 document.writeln("	<!>？00准</b></font></table>");
 document.writeln("");
 
@@ -709,9 +770,20 @@ document.writeln("	结束-->");
 
 
 document.writeln("<tr>");
+document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\'><font color=\'#FF0000\'>101期管家婆解梦:一家七口人</font><br>");
+document.writeln("		解释：一家七口人，解家禽鸡猪狗马羊牛</font></b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：鸡猪狗马羊牛</font></b></td></b>");
+document.writeln("</font>");
+document.writeln("</font>		</tr>");
+
+
+
+
+
+document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\'><font color=\'#FF0000\'>100期管家婆解梦:小蛇当家主</font><br>");
 document.writeln("		解释：小蛇当家主，解家禽牛鸡猪狗马羊</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：牛鸡猪狗马羊</font></b></td></b>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：牛鸡猪<span style=\'background-color: #FFFF00\'>狗</span>马羊</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 
@@ -817,18 +889,11 @@ document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷�
 document.writeln("102期:</font><font color=\'#000080\' face=\'微软雅黑\' size=\'3\'>吉凶③肖</font><font color=\'#FF0000\' face=\'楷体\' size=\'4\'>【正在研究】</font><font face=\'楷体\' size=\'3\'>开？00准</font></b></table>");
 
 
-
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
-document.writeln("101期:</font><font color=\'#000080\' face=\'微软雅黑\' size=\'3\'>吉凶③肖</font><font color=\'#FF0000\' face=\'楷体\' size=\'4\'>【正在研究】</font><font face=\'楷体\' size=\'3\'>开？00准</font></b></table>");
-
-
-
-
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><b><font face=\'楷体\'>");
-document.writeln("100期:</font><font color=\'#000080\' face=\'微软雅黑\' size=\'3\'>吉凶③肖</font><font color=\'#FF0000\' face=\'楷体\' size=\'4\'>【吉美主兔蛇鸡】</font><font face=\'楷体\' size=\'3\'>开<!>？00准</font></b></table>");
+document.writeln("101期:</font><font color=\'#000080\' face=\'微软雅黑\' size=\'3\'>吉凶③肖</font><font color=\'#FF0000\' face=\'楷体\' size=\'4\'>【凶丑主虎兔牛】</font><font face=\'楷体\' size=\'3\'>开<!>？00准</font></b></table>");
 document.writeln("       ");
+
 
 
 
@@ -897,7 +962,7 @@ document.writeln("	");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=left>");
 document.writeln("	<b><font face=\'宋体\' color=\'#FFFFFF\'>");
-document.writeln("	<span style=\'background-color: #000000\'>100期平特玄机</span></font>:</b><font color=\'#008000\'><b>更新中</b></font></td></tr>");
+document.writeln("	<span style=\'background-color: #000000\'>101期平特玄机</span></font>:</b><font color=\'#008000\'><b>更新中</b></font></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr><td width=100% height=40><p align=left><b>");
@@ -921,7 +986,7 @@ document.writeln("		<font size=\'3\'>复式连码:</font></font><font color=\'#F
 document.writeln("");
 document.writeln(" ");
 document.writeln("<tr><td width=100% height=40 bgcolor=\'#FFFF99\'><p align=\'center\'><b>");
-document.writeln("	<font size=\'2\'>100期开奖结果：00.00.00.00.00.00T00</font></td></tr></table>");
+document.writeln("	<font size=\'2\'>101期开奖结果：00.00.00.00.00.00T00</font></td></tr></table>");
 document.writeln("	");
 document.writeln("	");
 document.writeln("	");
@@ -936,32 +1001,32 @@ document.writeln("																	");
 document.writeln("						<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=left>");
 document.writeln("	<b><font face=\'宋体\' color=\'#FFFFFF\'>");
-document.writeln("	<span style=\'background-color: #000000\'>100期平特玄机</span></font>:</b><font color=\'#008000\'><b>太监当权众将乱,一三五</b></font></td></tr>");
+document.writeln("	<span style=\'background-color: #000000\'>101期平特玄机</span></font>:</b><font color=\'#008000\'><b>忠厚老实最吃苦,定格局</b></font></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr><td width=100% height=40><p align=left><b>");
-document.writeln("		<font face=\'宋体\'>推荐解析:</font></b><font color=\'#FF0000\'><b>一三五，01马，03龙，05虎</b></font></td></tr>");
+document.writeln("		<font face=\'宋体\'>推荐解析:</font></b><font color=\'#FF0000\'><b>忠厚老实最吃苦,解家禽狗马鸡牛</b></font></td></tr>");
 document.writeln("");
 document.writeln("<tr><td width=100% height=38><p align=left><b>");
-document.writeln("		<font face=\'宋体\'>平特一肖:</font></b><font color=\'#FF0000\'><b>马马马</b></font><b><font face=\'宋体\' color=\'#FF0000\'>（</font><font color=\'#FF0000\'>13.25.37</font><font face=\'宋体\' color=\'#FF0000\'>）</font></b></td></tr>");
+document.writeln("		<font face=\'宋体\'>平特一肖:</font></b><font color=\'#FF0000\'><b>狗狗狗</b></font><b><font face=\'宋体\' color=\'#FF0000\'>（</font><font color=\'#FF0000\'>09.21.33</font><font face=\'宋体\' color=\'#FF0000\'>）</font></b></td></tr>");
 document.writeln("		");
 document.writeln("<tr><td width=100% height=48><p align=left><b>");
 document.writeln("		<font face=\'宋体\'>");
-document.writeln("		<font size=\'3\'>平特二连:</font><font color=\'#FF0000\'>（</font></font></b><font color=\'#FF0000\'><b>马龙</b></font><b><font color=\'#FF0000\' face=\'宋体\'>）（</font></b><font color=\'#FF0000\'><b>龙虎</b></font><b><font color=\'#FF0000\' face=\'宋体\'>）（</font></b><font color=\'#FF0000\'><b>虎鸡</b></font><b><font color=\'#FF0000\' face=\'宋体\'>）</font></b></td></tr>");
+document.writeln("		<font size=\'3\'>平特二连:</font><font color=\'#FF0000\'>（</font></font></b><font color=\'#FF0000\'><b>狗马</b></font><b><font color=\'#FF0000\' face=\'宋体\'>）（</font></b><font color=\'#FF0000\'><b>马鸡</b></font><b><font color=\'#FF0000\' face=\'宋体\'>）（</font></b><font color=\'#FF0000\'><b>鸡牛</b></font><b><font color=\'#FF0000\' face=\'宋体\'>）</font></b></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr><td width=100% height=32><p align=left><b>");
-document.writeln("		<font face=\'宋体\'>复式连肖:</font></b><font color=\'#FF0000\'><b>马龙虎鸡</b></font></td></tr>");
+document.writeln("		<font face=\'宋体\'>复式连肖:</font></b><font color=\'#FF0000\'><b>狗马鸡牛</b></font></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr><td width=100% height=42><p align=left><b>");
 document.writeln("		<font size=\'3\'>");
 document.writeln("		<font face=\'宋体\'>");
-document.writeln("		复式连码:</font></font></b><font color=\'#FF0000\'><b>13.25.37.03.15.05.17.10.22</b></font></td></tr>");
+document.writeln("		复式连码:</font><font color=\'#FF0000\'>09.21.33.13.25.10.22.06.18</font></font></b></td></tr>");
 document.writeln("");
 document.writeln(" ");
 document.writeln("<tr><td width=100% height=40 bgcolor=\'#FFFF99\'><p align=\'center\'><b>");
-document.writeln("	<font size=\'2\'>100期开奖结果：00.00.00.00.00.00T00</font></td></tr></table>");
+document.writeln("	<font size=\'2\'>101期开奖结果：00.00.00.00.00.00T00</font></td></tr></table>");
 document.writeln("	");
 document.writeln("																																								");
 document.writeln("								");
@@ -1045,10 +1110,10 @@ document.writeln("");
 document.writeln("	");
 document.writeln("");
 document.writeln("<tr>");
-document.writeln("	<td align=\'left\' height=\'69\'><b><font color=\'#FF0000\' face=\'华文中宋\'>101期藏宝图曾道人玄机：更新中");
+document.writeln("	<td align=\'left\' height=\'69\'><b><font color=\'#FF0000\' face=\'华文中宋\'>101期藏宝图曾道人玄机：九五之尊富贵命");
 document.writeln("	</font><br>");
-document.writeln("	解释：更新中</b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>解特肖：更新中</font></b></td></b>");
+document.writeln("	解释：九五之尊富贵命，解吉肖羊兔蛇鸡龙马</b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>解特肖：羊兔蛇鸡龙马</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
@@ -1061,7 +1126,7 @@ document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'69\'><b><font color=\'#FF0000\' face=\'华文中宋\'>100期藏宝图曾道人玄机：十二生肖从它来");
 document.writeln("	</font><br>");
 document.writeln("	解释：十二生肖从它来，它来，解家禽牛鸡猪狗马羊</b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>解特肖：牛鸡猪狗马羊</font></b></td></b>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>解特肖：牛鸡猪<span style=\'background-color: #FFFF00\'>狗</span>马羊</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
@@ -1112,6 +1177,24 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("  <tbody>");
 document.writeln("    <tr>");
 document.writeln("      <td width=100% height=40><p align=center><b><font color=\'#6600CC\'>");
+document.writeln("      103期:$【十六码中特】开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF00FF\'>？00</font></span><font color=\'#6600CC\'>准</font></b><br>");
+document.writeln("          <b><font size=\'4\' color=\'#008080\'>【p.29769.com】<br>");
+document.writeln("          【p.29769.com】</font></b>");
+document.writeln("          ");
+document.writeln("        </td> </tr>   </tbody></table>");
+document.writeln("");
+document.writeln("");
+document.writeln("");
+
+
+
+
+
+document.writeln("");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff>");
+document.writeln("  <tbody>");
+document.writeln("    <tr>");
+document.writeln("      <td width=100% height=40><p align=center><b><font color=\'#6600CC\'>");
 document.writeln("      102期:$【十六码中特】开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF00FF\'>？00</font></span><font color=\'#6600CC\'>准</font></b><br>");
 document.writeln("          <b><font size=\'4\' color=\'#008080\'>【p.29769.com】<br>");
 document.writeln("          【p.29769.com】</font></b>");
@@ -1122,34 +1205,6 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff>");
-document.writeln("  <tbody>");
-document.writeln("    <tr>");
-document.writeln("      <td width=100% height=40><p align=center><b><font color=\'#6600CC\'>");
-document.writeln("      101期:$【十六码中特】开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF00FF\'>？00</font></span><font color=\'#6600CC\'>准</font></b><br>");
-document.writeln("          <b><font size=\'4\' color=\'#008080\'>【p.29769.com】<br>");
-document.writeln("          【p.29769.com】</font></b>");
-document.writeln("          ");
-document.writeln("        </td> </tr>   </tbody></table>");
-document.writeln("");
-document.writeln("");
-document.writeln("");
-
-
-document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff>");
-document.writeln("  <tbody>");
-document.writeln("    <tr>");
-document.writeln("      <td width=100% height=40><p align=center><b><font color=\'#6600CC\'>");
-document.writeln("      100期:$【十六码中特】开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF00FF\'><!>？00</font></span><font color=\'#6600CC\'>准</font></b><br>");
-document.writeln("          <b><font size=\'4\' color=\'#008080\'>【35.08.31.43.04.47.37.26】<br>");
-document.writeln("          【29.03.21.12.40.28.01.22】</font></b></td> </tr>   </tbody></table>");
-document.writeln("");
-
-
-
-
 
 
 
@@ -1159,9 +1214,9 @@ document.writeln("<table style=border-collapse:collapse border=1 width=100% bgco
 document.writeln("  <tbody>");
 document.writeln("    <tr>");
 document.writeln("      <td width=100% height=40><p align=center><b><font color=\'#6600CC\'>");
-document.writeln("      098期:$【十六码中特】开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF00FF\'>虎17</font></span><font color=\'#6600CC\'>准</font></b><br>");
-document.writeln("          <b><font size=\'4\' color=\'#008080\'>【11.45.25.41.07.35.08.01】<br>");
-document.writeln("          【10.13.02.15.14.49.<span style=\'background-color: #FFFF00\'>17</span>.31】</font></b></td> </tr>   </tbody></table>");
+document.writeln("      101期:$【十六码中特】开</font><span style=\'background-color: #FFFF00\'><font color=\'#FF00FF\'><!>？00</font></span><font color=\'#6600CC\'>准</font></b><br>");
+document.writeln("          <b><font size=\'4\' color=\'#008080\'>【06.21.48.37.45.25.17.20】<br>");
+document.writeln("          【01.46.43.41.18.15.02.47】</font></b></td> </tr>   </tbody></table>");
 document.writeln("");
 
 
@@ -1228,19 +1283,17 @@ document.writeln("	<font size=\'4\'>102期<font color=\'#008000\'>【三肖中�
 
 
 
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
-document.writeln("	<td width=100% height=37><p align=center><b>");
-document.writeln("	<font size=\'4\'>101期<font color=\'#008000\'>【三肖中特】</font>&amp;<font color=\'#800000\'>【更新中】</font>&amp;开？00准</font></b></table>");
-
-
 
 document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><b>");
-document.writeln("	<font size=\'4\'>100期<font color=\'#008000\'>【三肖中特】</font>&amp;<font color=\'#800000\'>【马龙虎】</font>&amp;开<!>？00准</font></b></table>");
+document.writeln("	<font size=\'4\'>101期<font color=\'#008000\'>【三肖中特】</font>&amp;<font color=\'#800000\'>【猪鼠虎】</font>&amp;开<!>？00准</font></b></table>");
 document.writeln("        <!--结束-->");
 document.writeln("        ");
+
+
+
 
 
 
@@ -1286,13 +1339,21 @@ document.writeln("-->");
 
 
 
+document.writeln("");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'微软雅黑\' size=\'4\'>");
+document.writeln("	101期<font color=\'#0000FF\'>{大小中特}</font><font color=\'#FF00FF\'>【小数】</font>开<!>？00准</font></b></table>");
+document.writeln("      ");
+
+
+
 
 
 
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b><font face=\'微软雅黑\' size=\'4\'>");
-document.writeln("	100期<font color=\'#0000FF\'>{大小中特}</font><font color=\'#FF00FF\'>【大数】</font>开<!>？00准</font></b></table>");
+document.writeln("	100期<font color=\'#0000FF\'>{大小中特}</font><font color=\'#FF00FF\'>【大数】</font>开狗33准</font></b></table>");
 document.writeln("      ");
 
 
@@ -1391,7 +1452,14 @@ document.writeln("-->");
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'36\'><tbody><tr>");
 document.writeln("	<td width=100% height=36><p align=center><font face=\'微软雅黑\' size=\'4\'><b>");
-document.writeln("100期<font color=\'#008000\'>【单双中特</font>】=<font color=\'#800000\'>【单数】</font>开 <!>？00准</b></font></table>");
+document.writeln("101期<font color=\'#008000\'>【单双中特</font>】=<font color=\'#800000\'>【双数】</font>开 <!>？00准</b></font></table>");
+document.writeln("");
+
+
+document.writeln("");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'36\'><tbody><tr>");
+document.writeln("	<td width=100% height=36><p align=center><font face=\'微软雅黑\' size=\'4\'><b>");
+document.writeln("100期<font color=\'#008000\'>【单双中特</font>】=<font color=\'#800000\'>【单数】</font>开 狗33准</b></font></table>");
 document.writeln("");
 
 
@@ -1462,11 +1530,9 @@ document.writeln("");
 
 
 
-
-
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=left><b><font size=\'3\' face=\'黑体\'>");
-document.writeln("	100期</font>赌王玄机:</font><font face=\'黑体\' color=\'#FF0000\'>昭阳殿下捣衣声，欲知方寸几许愁</font></b></td></tr>");
+document.writeln("	101期</font>赌王玄机:</font><font face=\'黑体\' color=\'#FF0000\'>水沉风味郁金黄，女娲石带补天色</font></b></td></tr>");
 document.writeln("");
 document.writeln("<tr><td width=100% height=43><p align=left><font face=\'黑体\'><b>");
 document.writeln("		<font color=\'#008000\' style=\'font-size: 11pt\'>");
@@ -1498,7 +1564,117 @@ document.writeln("</table>");
 
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=left><b><font size=\'3\' face=\'黑体\'>");
-document.writeln("	098期</font>赌王玄机:</script></div><div><script type="text/javascript" charset="gb2312">document.writeln("<style>");
+document.writeln("	098期</font>赌王玄机:</font><font face=\'黑体\' color=\'#FF0000\'>光明正大做事端，偷偷摸摸心有鬼</font></b></td></tr>");
+document.writeln("");
+document.writeln("<tr><td width=100% height=43><p align=left><font face=\'黑体\'><b>");
+document.writeln("		<font color=\'#008000\' style=\'font-size: 11pt\'>");
+document.writeln("	解：光明正大，解大肖，开虎17</font></b></font></td></tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("</table>");
+
+
+
+
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=left><b><font size=\'3\' face=\'黑体\'>");
+document.writeln("	097期</font>赌王玄机:</font><font face=\'黑体\' color=\'#FF0000\'>走四方实力雄厚，擒老龙大闹天宫</font></b></td></tr>");
+document.writeln("");
+document.writeln("<tr><td width=100% height=43><p align=left><font face=\'黑体\'><b>");
+document.writeln("		<font color=\'#008000\' style=\'font-size: 11pt\'>");
+document.writeln("	解：大闹天宫，解天肖，开猴11</font></b></font></td></tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("</table>");
+
+
+
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=left><b><font size=\'3\' face=\'黑体\'>");
+document.writeln("	096期</font>赌王玄机:</font><font face=\'黑体\' color=\'#FF0000\'>海闊天空任你走，水泊梁山裏好漢</font></b></td></tr>");
+document.writeln("");
+document.writeln("<tr><td width=100% height=43><p align=left><font face=\'黑体\'><b>");
+document.writeln("		<font color=\'#008000\' style=\'font-size: 11pt\'>");
+document.writeln("	解：梁山，解山肖鼠虎兔羊猴鸡猪，开鼠43</font></b></font></td></tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("</table>");
+
+
+
+
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=left><b><font size=\'3\' face=\'黑体\'>");
+document.writeln("	095期</font>赌王玄机:</font><font face=\'黑体\' color=\'#FF0000\'>是八是六想办法，蓝珠三九都是单</font></b></td></tr>");
+document.writeln("");
+document.writeln("<tr><td width=100% height=43><p align=left><font face=\'黑体\'><b>");
+document.writeln("		<font color=\'#008000\' style=\'font-size: 11pt\'>");
+document.writeln("	解：都是单，鸡单数，开猴35</font></b></font></td></tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("</table>");
+
+
+
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=left><b><font size=\'3\' face=\'黑体\'>");
+document.writeln("	094期</font>赌王玄机:</font><font face=\'黑体\' color=\'#FF0000\'>一路风光羊追狗，渡人度几时春秋</font></b></td></tr>");
+document.writeln("");
+document.writeln("<tr><td width=100% height=43><p align=left><font face=\'黑体\'><b>");
+document.writeln("		<font color=\'#008000\' style=\'font-size: 11pt\'>");
+document.writeln("	解：春秋，春肖兔虎龙，开虎17</font></b></font></td></tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("</table>");
+
+
+
+
+
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=left><b><font size=\'3\' face=\'黑体\'>");
+document.writeln("	093期</font>赌王玄机:</font><font face=\'黑体\' color=\'#FF0000\'>南北征战添吉瑞，固若金汤护家园</font></b></td></tr>");
+document.writeln("");
+document.writeln("<tr><td width=100% height=43><p align=left><font face=\'黑体\'><b>");
+document.writeln("		<font color=\'#008000\' style=\'font-size: 11pt\'>");
+document.writeln("	解：吉瑞，解吉肖，开兔40</font></b></font></td></tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("</table>");
+
+
+
+
+
+
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=left><b><font size=\'3\' face=\'黑体\'>");
+document.writeln("	092期</font>赌王玄机:</font><font face=\'黑体\' color=\'#FF0000\'>诸事随时若流水，四王下山管天下</font></b></td></tr>");
+document.writeln("");
+document.writeln("<tr><td width=100% height=43><p align=left><font face=\'黑体\'><b>");
+document.writeln("		<font color=\'#008000\' style=\'font-size: 11pt\'>");
+document.writeln("	解：管天下，解天肖，开牛06</font></b></font></td></tr>");
+document.writeln("");
+document.writeln("");
+document.writeln("</table>");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+document.writeln("");
+document.writeln("");
+document.writeln("</body>");
+document.writeln("</html>");</script></div><div><script type="text/javascript" charset="gb2312">document.writeln("<style>");
 document.writeln("#gsb123123 td {");
 document.writeln("	font-weight: 900;");
 document.writeln("	border-bottom: 1px solid #dddddd;");
@@ -1542,12 +1718,31 @@ document.writeln("		-->");
 
 
 
+
+
+
+
+
+
+
+
 document.writeln("		");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("	<td width=100% height=40><p align=center><b><font face=\'\'>");
-document.writeln("	<span style=\'font-size: 13pt\'>100</span></font><span style=\'font-size: 13pt\'><font color=\'#008000\'>ƽͶ</font><font color=\'#800000\'>{00.00.00}</font>׼</span></b><span style=\'font-size: 13pt\'></font></span></td></tr>");
+document.writeln("	<span style=\'font-size: 13pt\'>101</span></font><span style=\'font-size: 13pt\'><font color=\'#008000\'>ƽͶ</font><font color=\'#800000\'>{00.00.00}</font>׼</span></b><span style=\'font-size: 13pt\'></font></span></td></tr>");
+document.writeln("	<tr>");
+document.writeln("	<td width=100% height=40><p align=center><font face=\'\'><b>");
+document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 16pt\'><br>ߡ</font></b></font></td></tr>");
+document.writeln("	</table>");
+
+document.writeln("		");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody>");
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'\'>");
+document.writeln("	<span style=\'font-size: 13pt\'>100</span></font><span style=\'font-size: 13pt\'><font color=\'#008000\'>ƽͶ</font><font color=\'#800000\'>{32.00.00}</font>׼</span></b><span style=\'font-size: 13pt\'></font></span></td></tr>");
 document.writeln("	<tr>");
 document.writeln("	<td width=100% height=40><p align=center><font face=\'\'><b>");
 document.writeln("	<font color=\'#FF00FF\' style=\'font-size: 16pt\'><br>󡿡</font></b></font></td></tr>");
@@ -1660,23 +1855,35 @@ document.writeln("");
 document.writeln("<tr><td width=100% height=42 bgcolor=\'#FFFF99\'><p align=\'center\'><b>");
 document.writeln("	<font size=\'1\'>以上心水由</font><font color=\'#FF0000\'>【湖南小哥→杨洋】</font><font size=\'1\'>独家原创！如有雷同！均为抄袭！</font></td></tr></table>");
 document.writeln("		");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 document.writeln("		");
-
-
-
 document.writeln("		<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody>");
 document.writeln("	");
 document.writeln("<tr><td width=100% height=40><p align=left><font face=\'黑体\'><b>");
-document.writeln("		<font size=\'4\'>100期<font color=\'#FFFFFF\'><span style=\'background-color: #0000FF\'>【杨洋双波12码】</span></font></font><font color=\'#FF0000\' size=\'4\'>（开");
+document.writeln("		<font size=\'4\'>101期<font color=\'#FFFFFF\'><span style=\'background-color: #0000FF\'>【杨洋双波12码】</span></font></font><font color=\'#FF0000\' size=\'4\'>（开");
 document.writeln("	<!>？00）</font></b></font></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr><td width=100% height=40><p align=left><font face=\'黑体\'><b>");
-document.writeln("		【红波】08.12.13.18.19.23.24.29.30.34.35.40</font></b></td></tr>");
+document.writeln("		【绿波】17.21.22.27.28.32.33.38.39.43.44.49</font></b></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("<tr><td width=100% height=38><p align=left><font face=\'黑体\'><b>");
-document.writeln("		【蓝波】14.15.20.25.26.31.36.37.41.42.47.48</font></b></td></tr>");
+document.writeln("		【红波】07.08.12.13.18.19.23.24.29.30.34.02</font></b></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -1685,6 +1892,8 @@ document.writeln("	<font size=\'1\'>以上心水由</font><font color=\'#FF0000\
 document.writeln("		");
 document.writeln("");
 document.writeln("");
+
+
 
 
 
@@ -1744,9 +1953,9 @@ document.writeln("	结束-->	");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>");
-document.writeln("	101期澳门正版蛇蛋图：更新中<br>");
-document.writeln("	</font><font face=\'华文中宋\'>解释：更新中</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：更新中</font></b></td></b>");
+document.writeln("	101期澳门正版蛇蛋图：光棍节<br>");
+document.writeln("	</font><font face=\'华文中宋\'>解释：光棍节，解单肖马虎狗龙猴鼠</font></b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：马虎狗龙猴鼠</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
@@ -1760,7 +1969,7 @@ document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>");
 document.writeln("	100期澳门正版蛇蛋图：拍马屁<br>");
 document.writeln("	</font><font face=\'华文中宋\'>解释：拍马屁，解家禽马羊猪狗鸡牛</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：马羊猪狗鸡牛</font></b></td></b>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合解特：马羊猪<span style=\'background-color: #FFFF00\'>狗</span>鸡牛</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
@@ -1808,17 +2017,29 @@ document.writeln("<table id=\'jiuxiao\' border=\'1\' width=\'100%\' height=\'67\
 
 
 
+document.writeln("		<tr>");
+document.writeln("		<td height=\'28\' width=\'100%\' bordercolor=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>");
+document.writeln("		<b>101期:⑦肖:<font color=\'#FF0000\'>蛇龙鸡羊兔狗猴</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
+document.writeln("		101期:⑥肖:<font color=\'#FF0000\'>蛇龙鸡羊兔狗</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
+document.writeln("		101期:⑤肖:<font color=\'#FF0000\'>蛇龙鸡羊兔</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
+document.writeln("		101期:④肖:<font color=\'#FF0000\'>蛇龙鸡羊</font><span style=\'letter-spacing: normal; \'><font color=\'#FF0000\'> ");
+document.writeln("		</font></span><font color=\'#0000FF\'> ");
+document.writeln("		<span style=\'letter-spacing: normal; \'>开</span><span style=\'letter-spacing: normal; background-color: #FFFFFF\'><!>？00准</span></font></b></font></td>");
+document.writeln("	</tr>");
+document.writeln("	");
+
 
 
 document.writeln("		<tr>");
 document.writeln("		<td height=\'28\' width=\'100%\' bordercolor=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
 document.writeln("		<font face=\'微软雅黑\' size=\'4\'>");
-document.writeln("		<b>100期:⑦肖:<font color=\'#FF0000\'>狗羊马兔猴鸡猪</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		100期:⑥肖:<font color=\'#FF0000\'>狗羊马兔猴鸡</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		100期:⑤肖:<font color=\'#FF0000\'>狗羊马兔猴</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		100期:④肖:<font color=\'#FF0000\'>狗羊马兔</font><span style=\'letter-spacing: normal; \'><font color=\'#FF0000\'> ");
+document.writeln("		<b>100期:⑦肖:<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>狗</span>羊马兔猴鸡猪</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
+document.writeln("		100期:⑥肖:<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>狗</span>羊马兔猴鸡</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
+document.writeln("		100期:⑤肖:<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>狗</span>羊马兔猴</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
+document.writeln("		100期:④肖:<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>狗</span>羊马兔</font><span style=\'letter-spacing: normal; \'><font color=\'#FF0000\'> ");
 document.writeln("		</font></span><font color=\'#0000FF\'> ");
-document.writeln("		<span style=\'letter-spacing: normal; \'>开</span><span style=\'letter-spacing: normal; background-color: #FFFFFF\'><!>？00准</span></font></b></font></td>");
+document.writeln("		<span style=\'letter-spacing: normal; \'>开</span><span style=\'letter-spacing: normal; background-color: #FFFFFF\'>狗33准</span></font></b></font></td>");
 document.writeln("	</tr>");
 document.writeln("	");
 
@@ -1899,152 +2120,6 @@ document.writeln("	");
 
 
 
-document.writeln("		<tr>");
-document.writeln("		<td height=\'28\' width=\'100%\' bordercolor=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>");
-document.writeln("		<b>091期:⑦肖:<font color=\'#FF0000\'>兔龙狗鼠虎鸡<span style=\'background-color: #FFFF00\'>马</span></font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		091期:⑥肖:<font color=\'#FF0000\'>兔龙狗鼠虎鸡</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		091期:⑤肖:<font color=\'#FF0000\'>兔龙狗鼠虎</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		091期:④肖:<font color=\'#FF0000\'>兔龙狗鼠</font><span style=\'letter-spacing: normal; \'><font color=\'#FF0000\'> ");
-document.writeln("		</font></span><font color=\'#0000FF\'> ");
-document.writeln("		<span style=\'letter-spacing: normal; \'>开</span><span style=\'letter-spacing: normal; background-color: #FFFFFF\'>马37准</span></font></b></font></td>");
-document.writeln("	</tr>");
-document.writeln("	");
-
-
-
-
-
-
-
-document.writeln("		<tr>");
-document.writeln("		<td height=\'28\' width=\'100%\' bordercolor=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>");
-document.writeln("		<b>089期:⑦肖:<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>马</span>鼠蛇龙羊猴狗</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		089期:⑥肖:<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>马</span>鼠蛇龙羊猴</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		089期:⑤肖:<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>马</span>鼠蛇龙羊</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		089期:④肖:<font color=\'#FF0000\'><span style=\'background-color: #FFFF00\'>马</span>鼠蛇龙</font><span style=\'letter-spacing: normal; \'><font color=\'#FF0000\'> ");
-document.writeln("		</font></span><font color=\'#0000FF\'> ");
-document.writeln("		<span style=\'letter-spacing: normal; \'>开</span><span style=\'letter-spacing: normal; background-color: #FFFFFF\'>马49准</span></font></b></font></td>");
-document.writeln("	</tr>");
-document.writeln("	");
-
-
-
-
-
-
-
-document.writeln("		<tr>");
-document.writeln("		<td height=\'28\' width=\'100%\' bordercolor=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>");
-document.writeln("		<b>088期:⑦肖:<font color=\'#FF0000\'>蛇牛兔鼠虎鸡<span style=\'background-color: #FFFF00\'>龙</span></font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		088期:⑥肖:<font color=\'#FF0000\'>蛇牛兔鼠虎鸡</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		088期:⑤肖:<font color=\'#FF0000\'>蛇牛兔鼠虎</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		088期:④肖:<font color=\'#FF0000\'>蛇牛兔鼠</font><span style=\'letter-spacing: normal; \'><font color=\'#FF0000\'> ");
-document.writeln("		</font></span><font color=\'#0000FF\'> ");
-document.writeln("		<span style=\'letter-spacing: normal; \'>开</span><span style=\'letter-spacing: normal; background-color: #FFFFFF\'>龙27准</span></font></b></font></td>");
-document.writeln("	</tr>");
-document.writeln("	");
-
-
-
-
-
-document.writeln("		<tr>");
-document.writeln("		<td height=\'28\' width=\'100%\' bordercolor=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>");
-document.writeln("		<b>087期:⑦肖:<font color=\'#FF0000\'>龙<span style=\'background-color: #FFFF00\'>蛇</span>羊狗虎兔鼠</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		087期:⑥肖:<font color=\'#FF0000\'>龙<span style=\'background-color: #FFFF00\'>蛇</span>羊狗虎兔</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		087期:⑤肖:<font color=\'#FF0000\'>龙<span style=\'background-color: #FFFF00\'>蛇</span>羊狗虎</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		087期:④肖:<font color=\'#FF0000\'>龙<span style=\'background-color: #FFFF00\'>蛇</span>羊狗</font><span style=\'letter-spacing: normal; \'><font color=\'#FF0000\'> ");
-document.writeln("		</font></span><font color=\'#0000FF\'> ");
-document.writeln("		<span style=\'letter-spacing: normal; \'>开</span><span style=\'letter-spacing: normal; background-color: #FFFFFF\'>蛇26准</span></font></b></font></td>");
-document.writeln("	</tr>");
-document.writeln("	");
-
-
-document.writeln("		<tr>");
-document.writeln("		<td height=\'28\' width=\'100%\' bordercolor=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>");
-document.writeln("		<b>086期:⑦肖:<font color=\'#FF0000\'>狗猴鸡猪<span style=\'background-color: #FFFF00\'>羊</span>马龙</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		086期:⑥肖:<font color=\'#FF0000\'>狗猴鸡猪<span style=\'background-color: #FFFF00\'>羊</span>马</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		086期:⑤肖:<font color=\'#FF0000\'>狗猴鸡猪<span style=\'background-color: #FFFF00\'>羊</span></font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		086期:④肖:<font color=\'#FF0000\'>狗猴鸡猪</font><span style=\'letter-spacing: normal; \'><font color=\'#FF0000\'> ");
-document.writeln("		</font></span><font color=\'#0000FF\'> ");
-document.writeln("		<span style=\'letter-spacing: normal; \'>开</span><span style=\'letter-spacing: normal; background-color: #FFFFFF\'>羊12准</span></font></b></font></td>");
-document.writeln("	</tr>");
-document.writeln("	");
-
-
-
-
-document.writeln("		<tr>");
-document.writeln("		<td height=\'28\' width=\'100%\' bordercolor=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>");
-document.writeln("		<b>085期:⑦肖:<font color=\'#FF0000\'>马狗兔<span style=\'background-color: #FFFF00\'>鼠</span>牛龙鸡</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		085期:⑥肖:<font color=\'#FF0000\'>马狗兔<span style=\'background-color: #FFFF00\'>鼠</span>牛龙</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		085期:⑤肖:<font color=\'#FF0000\'>马狗兔<span style=\'background-color: #FFFF00\'>鼠</span>牛</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		085期:④肖:<font color=\'#FF0000\'>马狗兔<span style=\'background-color: #FFFF00\'>鼠</span></font><span style=\'letter-spacing: normal; \'><font color=\'#FF0000\'> ");
-document.writeln("		</font></span><font color=\'#0000FF\'> ");
-document.writeln("		<span style=\'letter-spacing: normal; \'>开</span><span style=\'letter-spacing: normal; background-color: #FFFFFF\'>鼠19准</span></font></b></font></td>");
-document.writeln("	</tr>");
-document.writeln("	");
-
-
-
-
-
-document.writeln("		<tr>");
-document.writeln("		<td height=\'28\' width=\'100%\' bordercolor=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>");
-document.writeln("		<b>084期:⑦肖:<font color=\'#FF0000\'>羊猴牛马虎<span style=\'background-color: #FFFF00\'>兔</span>鸡</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		084期:⑥肖:<font color=\'#FF0000\'>羊猴牛马虎<span style=\'background-color: #FFFF00\'>兔</span></font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		084期:⑤肖:<font color=\'#FF0000\'>羊猴牛马虎</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		084期:④肖:<font color=\'#FF0000\'>羊猴牛马</font><span style=\'letter-spacing: normal; \'><font color=\'#FF0000\'> ");
-document.writeln("		</font></span><font color=\'#0000FF\'> ");
-document.writeln("		<span style=\'letter-spacing: normal; \'>开</span><span style=\'letter-spacing: normal; background-color: #FFFFFF\'><!>兔16准</span></font></b></font></td>");
-document.writeln("	</tr>");
-document.writeln("	");
-
-
-
-
-
-document.writeln("		<tr>");
-document.writeln("		<td height=\'28\' width=\'100%\' bordercolor=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>");
-document.writeln("		<b>083期:⑦肖:<font color=\'#FF0000\'>鼠蛇兔狗<span style=\'background-color: #FFFF00\'>虎</span>马羊</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		083期:⑥肖:<font color=\'#FF0000\'>鼠蛇兔狗<span style=\'background-color: #FFFF00\'>虎</span>马</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		083期:⑤肖:<font color=\'#FF0000\'>鼠蛇兔狗<span style=\'background-color: #FFFF00\'>虎</span></font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		083期:④肖:<font color=\'#FF0000\'>鼠蛇兔狗</font><span style=\'letter-spacing: normal; \'><font color=\'#FF0000\'> ");
-document.writeln("		</font></span><font color=\'#0000FF\'> ");
-document.writeln("		<span style=\'letter-spacing: normal; \'>开</span><span style=\'letter-spacing: normal; background-color: #FFFFFF\'>虎05准</span></font></b></font></td>");
-document.writeln("	</tr>");
-document.writeln("	");
-
-
-
-
-document.writeln("		<tr>");
-document.writeln("		<td height=\'28\' width=\'100%\' bordercolor=\'#FFFFFF\' bgcolor=\'#FFFFFF\'>");
-document.writeln("		<font face=\'微软雅黑\' size=\'4\'>");
-document.writeln("		<b>082期:⑦肖:<font color=\'#FF0000\'>狗羊<span style=\'background-color: #FFFF00\'>龙</span>鸡猪蛇牛</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		082期:⑥肖:<font color=\'#FF0000\'>狗羊<span style=\'background-color: #FFFF00\'>龙</span>鸡猪蛇</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		082期:⑤肖:<font color=\'#FF0000\'>狗羊<span style=\'background-color: #FFFF00\'>龙</span>鸡猪</font><a target=\'_blank\' href=\' \' style=\'text-decoration: none\'><br></a>");
-document.writeln("		082期:④肖:<font color=\'#FF0000\'>狗羊<span style=\'background-color: #FFFF00\'>龙</span>鸡</font><span style=\'letter-spacing: normal; \'><font color=\'#FF0000\'> ");
-document.writeln("		</font></span><font color=\'#0000FF\'> ");
-document.writeln("		<span style=\'letter-spacing: normal; \'>开</span><span style=\'letter-spacing: normal; background-color: #FFFFFF\'>龙27准</span></font></b></font></td>");
-document.writeln("	</tr>");
-document.writeln("	");
-
-
-
-
-
-
-
-
 
 
 document.writeln("	");
@@ -2075,6 +2150,25 @@ document.writeln("");
 
 
 
+document.writeln("");
+document.writeln("<table width=\'100%\' border=\'1\' microsoft=\'\' yahei\';=\'\' font-size:=\'\' medium;=\'\' font-style:=\'\' normal;=\'\' font-variant-ligatures:=\'\' font-variant-caps:=\'\' font-weight:=\'\' 400;=\'\' letter-spacing:=\'\' orphans:=\'\' 2;=\'\' text-align:=\'\' start;=\'\' text-indent:=\'\' 0px;=\'\' text-transform:=\'\' none;=\'\' white-space:=\'\' widows:=\'\' word-spacing:=\'\' -webkit-text-stroke-width:=\'\' text-decoration-style:=\'\' initial;=\'\' text-decoration-color:=\'\' border-collapse:=\'\' collapse;=\'\' border:=\'\' 2px=\'\' solid=\'\' rgb(128,=\'\' 0,=\'\' 128);\'=\'\' initial;\'=\'\' style=\'color: rgb(0, 0, 0); font-family: \' id=\'table415\'>");
+document.writeln("	<tbody>");
+document.writeln("<tr>");
+document.writeln("		<td bgcolor=\'#FFFFCC\' align=\'center\' style=\'font-family: Tahoma; font-weight: bold; border: 2px solid rgb(102, 0, 102);\'>");
+document.writeln("<p style=\'line-height: 35px;\'><font color=\'#660066\'>");
+document.writeln("<span style=\'font-size: 15pt\'>101期</span></font><b><font face=\'Tahoma\' color=\'#660066\' style=\'font-size: 15pt;\'></font><font face=\'Tahoma\' color=\'#FFFFFF\' style=\'font-size: 15pt; background-color: rgb(255, 51, 0);\'>【欧阳俊杰】</font><font face=\'Tahoma\' color=\'#660066\' style=\'font-size: 15pt;\'>四尾八码</font><font face=\'Tahoma\' color=\'#0000FF\' style=\'font-size: 15pt;\'><br>");
+document.writeln("</font><font face=\'Tahoma\' color=\'#000066\' style=\'font-size: 19pt;\'>");
+document.writeln("		【4尾】主【24-34】<br>");
+document.writeln("【5尾】主【05-45】<br>");
+document.writeln("【0尾】主【30-20】<br>");
+document.writeln("【7尾】主【17-47】<br>");
+document.writeln("</font><font face=\'Tahoma\' color=\'#009900\' size=\'4\'>p.29769.com</font><font face=\'Tahoma\' color=\'#996600\' size=\'4\'>澳门特开</font><font face=\'Tahoma\' color=\'#666666\' size=\'4\'>:</font><span style=\'background-color: #FF0000\'><font face=\'Tahoma\' color=\'#FFFF00\' size=\'4\'><!>？00</font></span><font face=\'Tahoma\' color=\'#666666\' size=\'4\'>准</font></b></p>");
+document.writeln("</td>");
+document.writeln("	</tr>");
+document.writeln("</tbody></table>");
+document.writeln("");
+
+
 
 document.writeln("");
 document.writeln("<table width=\'100%\' border=\'1\' microsoft=\'\' yahei\';=\'\' font-size:=\'\' medium;=\'\' font-style:=\'\' normal;=\'\' font-variant-ligatures:=\'\' font-variant-caps:=\'\' font-weight:=\'\' 400;=\'\' letter-spacing:=\'\' orphans:=\'\' 2;=\'\' text-align:=\'\' start;=\'\' text-indent:=\'\' 0px;=\'\' text-transform:=\'\' none;=\'\' white-space:=\'\' widows:=\'\' word-spacing:=\'\' -webkit-text-stroke-width:=\'\' text-decoration-style:=\'\' initial;=\'\' text-decoration-color:=\'\' border-collapse:=\'\' collapse;=\'\' border:=\'\' 2px=\'\' solid=\'\' rgb(128,=\'\' 0,=\'\' 128);\'=\'\' initial;\'=\'\' style=\'color: rgb(0, 0, 0); font-family: \' id=\'table415\'>");
@@ -2085,10 +2179,10 @@ document.writeln("<p style=\'line-height: 35px;\'><font color=\'#660066\'>");
 document.writeln("<span style=\'font-size: 15pt\'>100期</span></font><b><font face=\'Tahoma\' color=\'#660066\' style=\'font-size: 15pt;\'></font><font face=\'Tahoma\' color=\'#FFFFFF\' style=\'font-size: 15pt; background-color: rgb(255, 51, 0);\'>【欧阳俊杰】</font><font face=\'Tahoma\' color=\'#660066\' style=\'font-size: 15pt;\'>四尾八码</font><font face=\'Tahoma\' color=\'#0000FF\' style=\'font-size: 15pt;\'><br>");
 document.writeln("</font><font face=\'Tahoma\' color=\'#000066\' style=\'font-size: 19pt;\'>");
 document.writeln("		【1尾】主【21-41】<br>");
-document.writeln("【3尾】主【03-23】<br>");
+document.writeln("【<span style=\'background-color: #FFFF00\'>3尾</span>】主【03-23】<br>");
 document.writeln("【2尾】主【22-42】<br>");
 document.writeln("【8尾】主【08-28】<br>");
-document.writeln("</font><font face=\'Tahoma\' color=\'#009900\' size=\'4\'>p.29769.com</font><font face=\'Tahoma\' color=\'#996600\' size=\'4\'>澳门特开</font><font face=\'Tahoma\' color=\'#666666\' size=\'4\'>:</font><span style=\'background-color: #FF0000\'><font face=\'Tahoma\' color=\'#FFFF00\' size=\'4\'><!>？00</font></span><font face=\'Tahoma\' color=\'#666666\' size=\'4\'>准</font></b></p>");
+document.writeln("</font><font face=\'Tahoma\' color=\'#009900\' size=\'4\'>p.29769.com</font><font face=\'Tahoma\' color=\'#996600\' size=\'4\'>澳门特开</font><font face=\'Tahoma\' color=\'#666666\' size=\'4\'>:</font><span style=\'background-color: #FF0000\'><font face=\'Tahoma\' color=\'#FFFF00\' size=\'4\'>狗33</font></span><font face=\'Tahoma\' color=\'#666666\' size=\'4\'>准</font></b></p>");
 document.writeln("</td>");
 document.writeln("	</tr>");
 document.writeln("</tbody></table>");
@@ -2136,14 +2230,13 @@ document.writeln("结束-->");
 
 
 
-
-
-
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'35\'><tbody><tr>");
 document.writeln("	<td width=100% height=35><p align=center><b><font face=\'楷体\'>");
-document.writeln("	100期<font color=\'#33CCFF\'>谜语平特</font>-</font><font face=\'仿宋\' style=\'font-size: 14pt\' color=\'#FF00FF\'>一马当先万夫子</font><font face=\'楷体\'>开<!>？00准</font></b></table>");
+document.writeln("	101期<font color=\'#33CCFF\'>谜语平特</font>-</font><font face=\'仿宋\' style=\'font-size: 14pt\' color=\'#FF00FF\'>错将双锋七彩兔</font><font face=\'楷体\'>开<!>？00准</font></b></table>");
 document.writeln("");
+
+
 
 
 
@@ -2205,89 +2298,41 @@ document.writeln("结束-->");
 
 
 
+document.writeln("");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'黑体\'></font><font size=\'3\' face=\'黑体\'>");
+document.writeln("	103期雷锋<font color=\'#FF0000\'>（一句玄机）</font>:开</font></b><span style=\'background-color: #FFFF00\'><b><font face=\'黑体\'>？00</font></b></span></td></tr>");
+document.writeln("");
+document.writeln("<tr><td width=100% height=40><p align=center><font face=\'黑体\'><b>");
+document.writeln("		<font color=\'#0000FF\' style=\'font-size: 16pt\'>");
+document.writeln("	【www.p.29769.com】</font></b></font></td></tr>");
+document.writeln("</table>");
+document.writeln("");
 
 
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b><font face=\'黑体\'></font><font size=\'3\' face=\'黑体\'>");
-document.writeln("	100期雷锋<font color=\'#FF0000\'>（一句玄机）</font>:开</font></b><span style=\'background-color: #FFFF00\'><b><font face=\'黑体\'><!>？00</font></b></span></td></tr>");
+document.writeln("	102期雷锋<font color=\'#FF0000\'>（一句玄机）</font>:开</font></b><span style=\'background-color: #FFFF00\'><b><font face=\'黑体\'>？00</font></b></span></td></tr>");
 document.writeln("");
 document.writeln("<tr><td width=100% height=40><p align=center><font face=\'黑体\'><b>");
 document.writeln("		<font color=\'#0000FF\' style=\'font-size: 16pt\'>");
-document.writeln("	【吉肖合双，马鸡兔蛇出特】</font></b></font></td></tr>");
+document.writeln("	【www.p.29769.com】</font></b></font></td></tr>");
 document.writeln("</table>");
 document.writeln("");
-document.writeln("");
-
-
-
-
-
-
 
 
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b><font face=\'黑体\'></font><font size=\'3\' face=\'黑体\'>");
-document.writeln("	098期雷锋<font color=\'#FF0000\'>（一句玄机）</font>:开</font></b><span style=\'background-color: #FFFF00\'><b><font face=\'黑体\'>虎17</font></b></span></td></tr>");
+document.writeln("	101期雷锋<font color=\'#FF0000\'>（一句玄机）</font>:开</font></b><span style=\'background-color: #FFFF00\'><b><font face=\'黑体\'><!>？00</font></b></span></td></tr>");
 document.writeln("");
 document.writeln("<tr><td width=100% height=40><p align=center><font face=\'黑体\'><b>");
 document.writeln("		<font color=\'#0000FF\' style=\'font-size: 16pt\'>");
-document.writeln("	【<span style=\'background-color: #FFFF00\'>木</span>火合单，<span style=\'background-color: #FFFF00\'>虎</span>兔蛇马出特】</font></b></font></td></tr>");
+document.writeln("	【雙肖合双，鸡羊兔牛出特】</font></b></font></td></tr>");
 document.writeln("</table>");
 document.writeln("");
 document.writeln("");
-
-
-
-
-
-
-
-document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'黑体\'></font><font size=\'3\' face=\'黑体\'>");
-document.writeln("	096期雷锋<font color=\'#FF0000\'>（一句玄机）</font>:开</font></b><span style=\'background-color: #FFFF00\'><b><font face=\'黑体\'>鼠43</font></b></span></td></tr>");
-document.writeln("");
-document.writeln("<tr><td width=100% height=40><p align=center><font face=\'黑体\'><b>");
-document.writeln("		<font color=\'#0000FF\' style=\'font-size: 16pt\'>");
-document.writeln("	【<span style=\'background-color: #FFFF00\'>小肖合单</span>，蛇鸡兔<span style=\'background-color: #FFFF00\'>鼠</span>出特】</font></b></font></td></tr>");
-document.writeln("</table>");
-document.writeln("");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'黑体\'></font><font size=\'3\' face=\'黑体\'>");
-document.writeln("	095期雷锋<font color=\'#FF0000\'>（一句玄机）</font>:开</font></b><span style=\'background-color: #FFFF00\'><b><font face=\'黑体\'>猴35</font></b></span></td></tr>");
-document.writeln("");
-document.writeln("<tr><td width=100% height=40><p align=center><font face=\'黑体\'><b>");
-document.writeln("		<font color=\'#0000FF\' style=\'font-size: 16pt\'>");
-document.writeln("	【<span style=\'background-color: #FFFF00\'>单肖合双</span>，<span style=\'background-color: #FFFF00\'>猴</span>龙虎鼠出特】</font></b></font></td></tr>");
-document.writeln("</table>");
-document.writeln("");
-document.writeln("");
-
-
-
-
-
-
-document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'黑体\'></font><font size=\'3\' face=\'黑体\'>");
-document.writeln("	093期雷锋<font color=\'#FF0000\'>（一句玄机）</font>:开</font></b><span style=\'background-color: #FFFF00\'><b><font face=\'黑体\'>兔40</font></b></span></td></tr>");
-document.writeln("");
-document.writeln("<tr><td width=100% height=40><p align=center><font face=\'黑体\'><b>");
-document.writeln("		<font color=\'#0000FF\' style=\'font-size: 16pt\'>");
-document.writeln("	【<span style=\'background-color: #FFFF00\'>山肖合双</span>，鼠虎<span style=\'background-color: #FFFF00\'>兔</span>羊出特】</font></b></font></td></tr>");
-document.writeln("</table>");
-document.writeln("");
-document.writeln("");
-
 
 
 
@@ -2332,12 +2377,16 @@ document.writeln("        结束-->");
 
 
 
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("	<td width=100% height=37><p align=center><b><font face=\'微软雅黑\' size=\'4\'>");
+document.writeln("	101期:<font color=\'#008000\'>家野+二肖</font><font color=\'#FF00FF\'>【家禽+兔龙】</font>开<!>？00准</font></b></table>");
+
 
 
 
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("	<td width=100% height=37><p align=center><b><font face=\'微软雅黑\' size=\'4\'>");
-document.writeln("	100期:<font color=\'#008000\'>家野+二肖</font><font color=\'#FF00FF\'>【家禽+猴龙】</font>开<!>？00准</font></b></table>");
+document.writeln("	100期:<font color=\'#008000\'>家野+二肖</font><font color=\'#FF00FF\'>【<span style=\'background-color: #FFFF00\'>家禽</span>+猴龙】</font>开狗33准</font></b></table>");
 
 
 
@@ -2433,21 +2482,11 @@ document.writeln("		<font face=\'微软雅黑\'>");
 document.writeln("		");
 document.writeln("		");
 
-
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b><font face=\'微软雅黑\'>101期</font><font color=\'#000080\' face=\'微软雅黑\'>必中平尾</font><span style=\'font-size: 14pt\'><font face=\'微软雅黑\' color=\'#FF0000\'>");
-document.writeln("	（</font><font face=\'微软雅黑\' color=\'#800080\'>正在研究</font><font face=\'微软雅黑\' color=\'#FF0000\'>）</font></span></b><font face=\'微软雅黑\'><b>开00.00准</b></font></table>");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		");
-document.writeln("		");
-
-document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'微软雅黑\'>100期</font><font color=\'#000080\' face=\'微软雅黑\'>必中平尾</font><span style=\'font-size: 14pt\'><font face=\'微软雅黑\' color=\'#FF0000\'>");
-document.writeln("	（</font><font face=\'微软雅黑\' color=\'#800080\'>7尾→7.1尾</font><font face=\'微软雅黑\' color=\'#FF0000\'>）</font></span></b><font face=\'微软雅黑\'><b>开00.00准</b></font></table>");
+document.writeln("	（</font><font face=\'微软雅黑\' color=\'#800080\'>0尾→0.8尾</font><font face=\'微软雅黑\' color=\'#FF0000\'>）</font></span></b><font face=\'微软雅黑\'><b>开00.00准</b></font></table>");
 document.writeln("	");
-
 
 
 
@@ -2508,11 +2547,25 @@ document.writeln("");
 
 
 
+
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>101期今日闲情暗语：接生小孩!<br>");
+document.writeln("	</font><font face=\'华文中宋\'>解释：接生小孩，解小肖蛇猴鸡龙鼠兔</font></b><br>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合取肖：蛇猴鸡龙鼠兔</font></b></td></b>");
+document.writeln("</font>");
+document.writeln("</font>		</tr>");
+document.writeln("");
+
+
+
+
+
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'69\'><b><font face=\'华文中宋\' color=\'#FF0000\'>100期今日闲情暗语：争论<br>");
 document.writeln("	</font><font face=\'华文中宋\'>解释：争论，解家禽猪狗马羊牛鸡</font></b><br>");
-document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合取肖：猪狗马羊牛鸡</font></b></td></b>");
+document.writeln("	<b><font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>综合取肖：猪<span style=\'background-color: #FFFF00\'>狗</span>马羊牛鸡</font></b></td></b>");
 document.writeln("</font>");
 document.writeln("</font>		</tr>");
 document.writeln("");
@@ -2619,12 +2672,25 @@ document.writeln("           结束-->");
 
 
 
+
 document.writeln("           ");
 document.writeln("                                ");
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'31\'><tbody><tr>");
 document.writeln("	<td width=100% height=31><p align=center><b><font face=\'微软雅黑\' size=\'4\'>");
-document.writeln("	100期:<font color=\'#008080\'>三头中特</font><font color=\'#800000\'>（3.2.0头）</font>开<!>？00准</font></b></table>");
+document.writeln("	101期:<font color=\'#008080\'>三头中特</font><font color=\'#800000\'>（2.3.4头）</font>开<!>？00准</font></b></table>");
+document.writeln("		<font face=\'微软雅黑\' size=\'4\'>");
+document.writeln("           ");
+document.writeln("                      ");
+
+
+
+document.writeln("           ");
+document.writeln("                                ");
+document.writeln("");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'31\'><tbody><tr>");
+document.writeln("	<td width=100% height=31><p align=center><b><font face=\'微软雅黑\' size=\'4\'>");
+document.writeln("	100期:<font color=\'#008080\'>三头中特</font><font color=\'#800000\'>（<span style=\'background-color: #FFFF00\'>3</span>.2.0头）</font>开狗33准</font></b></table>");
 document.writeln("		<font face=\'微软雅黑\' size=\'4\'>");
 document.writeln("           ");
 document.writeln("                      ");
@@ -2707,7 +2773,7 @@ document.writeln("<tr>");
 document.writeln("		<td class=\'center f13 black l150\' style=\'border-color: #D0FFFF; \' align=\'center\' bgcolor=#FFFFFF>");
 document.writeln("		  ");
 document.writeln("         	<b>");
-document.writeln("         <font color=\'#008000\' face=\'黑体\' size=\'4\'>以下统计至2020-067-2025-100期（错486）</font></b></td>");
+document.writeln("         <font color=\'#008000\' face=\'黑体\' size=\'4\'>以下统计至2020-067-2025-101期（错486）</font></b></td>");
 document.writeln("	</tr></table>");
 document.writeln("	");
 document.writeln("	<table border=\'1\' width=\'100%\' cellpadding=\'0\' cellspacing=\'0\' bordercolorlight=\'#FFFFFF\' bordercolordark=\'#FFFFFF\' bgcolor=\'#FFFFFF\' style=\'border: 1px solid #E70012;\' height=\'36\'>	");
@@ -2793,7 +2859,7 @@ document.writeln("<tr>");
 document.writeln("		<td class=\'center f13 black l150\' style=\'border-color: #D0FFFF; \' align=\'center\' bgcolor=#FFFFFF>");
 document.writeln("		  ");
 document.writeln("         	<b><font color=\'#000000\' face=\'黑体\'>");
-document.writeln("			<span style=\'background-color: #FFFF00\'>100上期开羊:</span></font><span style=\'background-color: #FFFF00\'><font face=\'黑体\' size=\'4\'><font color=\'#FF0000\'>猴龙兔虎猪羊牛狗蛇</font><font color=\'#0000FF\'>(错39)</font></font> ");
+document.writeln("			<span style=\'background-color: #FFFFFF\'>上期开羊:</span></font><span style=\'background-color: #FFFFFF\'><font face=\'黑体\' size=\'4\'><font color=\'#FF0000\'>猴龙兔虎猪羊牛狗蛇</font><font color=\'#0000FF\'>(错39)</font></font> ");
 document.writeln("			</font> ");
 document.writeln("			</span> ");
 document.writeln("			</b> </td>");
@@ -2822,7 +2888,7 @@ document.writeln("<tr>");
 document.writeln("		<td class=\'center f13 black l150\' style=\'border-color: #D0FFFF; \' align=\'center\' bgcolor=#FFFFFF>");
 document.writeln("		  ");
 document.writeln("         	<b><font color=\'#000000\' face=\'黑体\'>");
-document.writeln("			<span style=\'background-color: #FFFFFF\'>上期开狗:</span></font><span style=\'background-color: #FFFFFF\'><font face=\'黑体\' size=\'4\'><font color=\'#FF0000\'>兔羊虎牛猪鼠龙狗蛇</font><font color=\'#0000FF\'>(错36)</font></font> ");
+document.writeln("			<span style=\'background-color: #FFFF00\'>101上期开狗:</span></font><span style=\'background-color: #FFFF00\'><font face=\'黑体\' size=\'4\'><font color=\'#FF0000\'>兔羊虎牛猪鼠龙狗蛇</font><font color=\'#0000FF\'>(错36)</font></font> ");
 document.writeln("			</font> ");
 document.writeln("			</span> ");
 document.writeln("			</b> </td>");
@@ -2916,10 +2982,12 @@ document.writeln("	？00准</font></b></table>");
 
 
 
+document.writeln("         ");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
-document.writeln("	<td width=100% height=39><p align=center><b><font face=\'微软雅黑\'>");
-document.writeln("	101期:<font color=\'#800080\'>天地一肖</font><font color=\'#008000\'>【正在研究】</font>开 ");
-document.writeln("	？00准</font></b></table>");
+document.writeln("	<td width=100% height=39><p align=center><b>");
+document.writeln("	<font face=\'微软雅黑\' style=\'font-size: 13pt\'>");
+document.writeln("	101期:<font color=\'#800080\'>天地一肖</font><font color=\'#008000\'>【地肖+牛】</font>开<!>？00准</font></b></table>");
+document.writeln("      ");
 
 
 
@@ -2928,7 +2996,7 @@ document.writeln("         ");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'39\'><tbody><tr>");
 document.writeln("	<td width=100% height=39><p align=center><b>");
 document.writeln("	<font face=\'微软雅黑\' style=\'font-size: 13pt\'>");
-document.writeln("	100期:<font color=\'#800080\'>天地一肖</font><font color=\'#008000\'>【地肖+兔】</font>开<!>？00准</font></b></table>");
+document.writeln("	100期:<font color=\'#800080\'>天地一肖</font><font color=\'#008000\'>【<span style=\'background-color: #FFFF00\'>地肖</span>+兔】</font>开狗33准</font></b></table>");
 document.writeln("      ");
 
 
@@ -2976,7 +3044,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=38><p align=left>");
-document.writeln("	<b><font face=\'黑体\'></font></b><font size=\'3\' face=\'黑体\'><b>100期欲钱料:<font color=\'#0000FF\'>欲钱买天涯芳草</font></b></td></tr>");
+document.writeln("	<b><font face=\'黑体\'></font></b><font size=\'3\' face=\'黑体\'><b>101期欲钱料:<font color=\'#0000FF\'>欲钱买美丽河山</font></b></td></tr>");
 document.writeln("");
 document.writeln("");
 document.writeln("");
@@ -2987,6 +3055,8 @@ document.writeln("");
 document.writeln("");
 document.writeln("</table>");
 document.writeln("");
+
+
 
 
 document.writeln("");
@@ -3219,12 +3289,17 @@ document.writeln("		结束-->");
 
 
 
+document.writeln("      <tr>");
+document.writeln("    <td height=\'41\'>");
+document.writeln("    101期<font color=\'#000080\'>（绝杀三尾）</font><font color=\'#FF0000\'>（</font><font color=\'#800080\'>1.5.9尾</font><font color=\'#FF0000\'>）</font>开<!>？00准</td>");
+document.writeln("  </tr>");
+
 
 
 
 document.writeln("      <tr>");
 document.writeln("    <td height=\'41\'>");
-document.writeln("    100期<font color=\'#000080\'>（绝杀三尾）</font><font color=\'#FF0000\'>（</font><font color=\'#800080\'>6.2.8尾</font><font color=\'#FF0000\'>）</font>开<!>？00准</td>");
+document.writeln("    100期<font color=\'#000080\'>（绝杀三尾）</font><font color=\'#FF0000\'>（</font><font color=\'#800080\'>6.2.8尾</font><font color=\'#FF0000\'>）</font>开狗33准</td>");
 document.writeln("  </tr>");
 
 
@@ -3374,7 +3449,14 @@ document.writeln("结束-->");
 
 document.writeln("                <table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>");
-document.writeln("	100期</font><font color=\'#000080\' face=\'微软雅黑\'>九肖</font><font color=\'#FF00FF\' face=\'仿宋\' style=\'font-size: 14pt\'>鼠狗牛马鸡猴猪虎龙</font><font face=\'仿宋\' style=\'font-size: 14pt\'>开<!>？00准</font></b></table>                                                                   ");
+document.writeln("	101期</font><font color=\'#000080\' face=\'微软雅黑\'>九肖</font><font color=\'#FF00FF\' face=\'仿宋\' style=\'font-size: 14pt\'>龙虎狗蛇鼠牛猴羊马</font><font face=\'仿宋\' style=\'font-size: 14pt\'>开<!>？00准</font></b></table>                                                                   ");
+document.writeln("       ");
+
+
+
+document.writeln("                <table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>");
+document.writeln("	100期</font><font color=\'#000080\' face=\'微软雅黑\'>九肖</font><font color=\'#FF00FF\' face=\'仿宋\' style=\'font-size: 14pt\'>鼠<span style=\'background-color: #FFFF00\'>狗</span>牛马鸡猴猪虎龙</font><font face=\'仿宋\' style=\'font-size: 14pt\'>开狗33准</font></b></table>                                                                   ");
 document.writeln("       ");
 
 
@@ -3447,78 +3529,7 @@ document.writeln("       ");
 
 document.writeln("                <table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>");
-document.writeln("	092期</font><font color=\'#000080\' face=\'微软雅黑\'>九肖</font><font color=\'#FF00FF\' face=\'仿宋\' style=\'font-size: 14pt\'>羊兔猪狗鸡蛇鼠<span style=\'background-color: #FFFF00\'>牛</span>龙</font><font face=\'仿宋\' style=\'font-size: 14pt\'>开牛06准</font></b></table>                                                                   ");
-document.writeln("       ");
-
-
-
-
-
-
-document.writeln("                <table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>");
-document.writeln("	091期</font><font color=\'#000080\' face=\'微软雅黑\'>九肖</font><font color=\'#FF00FF\' face=\'仿宋\' style=\'font-size: 14pt\'>狗蛇鼠猴牛<span style=\'background-color: #FFFF00\'>马</span>兔鸡虎</font><font face=\'仿宋\' style=\'font-size: 14pt\'>开马37准</font></b></table>                                                                   ");
-document.writeln("       ");
-
-
-
-document.writeln("                <table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>");
-document.writeln("	090期</font><font color=\'#000080\' face=\'微软雅黑\'>九肖</font><font color=\'#FF00FF\' face=\'仿宋\' style=\'font-size: 14pt\'><span style=\'background-color: #FFFF00\'>羊</span>虎马狗兔鼠牛龙鸡</font><font face=\'仿宋\' style=\'font-size: 14pt\'>开羊36准</font></b></table>                                                                   ");
-document.writeln("       ");
-
-
-
-
-
-
-document.writeln("                <table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>");
-document.writeln("	088期</font><font color=\'#000080\' face=\'微软雅黑\'>九肖</font><font color=\'#FF00FF\' face=\'仿宋\' style=\'font-size: 14pt\'><span style=\'background-color: #FFFF00\'>龙</span>羊猴狗虎鸡马鼠蛇</font><font face=\'仿宋\' style=\'font-size: 14pt\'>开龙27准</font></b></table>                                                                   ");
-document.writeln("       ");
-
-
-
-
-
-document.writeln("                <table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>");
-document.writeln("	087期</font><font color=\'#000080\' face=\'微软雅黑\'>九肖</font><font color=\'#FF00FF\' face=\'仿宋\' style=\'font-size: 14pt\'>牛兔鼠虎鸡龙猪狗<span style=\'background-color: #FFFF00\'>蛇</span></font><font face=\'仿宋\' style=\'font-size: 14pt\'>开蛇26准</font></b></table>                                                                   ");
-document.writeln("       ");
-
-
-
-
-
-document.writeln("                <table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>");
-document.writeln("	086期</font><font color=\'#000080\' face=\'微软雅黑\'>九肖</font><font color=\'#FF00FF\' face=\'仿宋\' style=\'font-size: 14pt\'><span style=\'background-color: #FFFF00\'>羊</span>猪龙鼠蛇兔狗虎马</font><font face=\'仿宋\' style=\'font-size: 14pt\'>开羊12准</font></b></table>                                                                   ");
-document.writeln("       ");
-
-
-
-
-
-document.writeln("                <table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>");
-document.writeln("	085期</font><font color=\'#000080\' face=\'微软雅黑\'>九肖</font><font color=\'#FF00FF\' face=\'仿宋\' style=\'font-size: 14pt\'>虎猪龙蛇鸡猴兔马<span style=\'background-color: #FFFF00\'>鼠</span></font><font face=\'仿宋\' style=\'font-size: 14pt\'>开鼠19准</font></b></table>                                                                   ");
-document.writeln("       ");
-
-
-
-
-
-
-
-document.writeln("                <table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
-document.writeln("	<td width=100% height=40>");
-document.writeln("	<p align=center><font color=\'#FF0000\'>");
-document.writeln("	<span style=\'font-size: 13pt; font-weight: 700; background-color: #FFFF00\'>");
-document.writeln("	<a target=\'_blank\' href=\'https://b3b.xn--n8juiu03mxea101l.xn--q9jyb4c:8443/#301tz\'><font color=\'#FF0000\'>点击进入澳门六合彩网62785.com</font></a></span></font></table>");
-document.writeln("");
-document.writeln("  ");
-document.writeln("</body>");
-document.writeln("</html>");</script></div><div><script type="text/javascript" charset="gb2312">﻿document.writeln("<!doctype html>");
+document.writeln("	092期</font><font color=\'#000080\' face=\'微软雅黑\'>九肖</font><font color=\'#FF00FF\' face=\'仿宋\' style=\'font-size: 14p</script></div><div><script type="text/javascript" charset="gb2312">﻿document.writeln("<!doctype html>");
 document.writeln("<html>");
 document.writeln("<head>");
 document.writeln("<meta charset=\'gb2132\'>");
@@ -3547,13 +3558,20 @@ document.writeln("");
 document.writeln("");
 
 
+document.writeln("");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
+document.writeln("<td width=100% height=37><p align=center>");
+document.writeln("<font face=\'微软雅黑\' style=\'font-size: 13pt\'><b>");
+document.writeln("101期<font color=\'#0000FF\'>【春夏秋冬】</font><font color=\'#FF0000\'>（冬春夏）</font>开<!>？00准</table>");
+document.writeln("	");
+
 
 
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'37\'><tbody><tr>");
 document.writeln("<td width=100% height=37><p align=center>");
 document.writeln("<font face=\'微软雅黑\' style=\'font-size: 13pt\'><b>");
-document.writeln("100期<font color=\'#0000FF\'>【春夏秋冬】</font><font color=\'#FF0000\'>（秋冬春）</font>开<!>？00准</table>");
+document.writeln("100期<font color=\'#0000FF\'>【春夏秋冬】</font><font color=\'#FF0000\'>（<span style=\'background-color: #FFFF00\'>秋</span>冬春）</font>开狗33准</table>");
 document.writeln("	");
 
 
@@ -3749,15 +3767,12 @@ document.writeln("结束-->");
 
 
 
-
-
-
-
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'30\'><tbody><tr>");
 document.writeln("	<td width=100% height=30><p align=center><b><font face=\'楷体\'>");
-document.writeln("	<font size=\'4\'>100期</font><font color=\'#000080\' size=\'4\'>七尾中特</font></font><font color=\'#FF00FF\' size=\'4\' face=\'楷体\'>=0.2.9.8.7.5.6</font><font size=\'4\'>开</font></font><font face=\'楷体\' size=\'4\'><!>？00准</font></b></table>");
+document.writeln("	<font size=\'4\'>101期</font><font color=\'#000080\' size=\'4\'>七尾中特</font></font><font color=\'#FF00FF\' size=\'4\' face=\'楷体\'>=2.3.6.5.7.8.9</font><font size=\'4\'>开</font></font><font face=\'楷体\' size=\'4\'><!>？00准</font></b></table>");
 document.writeln(" ");
+
 
 
 
@@ -3895,7 +3910,7 @@ document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b>");
 document.writeln("	<font face=\'微软雅黑\' style=\'font-size: 13pt\'>");
-document.writeln("	100期<font color=\'#000080\'>【三行中特】</font><font color=\'#FF0000\'>（木金土）</font>&amp;开<!>？00准</font></b></table>");
+document.writeln("	101期<font color=\'#000080\'>【三行中特】</font><font color=\'#FF0000\'>（金水土）</font>&amp;开<!>？00准</font></b></table>");
 document.writeln("        ");
 
 
@@ -4034,6 +4049,12 @@ document.writeln("");
 
 
 
+document.writeln("                      ");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>101期:</font><font color=\'#000080\' face=\'微软雅黑\'>九宫禁肖</font>");
+document.writeln("	<font color=\'#FF0000\' size=\'4\' face=\'楷体\'>(龙+狗)</font><font color=\'#000080\' size=\'4\' face=\'楷体\'>全年资料</font><font face=\'楷体\'>开<font color=\'#FF00FF\'><!>？00</font>准</font></b></table>");
+document.writeln("        ");
+
 
 
 
@@ -4041,7 +4062,7 @@ document.writeln("");
 document.writeln("                      ");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>100期:</font><font color=\'#000080\' face=\'微软雅黑\'>九宫禁肖</font>");
-document.writeln("	<font color=\'#FF0000\' size=\'4\' face=\'楷体\'>(蛇+龙)</font><font color=\'#000080\' size=\'4\' face=\'楷体\'>全年资料</font><font face=\'楷体\'>开<font color=\'#FF00FF\'><!>？00</font>准</font></b></table>");
+document.writeln("	<font color=\'#FF0000\' size=\'4\' face=\'楷体\'>(蛇+龙)</font><font color=\'#000080\' size=\'4\' face=\'楷体\'>全年资料</font><font face=\'楷体\'>开<font color=\'#FF00FF\'>狗33</font>准</font></b></table>");
 document.writeln("        ");
 
 
@@ -4373,7 +4394,14 @@ document.writeln("束-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b>");
 document.writeln("	<font face=\'微软雅黑\' style=\'font-size: 13pt\'>");
-document.writeln("	100期:<font color=\'#000080\'>绝杀三肖</font>=<font color=\'#008000\'>【牛马猪】</font>=开<!>？00准</font></b></table>");
+document.writeln("	101期:<font color=\'#000080\'>绝杀三肖</font>=<font color=\'#008000\'>【龙马牛】</font>=开<!>？00准</font></b></table>");
+document.writeln("       ");
+
+
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><b>");
+document.writeln("	<font face=\'微软雅黑\' style=\'font-size: 13pt\'>");
+document.writeln("	100期:<font color=\'#000080\'>绝杀三肖</font>=<font color=\'#008000\'>【牛马猪】</font>=开狗33准</font></b></table>");
 document.writeln("       ");
 
 
@@ -4536,8 +4564,17 @@ document.writeln(" ");
 document.writeln(" ");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'33\'><tbody><tr>");
 document.writeln("	<td width=100% height=33><p align=center><b><font face=\'楷体\'>");
-document.writeln("	100期</font><font face=\'楷体\' size=\'4\' color=\'#800080\'>【杀一头】</font><font color=\'#800000\' size=\'4\' face=\'楷体\'></font>【4头】");
+document.writeln("	101期</font><font face=\'楷体\' size=\'4\' color=\'#800080\'>【杀一头】</font><font color=\'#800000\' size=\'4\' face=\'楷体\'></font>【0头】");
 document.writeln("	</font><font color=\'#800000\' face=\'楷体\'></font><font color=\'#800000\' size=\'4\' face=\'楷体\'></font><font face=\'楷体\'>开<!>？00准</font></b></table>");
+document.writeln("       ");
+
+
+
+document.writeln(" ");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'33\'><tbody><tr>");
+document.writeln("	<td width=100% height=33><p align=center><b><font face=\'楷体\'>");
+document.writeln("	100期</font><font face=\'楷体\' size=\'4\' color=\'#800080\'>【杀一头】</font><font color=\'#800000\' size=\'4\' face=\'楷体\'></font>【4头】");
+document.writeln("	</font><font color=\'#800000\' face=\'楷体\'></font><font color=\'#800000\' size=\'4\' face=\'楷体\'></font><font face=\'楷体\'>开狗33准</font></b></table>");
 document.writeln("       ");
 
 
@@ -4655,10 +4692,19 @@ document.writeln("");
 document.writeln("结束-->");
 
 
+
+
 document.writeln(" ");
 document.writeln(" <table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
 document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>");
-document.writeln("	100期</font><font face=\'楷体\' size=\'4\' color=\'#FF0000\'>【杀半波】</font><font color=\'#008000\' size=\'4\' face=\'楷体\'>【蓝单】</font><font face=\'楷体\'>开<!>？00准</font></b></table>");
+document.writeln("	101期</font><font face=\'楷体\' size=\'4\' color=\'#FF0000\'>【杀半波】</font><font color=\'#008000\' size=\'4\' face=\'楷体\'>【红双】</font><font face=\'楷体\'>开<!>？00准</font></b></table>");
+document.writeln("      ");
+
+
+document.writeln(" ");
+document.writeln(" <table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff><tbody><tr>");
+document.writeln("	<td width=100% height=40><p align=center><b><font face=\'楷体\'>");
+document.writeln("	100期</font><font face=\'楷体\' size=\'4\' color=\'#FF0000\'>【杀半波】</font><font color=\'#008000\' size=\'4\' face=\'楷体\'>【蓝单】</font><font face=\'楷体\'>开狗33准</font></b></table>");
 document.writeln("      ");
 
 
