@@ -181,6 +181,8 @@ async def MRY():
     )
     mry = [
         f"{mryurl}/dbu.js",
+		f"{mryurl}/fslx.js",
+		f"{mryurl}/4daer.js",
         f"{mryurl}/cj13.js",
         f"{mryurl}/cj10.js",
         f"{mryurl}/cj07.js",
@@ -199,6 +201,7 @@ async def MRY():
         f"{mryurl}/cj01.js",
         f"{mryurl}/cj21.js",
         f"{mryurl}/cj17.js",
+		f"{mryurl}/cj22.js",
         f"{mryurl}/cj23.js",
         f"{mryurl}/cj24.js",
     ]
