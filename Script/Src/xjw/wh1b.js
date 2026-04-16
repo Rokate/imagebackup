@@ -56,24 +56,26 @@ document.writeln("");
 
 
 
+
 document.writeln("	<!--gavc-->										");
 document.writeln("	<tr>");
 document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
 document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">107期 网红一波<font color=\"#FF0000\">【中中】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【中中中中】</font>开中00</span></td>");
+document.writeln("<span style=\"font-size: 16pt\">107期 网红一波<font color=\"#FF0000\">【蓝波】</font><BR>");
+document.writeln("网红双波<font color=\"#FF0000\">【蓝波红波】</font>开？00</span></td>");
 document.writeln("	</tr>");
 document.writeln("	<!--结束-->	");
 document.writeln("");
 
 
 
+
 document.writeln("	<!--gavc-->										");
 document.writeln("	<tr>");
 document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
 document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">106期 网红一波<font color=\"#FF0000\">【绿波】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【红波绿波】</font>开？00</span></td>");
+document.writeln("<span style=\"font-size: 16pt\">106期 网红一波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>绿波</span>】</font><BR>");
+document.writeln("网红双波<font color=\"#FF0000\">【红波<span style='background-color: #FFFF00\'>绿波</span>】</font>开鸡22</span></td>");
 document.writeln("	</tr>");
 document.writeln("	<!--结束-->	");
 document.writeln("");
