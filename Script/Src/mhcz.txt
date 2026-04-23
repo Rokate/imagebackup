@@ -1193,7 +1193,7 @@ document.writeln("<td style=box-sizing:border-box bgcolor=#ffffff height=40><p s
 document.writeln("<b>");
 document.writeln("<font face=\'微软雅黑\'>");
 document.writeln("<span style=\'box-sizing:border-box; font-size:14pt\'><font color=\'#008000\'>【</font><font color=\'#000000\'>牛主30.42</font><font color=\'#008000\'>】【</font><font color=\'#000000\'>羊主12.24</font><font color=\'#008000\'>】</font><font color=\'#000000\'><br>");
-document.writeln("</font><font color=\'#008000\'>【</font><font color=\'#000000\'>兔主04.16</font><font color=\'#008000\'>】【</font><font color=\'#000000'>猴主111.23<font color=\'#008000\'>】</font><font color=\'#000000\'><br>");
+document.writeln("</font><font color=\'#008000\'>【</font><font color=\'#000000\'>兔主04.16</font><font color=\'#008000\'>】【</font><font color=\'#000000'>猴主11.23<font color=\'#008000\'>】</font><font color=\'#000000\'><br>");
 document.writeln("</font><font color=\'#0000FF\'>第113期开奖结果:</font><span style=\'background-color: #FFFF00\'><font color=\'#FF00FF\'>？00准</font></span></span></font><span style=box-sizing:border-box;font-size:14pt>");
 
 document.writeln("</tr>");
