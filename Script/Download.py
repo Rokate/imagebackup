@@ -38,14 +38,14 @@ if __name__ == "__main__":
     
     try:
         
-        info = requests.get('https://h5.118z2.com:8443/tk118/h5/picture/detail/latest?pictureTypeId=28854').json()
+        info = requests.get('https://49252a.com/unite49/h5/picture/detail/latest?pictureTypeId=28854').json()
         qish = info['data']['period']
         qishu = f'{qish:0>3}'
         url = info['data']['largePictureUrl']
-        pattern = re.compile("https://tk2.(.*?)/")
+        pattern = re.compile("https://amo.(.*?)/")
         match = re.findall(pattern, url)
         urld = match[0]
-        qs = requests.get('https://h5.118z2.com:8443/tk118/h5/picture/detail/latest?pictureTypeId=10870').json()['data']['period']
+        qs = requests.get('https://49252a.com/unite49/h5/picture/detail/latest?pictureTypeId=10870').json()['data']['period']
         urls = [
         ["https://www.353583.com/tutu/faf.jpg", "a-faf.jpg"],
         ["https://www.353583.com/tutu/fgmc.jpg", "a-fgmc.jpg"],
@@ -64,24 +64,24 @@ if __name__ == "__main__":
         ["https://www.353583.com/tutu/ujcc.jpg", "a-ujcc.jpg"],
         [f"https://www.29761b.com/img/djpt{qishu}.jpg", "a-djpt.jpg"],
         [f"https://69760b.com/img/1xzt{qishu}.jpg", "a-1xzt.jpg"],
-        [f"https://tk2.{urld}/col/{qish}/amsgyy.jpg", "a-amsgyy.jpg"],
-        [f"https://tk2.{urld}/col/{qish}/zbxyb.jpg", "a-zbxyb.jpg"],
-        [f"https://tk2.{urld}/col/{qish}/n1.jpg", "a-n1.jpg"],
-        [f"https://tk2.{urld}/col/{qish}/dcxj.jpg", "a-dcxj.jpg"],
-        [f"https://tk2.{urld}/col/{qish}/ampm.jpg", "a-ampm.jpg"],
-        [f"https://tk2.{urld}/col/{qish}/sszm.jpg", "a-sszm.jpg"],
-        [f"https://tk2.{urld}/col/{qish}/ktzsx.jpg", "a-ktzsx.jpg"],
-        [f"https://tk2.{urld}/col/{qish}/rv.jpg", "a-rv.jpg"],
-        [f"https://tk2.{urld}/col/{qish}/tt38.jpg", "a-tt38.jpg"],
-        [f"https://tk2.{urld}/col/{qish}/amffh.jpg", "a-amffh.jpg"],
-        [f"https://tk2.{urld}/col/{qish}/amfql.jpg", "a-amfql.jpg"],
-        [f"https://tk2.{urld}/col/{qish}/twqp.jpg", "a-twqp.jpg"],
-        [f"https://tk2.{urld}/col/{qish}/mfpy.jpg", "a-mfpy.jpg"],
-        [f"https://tk2.{urld}/col/{qish}/lhlxsm.jpg", "a-lhlxsm.jpg"],
-        [f"https://tk2.{urld}/col/{qish}/b8.jpg", "a-b8.jpg"],
-        [f"https://tk2.{urld}/col/{qish}/tjn.jpg", "a-tjn.jpg"],
-        [f"https://tk2.{urld}/col/{qish}/ampt.jpg", "a-ampt.jpg"],
-        [f"https://tk2.{urld}/col/{qish}/lmkz.jpg", "a-lmkz.jpg"],
+        [f"https://amo.{urld}/col/{qish}/amsgyy.jpg", "a-amsgyy.jpg"],
+        [f"https://amo.{urld}/col/{qish}/zbxyb.jpg", "a-zbxyb.jpg"],
+        [f"https://amo.{urld}/col/{qish}/n1.jpg", "a-n1.jpg"],
+        [f"https://amo.{urld}/col/{qish}/dcxj.jpg", "a-dcxj.jpg"],
+        [f"https://amo.{urld}/col/{qish}/ampm.jpg", "a-ampm.jpg"],
+        [f"https://amo.{urld}/col/{qish}/sszm.jpg", "a-sszm.jpg"],
+        [f"https://amo.{urld}/col/{qish}/ktzsx.jpg", "a-ktzsx.jpg"],
+        [f"https://amo.{urld}/col/{qish}/rv.jpg", "a-rv.jpg"],
+        [f"https://amo.{urld}/col/{qish}/tt38.jpg", "a-tt38.jpg"],
+        [f"https://amo.{urld}/col/{qish}/amffh.jpg", "a-amffh.jpg"],
+        [f"https://amo.{urld}/col/{qish}/amfql.jpg", "a-amfql.jpg"],
+        [f"https://amo.{urld}/col/{qish}/twqp.jpg", "a-twqp.jpg"],
+        [f"https://amo.{urld}/col/{qish}/mfpy.jpg", "a-mfpy.jpg"],
+        [f"https://amo.{urld}/col/{qish}/lhlxsm.jpg", "a-lhlxsm.jpg"],
+        [f"https://amo.{urld}/col/{qish}/b8.jpg", "a-b8.jpg"],
+        [f"https://amo.{urld}/col/{qish}/tjn.jpg", "a-tjn.jpg"],
+        [f"https://amo.{urld}/col/{qish}/ampt.jpg", "a-ampt.jpg"],
+        [f"https://amo.{urld}/col/{qish}/lmkz.jpg", "a-lmkz.jpg"],
         [f"https://67292b.com/tu/f{qishu}.jpg", "a-f011.jpg"],
         #["https://xn--1dc8d6a.xn--0dcaaz1ff5bzcvdxdtb1af.xn--gecrj9c:8443/tu/f{qishu}.jpg","a-f011.jpg"],
         [f"https://tk.{urld}/col/{qs}/n1.jpg", "x-n1.jpg"],
