@@ -39,7 +39,7 @@ async def main(a, b, c, d):
         [f"https://xin62.junxuncm.com//img/jrqy{qishu}.jpg", "a-jrqy.jpg"],
         [f"https://xin62.junxuncm.com//img/nm4x8m{qishu}.jpg", "a-nm4x8m.jpg"],
         [f"https://xin62.junxuncm.com//img/1xzt{qishu}.jpg", "a-1xzt.jpg"],
-        #[f"http://123186a.com/gsbtu/baoma{qishu}.jpg", "a-baoma.jpg"],
+        #[f"http://123186a.com/gsbtu/baoma{qishu}.jpg", "a-baoma.jpg"], 
         [f"https://www.752626.com/img/sxlm{qishu}.jpg", "a-baoma.jpg"],
         [f"http://123186a.com/gsbtu/hdjr{qishu}.jpg", "a-hdjr.jpg"],
         #[f"https://file-enc-hw.pcxfrdh.com/galleryfiles/system/amlhc/col/2025/{qish}/lmkz.jpg", "a-jl3x.jpg"],
