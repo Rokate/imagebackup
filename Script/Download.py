@@ -6,19 +6,19 @@ import aiofiles
 import re
 
 
-async def download_image(session, url, filepath):
+async def download_image(session, url, filename):
     
     try:
         async with session.get(url) as response:
             if response.headers["Content-Type"] == "image/jpeg":
-                async with aiofiles.open(filepath, "wb") as f:
+                async with aiofiles.open(f"./Script/Src/{filename}" , "wb") as f:
                     while True:
                         chunk = await response.content.read(1024)
                         if not chunk:
                             break
                         await f.write(chunk)
             else:
-                print(filepath + "下载出错了")
+                print(filename + "下载出错了")
     except Exception as e:
         print("下载出错:\t", url, repr(e))
 
@@ -29,7 +29,7 @@ async def main(urls):
     async with aiohttp.ClientSession(connector=conn) as session:
         tasks = []
         for i, url in enumerate(urls):
-            filename = "./Script/Src/" + url[1]
+            filename = url[1]
             task = asyncio.create_task(download_image(session, url[0], filename))
             tasks.append(task)
         await asyncio.gather(*tasks)
