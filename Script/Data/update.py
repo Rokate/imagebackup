@@ -4,11 +4,12 @@ import os
 from huggingface_hub import HfApi
 
 LotterytypeList = [1, 2, 5]
+Lotterytype = ['xg','xg','la','la','xa','xa']
 Year = 2026
 
 for ltl in LotterytypeList:
     url = "https://a6tkapi1.com/gallerynew/app/lottery/search"
-    headers = {"Lotterytype": f"{ltl}"}  # 2-la 5-xa 1-xg
+    headers = {"Lotterytype": f"{ltl}"}  
     params = {"pageNum": 1, "year": Year, "sort": 1}
 
     try:
@@ -36,12 +37,12 @@ for ltl in LotterytypeList:
         "numberList": number_List,
     }
 
-    local_path = f"./Script/Data/{ltl}-{Year}results.txt"
+    local_path = f"{ltl}-{Year}results.txt"
 
     # 如果本地文件不存在 -> 直接创建并写入处理后的信息（不用对比长度）
-    if not os.path.exists(local_path):
+    if not os.path.exists(f"./Script/Data/{local_path}"):
         try:
-            with open(local_path, "w", encoding="utf-8") as f:
+            with open(f"./Script/Data/{local_path}", "w", encoding="utf-8") as f:
                 json.dump([record], f, ensure_ascii=False, indent=4)
             print(f"文件不存在，已创建并写入新文件：{local_path}")
         except Exception as e:
@@ -50,7 +51,7 @@ for ltl in LotterytypeList:
 
     # 如果文件存在则尝试读取并对比，若解析失败则视为空列表并写入
     try:
-        with open(local_path, "r", encoding="utf-8") as f:
+        with open(f"./Script/Data/{local_path}", "r", encoding="utf-8") as f:
             try:
                 filedata = json.load(f)
                 if not isinstance(filedata, list):
@@ -85,13 +86,13 @@ for ltl in LotterytypeList:
 
     if appended:
         try:
-            with open(local_path, "w", encoding="utf-8") as f:
+            with open(f"./Script/Data/{local_path}", "w", encoding="utf-8") as f:
                 json.dump(filedata, f, ensure_ascii=False, indent=4)
-            print(f"已获取并追加 Type：{ltl} 到 {local_path}")
+            print(f"已获取并追加 {Lotterytype[ltl]} 到 {local_path}")
         except Exception as e:
             print(f"写入文件失败：{local_path}，错误：{e}")
     else:
-        print(f"无新记录（Type={ltl}），不需要更新本地文件：{local_path}")
+        print(f"无新记录（{Lotterytype[ltl]}），不需要更新本地文件：{local_path}")
 
 # --- 上传到 Hugging Face Space ---
 token = os.getenv("HF_TOKEN")
