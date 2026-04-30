@@ -1697,10 +1697,12 @@ document.writeln("-->");
 
 
 
+
+
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'36\'><tbody><tr>");
 document.writeln("	<td width=100% height=36><p align=center><font face=\'微软雅黑\' size=\'4\'><b>");
-document.writeln("120期<font color=\'#008000\'>【单双中特</font>】=<font color=\'#800000\'>【单数】</font>开 <!>？00准</b></font></table>");
+document.writeln("121期<font color=\'#008000\'>【单双中特</font>】=<font color=\'#800000\'>【双数】</font>开 <!>？00准</b></font></table>");
 document.writeln("");
 
 
