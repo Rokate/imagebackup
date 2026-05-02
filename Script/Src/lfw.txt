@@ -494,10 +494,20 @@ document.writeln("");
 
 document.writeln("");
 document.writeln("<tr>");
+document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>122期红字暗码：【春冰虎尾03 10 27 38】</font><font face=\'华文中宋\'><br>");
+document.writeln("	解释：意思是踩着老虎尾巴，走在春天的薄冰上，比喻处境非常危险。</font></b><br>");
+document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
+document.writeln("	<b>红字解六肖：牛鸡兔狗蛇虎</b></font></td></b>");
+document.writeln("</tr>");
+document.writeln("");
+
+
+document.writeln("");
+document.writeln("<tr>");
 document.writeln("	<td align=\'left\' height=\'92\'><b><font face=\'华文中宋\' color=\'#FF0000\'>121期红字暗码：【从容就义09 37 43 48】</font><font face=\'华文中宋\'><br>");
 document.writeln("	解释：指非常镇静、毫无畏惧地为正义牺牲。出自宋代朱熹《近思录》，属偏正式结构，作谓语、定语使用，含褒义。</font></b><br>");
 document.writeln("	<font color=\'#0000FF\' face=\'华文中宋\' style=\'font-size: 16pt\'>");
-document.writeln("	<b>红字解六肖：蛇狗龙猪猴羊</b></font></td></b>");
+document.writeln("	<b>红字解六肖：蛇狗龙<span style=\'background-color: #FFFF00\'>猪</span>猴羊</b></font></td></b>");
 document.writeln("</tr>");
 document.writeln("");
 
@@ -2439,17 +2449,22 @@ document.writeln("");
 document.writeln("");
 
 
-document.writeln("");
-document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'35\'><tbody><tr>");
-document.writeln("	<td width=100% height=35><p align=center><b><font face=\'楷体\'>");
-document.writeln("	122期<font color=\'#33CCFF\'>谜语平特</font>-</font><font face=\'仿宋\' style=\'font-size: 14pt\' color=\'#FF00FF\'>资料正在研究中</font><font face=\'楷体\'>开？00准</font></b></table>");
-document.writeln("");
-document.writeln("");
+
+
 
 document.writeln("");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'35\'><tbody><tr>");
 document.writeln("	<td width=100% height=35><p align=center><b><font face=\'楷体\'>");
-document.writeln("	121期<font color=\'#33CCFF\'>谜语平特</font>-</font><font face=\'仿宋\' style=\'font-size: 14pt\' color=\'#FF00FF\'>单数有缘来开羊</font><font face=\'楷体\'>开<!>？00准</font></b></table>");
+document.writeln("	122期<font color=\'#33CCFF\'>谜语平特</font>-</font><font face=\'仿宋\' style=\'font-size: 14pt\' color=\'#FF00FF\'>强龙不压地头蛇</font><font face=\'楷体\'>开<!>？00准</font></b></table>");
+document.writeln("");
+
+
+
+
+document.writeln("");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'35\'><tbody><tr>");
+document.writeln("	<td width=100% height=35><p align=center><b><font face=\'楷体\'>");
+document.writeln("	121期<font color=\'#33CCFF\'>谜语平特</font>-</font><font face=\'仿宋\' style=\'font-size: 14pt\' color=\'#FF00FF\'>单数有缘来开羊</font><font face=\'楷体\'>开羊48准</font></b></table>");
 document.writeln("");
 
 
