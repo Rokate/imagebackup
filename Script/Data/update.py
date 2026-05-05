@@ -1,19 +1,22 @@
 import requests
+import datetime
 import json
 import os
 from huggingface_hub import HfApi
 
-LotterytypeList = [1, 2, 5]
-Lotterytype = ['xg','xg','la','la','xa','xa']
+Lotterytype = ['xg','hk6','a6','la','xa','xa6']
+LotterytypeList = [1,2,5]
+fiveElementsMap = {'j': '金', 'm': '木', 's': '水', 'h': '火', 't': '土'}
+colorMap = {'R': 1, 'G': 3, 'B': 2}
+oddEvenMap = {'o': '单', 'e': '双'}
+sizeMap = {'b': '大', 's': '小'}
 Year = 2026
 
 for ltl in LotterytypeList:
-    url = "https://a6tkapi1.com/gallerynew/app/lottery/search"
-    headers = {"Lotterytype": f"{ltl}"}  
-    params = {"pageNum": 1, "year": Year, "sort": 1}
+    url = f"https://ocs.ai4funs.com/pwtkprd/gr/{Lotterytype[ltl]}/history/{Year}"
 
     try:
-        response = requests.get(url, headers=headers, params=params)
+        response = requests.get(url)
         response.raise_for_status()
         data = response.json()
     except Exception as e:
@@ -21,20 +24,40 @@ for ltl in LotterytypeList:
         continue
 
     # 确保接口返回结构存在
-    record_list = data.get("data", {}).get("recordList", [])
+    record_list = data.get("data", {})
     if not record_list:
         print(f"未在接口中找到记录（Type={ltl}）")
         continue
 
     latest = record_list[0]
-    period = latest.get("period")
-    lotteryTime = latest.get("lotteryTime")
-    number_List = latest.get("numberList")
-
+    period = int(latest.get("shortIssue"))
+    lotteryTime = record_raw.get('openTime') // 1000
+    openTime = datetime.datetime.fromtimestamp(lotteryTime).strftime('%Y年%m月%d日')
+    number_List = record_raw.get('numInfo', [])
+    numberList = []
+    for i in range(min(7, len(number_List))):
+        numberData = {}
+        number = number_List[i].get('num', '')
+        shengXiao = number_List[i].get('shengxiao', '')
+        color = number_List[i].get('color', '')
+        wuXing = number_List[i].get('fiveElements', '')
+        daXiao = number_List[i].get('size', '')
+        danShuang = number_List[i].get('oddEven', '')
+       
+        numberData = {
+            "color": colorMap.get(color, ''),
+            "count": 'null',
+            "daXiao": sizeMap.get(daXiao, ''),
+            "danShuang": oddEvenMap.get(danShuang, ''),
+            "number": number,
+            "shengXiao": shengXiao,
+            "wuXing": fiveElementsMap.get(wuXing, '')
+        }
+        numberList.append(numberData)
     record = {
         "period": period,
-        "lotteryTime": lotteryTime,
-        "numberList": number_List,
+        "lotteryTime": openTime,
+        "numberList": numberList,
     }
 
     local_path = f"{ltl}-{Year}results.txt"
