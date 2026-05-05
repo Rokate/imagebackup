@@ -31,9 +31,9 @@ for ltl in LotterytypeList:
 
     latest = record_list[0]
     period = int(latest.get("shortIssue"))
-    lotteryTime = record_raw.get('openTime') // 1000
+    lotteryTime = latest.get('openTime') // 1000
     openTime = datetime.datetime.fromtimestamp(lotteryTime).strftime('%Y年%m月%d日')
-    number_List = record_raw.get('numInfo', [])
+    number_List = latest.get('numInfo', [])
     numberList = []
     for i in range(min(7, len(number_List))):
         numberData = {}
