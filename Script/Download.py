@@ -91,7 +91,8 @@ if __name__ == "__main__":
         [f"https://tk.{urld}/col/{qs}/b008.jpg", "x-b008.jpg"],
         [f"https://tk.{urld}/col/{qs}/j11.jpg", "x-j11.jpg"],
         [f"https://tk.{urld}/col/{qs}/qlb.jpg", "x-qlb.jpg"],
-        [f"https://file-cf.114tu.com/galleryfiles/system/xglhc/col/2025/{qs}/lmkz1.jpg", "x-lmkz.jpg"],
+        #[f"https://file-cf.114tu.com/galleryfiles/system/xglhc/col/2025/{qs}/lmkz1.jpg", "x-lmkz.jpg"],
+        [f"f"https://tk.{urld}/col/{qs}/lmkz.jpg", "x-lmkz.jpg"],
         ]
     except Exception as e:
         print("日期更新出错了", traceback.format_exc())
