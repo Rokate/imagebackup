@@ -51,17 +51,17 @@ document.writeln(" <!----开始---->");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'99%\' colspan=\'3\' bgcolor=\'#D4D4D4\'>");
 document.writeln("		<p align=\"center\"><font face=\'Arial Black\' size=\'4\' color=\'#000000\'> ");
-document.writeln("		139期A级大公开;准确率100%!</font></td> ");
+document.writeln("		140期A级大公开;准确率100%!</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		139期一码</font></td> ");
+document.writeln("		140期一码</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\"><font size=\'4\' color=\'#0000FF\'>重拳出击-</font><b><font color=\'#FF0000\' face=\'Arial\' size=\"5\">06</font></b><font size=\'4\' color=\'#0000FF\'>-信心十足</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:？00</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		139期三码</font></td> ");
+document.writeln("		140期三码</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'>");
 document.writeln("		06.18.22</font></td> ");
@@ -69,7 +69,7 @@ document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("    </tr> ");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		139期06码</font></td> ");
+document.writeln("		140期06码</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
 document.writeln("		06.18.22.34.15.27</font></td> ");
@@ -77,7 +77,7 @@ document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("    </tr> ");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		139期18码</font></td> ");
+document.writeln("		140期18码</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\"> ");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'>");
 document.writeln("		06.18.22.34.15.27.20.32.16<br>");
@@ -86,7 +86,7 @@ document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("    </tr> ");
 document.writeln("        <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		139期一肖</font></td> ");
+document.writeln("		140期一肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\"><b>");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' size=\"5\"> ");
 document.writeln("		牛</font></b></td> ");
@@ -94,7 +94,7 @@ document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("    </tr>");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		139期三肖</font></td> ");
+document.writeln("		140期三肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
 document.writeln("		牛鸡龙</font></td> ");
@@ -102,7 +102,7 @@ document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("    </tr> ");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		139期五肖</font></td> ");
+document.writeln("		140期五肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
 document.writeln("		牛鸡龙猪兔</font></td> ");
@@ -111,7 +111,7 @@ document.writeln("    </tr> ");
 document.writeln("    ");
 document.writeln("        <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		139期七肖</font></td> ");
+document.writeln("		140期七肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
 document.writeln("		牛鸡龙猪兔猴马</font></td> ");
@@ -120,7 +120,7 @@ document.writeln("    </tr> ");
 document.writeln("    ");
 document.writeln("    <tr height=\'31\'> ");
 document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> ");
-document.writeln("		139期九肖</font></td> ");
+document.writeln("		140期九肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
 document.writeln("		牛鸡龙猪兔猴马蛇羊</font></td> ");
@@ -134,6 +134,8 @@ document.writeln("    </tr> ");
 document.writeln("<!----结束---->    ");
 document.writeln("   ");
 document.writeln("   ");
+
+
 
 
 
