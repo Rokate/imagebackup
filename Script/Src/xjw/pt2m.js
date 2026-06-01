@@ -44,10 +44,21 @@ document.writeln("");
 document.writeln("");
 
 
+
 document.writeln("<!--开始-->");
 document.writeln("			<tr>");
 document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>152期：独平</font><font color=\'#FF0000\' size=\'5\'>【鼠31.43】</font><font color=\'#000000\' size=\'4\'>开00准</font><font color=\"#000000\"></b></font></td>");
+document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>155期：独平</font><font color=\'#FF0000\' size=\'5\'>【中00.00】</font><font color=\'#000000\' size=\'4\'>开00准</font><font color=\"#000000\"></b></font></td>");
+document.writeln("		</tr>");
+document.writeln("<!--结束-->");
+document.writeln("	");
+
+
+
+document.writeln("<!--开始-->");
+document.writeln("			<tr>");
+document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
+document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>154期：独平</font><font color=\'#FF0000\' size=\'5\'>【中00.00】</font><font color=\'#000000\' size=\'4\'>开00准</font><font color=\"#000000\"></b></font></td>");
 document.writeln("		</tr>");
 document.writeln("<!--结束-->");
 document.writeln("	");
@@ -55,23 +66,10 @@ document.writeln("	");
 
 
 
-
 document.writeln("<!--开始-->");
 document.writeln("			<tr>");
 document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>149期：独平</font><font color=\'#FF0000\' size=\'5\'>【<span style='background-color: #FFFF00\'>龙</span>15.<span style='background-color: #FFFF00\'>27</span>】</font><font color=\'#000000\' size=\'4\'>开27准</font><font color=\"#000000\"></b></font></td>");
-document.writeln("		</tr>");
-document.writeln("<!--结束-->");
-document.writeln("	");
-
-
-
-
-
-document.writeln("<!--开始-->");
-document.writeln("			<tr>");
-document.writeln("			<td height=\'46\' bgcolor=\"#FFFFFF\">");
-document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>147期：独平</font><font color=\'#FF0000\' size=\'5\'>【<span style='background-color: #FFFF00\'>马13</span>.37】</font><font color=\'#000000\' size=\'4\'>开13准</font><font color=\"#000000\"></b></font></td>");
+document.writeln("					<p align=\'center\'><font size=\'4\' color=\'#000000\'>153期：独平</font><font color=\'#FF0000\' size=\'5\'>【兔28.40】</font><font color=\'#000000\' size=\'4\'>开00准</font><font color=\"#000000\"></b></font></td>");
 document.writeln("		</tr>");
 document.writeln("<!--结束-->");
 document.writeln("	");
