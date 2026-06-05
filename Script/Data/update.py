@@ -111,7 +111,7 @@ for ltl in LotterytypeList:
         try:
             with open(f"./Script/Data/{local_path}", "w", encoding="utf-8") as f:
                 json.dump(filedata, f, ensure_ascii=False, indent=4)
-            print(f"已获取并追加 {Lotterytype[ltl]} 到 {local_path}")
+            print(f"已获取 {Lotterytype[ltl]} - {period} 期到 {local_path}")
         except Exception as e:
             print(f"写入文件失败：{local_path}，错误：{e}")
     else:
