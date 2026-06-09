@@ -1734,31 +1734,9 @@ document.writeln("<b><font face=\'楷体\' style=\'font-size: 19pt\'><font color
 
 
 
-
-
 document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>160期</font><img src=\'/images/zzzz.gif\'style=\'width:20px\' height=\'15\'><font color=\'#FF0000\'>【万兽妖王13码】<img src=\'/images/zzzz.gif\' style=\'width:20px\' height=\'15\'></font><font color=\'#0000FF\'>开：？00</font>准<br>");
-document.writeln("22.03.06.34.23.39.40.33.04.49.44.18.46</tr>");
-document.writeln("</tr>");
-
-
-
-
-
-
-document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>157期</font><img src=\'/images/zzzz.gif\'style=\'width:20px\' height=\'15\'><font color=\'#FF0000\'>【万兽妖王13码】<img src=\'/images/zzzz.gif\' style=\'width:20px\' height=\'15\'></font><font color=\'#0000FF\'>开：兔40</font>准<br>");
-document.writeln("33.31.20.36.30.18.10.37.22.01.<span style=\'background-color: #FFFF00\'>40</span>.28.15</tr>");
-document.writeln("</tr>");
-
-
-
-
-
-
-document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>156期</font><img src=\'/images/zzzz.gif\'style=\'width:20px\' height=\'15\'><font color=\'#FF0000\'>【万兽妖王13码】<img src=\'/images/zzzz.gif\' style=\'width:20px\' height=\'15\'></font><font color=\'#0000FF\'>开：马01</font>准<br>");
-document.writeln("29.11.37.03.44.<span style=\'background-color: #FFFF00\'>01</span>.02.27.22.30.49.16.14</tr>");
+document.writeln("<td><font color=\'#008000\'>156期</font><img src=\'/images/zzzz.gif\'style=\'width:20px\' height=\'15\'><font color=\'#FF0000\'>【万兽妖王13码】<img src=\'/images/zzzz.gif\' style=\'width:20px\' height=\'15\'></font><font color=\'#0000FF\'>开：？00</font>准<br>");
+document.writeln("29.11.37.03.44.01.02.27.22.30.49.16.14</tr>");
 document.writeln("</tr>");
 
 
