@@ -1877,10 +1877,13 @@ document.writeln("<b><font face=\'楷体\' style=\'font-size: 19pt\'><font color
 
 
 
+
 document.writeln("<tr>");
-document.writeln("<td><font color=\'#008000\'>156期</font><img src=\'/images/zzzz.gif\'style=\'width:20px\' height=\'15\'><font color=\'#FF0000\'>【万兽妖王13码】<img src=\'/images/zzzz.gif\' style=\'width:20px\' height=\'15\'></font><font color=\'#0000FF\'>开：？00</font>准<br>");
-document.writeln("29.11.37.03.44.01.02.27.22.30.49.16.14</tr>");
+document.writeln("<td><font color=\'#008000\'>163期</font><img src=\'/images/zzzz.gif\'style=\'width:20px\' height=\'15\'><font color=\'#FF0000\'>【万兽妖王13码】<img src=\'/images/zzzz.gif\' style=\'width:20px\' height=\'15\'></font><font color=\'#0000FF\'>开：？00</font>准<br>");
+document.writeln("29.43.37.27.46.17.23.36.15.11.19.40.12</tr>");
 document.writeln("</tr>");
+
+
 
 
 
