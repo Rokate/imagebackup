@@ -75,7 +75,7 @@ document.writeln("		<b style=\'padding: 0px; margin: 0px; word-wrap: break-word;
 document.writeln("		<font face=\'微软雅黑\' style=\'word-wrap: break-word; margin: 0px; padding: 0px\'>");
 document.writeln("		175期</font></b></td>");
 document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\' style=\'height: 26px\'>");
-document.writeln("		<font face=\'微软雅黑\'>开:虎41</font></td>");
+document.writeln("		<font face=\'微软雅黑\'>开:蛇26</font></td>");
 document.writeln("		</tr>");
 document.writeln("		</table>");
 document.writeln("		");
@@ -96,7 +96,7 @@ document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'><sp
 document.writeln("		</font>");
 document.writeln("		<font face=\'微软雅黑\' color=\'#FF0000\' size=\"4\">（08.<span style='background-color: #FFFF00\'>44</span>.21.33.04.28.12.36）</td>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
-document.writeln("		<font face=\'微软雅黑\'>开:？00</font></td>");
+document.writeln("		<font face=\'微软雅黑\'>开:虎41</font></td>");
 document.writeln("		</tr>");
 document.writeln("	<tr>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
