@@ -1184,10 +1184,6 @@ document.writeln("					<p align=\'center\'><b><font color=\'#008000\' size=\'4\'
 document.writeln("		</tr>");
 
 
-document.writeln("		<tr>");
-document.writeln("			<td height=\'39\'>");
-document.writeln("					<p align=\'center\'><b><font color=\'#008000\' size=\'4\'>175期：</font><font color=\'#FF00FF\' size=\'4\'>必中【单头】</font><font color=\'#008000\' size=\'4\'>开蛇26准</font></b></td>");
-document.writeln("		</tr>");
 
 
 
@@ -1288,31 +1284,6 @@ document.writeln("		<tr>");
 document.writeln("			<td height=\'39\'>");
 document.writeln("					<p align=\'center\'><b><font color=\'#008000\' size=\'4\'>160期：</font><font color=\'#FF00FF\' size=\'4\'>必中【双头】</font><font color=\'#008000\' size=\'4\'>开蛇02准</font></b></td>");
 document.writeln("		</tr>");
-
-
-
-
-
-document.writeln("		<tr>");
-document.writeln("			<td height=\'39\'>");
-document.writeln("					<p align=\'center\'><b><font color=\'#008000\' size=\'4\'>158期：</font><font color=\'#FF00FF\' size=\'4\'>必中【单头】</font><font color=\'#008000\' size=\'4\'>开兔16准</font></b></td>");
-document.writeln("		</tr>");
-
-
-
-
-
-document.writeln("		<tr>");
-document.writeln("			<td height=\'39\'>");
-document.writeln("					<p align=\'center\'><b><font color=\'#008000\' size=\'4\'>157期：</font><font color=\'#FF00FF\' size=\'4\'>必中【单头】</font><font color=\'#008000\' size=\'4\'>开兔40准</font></b></td>");
-document.writeln("		</tr>");
-
-
-
-
-
-
-
 
 
 
