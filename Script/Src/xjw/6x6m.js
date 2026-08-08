@@ -41,11 +41,20 @@ document.writeln("		");
 document.writeln("");
 
 
+document.writeln("");
+document.writeln("<tr>");
+document.writeln("			<td align=\'center\' height=42><b>");
+document.writeln("			<font style=\'font-size: 12pt\'>221期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(马25-虎41-狗33-蛇02-猴35-羊12)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开？00</font></b></td>");
+document.writeln("</tr>");
+document.writeln("");
+
+
+
 
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("			<td align=\'center\' height=42><b>");
-document.writeln("			<font style=\'font-size: 12pt\'>220期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(狗33-龙27-兔04-蛇38-猴35-羊12)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开？00</font></b></td>");
+document.writeln("			<font style=\'font-size: 12pt\'>220期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(狗33-龙27-兔04-蛇38-猴35-<span style='background-color: #FFFF00\'>羊</span>12)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开羊48</font></b></td>");
 document.writeln("</tr>");
 document.writeln("");
 
