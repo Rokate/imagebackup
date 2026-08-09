@@ -160,7 +160,7 @@ document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("		218期三码</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'>");
-document.writeln("		 05.17.35</font></td> ");
+document.writeln("		 05.<span style='background-color: #FFFF00\'>17</span>.35</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:虎17</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("    <tr height=\'31\'> ");
@@ -168,7 +168,7 @@ document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("		218期06码</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
-document.writeln("		 05.17.35.47.18.30</font></td> ");
+document.writeln("		 05.<span style='background-color: #FFFF00\'>17</span>.35.47.18.30</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:虎17</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("    <tr height=\'31\'> ");
@@ -176,7 +176,7 @@ document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("		218期18码</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\"> ");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'>");
-document.writeln("		05.17.35.47.18.30.10.34.07<br>");
+document.writeln("		05.<span style='background-color: #FFFF00\'>17</span>.35.47.18.30.10.34.07<br>");
 document.writeln("		31.20.32.13.49.02.14.15.27</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:虎17</font></td> ");
 document.writeln("    </tr> ");
@@ -185,7 +185,7 @@ document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("		218期一肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\"><b>");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' size=\"5\"> ");
-document.writeln("		虎</font></b></td> ");
+document.writeln("		<span style='background-color: #FFFF00\'>虎</span></font></b></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:虎17</font></td> ");
 document.writeln("    </tr>");
 document.writeln("    <tr height=\'31\'> ");
@@ -193,7 +193,7 @@ document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("		218期三肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
-document.writeln("		虎猴牛</font></td> ");
+document.writeln("		<span style='background-color: #FFFF00\'>虎</span>猴牛</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:虎17</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("    <tr height=\'31\'> ");
@@ -201,7 +201,7 @@ document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("		218期五肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
-document.writeln("		虎猴牛鸡鼠</font></td> ");
+document.writeln("		<span style='background-color: #FFFF00\'>虎</span>猴牛鸡鼠</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:虎17</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("    ");
@@ -210,7 +210,7 @@ document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("		218期七肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
-document.writeln("		虎猴牛鸡鼠猪马</font></td> ");
+document.writeln("		<span style='background-color: #FFFF00\'>虎</span>猴牛鸡鼠猪马</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:虎17</font></td> ");
 document.writeln("    </tr> ");
 document.writeln("    ");
@@ -219,7 +219,7 @@ document.writeln("     <td width=\'23%\' bgcolor=\'#CCFF66\' align=\"center\"><f
 document.writeln("		218期九肖</font></td> ");
 document.writeln("     <td width=\'59%\' bgcolor=\'#FFFFFF\' align=\"center\">");
 document.writeln("		<font color=\'#FF0000\' face=\'宋体\' style=\'font-size: 12pt; font-weight:700\'> ");
-document.writeln("		虎猴牛鸡鼠猪马蛇龙</font></td> ");
+document.writeln("		<span style='background-color: #FFFF00\'>虎</span>猴牛鸡鼠猪马蛇龙</font></td> ");
 document.writeln("     <td width=\'18%\' bgcolor=\'#CCFF66\' align=\"center\"><font face=\'宋体\' style=\'font-size: 12pt;color:#000\'> 開:虎17</font></td> ");
 document.writeln("    </tr> ");
 document.writeln(" ");
