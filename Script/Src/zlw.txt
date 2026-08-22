@@ -21,9 +21,10 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("234期</font><font color=\'#FF0000\' size=\"5\">（马羊蛇+5701尾）</font><font size=\'4\'>开？00</font></b></font></table>");
+document.writeln("235期</font><font color=\'#FF0000\' size=\"5\">（蛇狗马+2045尾）</font><font size=\'4\'>开？00</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("");
+
 
 document.writeln("");
 document.writeln("<!--开始-->");
@@ -108,11 +109,16 @@ document.writeln("");
 
 
 
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	235期<font color=\'#FF0000\'>（小数+4头）</font>开？00√</font></b></font></table>");
+document.writeln("		<!--结束-->");
 
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	234期<font color=\'#FF0000\'>（大数+0头）</font>开？00√</font></b></font></table>");
+document.writeln("	234期<font color=\'#FF0000\'>（<span style=\'background-color: #FFFF00\'>大数</span>+0头）</font>开龙39√</font></b></font></table>");
 document.writeln("		<!--结束-->");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
@@ -238,11 +244,14 @@ document.writeln("<td style=\'border:10px double #00f; height: 50px;\' bgcolor=#
 document.writeln("<b><font color=\'#FFFF00\' face=\'楷体\' style=\'font-size: 18pt\'>特码来迟</font><font color=\'#FFFFFF\' face=\'楷体\' style=\'font-size: 18pt\'>『家野两肖』</font></b></table>");
 
 
-
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("234期：<font color=\'#0000FF\'>（野兽+马羊）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("235期：<font color=\'#0000FF\'>（家禽+蛇兔）</font>开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("234期：<font color=\'#0000FF\'>（<span style=\'background-color: #FFFF00\'>野兽</span>+马羊）</font>开<font color=\'#FF0000\'>(龙39)</font></font></b></font></table>");
 
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
@@ -303,12 +312,30 @@ document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（准准准！�
 document.writeln("	<div class=\'bizhong555-box\'>");
 document.writeln("    	<div class=\'bizhong555-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">234期必中18码：</font><font color=\'#FF0000\' size=\'2\'>08.18.38.25.35.45.09.29.49.13.23.33.11.21.31.02.22.42</font></li>");
-document.writeln("            	<li>234期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">08.18.38.25.35.45.09.29.49.13.23.33</font></li>");
-document.writeln("            	<li>234期必中六码：<font color=\'#FF0000\' size=\'4\'>08.18.38.25.35.45</font></li>");
-document.writeln("            	<li>234期必中①码：<font color=\'#FF0000\' size=\'5\'>（8尾-08.18.38）</font></li>");
-document.writeln("            	<li>234期必中三尾：<font color=\'#FF0000\' size=\'4\'>8-5-9</font></li>");
-document.writeln("            	<li>234期必中六尾：<font color=\'#FF0000\' size=\'4\'>8-5-9-3-1-2</font></li>");
+document.writeln(" 	            <li><font size=\"2\">235期必中18码：</font><font color=\'#FF0000\' size=\'2\'>11.21.31.28.38.48.05.15.45.27.37.47.22.32.42.04.14.24</font></li>");
+document.writeln("            	<li>235期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">11.21.31.28.38.48.05.15.45</font></li>");
+document.writeln("            	<li>235期必中六码：<font color=\'#FF0000\' size=\'4\'>11.21.31.28.38.48</font></li>");
+document.writeln("            	<li>235期必中①码：<font color=\'#FF0000\' size=\'5\'>（1尾-11.21.31）</font></li>");
+document.writeln("            	<li>235期必中三尾：<font color=\'#FF0000\' size=\'4\'>1-8-5</font></li>");
+document.writeln("            	<li>235期必中六尾：<font color=\'#FF0000\' size=\'4\'>1-8-5-7-2-4</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
+
+
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong555\'>");
+document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（准准准！）一尾一码</div>");
+document.writeln("	<div class=\'bizhong555-box\'>");
+document.writeln("    	<div class=\'bizhong555-l\'>");
+document.writeln("        	<ul>");
+
+document.writeln("            	<li>234期必中三尾：<font color=\'#FF0000\' size=\'4\'>8-5-<span style=\'background-color: #FFFF00\'>9</span></font></li>");
+document.writeln("            	<li>234期必中六尾：<font color=\'#FF0000\' size=\'4\'>8-5-<span style=\'background-color: #FFFF00\'>9</span>-3-1-2</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
@@ -411,7 +438,12 @@ document.writeln("");
 document.writeln("<!--开始-->");
 document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
 document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
-document.writeln("	<font color=\'#0000FF\'>234期：</font>【<font color=\'#008000\'>单数+猪牛</font>】开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("	<font color=\'#0000FF\'>235期：</font>【<font color=\'#008000\'>双数+马鼠</font>】开<font color=\'#FF0000\'>(？00)</font></font></b></font></table>");
+document.writeln("		<!--结束-->")
+document.writeln("<!--开始-->");
+document.writeln("<table style=border-collapse:collapse border=1 width=100% bgcolor=#ffffff height=\'41\'><tbody><tr>");
+document.writeln("	<td width=100% height=41><p align=center><font face=\'楷体\'><b><font size=\'4\'>");
+document.writeln("	<font color=\'#0000FF\'>234期：</font>【<font color=\'#008000\'><span style=\'background-color: #FFFF00\'>单数</span>+猪牛</font>】开<font color=\'#FF0000\'>(龙39)</font></font></b></font></table>");
 document.writeln("		<!--结束-->")
 
 
