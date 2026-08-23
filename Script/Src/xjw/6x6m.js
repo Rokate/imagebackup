@@ -44,7 +44,7 @@ document.writeln("");
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("			<td align=\'center\' height=42><b>");
-document.writeln("			<font style=\'font-size: 12pt\'>235期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(狗33-牛24-鸡22-虎29-猴35-羊12)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开⒛</font></b></td>");
+document.writeln("			<font style=\'font-size: 12pt\'>235期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(狗33-牛24-鸡22-虎29-猴35-羊12)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开？00</font></b></td>");
 document.writeln("</tr>");document.writeln("");
 
 
