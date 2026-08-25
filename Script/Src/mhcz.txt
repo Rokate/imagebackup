@@ -612,99 +612,6 @@ document.writeln("<!---每期结束--->");
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 document.writeln("");
 document.writeln("");
 document.writeln("<tbody>");
@@ -741,13 +648,6 @@ document.writeln("		</tr>");
 
 
 
-
-
-document.writeln("					<tr>");
-document.writeln("			<td height=\'37\'>");
-document.writeln("");
-document.writeln("					<p align=\'center\'><b><font size=\'4\' color=\'#008000\'>236期：</font><font color=\'#FF00FF\' size=\'4\'>必中【大尾】</font><font color=\'#008000\' size=\'4\'>开猴11准</font></b></td>");
-document.writeln("		</tr>");
 
 
 
@@ -841,69 +741,6 @@ document.writeln("		</tr>");
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 document.writeln("</table>");
 document.writeln("<!---每期结束--->");
 document.writeln("");
@@ -938,10 +775,6 @@ document.writeln("		</tr>");
 
 
 
-document.writeln("		<tr>");
-document.writeln("			<td height=\'39\'>");
-document.writeln("					<p align=\'center\'><b><font color=\'#008000\' size=\'4\'>236期：</font><font color=\'#FF00FF\' size=\'4\'>必中【双头】</font><font color=\'#008000\' size=\'4\'>开猴11准</font></b></td>");
-document.writeln("		</tr>");
 
 
 
