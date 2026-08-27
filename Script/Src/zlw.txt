@@ -305,12 +305,29 @@ document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（准准准！�
 document.writeln("	<div class=\'bizhong555-box\'>");
 document.writeln("    	<div class=\'bizhong555-l\'>");
 document.writeln("        	<ul>");
-document.writeln(" 	            <li><font size=\"2\">239期必中18码：</font><font color=\'#FF0000\' size=\'2\'>11.21.31.20.30.40.25.35.45.26.36.46.23.33.43.02.22.32</font></li>");
-document.writeln("            	<li>239期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">11.21.31.20.30.40.25.35.45.26.36.46</font></li>");
-document.writeln("            	<li>239期必中六码：<font color=\'#FF0000\' size=\'4\'>11.21.31.20.30.40</font></li>");
-document.writeln("            	<li>239期必中①码：<font color=\'#FF0000\' size=\'5\'>（1尾-11.21.31）</font></li>");
-document.writeln("            	<li>239期必中三尾：<font color=\'#FF0000\' size=\'4\'>1-0-5</font></li>");
-document.writeln("            	<li>239期必中六尾：<font color=\'#FF0000\' size=\'4\'>1-0-5-6-3-2</font></li>");
+document.writeln(" 	            <li><font size=\"2\">240期必中18码：</font><font color=\'#FF0000\' size=\'2\'>09.29.49.07.27.37.04.14.24.22.32.42.05.15.35.11.21.31</font></li>");
+document.writeln("            	<li>240期必中12码：<font color=\'#FF0000\' style=\"font-size: 11pt\">09.29.49.07.27.37.04.14.24.22.32.42</font></li>");
+document.writeln("            	<li>240期必中六码：<font color=\'#FF0000\' size=\'4\'>09.29.49.07.27.37</font></li>");
+document.writeln("            	<li>240期必中①码：<font color=\'#FF0000\' size=\'5\'>（9尾-09.29.49）</font></li>");
+document.writeln("            	<li>240期必中三尾：<font color=\'#FF0000\' size=\'4\'>9-7-4</font></li>");
+document.writeln("            	<li>240期必中六尾：<font color=\'#FF0000\' size=\'4\'>9-7-4-2-5-1</font></li>");
+document.writeln(" </ul>");
+document.writeln("        </div>");
+document.writeln("        </div>");
+document.writeln("");
+document.writeln("</div>");
+document.writeln("<!--必中每期开始-->");
+
+
+document.writeln("<!--必中每期开始-->");
+document.writeln("<div class=\'bizhong555\'>");
+document.writeln("	<div class=\'bizhong555-tit\'>澳门资料网（准准准！）一尾一码</div>");
+document.writeln("	<div class=\'bizhong555-box\'>");
+document.writeln("    	<div class=\'bizhong555-l\'>");
+document.writeln("        	<ul>");
+
+document.writeln("            	<li>239期必中三尾：<font color=\'#FF0000\' size=\'4\'>1-0-<span style=\'background-color: #FFFF00\'>5</span></font></li>");
+document.writeln("            	<li>239期必中六尾：<font color=\'#FF0000\' size=\'4\'>1-0-<span style=\'background-color: #FFFF00\'>5</span>-6-3-2</font></li>");
 document.writeln(" </ul>");
 document.writeln("        </div>");
 document.writeln("        </div>");
