@@ -54,7 +54,7 @@ document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowsp
 document.writeln("		<strong>");
 document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>猪</span>（08.32.44）</font></strong></td>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
-document.writeln("		<font face=\'微软雅黑\'>000期中</font></td>");
+document.writeln("		<font face=\'微软雅黑\'>248期中</font></td>");
 document.writeln("		</tr>");
 document.writeln("");
 document.writeln("");

@@ -58,7 +58,7 @@ document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'65%\' rowsp
 document.writeln("		<strong>");
 document.writeln("		<font face=\'微软雅黑\' size=\'5\' color=\'#FF0000\'>虎猴马猪</span><br>");
 document.writeln("		</font>");
-document.writeln("		<font face=\'微软雅黑\' color=\'#FF0000\' size=\"4\">（29.41.11.23.01.13.20.44）</td>");
+document.writeln("		<font face=\'微软雅黑\' color=\'#FF0000\' size=\"4\">（29.41.11.23.01.13.<span style='background-color: #FFFF00\'>20</span>.44）</td>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
 document.writeln("		<font face=\'微软雅黑\'>开:T00</font></td>");
 document.writeln("		</tr>");
@@ -68,7 +68,7 @@ document.writeln("		<b style=\'padding: 0px; margin: 0px; word-wrap: break-word;
 document.writeln("		<font face=\'微软雅黑\' style=\'word-wrap: break-word; margin: 0px; padding: 0px\'>");
 document.writeln("		248期</font></b></td>");
 document.writeln("		<td  height=\'11\' align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\'>");
-document.writeln("		<font face=\'微软雅黑\'>开:T00</font></td>");
+document.writeln("		<font face=\'微软雅黑\'>开:猪20</font></td>");
 document.writeln("		</tr>");
 document.writeln("	<tr>");
 document.writeln("		<td align=\'center\' bgcolor=\'#FFFFFF\' width=\'10%\' style=\'height: 26px\'>");
