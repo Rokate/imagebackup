@@ -40,13 +40,14 @@ document.writeln("	<table border=\'1\' width=\'100%\' cellpadding=\'0\'cellspaci
 document.writeln("		");
 document.writeln("");
 
-
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("			<td align=\'center\' height=42><b>");
-document.writeln("			<font style=\'font-size: 12pt\'>253期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(蛇26-狗33-猴35-马13-羊24-鸡34)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开？00</font></b></td>");
+document.writeln("			<font style=\'font-size: 12pt\'>254期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(兔28-鼠31-龙27-虎29-牛18-蛇02)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开？00</font></b></td>");
 document.writeln("</tr>");
 document.writeln("");
+
+
 
 
 
