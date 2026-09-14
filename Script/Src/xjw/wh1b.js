@@ -278,57 +278,6 @@ document.writeln("");
 
 
 
-document.writeln("	<!--gavc-->										");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
-document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">231期 网红一波<font color=\"#FF0000\">【绿波】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【绿波<span style='background-color: #FFFF00\'>蓝波</span>】</font>开猪20</span></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--结束-->	");
-document.writeln("");
-
-
-
-
-document.writeln("	<!--gavc-->										");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
-document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">230期 网红一波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>绿波</span>】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>绿波</span>红波】</font>开兔16</span></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--结束-->	");
-document.writeln("");
-
-
-
-
-
-document.writeln("	<!--gavc-->										");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
-document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">228期 网红一波<font color=\"#FF0000\">【绿波】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【绿波<span style='background-color: #FFFF00\'>红波</span>】</font>开猴23</span></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--结束-->	");
-document.writeln("");
-
-
-
-document.writeln("	<!--gavc-->										");
-document.writeln("	<tr>");
-document.writeln("		<td bgcolor=\"#FFFFFF\" height=\"38\" align=\"center\"> <b>");
-document.writeln("		");
-document.writeln("<span style=\"font-size: 16pt\">227期 网红一波<font color=\"#FF0000\">【绿波】</font><BR>");
-document.writeln("网红双波<font color=\"#FF0000\">【<span style='background-color: #FFFF00\'>绿波</span>红波】</font>开兔16</span></td>");
-document.writeln("	</tr>");
-document.writeln("	<!--结束-->	");
-document.writeln(""); 
-
-
-
 
 
 
