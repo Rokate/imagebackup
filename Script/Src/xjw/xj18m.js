@@ -148,30 +148,6 @@ document.writeln("	");
 
 
 
-
-document.writeln("  <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=38 >");
-document.writeln("		<p align=\'left\'>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<b>");
-document.writeln("");
-document.writeln("		<font color=\"#0000FF\">270期【玄机特码诗】猜透必中开（鼠19）</font><br>");
-document.writeln("①解特九肖：狗蛇羊鸡<span style='background-color: #FFFF00\'>鼠</span>猴龙猪牛 <br>");
-document.writeln("②解特五肖：狗蛇羊鸡<span style='background-color: #FFFF00\'>鼠</span><br>");
-document.writeln("③解特18码：33.45.02.14.36.48.10.22.<span style='background-color: #FFFF00\'>19</span>.31.11.23.03.15.20.32.18.30</b></font></p></td>");
-document.writeln("    </tr>     ");
-document.writeln("     <!--结束-->");
-document.writeln("	");
-document.writeln("	");
-
-
-
-
-
-
-
 document.writeln("  <!--开始-->  ");
 document.writeln("    	<tr>");
 document.writeln("      <td height=38 >");
