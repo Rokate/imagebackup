@@ -105,24 +105,6 @@ document.writeln("	");
 
 
 
-document.writeln("  <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=38 >");
-document.writeln("		<p align=\'left\'>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<b>");
-document.writeln("");
-document.writeln("		<font color=\"#0000FF\">277期【玄机特码诗】猜透必中开（猴11）</font><br>");
-document.writeln("①解特九肖：兔牛狗<span style='background-color: #FFFF00\'>猴</span>马龙猪鼠虎<br>");
-document.writeln("②解特五肖：兔牛狗<span style='background-color: #FFFF00\'>猴</span>马<br>");
-document.writeln("③解特18码：04.16.18.30.21.33.23.35.13.25.27.39.20.32.19.31.05.41</b></font></p></td>");
-document.writeln("    </tr>     ");
-document.writeln("     <!--结束-->");
-document.writeln("	");
-document.writeln("	");
-
-
 
 
 
