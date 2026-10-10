@@ -41,70 +41,13 @@ document.writeln("		");
 document.writeln("");
 
 
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("			<td align=\'center\' height=42><b>");
-document.writeln("			<font style=\'font-size: 12pt\'>283期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(鼠31-蛇26-马25-牛30-虎29-猴35)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开？00</font></b></td>");
-document.writeln("</tr>");
-document.writeln("");
-
-
-
-
 
 document.writeln("");
 document.writeln("<tr>");
 document.writeln("			<td align=\'center\' height=42><b>");
-document.writeln("			<font style=\'font-size: 12pt\'>280期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(<span style='background-color: #FFFF00\'>龙</span>27-鸡22-羊36-猪20-狗33-鼠31)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开龙15</font></b></td>");
+document.writeln("			<font style=\'font-size: 12pt\'>284期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(羊24-猴35-牛30-龙27-马13-鼠31)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开？00</font></b></td>");
 document.writeln("</tr>");
 document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("			<td align=\'center\' height=42><b>");
-document.writeln("			<font style=\'font-size: 12pt\'>279期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(狗33-牛24-<span style='background-color: #FFFF00\'>鸡</span>22-虎29-猴35-羊12)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开鸡10</font></b></td>");
-document.writeln("</tr>");
-document.writeln("");
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("			<td align=\'center\' height=42><b>");
-document.writeln("			<font style=\'font-size: 12pt\'>278期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(<span style='background-color: #FFFF00\'>蛇</span>26-兔16-猪32-鸡34-龙27-牛30)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开蛇02</font></b></td>");
-document.writeln("</tr>");
-document.writeln("");
-
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("			<td align=\'center\' height=42><b>");
-document.writeln("			<font style=\'font-size: 12pt\'>275期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(牛18-龙27-狗21-鸡22-马37-<span style='background-color: #FFFF00\'>虎17</span>)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开虎17</font></b></td>");
-document.writeln("</tr>");
-document.writeln("");
-
-
-
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("			<td align=\'center\' height=42><b>");
-document.writeln("			<font style=\'font-size: 12pt\'>274期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(羊24-鼠31-蛇02-牛30-猪32-<span style='background-color: #FFFF00\'>狗33</span>)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开狗33</font></b></td>");
-document.writeln("</tr>");
-document.writeln("");
-
-
-
-
-document.writeln("");
-document.writeln("<tr>");
-document.writeln("			<td align=\'center\' height=42><b>");
-document.writeln("			<font style=\'font-size: 12pt\'>273期</font><font color=\'#0000FF\' style=\'font-size: 12pt\'>(马25-羊24-牛18-<span style='background-color: #FFFF00\'>虎</span>41-龙27-猪20)</font><font color=\'#FF0000\' style=\'font-size: 12pt\'>开虎05</font></b></td>");
-document.writeln("</tr>");
-document.writeln("");
-
 
 
 
