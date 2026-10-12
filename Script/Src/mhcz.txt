@@ -185,7 +185,7 @@ document.writeln("<font color=\'#008000\' size=\'4\'>");
 document.writeln("<font color=\'#FF00FF\' size=\'4\'><span style=\'box-sizing:border-box; \'>");
 document.writeln("综合特肖：龙牛鸡蛇虎猴鼠猪狗<br>综合六肖：龙牛鸡蛇虎猴<br>综合三肖：龙牛鸡<br>");
 document.writeln("综合一肖：龙<br>");
-document.writeln("综合特码：18.30.06.30.10.22.02.38.05.41.11.23.31.43.08.20.21.45</span></font></font></b></font></tr>");
+document.writeln("综合特码：03.15.30.06.30.10.22.02.38.05.41.11.23.31.43.08.20.21.45</span></font></font></b></font></tr>");
 document.writeln("<!--网址开始-->");
 
 
