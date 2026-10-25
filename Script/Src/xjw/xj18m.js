@@ -182,25 +182,6 @@ document.writeln("	");
 
 
 
-document.writeln("  <!--开始-->  ");
-document.writeln("    	<tr>");
-document.writeln("      <td height=38 >");
-document.writeln("		<p align=\'left\'>");
-document.writeln("");
-document.writeln("		<font face=\'微软雅黑\'>");
-document.writeln("		<b>");
-document.writeln("");
-document.writeln("		<font color=\"#0000FF\">291期【玄机特码诗】猜透必中开（虎17）</font><br>");
-document.writeln("①解特九肖：猴马猪<span style='background-color: #FFFF00\'>虎</span>鼠羊龙牛兔<br>");
-document.writeln("②解特五肖：猴马猪<span style='background-color: #FFFF00\'>虎</span>鼠<br>");
-document.writeln("③解特18码：11.35.25.49.20.32.<span style='background-color: #FFFF00\'>17</span>.29.19.31.24.36.27.39.30.42.04.16</b></font></p></td>");
-document.writeln("    </tr>     ");
-document.writeln("     <!--结束-->");
-document.writeln("	");
-document.writeln("	");
-
-
-
 
 
 document.writeln("  <!--开始-->  ");
