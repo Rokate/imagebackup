@@ -137,7 +137,7 @@ async def XJW():
         f"{xjwurl}/chajian/pt2m.js",
         f"{xjwurl}/chajian/4z5bz.js",
         f"{xjwurl}/chajian/2qpt.js",
-        f"{xjwurl}/chajian/sq4z.js"",
+        f"{xjwurl}/chajian/sq4z.js",
         f"{xjwurl}/chajian/yzjtm.js",
         f"{xjwurl}/chajian/6x.js",
         f"{xjwurl}/chajian/2zj.js",
